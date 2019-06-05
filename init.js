@@ -1,3 +1,10 @@
+/**
+ * Script d'initialisation d'un programme trimestriel
+ * Nécessite l'existence d'un fichier de configuration "./config/PROG{idProg}.json"
+ * Crée un répertoire de données (p. ex. "PROG61 Septembre-novembre 2019")  localement et sur constellation2
+ * (les deux emplacements sont nécessaires car on n'y mettra pas les mêmes fichiers)
+ */
+
 const fs = require("fs");
 const _ = require("lodash/fp");
 const helpers = require("./lib/helpers.js");
@@ -10,10 +17,7 @@ const mkdir = promisify(fs.mkdir);
 
 const glob = promisify(require("glob"));
 
-const pathToData = {
-  local: "./data/",
-  remote: "//constellation2/celluleweb/publications/"
-};
+const pathToData = require("./lib/config.js").pathToData;
 
 let progConfig = {};
 let progFullCode = "";
@@ -27,8 +31,9 @@ try {
 
 (async () => {
   try {
-    progConfig = await helpers.readFileAsJson(`./config/PROG${idProg}.json`);
-    progFullCode = `PROG${idProg} ${!_.isUndefined(progConfig.titre) ? progConfig.titre.toString() : ""}` // Code de la programmation, eg. "PROG60 Juin-juillet 2019"
+    progConfig = await helpers.fetchProgConfig(idProg);
+    progFullCode = helpers.getFullCode.prog(progConfig); // Code de la programmation, p. ex. ["PROG60", "Juin-juillet 2019"]
+    progFullCode = progFullCode.join(" ");
   } catch (e) {
     console.log(e);
   }
@@ -48,18 +53,18 @@ try {
   })(pathToData);
 
   // TEST: identification du répertoire d'après son seul idProg (erreur s'il n'y en a pas exactement 1).
-  fp.forEach(async (p) => {
-    try {
-      let dirs = await glob(`/PROG${idProg}*`, {
-        root: p
-      });
+  // fp.forEach(async (p) => {
+  //   try {
+  //     let dirs = await glob(`/PROG${idProg}*`, {
+  //       root: p
+  //     });
 
-      if (dirs.length === 0) throw new Error(`Erreur : Aucun répertoire ne correspond au pattern "PROG${idProg}".`);
-      if (dirs.length > 1) throw new Error(`Erreur : Plusieurs répertoires correspondent au pattern "PROG${idProg}".`);
-      console.log(`OK : Un répertoire correspond au pattern "PROG${idProg}" : ${dirs[0]}.`);
-    } catch (e) {
-      console.log(e.message);
-    }
-  })(pathToData);
+  //     if (dirs.length === 0) throw new Error(`Erreur : Aucun répertoire ne correspond au pattern "PROG${idProg}".`);
+  //     if (dirs.length > 1) throw new Error(`Erreur : Plusieurs répertoires correspondent au pattern "PROG${idProg}".`);
+  //     console.log(`OK : Un répertoire correspond au pattern "PROG${idProg}" : ${dirs[0]}.`);
+  //   } catch (e) {
+  //     console.log(e.message);
+  //   }
+  // })(pathToData);
 
 })();

@@ -3,5 +3,124 @@
   "titre": "Septembre-novembre 2019",
   "dateFrom": "",
   "dateTo": "",
-  "cycles": []
+  "cycles": [{
+      "idCycleProg": 229,
+      "titreCycle": "Nicholas Ray",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1020],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 328,
+      "titreCycle": "Vampires au cinéma",
+      "sousCycles": [{
+          "titre": "Les adaptations du _Dracula_ de Bram Stoker",
+          "cats": [2021],
+          "tri": 1
+        },
+        {
+          "titre": "Vampires d'auteurs",
+          "cats": [1535],
+          "tri": 1
+        },
+        {
+          "titre": "Cinéma bis",
+          "cats": [2020],
+          "tri": 1
+        }
+      ]
+    },
+    {
+      "idCycleProg": 337,
+      "titreCycle": "Sterling Hayden",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1556],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 341,
+      "titreCycle": "James Gray",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1577],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 346,
+      "titreCycle": "Georg Wilhelm Pabst",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1585],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 351,
+      "titreCycle": "Guy Debord",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1590],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 392,
+      "titreCycle": "Robert Kramer",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1760],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 394,
+      "titreCycle": "American Fringe 4",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1762],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 395,
+      "titreCycle": "Mauro Bolognini",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1763],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 438,
+      "titreCycle": "Philippe Garrel",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1993],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 439,
+      "titreCycle": "Kira Mouratova",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2013],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 441,
+      "titreCycle": "Alejandro Jodorowsky",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2022],
+        "tri": 1
+      }]
+    }
+  ]
 }
