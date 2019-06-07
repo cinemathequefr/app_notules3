@@ -11,13 +11,10 @@ const helpers = require("./lib/helpers.js");
 const {
   promisify
 } = require("util"); // https://stackoverflow.com/questions/40593875/using-filesystem-in-node-js-with-async-await
-
 const fp = _.noConflict();
 const mkdir = promisify(fs.mkdir);
-
-const glob = promisify(require("glob"));
-
-const pathToData = require("./lib/config.js").pathToData;
+const pathData = require("./lib/config.js").pathData;
+// const glob = promisify(require("glob"));
 
 let progConfig = {};
 let progFullCode = "";
@@ -50,7 +47,7 @@ try {
         console.log(e);
       }
     }
-  })(pathToData);
+  })(pathData);
 
   // TEST: identification du répertoire d'après son seul idProg (erreur s'il n'y en a pas exactement 1).
   // fp.forEach(async (p) => {
@@ -65,6 +62,6 @@ try {
   //   } catch (e) {
   //     console.log(e.message);
   //   }
-  // })(pathToData);
+  // })(pathData);
 
 })();

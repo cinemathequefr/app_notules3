@@ -121,6 +121,15 @@
         "cats": [2022],
         "tri": 1
       }]
+    },
+    {
+      "idCycleProg": 447,
+      "titreCycle": "Jean-Pierre Kalfon",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2029],
+        "tri": 1
+      }]
     }
   ]
 }

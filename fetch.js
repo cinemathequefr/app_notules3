@@ -5,7 +5,7 @@
 const fs = require("fs");
 const _ = require("lodash");
 const database = require("./lib/database");
-const config = require("./lib/config");
+const config = require("./lib/config.js");
 const seances = require("./lib/query/seances.js");
 const films = require("./lib/query/films.js");
 // const confs = require("./lib/query/confs.js");
@@ -15,7 +15,7 @@ const {
 } = require("util"); // https://stackoverflow.com/questions/40593875/using-filesystem-in-node-js-with-async-await
 
 const writeFile = promisify(fs.writeFile);
-const copyFile = promisify(fs.copyFile);
+// const copyFile = promisify(fs.copyFile);
 
 // Décode les arguments passés de la forme : -p 55 -c 400 -f
 try {
@@ -31,17 +31,13 @@ try {
   console.error("Erreur d'arguments. Les arguments attendus sont de la forme : -p <id programme> -c <id cycle>.")
 }
 
-
 // TODO: vérification de l'existence du répertoire du programme (sinon erreur et suggérer d'exécuter le script init)
-
-
-// const timestamp = helpers.timestamp();
 
 (async function () {
   let progConfig = await helpers.fetchProgConfig(idProg);
-  let progDirectoryName = helpers.getFullCode.prog(progConfig).join(" ");
-  let cycleFullCode = helpers.getFullCode.cycle(progConfig, idCycle);
   let cycleConfig = helpers.cycleConfig(progConfig, idCycle);
+  let progDirectoryName = helpers.getFullCode.prog(progConfig).join(" "); // Nom du répertoire du programme
+  let cycleFullCode = helpers.getFullCode.cycle(progConfig, idCycle);
 
   try {
 
@@ -57,7 +53,7 @@ try {
       console.log(`Films : ${_.map(f).length} items.`);
 
       await writeFile(
-        `${config.pathToData.local}${progDirectoryName}/${cycleFullCode[0]}_FILMS ${cycleFullCode[1]}.json`,
+        `${config.pathData.local}${progDirectoryName}/${cycleFullCode[0]}_FILMS ${cycleFullCode[1]}.json`,
         JSON.stringify(f, null, 2),
         "utf8"
       );
@@ -82,22 +78,11 @@ try {
       console.log(`Séances : ${s.length} items.`);
 
       await writeFile(
-        `${config.pathToData.local}${progDirectoryName}/${cycleFullCode[0]}_SEANCES ${cycleFullCode[1]}.json`,
+        `${config.pathData.local}${progDirectoryName}/${cycleFullCode[0]}_SEANCES ${cycleFullCode[1]}.json`,
         JSON.stringify(s, null, 2),
         "utf8"
       );
     }
-
-
-    // Séances
-    // let s = await seances(db, cycleConfig);
-    // console.log(`Séances : ${s.length} items.`);
-
-    // await writeFile(
-    //   `data/cycles/PROG${idProg}_CYCL${idCycle}_SEANCES.json`,
-    //   JSON.stringify(s, null, 2),
-    //   "utf8"
-    // );
 
     database.detach(db);
   } catch (e) {
