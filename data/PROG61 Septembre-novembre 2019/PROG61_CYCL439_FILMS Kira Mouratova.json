@@ -3,10 +3,10 @@
     "titre": "Accordeur",
     "art": "L'",
     "titreVo": "Nastroyshchik",
+    "annee": 2004,
     "idFilm": 141922,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 2004,
     "pays": "Russie-Ukraine",
     "textes": [
       {
@@ -24,10 +24,10 @@
     "titre": "Attestation",
     "art": "L'",
     "titreVo": "Spravka",
+    "annee": 2004,
     "idFilm": 141923,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 2004,
     "pays": "Russie",
     "textes": [
       {
@@ -44,10 +44,10 @@
   {
     "titre": "Au bord du ravin abrupt",
     "titreVo": "U krutogo yara",
+    "annee": 1962,
     "idFilm": 141915,
     "ageMinimal": null,
     "realisateurs": "Alexandre Mouratov, Kira Mouratova",
-    "annee": 1962,
     "pays": "URSS",
     "textes": [
       {
@@ -63,10 +63,10 @@
   {
     "titre": "Brèves rencontres",
     "titreVo": "Korotkie vstretchi",
+    "annee": 1988,
     "idFilm": 41470,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 1967,
     "pays": "URSS",
     "textes": [
       {
@@ -83,10 +83,10 @@
   {
     "titre": "Changement de destinée",
     "titreVo": "Peremena uchasti",
+    "annee": 1984,
     "idFilm": 58316,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 1984,
     "pays": "URSS",
     "textes": [
       {
@@ -105,10 +105,10 @@
   {
     "titre": "Citoyens de deuxième classe",
     "titreVo": "Vtorostepennye lyudi",
+    "annee": 2000,
     "idFilm": 141921,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 2000,
     "pays": "Ukraine",
     "textes": [
       {
@@ -125,10 +125,10 @@
   {
     "titre": "Deux en un",
     "titreVo": "Dva v odnom",
+    "annee": 2006,
     "idFilm": 141924,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 2006,
     "pays": "Ukraine-Russie",
     "textes": [
       {
@@ -145,15 +145,15 @@
   {
     "titre": "En découvrant le vaste monde",
     "titreVo": "Poznavaya belyy svet",
+    "annee": 1979,
     "idFilm": 141918,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 1979,
     "pays": "URSS",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La relation qu'entretiennent Nikolaï et Luba est complexe et agitée. Tous deux peinent à s'accorder sur la nature exacte de leur liaison. Lorsque Luba fait la rencontre de Mikhaïl, un triangle amoureux se forme."
+        "texte": "La relation qu'entretiennent Nikolaï et Luba est complexe et agitée. Tous deux peinent en effet à s'accorder sur la nature exacte de leur liaison. Lorsque Luba fait la rencontre de Mikhaïl, un triangle amoureux se forme."
       }
     ],
     "generique": [
@@ -166,10 +166,10 @@
     "titre": "Éternel retour",
     "art": "L'",
     "titreVo": "Vechnoe vozvrashchenie",
+    "annee": 2012,
     "idFilm": 141927,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 2012,
     "pays": "Ukraine",
     "textes": [
       {
@@ -186,10 +186,10 @@
   {
     "titre": "Lettre à l'Amérique",
     "titreVo": "Pismo v Ameriku",
+    "annee": 1999,
     "idFilm": 141920,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 1999,
     "pays": "Ukraine",
     "textes": [
       {
@@ -207,10 +207,10 @@
     "titre": "Longs adieux",
     "art": "Les",
     "titreVo": "Dolgie provody",
+    "annee": 1988,
     "idFilm": 40327,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 1971,
     "pays": "URSS",
     "textes": [
       {
@@ -227,10 +227,10 @@
   {
     "titre": "Mélodie pour orgue de barbarie",
     "titreVo": "Melodiya dlya sharmanki",
+    "annee": 2009,
     "idFilm": 141926,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 2009,
     "pays": "Ukraine",
     "textes": [
       {
@@ -248,10 +248,10 @@
     "titre": "Milicien amoureux",
     "art": "Le",
     "titreVo": "Chuvstvitelnyy militsioner",
+    "annee": 1993,
     "idFilm": 55128,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 1992,
     "pays": "Ukraine-France",
     "textes": [
       {
@@ -268,10 +268,10 @@
   {
     "titre": "Motifs tchékhoviens",
     "titreVo": "Chekhovskie motivy",
+    "annee": 2001,
     "idFilm": 119920,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 2001,
     "pays": "Ukraine",
     "textes": [
       {
@@ -290,10 +290,10 @@
   {
     "titre": "Notre pain honnête",
     "titreVo": "Nash chestnyy khleb",
+    "annee": 1964,
     "idFilm": 141916,
     "ageMinimal": null,
     "realisateurs": "Alexandre Mouratov, Kira Mouratova",
-    "annee": 1964,
     "pays": "URSS",
     "textes": [
       {
@@ -308,10 +308,10 @@
   {
     "titre": "Parmi les pierres grises",
     "titreVo": "Sredi seryh kamnej",
+    "annee": 1983,
     "idFilm": 75042,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 1983,
     "pays": "URSS",
     "textes": [
       {
@@ -329,10 +329,10 @@
     "titre": "Petites passions",
     "art": "Les",
     "titreVo": "Uvlecheniya",
+    "annee": 1993,
     "idFilm": 141919,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 1993,
     "pays": "Russie",
     "textes": [
       {
@@ -349,10 +349,10 @@
   {
     "titre": "Pluie de printemps",
     "titreVo": "Vesenniy dozhd",
+    "annee": 1958,
     "idFilm": 141914,
     "ageMinimal": 0,
     "realisateurs": "Alexandre Mouratov, Kira Mouratova",
-    "annee": 1958,
     "pays": "URSS",
     "textes": [
       {
@@ -365,10 +365,10 @@
     "titre": "Poupée",
     "art": "La",
     "titreVo": "Kukla",
+    "annee": 2007,
     "idFilm": 141925,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 2007,
     "pays": "Ukraine",
     "textes": [
       {
@@ -385,10 +385,10 @@
   {
     "titre": "Russia",
     "titreVo": "",
+    "annee": 1972,
     "idFilm": 141917,
     "ageMinimal": null,
     "realisateurs": "Theodore Holcomb, Kira Mouratova",
-    "annee": 1972,
     "pays": "URSS",
     "textes": [
       {
@@ -401,10 +401,10 @@
     "titre": "Syndrome asthénique",
     "art": "Le",
     "titreVo": "Astenitchevski sindrom",
+    "annee": 1991,
     "idFilm": 41148,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 1989,
     "pays": "URSS",
     "textes": [
       {
@@ -421,10 +421,10 @@
   {
     "titre": "Trois histoires",
     "titreVo": "Tri istorii",
+    "annee": 1996,
     "idFilm": 118618,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
-    "annee": 1996,
     "pays": "Russie-Ukraine",
     "textes": [
       {

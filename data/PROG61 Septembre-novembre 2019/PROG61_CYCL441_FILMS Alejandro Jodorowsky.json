@@ -3,10 +3,10 @@
     "titre": "Danza de la realidad",
     "art": "La",
     "titreVo": "",
+    "annee": 2013,
     "idFilm": 120100,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
-    "annee": 2012,
     "pays": "France",
     "textes": [
       {
@@ -22,10 +22,10 @@
   {
     "titre": "Fando y lis",
     "titreVo": "",
+    "annee": 1968,
     "idFilm": 56888,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
-    "annee": 1968,
     "pays": "Mexique",
     "textes": [
       {
@@ -41,10 +41,10 @@
   {
     "titre": "Jodorowsky's Dune",
     "titreVo": "",
+    "annee": 2016,
     "idFilm": 120081,
     "ageMinimal": null,
     "realisateurs": "Franck Pavich",
-    "annee": 2012,
     "pays": "France",
     "textes": [
       {
@@ -58,10 +58,10 @@
     "art": "La",
     "titreVo": "Holy Mountain",
     "artVo": "The",
+    "annee": 1973,
     "idFilm": 60690,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
-    "annee": 1973,
     "pays": "États-Unis-Mexique",
     "textes": [
       {
@@ -73,10 +73,10 @@
   {
     "titre": "Poesía sin fin",
     "titreVo": "",
+    "annee": 2016,
     "idFilm": 131749,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
-    "annee": 2015,
     "pays": "Chili-Japon-France",
     "textes": [
       {
@@ -92,10 +92,10 @@
   {
     "titre": "Santa sangre",
     "titreVo": "",
+    "annee": 1993,
     "idFilm": 44011,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
-    "annee": 1989,
     "pays": "Italie-Mexique",
     "textes": [
       {
@@ -112,10 +112,10 @@
     "titre": "Topo",
     "art": "El",
     "titreVo": "",
+    "annee": 1971,
     "idFilm": 43971,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
-    "annee": 1971,
     "pays": "Mexique",
     "textes": [
       {
@@ -132,10 +132,10 @@
   {
     "titre": "Tusk",
     "titreVo": "",
+    "annee": 1980,
     "idFilm": 49070,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
-    "annee": 1979,
     "pays": "France",
     "textes": [
       {
@@ -149,10 +149,10 @@
     "art": "Le",
     "titreVo": "Rainbow Thief",
     "artVo": "The",
+    "annee": 1994,
     "idFilm": 59096,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
-    "annee": 1991,
     "pays": "États-Unis",
     "textes": [
       {
