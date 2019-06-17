@@ -1,0 +1,264 @@
+[
+  {
+    "titre": "Aimée",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 103618,
+    "ageMinimal": null,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 2006,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Seul et unique documentaire de la filmographie de Desplechin, _L'Aimée_ est tourné dans sa ville natale, à Roubaix. La maison familiale, sur le point d'être vendue, est le théâtre d'adieux à l'occasion desquels le cinéaste retrouve son père, qui raconte à son fils l'histoire de sa grand-mère, Thérèse..."
+      }
+    ],
+    "generique": [
+      "Robert Desplechin",
+      "Arnaud Desplechin",
+      "Fabrice Desplechin"
+    ]
+  },
+  {
+    "titre": "Comment je me suis disputé... (Ma vie sexuelle)",
+    "titreVo": "",
+    "idFilm": 59965,
+    "ageMinimal": null,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 1994,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Paul Dédalus, trentenaire parisien et maître-assistant à Nanterre, essaie de finir sa thèse et tente de se séparer de sa compagne Esther avec laquelle il vit une relation tumultueuse depuis dix ans."
+      }
+    ],
+    "generique": [
+      "Mathieu Amalric",
+      "Thibault de Montalembert",
+      "Emmanuelle Devos",
+      "Marianne Denicourt"
+    ]
+  },
+  {
+    "titre": "Esther Kahn",
+    "titreVo": "",
+    "idFilm": 68647,
+    "ageMinimal": null,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 1998,
+    "pays": "France-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Timide et rêveuse, la jeune Esther Kahn vit dans le quartier juif de Londres à la fin du XIXème siècle. Travaillant dans l'atelier de couture familial, elle va de temps à autre au théâtre. Un jour, elle est recrutée comme figurante. Ses premiers pas sur les planches sont une révélation. Un vieil acteur lui propose de la former. Mais Esther n'a aucune expérience des sentiments qu'elle est censée exprimer sur scène..."
+      }
+    ],
+    "generique": [
+      "Summer Phoenix",
+      "Ian Holm",
+      "Emmanuelle Devos"
+    ],
+    "adaptation": "D'après le roman _Esther Kahn_ d'Arthur Symons."
+  },
+  {
+    "titre": "Fantômes d'Ismaël",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 135952,
+    "ageMinimal": null,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 2016,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la veille du tournage de son nouveau film, la vie d'un cinéaste est chamboulée par la réapparition d'un amour disparu..."
+      }
+    ],
+    "generique": [
+      "Mathieu Amalric",
+      "Marion Cotillard",
+      "Charlotte Gainsbourg"
+    ]
+  },
+  {
+    "titre": "Forêt TV",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 132705,
+    "ageMinimal": null,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 2014,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans la Russie du XIXème siècle, une riche veuve vieillissante et à cheval sur la morale s'éprend pourtant d'un jeune aristocrate sans le sou. Elle va céder les bois de son domaine quand l'arrivée d'un neveu, héritier de la propriété et acteur de profession, vient contrarier ses plans."
+      }
+    ],
+    "generique": [
+      "Michel Vuillermoz",
+      "Denis Podalydès"
+    ]
+  },
+  {
+    "titre": "Jimmy P. (Psychothérapie d'un Indien des plaines)",
+    "titreVo": "Jimmy P.",
+    "idFilm": 119934,
+    "ageMinimal": 0,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 2012,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au lendemain de la Seconde Guerre Mondiale, Jimmy Picard, un Indien Blackfoot ayant combattu en France, est admis à l'hôpital militaire de Topeka, au Kansas, un établissement spécialisé dans les maladies du cerveau. Jimmy Picard souffre de nombreux troubles : vertiges, cécité temporaire, perte d'audition... En l'absence de causes physiologiques, le diagnostic qui s'impose est la schizophrénie."
+      }
+    ],
+    "generique": [
+      "Benicio Del Toro",
+      "Mathieu Amalric",
+      "Gina McKee"
+    ],
+    "adaptation": "D'après le livre _Psychothérapir d'un Indien des Plaines_ de Georges Devereux."
+  },
+  {
+    "titre": "Léo en jouant « Dans la compagnie des hommes »",
+    "titreVo": "",
+    "idFilm": 85681,
+    "ageMinimal": 0,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 2002,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Henri Jurrieu, puissant industriel de l'armement, annonce à la télévision l'échec d'une tentative d'OPA sur sa société. Dans le salon de sa luxueuse résidence, son fils adoptif Léonard, son administrateur Claude Doniol et son domestique noir Jonas Servun assistent à son triomphe."
+      }
+    ],
+    "generique": [
+      "Sami Bouajila",
+      "Jean-Paul Roussillon",
+      "Wladimir Yordanoff",
+      "Laszlo Szabo"
+    ],
+    "adaptation": "D'après la pièce de théâtre _La Compagnie des hommes_ d'Edward Bond."
+  },
+  {
+    "titre": "Rois et reine",
+    "titreVo": "",
+    "idFilm": 94570,
+    "ageMinimal": null,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 2003,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux histoires disjointes : d'une part le couronnement de Nora Cotterelle, sur le point de se marier, et d'autre part la déchéance d'Ismaël Vuillard, interné par erreur dans un asile psychiatrique dont il n'est pas loin de sortir en piètre état."
+      }
+    ],
+    "generique": [
+      "Emmanuelle Devos",
+      "Mathieu Amalric",
+      "Catherine Deneuve"
+    ]
+  },
+  {
+    "titre": "Roubaix, une lumière",
+    "titreVo": "",
+    "idFilm": 141999,
+    "ageMinimal": null,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À Roubaix, un soir de Noël, Daoud le chef de la police locale et Louis, fraîchement diplômé, font face au meurtre d'une vieille femme. Les voisines de la victime, deux jeunes femmes, Claude et Marie, sont arrêtées. Elles sont toxicomanes, alcooliques, amantes..."
+      }
+    ]
+  },
+  {
+    "titre": "Sentinelle",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 48083,
+    "ageMinimal": null,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 1991,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mathias découvre dans sa valise une tête humaine coupée et naturalisée. Il ne pense plus qu'à cette tête, tente de percer son mystère et s'isole totalement du monde..."
+      }
+    ],
+    "generique": [
+      "Emmanuel Salinger",
+      "Thibault de Montalembert",
+      "Jean-Louis Richard",
+      "Valérie Dréville"
+    ]
+  },
+  {
+    "titre": "Trois souvenirs de ma jeunesse",
+    "titreVo": "",
+    "idFilm": 126923,
+    "ageMinimal": null,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 2014,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Paul Dédalus, revient en France après plusieurs années d'absence, et se remémore des scènes de sa jeunesse : des souvenirs de famille de son enfance, à Roubaix, un souvenir d'adolescence lors d'un voyage en URSS, au cours duquel il donne son passeport à un jeune juif qui rêve de fuir l'empire soviétique, et son histoire d'amour, encore jeune homme, avec Esther, une lycéenne de Roubaix."
+      }
+    ]
+  },
+  {
+    "titre": "Un conte de Noël",
+    "titreVo": "",
+    "idFilm": 103548,
+    "ageMinimal": 0,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 2007,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une famille se réunit à Roubaix pendant les fêtes de Noël. Henri, le fils « mal aimé », s'avère le seul compatible pour un don de moelle osseuse susceptible de sauver sa mère."
+      }
+    ],
+    "generique": [
+      "Catherine Deneuve",
+      "Jean-Paul Roussillon",
+      "Anne Consigny",
+      "Mathieu Amalric"
+    ],
+    "adaptation": "D'après le roman _La Greffe_ de Jacques Asher et Jean-Pierre Jouet."
+  },
+  {
+    "titre": "Vie des morts",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 48084,
+    "ageMinimal": null,
+    "realisateurs": "Arnaud Desplechin",
+    "annee": 1990,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Patrick, 20 ans, a tenté de mettre fin à ses jours. Alors qu'il est plongé dans un profond coma, les quatre branches de sa famille se retrouvent dans une maison bourgeoise du nord de la France."
+      }
+    ],
+    "generique": [
+      "Thibault de Montalembert",
+      "Roch Leibovici",
+      "Marianne Denicourt"
+    ]
+  }
+]

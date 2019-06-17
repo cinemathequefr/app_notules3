@@ -1,0 +1,172 @@
+[
+  {
+    "idCategorie": 2021,
+    "idEvenement": 19743,
+    "idSeance": 31018,
+    "dateHeure": "2019-10-09T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Nosferatu le vampire",
+    "items": [
+      {
+        "idFilm": 39961,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2021,
+    "idEvenement": 19744,
+    "idSeance": 31026,
+    "dateHeure": "2019-10-10T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Nosferatu, fantôme de la nuit",
+    "items": [
+      {
+        "idFilm": 39707,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2021,
+    "idEvenement": 19741,
+    "idSeance": 31027,
+    "dateHeure": "2019-10-10T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Dracula",
+    "items": [
+      {
+        "idFilm": 30928,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2021,
+    "idEvenement": 19737,
+    "idSeance": 31038,
+    "dateHeure": "2019-10-11T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Dracula",
+    "items": [
+      {
+        "idFilm": 29919,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2021,
+    "idEvenement": 19739,
+    "idSeance": 31033,
+    "dateHeure": "2019-10-11T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Nuits de Dracula (Les)",
+    "items": [
+      {
+        "idFilm": 87102,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2021,
+    "idEvenement": 19740,
+    "idSeance": 31032,
+    "dateHeure": "2019-10-12T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Cauchemar de Dracula (Le)",
+    "items": [
+      {
+        "idFilm": 45668,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2021,
+    "idEvenement": 19736,
+    "idSeance": 31039,
+    "dateHeure": "2019-10-12T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Dracula",
+    "items": [
+      {
+        "idFilm": 57748,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2021,
+    "idEvenement": 19735,
+    "idSeance": 31040,
+    "dateHeure": "2019-10-12T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Dracula 3D",
+    "items": [
+      {
+        "idFilm": 116310,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2021,
+    "idEvenement": 19742,
+    "idSeance": 31037,
+    "dateHeure": "2019-10-13T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Dracula",
+    "items": [
+      {
+        "idFilm": 117114,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1535,
+    "idEvenement": 19702,
+    "idSeance": 31076,
+    "dateHeure": "2019-10-18T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Aux frontières de l'aube",
+    "items": [
+      {
+        "idFilm": 30405,
+        "ordre": 1
+      }
+    ]
+  }
+]

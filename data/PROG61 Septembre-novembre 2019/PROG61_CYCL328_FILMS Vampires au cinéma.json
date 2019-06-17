@@ -1,0 +1,585 @@
+[
+  {
+    "titre": "Addiction",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 60083,
+    "ageMinimal": null,
+    "realisateurs": "Abel Ferrara",
+    "annee": 1995,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Aux frontières de l'aube",
+    "titreVo": "Near Dark",
+    "idFilm": 30405,
+    "ageMinimal": null,
+    "realisateurs": "Kathryn Bigelow",
+    "annee": 1987,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Bal des vampires",
+    "art": "Le",
+    "titreVo": "Fearless Vampire Killer's or Pardon Me, but Your Teeth Are in My Neck = Dance of the Vampires",
+    "artVo": "The",
+    "idFilm": 42588,
+    "ageMinimal": 10,
+    "realisateurs": "Roman Polanski",
+    "annee": 1966,
+    "pays": "États-Unis-Grande-Bretagne",
+    "generique": [
+      "Roman Polanski",
+      "Sharon Tate",
+      "Jack MacGowran"
+    ]
+  },
+  {
+    "titre": "Blacula, le vampire noir",
+    "titreVo": "Blacula",
+    "idFilm": 36188,
+    "ageMinimal": null,
+    "realisateurs": "William Crain",
+    "annee": 1972,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Cauchemar de Dracula",
+    "art": "Le",
+    "titreVo": "Dracula = Horror of Dracula",
+    "idFilm": 45668,
+    "ageMinimal": null,
+    "realisateurs": "Terence Fisher",
+    "annee": 1958,
+    "pays": "Grande-Bretagne"
+  },
+  {
+    "titre": "Comtesse",
+    "art": "La",
+    "titreVo": "Countess",
+    "artVo": "The",
+    "idFilm": 110886,
+    "ageMinimal": null,
+    "realisateurs": "Julie Delpy",
+    "annee": 2008,
+    "pays": "Allemagne-France",
+    "generique": [
+      "Julie Delpy",
+      "Daniel Brühl",
+      "William Hurt"
+    ]
+  },
+  {
+    "titre": "Crypte du vampire",
+    "art": "La",
+    "titreVo": "Cripta e l'incubo",
+    "artVo": "La",
+    "idFilm": 59103,
+    "ageMinimal": null,
+    "realisateurs": "Thomas, pseudonyme de Camillo Mastrocinque Miller",
+    "annee": 1963,
+    "pays": "Italie-Espagne",
+    "generique": [
+      "Christopher Lee",
+      "José Campos",
+      "Adriana Ambesi",
+      "Carla Calò"
+    ],
+    "adaptation": "D'après le roman _Carmilla_ de Sheridan Le Fanu."
+  },
+  {
+    "titre": "Dark Shadows",
+    "titreVo": "",
+    "idFilm": 115762,
+    "ageMinimal": null,
+    "realisateurs": "Tim Burton",
+    "annee": 2011,
+    "pays": "États-Unis",
+    "adaptation": "D'après la série télévisée _Dark Shadows_ de Dan Curtis."
+  },
+  {
+    "titre": "Deux orphelines vampires",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 38622,
+    "ageMinimal": null,
+    "realisateurs": "Jean Rollin",
+    "annee": 1995,
+    "pays": "France"
+  },
+  {
+    "titre": "Dracula",
+    "titreVo": "",
+    "idFilm": 29919,
+    "ageMinimal": null,
+    "realisateurs": "John Badham",
+    "annee": 1978,
+    "pays": "États-Unis",
+    "adaptation": "D'après la pièce _Dracula_ de Hamilton Deane et John L. Balderston.  \nD'après le roman _Dracula_ de Bram Stoker."
+  },
+  {
+    "titre": "Dracula",
+    "titreVo": "",
+    "idFilm": 30928,
+    "ageMinimal": null,
+    "realisateurs": "Tod Browning",
+    "annee": 1931,
+    "pays": "États-Unis",
+    "generique": [
+      "Bela Lugosi",
+      "Helen Chandler",
+      "David Manners"
+    ],
+    "adaptation": "D'après la pièce _Dracula_ de Garrett Fort.  \nD'après le roman _Dracula_ de Bram Stoker."
+  },
+  {
+    "titre": "Dracula",
+    "titreVo": "Bram Stoker's Dracula",
+    "idFilm": 57748,
+    "ageMinimal": null,
+    "realisateurs": "Francis Ford Coppola",
+    "annee": 1992,
+    "pays": "États-Unis",
+    "adaptation": "D'après le roman _Dracula_ de Bram Stoker."
+  },
+  {
+    "titre": "Dracula",
+    "titreVo": "",
+    "idFilm": 117114,
+    "ageMinimal": null,
+    "realisateurs": "George Melford",
+    "annee": 1931,
+    "pays": "États-Unis",
+    "generique": [
+      "Carlos Villarías",
+      "Lupita Tovar",
+      "Barry Norton"
+    ]
+  },
+  {
+    "titre": "Dracula 3D",
+    "titreVo": "",
+    "idFilm": 116310,
+    "ageMinimal": null,
+    "realisateurs": "Dario Argento",
+    "annee": 2011,
+    "pays": "Italie-France-Espagne"
+  },
+  {
+    "titre": "Dracula 73",
+    "titreVo": "Dracula A.D. 72",
+    "idFilm": 41664,
+    "ageMinimal": null,
+    "realisateurs": "Alan Gibson",
+    "annee": 1972,
+    "pays": "Grande-Bretagne"
+  },
+  {
+    "titre": "Dracula et ses femmes vampires",
+    "titreVo": "Dracula",
+    "idFilm": 35066,
+    "ageMinimal": null,
+    "realisateurs": "Dan Curtis",
+    "annee": 1973,
+    "pays": "Grande-Bretagne"
+  },
+  {
+    "titre": "Dracula, pages tirées du journal d'une vierge",
+    "titreVo": "Dracula, Pages from a Virgin's Diary",
+    "idFilm": 87317,
+    "ageMinimal": null,
+    "realisateurs": "Guy Maddin",
+    "annee": 2002,
+    "pays": "Canada",
+    "adaptation": "D'après le ballet _Dracula_ de Mark Godden.  \nD'après le roman _Dracula_ de Bram Stoker."
+  },
+  {
+    "titre": "Dracula, prince des ténèbres",
+    "titreVo": "Dracula, Prince of Darkness",
+    "idFilm": 41405,
+    "ageMinimal": null,
+    "realisateurs": "Terence Fisher",
+    "annee": 1965,
+    "pays": "Grande-Bretagne"
+  },
+  {
+    "titre": "Dracula prisonnier de Frankenstein",
+    "titreVo": "Dracula contra el doctor Frankenstein",
+    "idFilm": 65961,
+    "ageMinimal": null,
+    "realisateurs": "Jesus Franco",
+    "annee": 1971,
+    "pays": "Espagne-France",
+    "generique": [
+      "Howard Vernon",
+      "Dennis Price",
+      "Alberto Dalbés"
+    ]
+  },
+  {
+    "titre": "Dracula, vampire sexuel",
+    "titreVo": "Guess What Happened to Count Dracula ?",
+    "idFilm": 142013,
+    "ageMinimal": null,
+    "realisateurs": "Laurence Merrick",
+    "annee": 1970,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Dracula vit toujours à Londres",
+    "titreVo": "Satanic Rites of Dracula : Dracula Is Alive",
+    "artVo": "The",
+    "idFilm": 39336,
+    "ageMinimal": null,
+    "realisateurs": "Alan Gibson",
+    "annee": 1973,
+    "pays": "Canada"
+  },
+  {
+    "titre": "Entretien avec un vampire",
+    "titreVo": "Interview with the Vampire",
+    "idFilm": 60560,
+    "ageMinimal": null,
+    "realisateurs": "Neil Jordan",
+    "annee": 1993,
+    "pays": "États-Unis",
+    "adaptation": "D'après le roman _Entretien avec un vampire_ d'Anne Rice."
+  },
+  {
+    "titre": "Fille de Dracula",
+    "art": "La",
+    "titreVo": "Filha de Dracula",
+    "artVo": "A",
+    "idFilm": 65989,
+    "ageMinimal": null,
+    "realisateurs": "Jess Franco",
+    "annee": 1971,
+    "pays": "Portugal-France"
+  },
+  {
+    "titre": "Irma Vep",
+    "titreVo": "",
+    "idFilm": 55633,
+    "ageMinimal": null,
+    "realisateurs": "Olivier Assayas",
+    "annee": 1996,
+    "pays": "France",
+    "generique": [
+      "Maggie Cheung",
+      "Jean-Pierre Léaud",
+      "Nathalie Richard"
+    ]
+  },
+  {
+    "titre": "Lac de Dracula",
+    "art": "Le",
+    "titreVo": "Noroi no yakata : Chi o sû me",
+    "idFilm": 112081,
+    "ageMinimal": null,
+    "realisateurs": "Michio Yamamoto",
+    "annee": 1971,
+    "pays": "Japon"
+  },
+  {
+    "titre": "Maîtresses de Dracula",
+    "art": "Les",
+    "titreVo": "Brides of Dracula",
+    "artVo": "The",
+    "idFilm": 45480,
+    "ageMinimal": null,
+    "realisateurs": "Terence Fisher",
+    "annee": 1960,
+    "pays": "Grande-Bretagne"
+  },
+  {
+    "titre": "Morse",
+    "titreVo": "Låt den rätte komma in",
+    "idFilm": 107022,
+    "ageMinimal": null,
+    "realisateurs": "Tomas Alfredson",
+    "annee": 2008,
+    "pays": "Suède",
+    "adaptation": "D'après le roman _Let the Right One In_ de John Ajvide Lindqvist."
+  },
+  {
+    "titre": "Nosferatu, fantôme de la nuit",
+    "titreVo": "Nosferatu, Phantom der Nacht",
+    "idFilm": 39707,
+    "ageMinimal": null,
+    "realisateurs": "Werner Herzog",
+    "annee": 1978,
+    "pays": "RFA-France",
+    "adaptation": "D'après le film _Nosferatu, le vampire_ de Friedrich Wilhelm Murnau.  \nD'après le roman _Dracula_ de Bram Stoker."
+  },
+  {
+    "titre": "Nosferatu le vampire",
+    "titreVo": "Nosferatu – Eine Symphonie des Grauens",
+    "idFilm": 39961,
+    "ageMinimal": null,
+    "realisateurs": "F.W. Murnau",
+    "annee": 1921,
+    "pays": "Allemagne",
+    "generique": [
+      "Max Schreck",
+      "Alexander Granach",
+      "Gustav von Wangenheim"
+    ],
+    "adaptation": "D'après le roman _Dracula_ de Bram Stoker."
+  },
+  {
+    "titre": "Nuits de Dracula",
+    "art": "Les",
+    "titreVo": "Conde Dracula",
+    "artVo": "El",
+    "idFilm": 87102,
+    "ageMinimal": null,
+    "realisateurs": "Jesus Franco",
+    "annee": 1969,
+    "pays": "Espagne-Italie-RFA-Grande-Bretagne-Liechtenstein",
+    "generique": [
+      "Christopher Lee",
+      "Klaus Kinski",
+      "Herbert Lom"
+    ]
+  },
+  {
+    "titre": "Only Lovers Left Alive",
+    "titreVo": "",
+    "idFilm": 119997,
+    "ageMinimal": null,
+    "realisateurs": "Jim Jarmusch",
+    "annee": 2012,
+    "pays": "Allemagne-Grande-Bretagne-France-Chypre"
+  },
+  {
+    "titre": "Prédateurs",
+    "art": "Les",
+    "titreVo": "Hunger",
+    "artVo": "The",
+    "idFilm": 36659,
+    "ageMinimal": 0,
+    "realisateurs": "Tony Scott",
+    "annee": 1982,
+    "pays": "Grande-Bretagne",
+    "generique": [
+      "Catherine Deneuve",
+      "David Bowie",
+      "Susan Sarandon"
+    ],
+    "adaptation": "D'après le roman _Les Sanguinaires_ de Whitley Strieber."
+  },
+  {
+    "titre": "Retour de Dracula",
+    "art": "Le",
+    "titreVo": "Return of Dracula = The Fantastic Disappearing Man",
+    "artVo": "The",
+    "idFilm": 34512,
+    "ageMinimal": null,
+    "realisateurs": "Paul Landres",
+    "annee": 1958,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Spermula",
+    "titreVo": "",
+    "idFilm": 56863,
+    "ageMinimal": 0,
+    "realisateurs": "Charles Matton",
+    "annee": 1975,
+    "pays": "France",
+    "generique": [
+      "Dayle Haddon",
+      "Udo Kier",
+      "Ginette Leclerc"
+    ]
+  },
+  {
+    "titre": "Un vampire à Brooklyn",
+    "titreVo": "Vampire in Brooklyn",
+    "idFilm": 59912,
+    "ageMinimal": null,
+    "realisateurs": "Wes Craven",
+    "annee": 1994,
+    "pays": "États-Unis",
+    "generique": [
+      "Eddie Murphy",
+      "Angela Bassett",
+      "Allen Payne",
+      "Kadeem Hardison"
+    ]
+  },
+  {
+    "titre": "Vampir",
+    "titreVo": "Cuadecuc",
+    "idFilm": 43667,
+    "ageMinimal": null,
+    "realisateurs": "Pere Portabella, Joan Brossa",
+    "annee": 1970,
+    "pays": "Espagne"
+  },
+  {
+    "titre": "Vampire",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 50525,
+    "ageMinimal": null,
+    "realisateurs": "Jean Painlevé",
+    "annee": 1939,
+    "pays": "France"
+  },
+  {
+    "titre": "Vampire Lovers",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 55255,
+    "ageMinimal": null,
+    "realisateurs": "Roy Ward Baker",
+    "annee": 1970,
+    "pays": "Grande-Bretagne"
+  },
+  {
+    "titre": "Vampire nue",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 64100,
+    "ageMinimal": null,
+    "realisateurs": "Jean Rollin",
+    "annee": 1969,
+    "pays": "France"
+  },
+  {
+    "titre": "Vampires : La Tête coupée",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 48546,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1915,
+    "pays": "France",
+    "generique": [
+      "Édouard Mathé",
+      "Marcel Lévesque",
+      "Jean Ayme"
+    ]
+  },
+  {
+    "titre": "Vampires : Le Cryptogramme rouge",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 99080,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1915,
+    "pays": "France",
+    "generique": [
+      "Édouard Mathé",
+      "Marcel Lévesque",
+      "Musidora",
+      "Jean Ayme"
+    ]
+  },
+  {
+    "titre": "Vampires : Le Maître de la foudre",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 99085,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "generique": [
+      "Édouard Mathé",
+      "Marcel Lévesque",
+      "Musidora",
+      "Louis Leubas"
+    ]
+  },
+  {
+    "titre": "Vampires : Le Spectre",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 99081,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1915,
+    "pays": "France",
+    "generique": [
+      "Édouard Mathé",
+      "Marcel Lévesque",
+      "Jean Ayme",
+      "Musidora"
+    ]
+  },
+  {
+    "titre": "Vampires : Les Noces sanglantes",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 99087,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "generique": [
+      "Édouard Mathé",
+      "Marcel Lévesque",
+      "Musidora",
+      "Moriss"
+    ]
+  },
+  {
+    "titre": "Vampires : Les Yeux qui fascinent",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 99083,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "generique": [
+      "Édouard Mathé",
+      "Marcel Lévesque",
+      "Jean Ayme",
+      "Musidora"
+    ]
+  },
+  {
+    "titre": "Vampires : Satanas",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 99084,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "generique": [
+      "Édouard Mathé",
+      "Marcel Lévesque",
+      "Fernand Herrmann",
+      "Musidora"
+    ]
+  },
+  {
+    "titre": "Vampyr ou l'étrange aventure de David Gray",
+    "titreVo": "",
+    "idFilm": 48251,
+    "ageMinimal": 0,
+    "realisateurs": "Carl Theodor Dreyer",
+    "annee": 1930,
+    "pays": "France-Allemagne",
+    "generique": [
+      "Julian West",
+      "Maurice Schutz",
+      "Sybille Schmitz"
+    ],
+    "adaptation": "D'après le roman _In a glass darkly_ de Sheridan Le Fanu."
+  },
+  {
+    "titre": "Vampyres",
+    "titreVo": "",
+    "idFilm": 69720,
+    "ageMinimal": null,
+    "realisateurs": "Joseph Larraz",
+    "annee": 1974,
+    "pays": "Grande-Bretagne"
+  }
+]

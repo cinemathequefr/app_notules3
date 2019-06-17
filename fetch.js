@@ -14,7 +14,6 @@ const {
   promisify
 } = require("util"); // https://stackoverflow.com/questions/40593875/using-filesystem-in-node-js-with-async-await
 
-const writeFile = promisify(fs.writeFile);
 // const copyFile = promisify(fs.copyFile);
 
 // Décode les arguments passés de la forme : -p 55 -c 400 -f
@@ -52,41 +51,42 @@ try {
       let f = await films(db, cycleConfig);
       console.log(`Films : ${_.map(f).length} items.`);
 
-      await writeFile(
-        `${config.pathData.local}${progDirectoryName}/${cycleFullCode[0]}_FILMS ${cycleFullCode[1]}.json`,
+      await helpers.writeFileInFolder(
+        `${config.pathData.local}${progDirectoryName}`,
+        "",
+        `${cycleFullCode[0]}_FILMS ${cycleFullCode[1]}.json`,
         JSON.stringify(f, null, 2),
         "utf8"
       );
     }
 
-
-
     // Confs
     // let c = await confs(db, cycleConfig);
     // console.log(`Conférences : ${_.map(c).length} items.`)
-
-    // await writeFile(
-    //   `data/cycles/PROG${idProg}_CYCL${idCycle}_CONFS.json`,
+    // await helpers.writeFileInFolder(
+    //   `${config.pathData.local}${progDirectoryName}`,
+    //   "",
+    //   `${cycleFullCode[0]}_CONFS ${cycleFullCode[1]}.json`,
     //   JSON.stringify(c, null, 2),
     //   "utf8"
     // );
-
 
     if (doSeances) {
       console.log(`Requête séances.`);
       let s = await seances(db, cycleConfig);
       console.log(`Séances : ${s.length} items.`);
 
-      await writeFile(
-        `${config.pathData.local}${progDirectoryName}/${cycleFullCode[0]}_SEANCES ${cycleFullCode[1]}.json`,
+      await helpers.writeFileInFolder(
+        `${config.pathData.local}${progDirectoryName}`,
+        "",
+        `${cycleFullCode[0]}_SEANCES ${cycleFullCode[1]}.json`,
         JSON.stringify(s, null, 2),
         "utf8"
       );
     }
-
     database.detach(db);
+
   } catch (e) {
     console.log(e);
-    database.detach(db);
   }
 })();

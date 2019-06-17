@@ -69,6 +69,15 @@
       }]
     },
     {
+      "idCycleProg": 365,
+      "titreCycle": "Arnaud Desplechin",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1645],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 392,
       "titreCycle": "Robert Kramer",
       "sousCycles": [{

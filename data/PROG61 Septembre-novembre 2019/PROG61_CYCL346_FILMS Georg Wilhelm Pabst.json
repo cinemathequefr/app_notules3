@@ -1,0 +1,717 @@
+[
+  {
+    "titre": "Amour de Jeanne Ney",
+    "art": "L'",
+    "titreVo": "Liebe der Jeanne Ney",
+    "artVo": "Die",
+    "idFilm": 40571,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1927,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En Crimée, un jeune bolchevik est amoureux de Jeanne Ney, fille d'un diplomate français au service de l'Ancien Régime. Lors de son arrestation, le père de Jeanne est tué. La jeune femme se réfugie chez son oncle à Paris. Le jeune homme vient en France retrouver son aimée."
+      }
+    ],
+    "generique": [
+      "Brigitte Helm",
+      "Edith Jehanne",
+      "Uno Henning",
+      "Eugen Jensen"
+    ],
+    "adaptation": "D'après le roman _Roman _L'Amour de Jeanne Ney\" d'Ilja Ehrenburg."
+  },
+  {
+    "titre": "Atlantide",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 50469,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1932,
+    "pays": "France-Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux officiers, en mission dans le désert du Hoggar sur les traces du royaume englouti de l'Atlantide, sont attirés dans une embuscade et faits prisonniers par la belle et cruelle Antinéa, reine du royaume de l'Atlantide."
+      }
+    ],
+    "generique": [
+      "Pierre Blanchar",
+      "Jean Angelo",
+      "Brigitte Helm",
+      "Tela-Tchaï"
+    ],
+    "adaptation": "D'après le roman _L'Atlantide_ de Pierre Benoit."
+  },
+  {
+    "titre": "C'est arrivé le 20 juillet",
+    "titreVo": "Es geschah am 20. Juli",
+    "idFilm": 40719,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1955,
+    "pays": "RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le 20 juillet 1944, le compte Claus von Stauffenberg et d'autres membres de la conjuration tentent de commettre un attentat contre Adolphe Hitler."
+      }
+    ],
+    "generique": [
+      "Bernhard Wicki",
+      "Karl Ludwig Diehl",
+      "Carl Wery"
+    ]
+  },
+  {
+    "titre": "Comédiens",
+    "art": "Les",
+    "titreVo": "Komödianten",
+    "idFilm": 96082,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1940,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au XVIIIème siècle en Allemagne, Caroline Neuber tente de réhabiliter l'image des comédiens moqués et considérés comme des bons à rien. Elle prend la défense d'un jeune homme et d'une comédienne amoureux l'un de l'autre."
+      }
+    ],
+    "generique": [
+      "Käthe Dorsch",
+      "Hilde Krahl",
+      "Henny Porten"
+    ],
+    "adaptation": "D'après le roman _Philine_ d'Olly Boeheim."
+  },
+  {
+    "titre": "Cose da pazzi",
+    "titreVo": "",
+    "idFilm": 96085,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1953,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La jeune Dalia Rossi est envoyée par erreur dans un asile psychiatrique. Lors du premier examen, elle est déclarée comme saine d'esprit, l, par un fou qui se prend pour un docteur. Mais le vrai psychiatre, lui, est persuadé que Dalia est folle."
+      }
+    ],
+    "generique": [
+      "Aldo Fabrizi",
+      "Carla Del Poggio",
+      "Enrico Viarisio"
+    ]
+  },
+  {
+    "titre": "Crise",
+    "titreVo": "Abwege",
+    "idFilm": 40692,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1928,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune avocat aime sa femme et lui offre un luxe de grand bourgeois, qu'il identifie au bonheur. Surchargé de travail, il n'a pas de temps à lui consacrer et la pense heureuse. Mais elle s'ennuie et se laisse séduire par un artiste rêveur."
+      }
+    ],
+    "generique": [
+      "Brigitte Helm",
+      "Gustav Diessl",
+      "Hertha von Walther"
+    ]
+  },
+  {
+    "titre": "Des roses pour Bettina",
+    "titreVo": "Rosen für Bettina",
+    "idFilm": 59249,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1956,
+    "pays": "RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au sommet de sa gloire, une danseuse, aussi belle que courtisée, est frappée par la poliomyélite."
+      }
+    ],
+    "generique": [
+      "Willy Birgel",
+      "Elisabeth Müller",
+      "Ivan Desny"
+    ]
+  },
+  {
+    "titre": "Destructeur",
+    "art": "Le",
+    "titreVo": "Bekenntnis der Ina Kahr",
+    "artVo": "Das",
+    "idFilm": 59265,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1954,
+    "pays": "RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ina Kahr vient de tuer son mari. À la suite de ce meurtre, elle raconte à son avocat, les raisons qu'ils l'ont poussée à commettre l'irréparable."
+      }
+    ],
+    "generique": [
+      "Curd Jürgens",
+      "Elisabeth Müller",
+      "Albert Lieven"
+    ],
+    "adaptation": "D'après le roman _Hören und Sehen_ de Hans Emil Dits."
+  },
+  {
+    "titre": "Don Quichotte",
+    "titreVo": "",
+    "idFilm": 50470,
+    "ageMinimal": 0,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1932,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire du chevalier à la triste figure et de son écuyer Sancho Panza."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Un film restauré et numérisé d'après les négatifs originaux nitrates par Les Films du Panthéon en collaboration avec Les Films du Jeudi. Avec le soutien du CNC et de la Cinémathèque Française. Remerciements Martin Koerber Murnau stifftung. Moyens techniques Hiventy."
+      }
+    ],
+    "generique": [
+      "Fédor Chaliapine",
+      "Dorville",
+      "Renée Vallier"
+    ],
+    "adaptation": "D'après le roman _Don Quichotte_ de Miguel de Cervantes y Saavedra."
+  },
+  {
+    "titre": "Drame de Shanghaï",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 53855,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1938,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En Chine, les membres d'une secte tentent d'assassiner un futur dirigeant, avec l'aide d'une chanteuse."
+      }
+    ],
+    "generique": [
+      "Louis Jouvet",
+      "Raymond Rouleau",
+      "Christl Mardayn"
+    ],
+    "adaptation": "D'après le roman _Shanghai, Chambard et Cie_ d'Oscar-Paul Gilbert."
+  },
+  {
+    "titre": "Dreigroschenoper",
+    "art": "Die",
+    "titreVo": "",
+    "idFilm": 40714,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1930,
+    "pays": "Allemagne-États-Unis-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un quartier de Londres en proie aux guerres des gangs, une rivalité s'installe entre le gangster Mackie Messer et le roi des mendiants Jeremiah Peachum, après que la fille de ce dernier décide d'épouser Mackie Messer."
+      }
+    ],
+    "generique": [
+      "Rudolf Forster",
+      "Carola Neher",
+      "Valeska Gert"
+    ],
+    "adaptation": "D'après la pièce _l'Opéra de quat'sous_ de Bertolt Brecht et Kurt Weill.  \nD'après la pièce _l'Opéra des gueux_ de John Gay."
+  },
+  {
+    "titre": "Du haut en bas",
+    "titreVo": "",
+    "idFilm": 50471,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1933,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans une cour d'immeuble, le quotidien de plusieurs personnages, tous différents les uns des autres, avec les aléas de leurs vies."
+      }
+    ],
+    "generique": [
+      "Jean Gabin",
+      "Margo Lion",
+      "Michel Simon",
+      "Mauricet"
+    ]
+  },
+  {
+    "titre": "Enfer blanc = L'Enfer blanc de Liz Palu = Prisonniers de la montagne",
+    "art": "L'",
+    "titreVo": "Weisse Hölle vom Piz Palü",
+    "artVo": "Die",
+    "idFilm": 40757,
+    "ageMinimal": 0,
+    "realisateurs": "Arnold Fanck, Georg Wilhelm Pabst",
+    "annee": 1929,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le Docteur Krafft perd sa femme lors d'une expédition dans les montagnes au cours de leur lune de miel. Dix ans plus tard, un jeune couple part en expédition avec le docteur Krafft. Ce dernier est persuadé que sa femme est toujours vivante."
+      }
+    ],
+    "generique": [
+      "Leni Riefenstahl",
+      "Ernst Petersen",
+      "Gustav Diessl"
+    ]
+  },
+  {
+    "titre": "Esclave blanche",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 51277,
+    "ageMinimal": null,
+    "realisateurs": "Marc Sorkin",
+    "annee": 1939,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mireille a épousé Vedad, un diplomate turc. Alors que le couple retourne vivre en Turquie, Mireille s'insurge contre la place faite aux femmes dans le pays et va attirer la colère du sultan."
+      }
+    ],
+    "generique": [
+      "Viviane Romance",
+      "John Lodge",
+      "Marcel Dalio"
+    ]
+  },
+  {
+    "titre": "Fin d'Hitler",
+    "art": "La",
+    "titreVo": "Letzte Akt",
+    "artVo": "Der",
+    "idFilm": 40721,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1954,
+    "pays": "Autriche",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les derniers jours de la vie d'Adolf Hitler, avant l'arrêt de la Seconde Guerre Mondiale."
+      }
+    ],
+    "generique": [
+      "Oskar Werner",
+      "Albin Skoda",
+      "Lotte Tobisch"
+    ],
+    "adaptation": "D'après le roman _Ten Days to Die_ de Michael A. Musmanno."
+  },
+  {
+    "titre": "Herrin von Atlantis",
+    "art": "Die",
+    "titreVo": "",
+    "idFilm": 93125,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1932,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux officiers partis à la recherche de l'Atlantide dans le désert vont se retrouver pris au piège par la reine Antinea."
+      }
+    ],
+    "generique": [
+      "Tela Tschai",
+      "Gustav Diessl",
+      "Brigitte Helm"
+    ],
+    "adaptation": "D'après le roman _L'Atlantide_ de Pierre Benoit."
+  },
+  {
+    "titre": "Jeunes filles en détresse",
+    "titreVo": "",
+    "idFilm": 50472,
+    "ageMinimal": 0,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1939,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jacqueline est placée en pensionnat par ses parents, trop occupés par leurs métiers. Se sentant délaissée, elle se lie d'amitié avec Margot. Mais lorsqu'elle découvre que son père a une liaison amoureuse avec la mère de Margot, tout vole en éclats."
+      }
+    ],
+    "generique": [
+      "Micheline Presle",
+      "Marcelle Chantal",
+      "André Luguet"
+    ],
+    "adaptation": "D'après le roman _Girls in distress_ de Peter Quinn."
+  },
+  {
+    "titre": "Journal d'une fille perdue = Trois pages d'un journal",
+    "art": "Le",
+    "titreVo": "Tagebuch einer Verlorenen",
+    "idFilm": 40728,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1929,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme s'enfuit de la maison de redressement où elle est enfermée, se réfugie dans une maison close, puis épouse un riche aristocrate."
+      }
+    ],
+    "generique": [
+      "Louise Brooks",
+      "Sybille Schmitz"
+    ],
+    "adaptation": "D'après le roman _Tagebuch einer Verlorenen_ de Margarete Böhme."
+  },
+  {
+    "titre": "Loulou",
+    "titreVo": "Büchse der Pandora",
+    "artVo": "Die",
+    "idFilm": 40704,
+    "ageMinimal": 0,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1928,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Loulou, femme fatale, parvient à épouser le Docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils."
+      }
+    ],
+    "generique": [
+      "Louise Brooks",
+      "Fritz Kortner",
+      "Franz Lederer",
+      "Alice Roberts"
+    ],
+    "adaptation": "D'après les pièces _Die Büchse der Pandora_ et _Erdgeist_ de Frank Wedekind."
+  },
+  {
+    "titre": "Mademoiselle Docteur = Salonique, nid d'espions",
+    "titreVo": "",
+    "idFilm": 50473,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1936,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Durant la Première Guerre mondiale, Anne-Marie Lesser, une espionne allemande surnommée Mademoiselle Docteur, est dépêchée à Salonique. Elle y séduit un capitaine français."
+      }
+    ],
+    "generique": [
+      "Dita Parlo",
+      "Louis Jouvet",
+      "Charles Dullin",
+      "Pierre Fresnay"
+    ]
+  },
+  {
+    "titre": "Maison du silence",
+    "art": "La",
+    "titreVo": "Voce del silenzio",
+    "artVo": "La",
+    "idFilm": 42347,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1952,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Des hommes très différents sont réunis dans un monastère par un concours de circonstances. Ils vont alors s'adonner, chacun leur tour, à un examen de conscience."
+      }
+    ],
+    "generique": [
+      "Aldo Fabrizi",
+      "Jean Marais",
+      "Daniel Gélin"
+    ]
+  },
+  {
+    "titre": "Merveilleuse aventure",
+    "art": "La",
+    "titreVo": "Durch die Wälder, durch die Auen",
+    "idFilm": 96080,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1956,
+    "pays": "RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le compositeur Carl Maria von Weber et sa femme Caroline Brandt se dirigent vers Prague. En chemin, ils sont attaqués par des bandits et recueillis par le comte von Schwarzenbrunn dans son château."
+      }
+    ],
+    "generique": [
+      "Eva Bartok",
+      "Karl Schönböck",
+      "Peter Arens"
+    ],
+    "adaptation": "D'après la nouvelle  _Die romantische Reise des Herrn Carl Maria von Weber_ de Hans Watzlik."
+  },
+  {
+    "titre": "Mystères d'une âme = Le Cas du professeur Matthias",
+    "art": "Les",
+    "titreVo": "Geheimnisse einer Seele",
+    "idFilm": 40708,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1926,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Alors qu'un meurtre vient d'avoir lieu dans son quartier un chimiste, apprend que le cousin de sa femme va revenir en Allemagne après une longue absence. La nouvelle semble déclencher chez lui des rêves terribles, notamment un cauchemar où il assassine son épouse. Il débute une psychanalyse."
+      }
+    ],
+    "generique": [
+      "Werner Krauss",
+      "Ruth Weyher",
+      "Pawel Pawlow"
+    ]
+  },
+  {
+    "titre": "Opéra de quat'sous",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 112939,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1930,
+    "pays": "France-Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans Soho, un quartier de Londres, le gangster Mackie épouse Polly Peachum. Lorsque le père de Polly, le roi des mendiants Peachum apprend la nouvelle, une rivalité s'installe entre les deux hommes."
+      }
+    ],
+    "generique": [
+      "Albert Préjean",
+      "Florelle",
+      "Gaston Modot"
+    ],
+    "adaptation": "D'après la pièce _l'Opéra de quat'sous_ de Bertolt Brecht et Kurt Weill.  \nD'après la pièce _l'Opéra des gueux_ de John Gay."
+  },
+  {
+    "titre": "Paracelse",
+    "titreVo": "Paracelsus",
+    "idFilm": 72514,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1942,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au XVIème siècle, la vie du docteur Paracelsus qui met au point une pratique de la médecine peu conventionnelle pour son époque."
+      }
+    ],
+    "generique": [
+      "Werner Krauss",
+      "Mathias Wieman",
+      "Martin Urtel"
+    ]
+  },
+  {
+    "titre": "Procès",
+    "art": "Le",
+    "titreVo": "Prozess – Im Namen der Menschlichkeit",
+    "artVo": "Der",
+    "idFilm": 40724,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1947,
+    "pays": "Autriche",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1882 dans un petit village de Hongrie, une adolescente nommée Esther disparaît. Le village accuse les juifs de cette disparation. Le caractère antisémite de cette affaire va donner lieu à un procès."
+      }
+    ],
+    "generique": [
+      "Ernst Deutsch",
+      "Ewald Balser",
+      "Aglaja Schmid"
+    ],
+    "adaptation": "D'après le roman \"_Prozess auf Leben und Tod_ de Rudolf Brunngraber."
+  },
+  {
+    "titre": "Profondeurs mystérieuses",
+    "titreVo": "Geheimnisvolle Tiefe",
+    "idFilm": 40710,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1949,
+    "pays": "Autriche",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Cornelia est fiancée au professeur Ben Witich, chimiste et spéléologue, un homme dont elle ne partage pas les passions. Négligée par lui, elle succombe aux avances d'un riche industriel."
+      }
+    ],
+    "generique": [
+      "Paul Hubschmid",
+      "Ilse Werner"
+    ]
+  },
+  {
+    "titre": "Quatre de l'infanterie",
+    "titreVo": "Westfront 1918",
+    "idFilm": 40785,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1930,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Quatre fantassins allemands se trouvent sur le front français à quelques mois de la fin de la Première Guerre mondiale."
+      }
+    ],
+    "generique": [
+      "Fritz Kampers",
+      "Gustav Diessl",
+      "Claus Clausen"
+    ],
+    "adaptation": "D'après le roman _Quatre de l'infanterie_ d'Ernst Johannsen."
+  },
+  {
+    "titre": "Rue sans joie",
+    "art": "La",
+    "titreVo": "Freudlose Gasse",
+    "artVo": "Die",
+    "idFilm": 45672,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1925,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans la Vienne des années 1920 en proie à l'inflation, le destin de deux jeunes femmes abusées par la tenancière cynique d'une maison de rendez-vous."
+      }
+    ],
+    "generique": [
+      "Asta Nielsen",
+      "Greta Garbo",
+      "Werner Krauss"
+    ],
+    "adaptation": "D'après le roman _Die Freudlose Gasse_ de Hugo Bettauer."
+  },
+  {
+    "titre": "Scandale autour d'Eva",
+    "titreVo": "Skandal um Eva",
+    "idFilm": 40755,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1930,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Eva, enseignante, découvre un jour que son fiancé Kurt, a un fils de quatre ans. Partant sur les traces de ce dernier, elle va chercher l'enfant chez les parents de Kurt."
+      }
+    ],
+    "generique": [
+      "Henny Porten",
+      "Oskar Sima",
+      "Ludwig Stössel"
+    ],
+    "adaptation": "D'après la comédie _Skandal um Olly_ de Heinrich Ilgenstein."
+  },
+  {
+    "titre": "Tragédie de la mine",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 40369,
+    "ageMinimal": 0,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1931,
+    "pays": "France-Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Des mineurs français victimes d'un coup de grisou sont sauvés par des collègues allemands."
+      }
+    ],
+    "generique": [
+      "Alexander Granach",
+      "Fritz Kampers",
+      "Ernst Busch"
+    ]
+  },
+  {
+    "titre": "Trésor",
+    "art": "Le",
+    "titreVo": "Schatz",
+    "artVo": "Der",
+    "idFilm": 54400,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1923,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Vienne, un trésor enterré par les Turcs en 1683 fait l'objet de toutes les convoitises alors qu'un jeune homme tombe amoureux de la fille de son patron."
+      }
+    ],
+    "generique": [
+      "Albert Steinrück",
+      "Ilka Grüning",
+      "Lucie Mannheim"
+    ],
+    "adaptation": "D'après la nouvelle _Der Schatz_ de Rudolf Hans Bartsch."
+  },
+  {
+    "titre": "Un héros moderne",
+    "titreVo": "A Modern Hero",
+    "idFilm": 35639,
+    "ageMinimal": null,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1934,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pierre Radier, un jeune homme séduisant est acrobate dans un cirque. Il n'hésite pas utiliser ses connaissances et son charme pour servir ses ambitions."
+      }
+    ],
+    "generique": [
+      "Richard Barthelmess",
+      "Jean Muir",
+      "Marjorie Rambeau"
+    ],
+    "adaptation": "D'après le roman _Un héros moderne_ de Louis Bromfield."
+  }
+]

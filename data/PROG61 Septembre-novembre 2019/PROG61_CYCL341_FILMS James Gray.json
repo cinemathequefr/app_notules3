@@ -1,0 +1,125 @@
+[
+  {
+    "titre": "Immigrant",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 120000,
+    "ageMinimal": null,
+    "realisateurs": "James Gray",
+    "annee": 2012,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1921\\. Ewa et sa sœur Magda quittent leur Pologne natale pour New York. Arrivées à Ellis Island, Magda, atteinte de tuberculose, est placée en quarantaine. Ewa, seule et désemparée, tombe dans les filets de Bruno, un souteneur sans scrupules. Pour sauver sa sœur, elle est prête à tous les sacrifices et se livre, résignée, à la prostitution."
+      }
+    ],
+    "generique": [
+      "Marion Cotillard",
+      "Joaquin Phoenix",
+      "Jeremy Renner"
+    ]
+  },
+  {
+    "titre": "Little Odessa",
+    "titreVo": "",
+    "idFilm": 54350,
+    "ageMinimal": null,
+    "realisateurs": "James Gray",
+    "annee": 1994,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Joshua Shapira est un tueur à gages sans état d'âme. Jusqu'au jour où un commanditaire exige l'exécution d'un contrat à Brighton Beach, dans le quartier de Little Odessa, où Joshua a passé son enfance."
+      }
+    ],
+    "generique": [
+      "Tim Roth",
+      "Edward Furlong",
+      "Vanessa Redgrave",
+      "Maximilian Schell"
+    ]
+  },
+  {
+    "titre": "Lost City of Z",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 134352,
+    "ageMinimal": null,
+    "realisateurs": "James Gray",
+    "annee": 2015,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire vraie de Percival Harrison Fawcett, un des plus grands explorateurs du XXe siècle."
+      }
+    ],
+    "generique": [
+      "Charlie Hunnam",
+      "Sienna Miller"
+    ],
+    "adaptation": "D'après l'ouvrage _The Lost City of Z: A Tale of Deadly Obsession in the Amazon_ de David Grann."
+  },
+  {
+    "titre": "Nuit nous appartient",
+    "art": "La",
+    "titreVo": "We Own the Night",
+    "idFilm": 102048,
+    "ageMinimal": null,
+    "realisateurs": "James Gray",
+    "annee": 2006,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "New York, fin des années 80. Bobby est le jeune patron d'une boite de nuit branchée appartenant aux Russes. Avec l'explosion du trafic de drogue, la mafia russe étend son influence sur le monde de la nuit. Pour continuer son ascension, Bobby doit cacher ses liens avec sa famille. Seule sa petite amie, Amada est au courant."
+      }
+    ],
+    "generique": [
+      "Joaquin Phoenix",
+      "Eva Mendes"
+    ]
+  },
+  {
+    "titre": "Two Lovers",
+    "titreVo": "",
+    "idFilm": 104553,
+    "ageMinimal": null,
+    "realisateurs": "James Gray",
+    "annee": 2007,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "New York. Leonard hésite entre suivre son destin et épouser Sandra,la femme que ses parents lui ont choisi ou se rebeller et écouter ses sentiments pour sa nouvelle voisine, Michelle, belle et volage, dont il est tombé éperdument amoureux."
+      }
+    ],
+    "generique": [
+      "Joaquin Phoenix",
+      "Gwyneth Paltrow"
+    ]
+  },
+  {
+    "titre": "Yards",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 69214,
+    "ageMinimal": null,
+    "realisateurs": "James Gray",
+    "annee": 1999,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune homme sort de prison et tente de rester dans le droit chemin. Mais il trempe dans les affaires douteuses de l'entreprise familiale, l'Electric Rail Corporation, organisée autour de son oncle..."
+      }
+    ],
+    "generique": [
+      "Mark Wahlberg",
+      "Charlize Theron",
+      "James Caan"
+    ]
+  }
+]
