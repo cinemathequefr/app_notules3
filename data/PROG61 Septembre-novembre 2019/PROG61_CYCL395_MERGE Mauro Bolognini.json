@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": []
+    },
+    {
+      "titreSousCycle": "Films collectifs",
+      "tri": 1,
+      "items": []
+    }
+  ],
+  "info": {}
+}

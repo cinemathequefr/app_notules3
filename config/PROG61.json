@@ -102,6 +102,10 @@
         "titre": "Les films",
         "cats": [1763],
         "tri": 1
+      }, {
+        "titre": "Films collectifs",
+        "cats": [2036],
+        "tri": 1
       }]
     },
     {

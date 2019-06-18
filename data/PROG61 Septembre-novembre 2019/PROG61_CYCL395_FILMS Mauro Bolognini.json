@@ -1,5 +1,23 @@
 [
   {
+    "titre": "12 registi per 12 città",
+    "titreVo": "",
+    "annee": 1989,
+    "idFilm": 93768,
+    "ageMinimal": 0,
+    "realisateurs": "Alberto Lattuada, Michelangelo Antonioni, Bernardo Bertolucci, [etc.]",
+    "pays": "Italie"
+  },
+  {
+    "titre": "12 registi per 12 città : Palermo",
+    "titreVo": "",
+    "annee": 1989,
+    "idFilm": 98997,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "Italie"
+  },
+  {
     "titre": "Agostino",
     "titreVo": "",
     "annee": 1962,
@@ -162,6 +180,45 @@
     "adaptation": "D'après les nouvelles _Racconti romani_ et _Nuovi racconti romani_ d'Alberto Moravia."
   },
   {
+    "titre": "Capriccio all'italiana",
+    "titreVo": "",
+    "annee": 1967,
+    "idFilm": 60124,
+    "ageMinimal": null,
+    "realisateurs": "Steno, Mauro Bolognini, Pier Paolo Pasolini, [etc.]",
+    "pays": "Italie"
+  },
+  {
+    "titre": "Capriccio all'italiana : La gelosa",
+    "titreVo": "",
+    "annee": 1968,
+    "idFilm": 66934,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bolognini met en scène une jalouse maladive."
+      }
+    ]
+  },
+  {
+    "titre": "Capriccio all'italiana : Perché ?",
+    "titreVo": "",
+    "annee": 1967,
+    "idFilm": 66683,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire d'une épouse horripilante."
+      }
+    ]
+  },
+  {
     "titre": "Cavalieri della regina",
     "art": "I",
     "titreVo": "",
@@ -173,7 +230,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les trois mousquetaires servent les desseins Marie de Médicis et sauve l'infante d'Espagne."
+        "texte": "Les trois mousquetaires servent les desseins de Marie de Médicis et sauvent l'infante d'Espagne."
       }
     ],
     "generique": [
@@ -522,6 +579,48 @@
     ]
   },
   {
+    "titre": "Mia signora",
+    "art": "La",
+    "titreVo": "",
+    "annee": 1964,
+    "idFilm": 105872,
+    "ageMinimal": null,
+    "realisateurs": "Tinto Brass, Luigi Comencini, Mauro Bolognini",
+    "pays": "Italie"
+  },
+  {
+    "titre": "Mia Signora : I mei cari",
+    "art": "La",
+    "titreVo": "",
+    "annee": 1964,
+    "idFilm": 66673,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme malade passe un long moment à l'hôpital. Au lieu de le réconforter, ses proches lui reprochent de ne pas assumer ses responsabilités de père de famille."
+      }
+    ]
+  },
+  {
+    "titre": "Mia Signora : Luciana",
+    "art": "La",
+    "titreVo": "",
+    "annee": 1964,
+    "idFilm": 66674,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En accompagnant sa femme à l'aéroport, Giovanni rencontre Luciana, dont le mari part également en avion."
+      }
+    ]
+  },
+  {
     "titre": "Mosca addio",
     "titreVo": "",
     "annee": 1986,
@@ -542,6 +641,101 @@
     ]
   },
   {
+    "titre": "Ogresses",
+    "art": "Les",
+    "titreVo": "Fate",
+    "artVo": "Le",
+    "annee": 1967,
+    "idFilm": 56602,
+    "ageMinimal": null,
+    "realisateurs": "Luciano Salce, Mario Monicelli, Mauro Bolognini, [etc.]",
+    "pays": "Italie-France"
+  },
+  {
+    "titre": "Ogresses : L'ogresse Héléna",
+    "art": "Les",
+    "titreVo": "Fate : Fata Elena",
+    "artVo": "Le",
+    "annee": 1967,
+    "idFilm": 56659,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En rendant visite à un ami, Luigi s'éprend de sa femme Elena, avec qui il débute une relation."
+      }
+    ]
+  },
+  {
+    "titre": "Où es-tu allé en vacances ?",
+    "titreVo": "Dove vai in vacanza ? : Saro tutta per te",
+    "annee": 1979,
+    "idFilm": 70065,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un dentiste, incorrigible coureur de jupons, retrouve son ex-femme mais ne parvient pas à la séduire à nouveau."
+      }
+    ],
+    "generique": [
+      "Ugo Tognazzi",
+      "Stefania Sandrelli"
+    ]
+  },
+  {
+    "titre": "Plus vieux métier du monde",
+    "art": "Le",
+    "titreVo": "",
+    "annee": 1967,
+    "idFilm": 60118,
+    "ageMinimal": null,
+    "realisateurs": "Franco Indovina, Mauro Bolognini, Philippe de Broca, [etc.]",
+    "pays": "France-Italie-RFA"
+  },
+  {
+    "titre": "Plus vieux métier du monde : Nuits romaines",
+    "art": "Le",
+    "titreVo": "",
+    "annee": 1967,
+    "idFilm": 53284,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "France-Italie-RFA"
+  },
+  {
+    "titre": "Poupées",
+    "art": "Les",
+    "titreVo": "Bambole",
+    "artVo": "Le",
+    "annee": 1965,
+    "idFilm": 42105,
+    "ageMinimal": null,
+    "realisateurs": "Dino Risi, Luigi Comencini, Franco Rossi, [etc.]",
+    "pays": "Italie-France"
+  },
+  {
+    "titre": "Poupées : Monseigneur Cupidon",
+    "art": "Les",
+    "titreVo": "Bambole : Monsignor Cupido",
+    "artVo": "Le",
+    "annee": 1965,
+    "idFilm": 58026,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un monsignore vénitien se rend à une conférence à Rome en compagnie de son neveu Vincenzo, un beau jeune homme timide. Dans l'hôtel où ils logent, Béatrice, la femme du propriétaire, s'entiche de ce garçon et fait tout pour le séduire."
+      }
+    ]
+  },
+  {
     "titre": "Quand la chair succombe",
     "titreVo": "Senilita",
     "annee": 1963,
@@ -559,6 +753,70 @@
       "Claudia Cardinale",
       "Anthony Franciosa",
       "Philippe Leroy"
+    ]
+  },
+  {
+    "titre": "Silenzio é complicità",
+    "art": "Il",
+    "titreVo": "",
+    "annee": 1976,
+    "idFilm": 119828,
+    "ageMinimal": null,
+    "realisateurs": "Laura Betti, Bernardo Bertolucci, Mauro Bolognini, [etc.]",
+    "pays": "Italie"
+  },
+  {
+    "titre": "Sorcières",
+    "art": "Les",
+    "titreVo": "Streghe",
+    "artVo": "Le",
+    "annee": 1968,
+    "idFilm": 65391,
+    "ageMinimal": null,
+    "realisateurs": "Luchino Visconti, Mauro Bolognini, Pier Paolo Pasolini, [etc.]",
+    "pays": "Italie-France"
+  },
+  {
+    "titre": "Sorcières : Sentiment civique",
+    "art": "Les",
+    "titreVo": "Streghe : Senso civico",
+    "artVo": "Le",
+    "annee": 1968,
+    "idFilm": 66681,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une automobiliste pressée est contrainte de transporter d'urgence un conducteur choqué à l'hôpital. Elle va utiliser le stratagème du véhicule prioritaire (un mouchoir blanc) dans ses propres intérêts..."
+      }
+    ]
+  },
+  {
+    "titre": "Tre volti",
+    "art": "I",
+    "titreVo": "",
+    "annee": 1964,
+    "idFilm": 60128,
+    "ageMinimal": null,
+    "realisateurs": "Michelangelo Antonioni, Mauro Bolognini, Franco Indovina",
+    "pays": "Italie"
+  },
+  {
+    "titre": "Tre volti : Gli amanti celebri",
+    "art": "I",
+    "titreVo": "",
+    "annee": 1964,
+    "idFilm": 56047,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Linda est mariée à Robert, un écrivain, jusqu'au jour où elle retrouve son ancien amant Rodolphe, qui lui suggère de divorcer pour vivre avec lui."
+      }
     ]
   },
   {
