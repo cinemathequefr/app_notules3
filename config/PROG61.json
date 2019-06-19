@@ -84,6 +84,10 @@
         "titre": "Les films",
         "cats": [1760],
         "tri": 1
+      }, {
+        "titre": "Courts métrages",
+        "cats": [2034],
+        "tri": 3
       }]
     },
     {
@@ -121,10 +125,20 @@
       "idCycleProg": 439,
       "titreCycle": "Kira Mouratova",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2013],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [2013],
+          "tri": 1
+        },
+        {
+          "titre": "Courts métrages",
+          "cats": [2038],
+          "tri": 3
+        }, {
+          "titre": "Kira Mouratova actrice",
+          "cats": [2023],
+          "tri": 3
+        }
+      ]
     },
     {
       "idCycleProg": 441,

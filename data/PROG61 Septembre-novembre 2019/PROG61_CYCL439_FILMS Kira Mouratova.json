@@ -85,7 +85,7 @@
     "titreVo": "Peremena uchasti",
     "annee": 1984,
     "idFilm": 58316,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Kira Mouratova",
     "pays": "URSS",
     "textes": [
@@ -141,6 +141,15 @@
       "Sergueï Bekhterev",
       "Natalia Bouzko"
     ]
+  },
+  {
+    "titre": "Docteur",
+    "titreVo": "Doctor",
+    "annee": 1974,
+    "idFilm": 142014,
+    "ageMinimal": 0,
+    "realisateurs": "Vladimir Bortko",
+    "pays": "URSS"
   },
   {
     "titre": "En découvrant le vaste monde",
@@ -436,6 +445,20 @@
       "Serguei Makovetsky",
       "Leonid Kouchnir",
       "Jan Daniel"
+    ]
+  },
+  {
+    "titre": "Une tournée dangereuse",
+    "titreVo": "Opasnye gastroli",
+    "annee": 1969,
+    "idFilm": 114534,
+    "ageMinimal": 0,
+    "realisateurs": "Georgi Yungvald-Khilkevich",
+    "pays": "URSS",
+    "generique": [
+      "Nikolay Grinko",
+      "Vladimir Vysotskiy",
+      "Yefim Kopelyan"
     ]
   }
 ]

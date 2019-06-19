@@ -1,0 +1,1517 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 141922,
+          "ordre": 1,
+          "idSeance": 30960,
+          "idCopie": 18869,
+          "duree": 155,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19668,
+          "dateHeure": "2019-09-29T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Accordeur",
+          "art": "L'",
+          "titreVo": "Nastroyshchik",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2004,
+          "pays": "Russie-Ukraine",
+          "generique": [
+            "Georgiy Deliev",
+            "Alla Demidova",
+            "Renata Litvinova"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Andreï, un accordeur de piano qui peine à subvenir aux besoins de sa compagne Lina, gagne la confiance de deux riches veuves, Luba et Anna Sergeevna, afin de les escroquer."
+            }
+          ]
+        },
+        {
+          "idFilm": 141922,
+          "ordre": 1,
+          "idSeance": 31079,
+          "idCopie": 18869,
+          "duree": 155,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19668,
+          "dateHeure": "2019-10-18T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Accordeur",
+          "art": "L'",
+          "titreVo": "Nastroyshchik",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2004,
+          "pays": "Russie-Ukraine",
+          "generique": [
+            "Georgiy Deliev",
+            "Alla Demidova",
+            "Renata Litvinova"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Andreï, un accordeur de piano qui peine à subvenir aux besoins de sa compagne Lina, gagne la confiance de deux riches veuves, Luba et Anna Sergeevna, afin de les escroquer."
+            }
+          ]
+        },
+        {
+          "idFilm": 41470,
+          "ordre": 1,
+          "idSeance": 30932,
+          "idCopie": 18769,
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19646,
+          "dateHeure": "2019-09-25T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeSeance": 44,
+          "mention": "Ouverture de la rétrospective",
+          "titre": "Brèves rencontres",
+          "titreVo": "Korotkie vstretchi",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1988,
+          "pays": "URSS",
+          "generique": [
+            "Kira Mouratova",
+            "Vladimir Vyssotski",
+            "Nina Rouslanova"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Valentina est responsable du logement dans une petite ville. Confrontée à l'impatience des postulants pour un logement et à la corruption des constructeurs, elle a un amant, Maxime, qui est surtout soucieux de sa propre liberté. Elle découvre que sa femme de ménage, plus jeune qu'elle, est aussi la maitresse de Maxime..."
+            }
+          ]
+        },
+        {
+          "idFilm": 41470,
+          "ordre": 1,
+          "idSeance": 31813,
+          "idCopie": 18769,
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19646,
+          "dateHeure": "2019-10-09T21:45:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Brèves rencontres",
+          "titreVo": "Korotkie vstretchi",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1988,
+          "pays": "URSS",
+          "generique": [
+            "Kira Mouratova",
+            "Vladimir Vyssotski",
+            "Nina Rouslanova"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Valentina est responsable du logement dans une petite ville. Confrontée à l'impatience des postulants pour un logement et à la corruption des constructeurs, elle a un amant, Maxime, qui est surtout soucieux de sa propre liberté. Elle découvre que sa femme de ménage, plus jeune qu'elle, est aussi la maitresse de Maxime..."
+            }
+          ]
+        },
+        {
+          "idFilm": 58316,
+          "ordre": 1,
+          "idSeance": 30954,
+          "idCopie": 18776,
+          "duree": 103,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19664,
+          "dateHeure": "2019-09-28T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Changement de destinée",
+          "titreVo": "Peremena uchasti",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1984,
+          "pays": "URSS",
+          "generique": [
+            "Natalia Leble",
+            "Natalia Leble",
+            "Viktor Aristov",
+            "Viktor Aristov"
+          ],
+          "adaptation": "D'après la nouvelle _The Letter_ de W. Somerset Maugham et W. Somerset Maugham.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Maria est arrêtée et emprisonnée pour le meurtre d'Aleksandr. Filipp, son époux, ne croit pas que sa femme en soit capable et cherche à prouver son innocence, tandis que des souvenirs du passé reviennent à la mémoire de Maria."
+            }
+          ]
+        },
+        {
+          "idFilm": 58316,
+          "ordre": 1,
+          "idSeance": 31818,
+          "idCopie": 18776,
+          "duree": 103,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19664,
+          "dateHeure": "2019-10-13T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Changement de destinée",
+          "titreVo": "Peremena uchasti",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1984,
+          "pays": "URSS",
+          "generique": [
+            "Natalia Leble",
+            "Natalia Leble",
+            "Viktor Aristov",
+            "Viktor Aristov"
+          ],
+          "adaptation": "D'après la nouvelle _The Letter_ de W. Somerset Maugham et W. Somerset Maugham.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Maria est arrêtée et emprisonnée pour le meurtre d'Aleksandr. Filipp, son époux, ne croit pas que sa femme en soit capable et cherche à prouver son innocence, tandis que des souvenirs du passé reviennent à la mémoire de Maria."
+            }
+          ]
+        },
+        {
+          "idFilm": 141921,
+          "ordre": 1,
+          "idSeance": 31811,
+          "idCopie": 18882,
+          "duree": 107,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19662,
+          "dateHeure": "2019-10-03T21:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Citoyens de deuxième classe",
+          "titreVo": "Vtorostepennye lyudi",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2000,
+          "pays": "Ukraine",
+          "generique": [
+            "Natalia Bouzko",
+            "Sergueï Tchetbertkov",
+            "Nikolaï Sednev"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un médecin qui a veillé toute la nuit auprès d'un patient mourant est amené à faire la connaissance de la jeune Véra. Cette rencontre va changer le cours de sa journée et bouleverser sa vie."
+            }
+          ]
+        },
+        {
+          "idFilm": 141921,
+          "ordre": 1,
+          "idSeance": 31821,
+          "idCopie": 18882,
+          "duree": 107,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19662,
+          "dateHeure": "2019-10-16T21:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Citoyens de deuxième classe",
+          "titreVo": "Vtorostepennye lyudi",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2000,
+          "pays": "Ukraine",
+          "generique": [
+            "Natalia Bouzko",
+            "Sergueï Tchetbertkov",
+            "Nikolaï Sednev"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un médecin qui a veillé toute la nuit auprès d'un patient mourant est amené à faire la connaissance de la jeune Véra. Cette rencontre va changer le cours de sa journée et bouleverser sa vie."
+            }
+          ]
+        },
+        {
+          "idFilm": 141924,
+          "ordre": 1,
+          "idSeance": 30993,
+          "idCopie": 18881,
+          "duree": 124,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19663,
+          "dateHeure": "2019-10-04T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Deux en un",
+          "titreVo": "Dva v odnom",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2006,
+          "pays": "Ukraine-Russie",
+          "generique": [
+            "Aleksandr Bachirov",
+            "Sergueï Bekhterev",
+            "Natalia Bouzko"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un spectacle est joué malgré le suicide d'un acteur ainsi que les rivalités et règlements de compte au sein de la troupe. Parallèlement, Andreï vit seul avec sa fille. Lorsque cette dernière invite une amie le soir du Nouvel An, il cherche à assouvir ses fantasmes."
+            }
+          ]
+        },
+        {
+          "idFilm": 141924,
+          "ordre": 1,
+          "idSeance": 31087,
+          "idCopie": 18881,
+          "duree": 124,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19663,
+          "dateHeure": "2019-10-19T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Deux en un",
+          "titreVo": "Dva v odnom",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2006,
+          "pays": "Ukraine-Russie",
+          "generique": [
+            "Aleksandr Bachirov",
+            "Sergueï Bekhterev",
+            "Natalia Bouzko"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un spectacle est joué malgré le suicide d'un acteur ainsi que les rivalités et règlements de compte au sein de la troupe. Parallèlement, Andreï vit seul avec sa fille. Lorsque cette dernière invite une amie le soir du Nouvel An, il cherche à assouvir ses fantasmes."
+            }
+          ]
+        },
+        {
+          "idFilm": 141918,
+          "ordre": 1,
+          "idSeance": 30937,
+          "idCopie": 18878,
+          "duree": 78,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19666,
+          "dateHeure": "2019-09-26T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "En découvrant le vaste monde",
+          "titreVo": "Poznavaya belyy svet",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1979,
+          "pays": "URSS",
+          "generique": [
+            "Alekseï Jarkov",
+            "Nina Rouslanova",
+            "Sergueï Popov"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La relation qu'entretiennent Nikolaï et Luba est complexe et agitée. Tous deux peinent en effet à s'accorder sur la nature exacte de leur liaison. Lorsque Luba fait la rencontre de Mikhaïl, un triangle amoureux se forme."
+            }
+          ]
+        },
+        {
+          "idFilm": 141918,
+          "ordre": 1,
+          "idSeance": 31065,
+          "idCopie": 18878,
+          "duree": 78,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19666,
+          "dateHeure": "2019-10-16T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "En découvrant le vaste monde",
+          "titreVo": "Poznavaya belyy svet",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1979,
+          "pays": "URSS",
+          "generique": [
+            "Alekseï Jarkov",
+            "Nina Rouslanova",
+            "Sergueï Popov"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La relation qu'entretiennent Nikolaï et Luba est complexe et agitée. Tous deux peinent en effet à s'accorder sur la nature exacte de leur liaison. Lorsque Luba fait la rencontre de Mikhaïl, un triangle amoureux se forme."
+            }
+          ]
+        },
+        {
+          "idFilm": 40327,
+          "ordre": 1,
+          "idSeance": 30952,
+          "idCopie": 18770,
+          "duree": 94,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19648,
+          "dateHeure": "2019-09-28T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Longs adieux",
+          "art": "Les",
+          "titreVo": "Dolgie provody",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1988,
+          "pays": "URSS",
+          "generique": [
+            "Zinaida Charko",
+            "Oleg Vladimirski",
+            "Youri Kaiourov"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Evguenia élève seule son fils qui, devenu adolescent, décide de partir vivre avec son père. Elle fera tout pour le retenir."
+            }
+          ]
+        },
+        {
+          "idFilm": 40327,
+          "ordre": 1,
+          "idSeance": 31814,
+          "idCopie": 18770,
+          "duree": 94,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19648,
+          "dateHeure": "2019-10-11T22:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Longs adieux",
+          "art": "Les",
+          "titreVo": "Dolgie provody",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1988,
+          "pays": "URSS",
+          "generique": [
+            "Zinaida Charko",
+            "Oleg Vladimirski",
+            "Youri Kaiourov"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Evguenia élève seule son fils qui, devenu adolescent, décide de partir vivre avec son père. Elle fera tout pour le retenir."
+            }
+          ]
+        },
+        {
+          "idFilm": 55128,
+          "ordre": 1,
+          "idSeance": 30961,
+          "idCopie": 18771,
+          "duree": 115,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCategorie": 2013,
+          "idEvenement": 19649,
+          "dateHeure": "2019-09-29T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Milicien amoureux",
+          "art": "Le",
+          "titreVo": "Chuvstvitelnyy militsioner",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1993,
+          "pays": "Ukraine-France",
+          "generique": [
+            "Nikolaï Chatokhine",
+            "Irina Kovalenko",
+            "Natalia Ralleva"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le milicien Tolia découvre un bébé abandonné dans un champ. Peu à peu, il s'attache à l'enfant et espère pouvoir l'adopter."
+            }
+          ]
+        },
+        {
+          "idFilm": 55128,
+          "ordre": 1,
+          "idSeance": 31819,
+          "idCopie": 18771,
+          "duree": 115,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCategorie": 2013,
+          "idEvenement": 19649,
+          "dateHeure": "2019-10-10T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Milicien amoureux",
+          "art": "Le",
+          "titreVo": "Chuvstvitelnyy militsioner",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1993,
+          "pays": "Ukraine-France",
+          "generique": [
+            "Nikolaï Chatokhine",
+            "Irina Kovalenko",
+            "Natalia Ralleva"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le milicien Tolia découvre un bébé abandonné dans un champ. Peu à peu, il s'attache à l'enfant et espère pouvoir l'adopter."
+            }
+          ]
+        },
+        {
+          "idFilm": 119920,
+          "ordre": 1,
+          "idSeance": 30968,
+          "idCopie": 18777,
+          "duree": 120,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19670,
+          "dateHeure": "2019-09-30T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Motifs tchékhoviens",
+          "titreVo": "Chekhovskie motivy",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2001,
+          "pays": "Ukraine",
+          "generique": [
+            "Aleksandr Bachirov",
+            "Sergueï Bekhterev",
+            "Natalia Bouzko",
+            "Jan Daniel"
+          ],
+          "adaptation": "D'après le récit _Les Gens difficiles_ et la pièce _Tatiana Repina_ d'Anton Tchekhov.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lorsque le fils ainé d'une famille de fermiers annonce qu'il souhaite s'installer en ville et demande de l'argent à son père, l'équilibre fragile du foyer cède sa place à des déchainements et des affrontements familiaux."
+            }
+          ]
+        },
+        {
+          "idFilm": 119920,
+          "ordre": 1,
+          "idSeance": 31071,
+          "idCopie": 18777,
+          "duree": 120,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19670,
+          "dateHeure": "2019-10-17T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Motifs tchékhoviens",
+          "titreVo": "Chekhovskie motivy",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2001,
+          "pays": "Ukraine",
+          "generique": [
+            "Aleksandr Bachirov",
+            "Sergueï Bekhterev",
+            "Natalia Bouzko",
+            "Jan Daniel"
+          ],
+          "adaptation": "D'après le récit _Les Gens difficiles_ et la pièce _Tatiana Repina_ d'Anton Tchekhov.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lorsque le fils ainé d'une famille de fermiers annonce qu'il souhaite s'installer en ville et demande de l'argent à son père, l'équilibre fragile du foyer cède sa place à des déchainements et des affrontements familiaux."
+            }
+          ]
+        },
+        {
+          "idFilm": 141926,
+          "ordre": 1,
+          "idSeance": 31001,
+          "idCopie": 18896,
+          "duree": 153,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19675,
+          "dateHeure": "2019-10-05T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Mélodie pour orgue de barbarie",
+          "titreVo": "Melodiya dlya sharmanki",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2009,
+          "pays": "Ukraine",
+          "generique": [
+            "Lena Kostiouk",
+            "Roma Bourlaka",
+            "Natalia Bouzko"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À la mort de leur mère, Nikita et Aliona, demi-frère et sœur, se lancent ensemble à la recherche de leur père respectif. Mais, seuls dans la grande ville, la veille de Noël, leur quête va progressivement tourner au drame."
+            }
+          ]
+        },
+        {
+          "idFilm": 141926,
+          "ordre": 1,
+          "idSeance": 31822,
+          "idCopie": 18896,
+          "duree": 153,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19675,
+          "dateHeure": "2019-10-19T16:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Mélodie pour orgue de barbarie",
+          "titreVo": "Melodiya dlya sharmanki",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2009,
+          "pays": "Ukraine",
+          "generique": [
+            "Lena Kostiouk",
+            "Roma Bourlaka",
+            "Natalia Bouzko"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À la mort de leur mère, Nikita et Aliona, demi-frère et sœur, se lancent ensemble à la recherche de leur père respectif. Mais, seuls dans la grande ville, la veille de Noël, leur quête va progressivement tourner au drame."
+            }
+          ]
+        },
+        {
+          "idFilm": 141916,
+          "ordre": 1,
+          "idSeance": 30951,
+          "idCopie": 18892,
+          "duree": 98,
+          "version": "",
+          "format": "",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19778,
+          "dateHeure": "2019-09-28T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Notre pain honnête",
+          "titreVo": "Nash chestnyy khleb",
+          "realisateurs": "Alexandre Mouratov, Kira Mouratova",
+          "annee": 1964,
+          "pays": "URSS",
+          "generique": [
+            "Dmitri Milioutenko"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Makar, un responsable de kolkhoze, doit faire face a l'indifférence de la direction du parti qui a décidé de l'envoyer à la retraite. La mauvaise gestion et l'exploitation négligée du sol semblent mener le kolkhoze à un appauvrissement collectif."
+            }
+          ]
+        },
+        {
+          "idFilm": 141916,
+          "ordre": 1,
+          "idSeance": 31022,
+          "idCopie": 18892,
+          "duree": 98,
+          "version": "",
+          "format": "",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19778,
+          "dateHeure": "2019-10-09T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Notre pain honnête",
+          "titreVo": "Nash chestnyy khleb",
+          "realisateurs": "Alexandre Mouratov, Kira Mouratova",
+          "annee": 1964,
+          "pays": "URSS",
+          "generique": [
+            "Dmitri Milioutenko"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Makar, un responsable de kolkhoze, doit faire face a l'indifférence de la direction du parti qui a décidé de l'envoyer à la retraite. La mauvaise gestion et l'exploitation négligée du sol semblent mener le kolkhoze à un appauvrissement collectif."
+            }
+          ]
+        },
+        {
+          "idFilm": 75042,
+          "ordre": 1,
+          "idSeance": 30953,
+          "idCopie": 18773,
+          "duree": 83,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19650,
+          "dateHeure": "2019-09-28T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Parmi les pierres grises",
+          "titreVo": "Sredi seryh kamnej",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1983,
+          "pays": "URSS",
+          "generique": [
+            "Stanislav Govoroukhine",
+            "Viktor Aristov",
+            "Sergueï Popov"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un juge récemment veuf est obsédé par les souvenirs de sa femme et sa vie actuelle ne lui procure que dépit et irritation. Son fils Vasia aspire à s'affranchir de la maison parentale. Valiok et Marousia, enfants de pauvres gens, deviennent ses amis."
+            }
+          ]
+        },
+        {
+          "idFilm": 75042,
+          "ordre": 1,
+          "idSeance": 31817,
+          "idCopie": 18773,
+          "duree": 83,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19650,
+          "dateHeure": "2019-10-12T20:45:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Parmi les pierres grises",
+          "titreVo": "Sredi seryh kamnej",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1983,
+          "pays": "URSS",
+          "generique": [
+            "Stanislav Govoroukhine",
+            "Viktor Aristov",
+            "Sergueï Popov"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un juge récemment veuf est obsédé par les souvenirs de sa femme et sa vie actuelle ne lui procure que dépit et irritation. Son fils Vasia aspire à s'affranchir de la maison parentale. Valiok et Marousia, enfants de pauvres gens, deviennent ses amis."
+            }
+          ]
+        },
+        {
+          "idFilm": 141919,
+          "ordre": 1,
+          "idSeance": 31810,
+          "idCopie": 18879,
+          "duree": 112,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19673,
+          "dateHeure": "2019-10-02T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Petites passions",
+          "art": "Les",
+          "titreVo": "Uvlecheniya",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1993,
+          "pays": "Russie",
+          "generique": [
+            "Svetlana Kolenda",
+            "Renata Litvinova",
+            "Albina Skarga"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lilia et Violetta s'intéressent à la course, et deux jockeys veulent conquérir les jeunes filles. Intrigues amoureuses et sportives vont s'entremêler."
+            }
+          ]
+        },
+        {
+          "idFilm": 141919,
+          "ordre": 1,
+          "idSeance": 31815,
+          "idCopie": 18879,
+          "duree": 112,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19673,
+          "dateHeure": "2019-10-10T21:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Petites passions",
+          "art": "Les",
+          "titreVo": "Uvlecheniya",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1993,
+          "pays": "Russie",
+          "generique": [
+            "Svetlana Kolenda",
+            "Renata Litvinova",
+            "Albina Skarga"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lilia et Violetta s'intéressent à la course, et deux jockeys veulent conquérir les jeunes filles. Intrigues amoureuses et sportives vont s'entremêler."
+            }
+          ]
+        },
+        {
+          "idFilm": 41148,
+          "ordre": 1,
+          "idSeance": 31800,
+          "idCopie": 18774,
+          "duree": 153,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19652,
+          "dateHeure": "2019-09-27T20:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Syndrome asthénique",
+          "art": "Le",
+          "titreVo": "Astenitchevski sindrom",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1991,
+          "pays": "URSS",
+          "generique": [
+            "Olga Antonova",
+            "Viktor Aristov",
+            "Sergueï Popov"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une mère de famille veuve et un instituteur brisé par les problèmes personnels et professionnels se voient plongés dans une profonde dépression, et réagissent de façons très différentes à la pression qu'exerce sur eux la société."
+            }
+          ]
+        },
+        {
+          "idFilm": 41148,
+          "ordre": 1,
+          "idSeance": 31034,
+          "idCopie": 18774,
+          "duree": 153,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19652,
+          "dateHeure": "2019-10-11T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Syndrome asthénique",
+          "art": "Le",
+          "titreVo": "Astenitchevski sindrom",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1991,
+          "pays": "URSS",
+          "generique": [
+            "Olga Antonova",
+            "Viktor Aristov",
+            "Sergueï Popov"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une mère de famille veuve et un instituteur brisé par les problèmes personnels et professionnels se voient plongés dans une profonde dépression, et réagissent de façons très différentes à la pression qu'exerce sur eux la société."
+            }
+          ]
+        },
+        {
+          "idFilm": 118618,
+          "ordre": 1,
+          "idSeance": 30985,
+          "idCopie": 18775,
+          "duree": 113,
+          "version": "VOSTF",
+          "format": "",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19653,
+          "dateHeure": "2019-10-03T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Trois histoires",
+          "titreVo": "Tri istorii",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1996,
+          "pays": "Russie-Ukraine",
+          "generique": [
+            "Serguei Makovetsky",
+            "Leonid Kouchnir",
+            "Jan Daniel"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'histoire glaçante de Tikhomirov qui ne supporte plus sa voisine envahissante, le récit d'une infirmière aigrie par son passé, et la confrontation cruelle et impitoyable entre une fillette et un vieillard."
+            }
+          ]
+        },
+        {
+          "idFilm": 118618,
+          "ordre": 1,
+          "idSeance": 31816,
+          "idCopie": 18775,
+          "duree": 113,
+          "version": "VOSTF",
+          "format": "",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19653,
+          "dateHeure": "2019-10-12T18:15:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Trois histoires",
+          "titreVo": "Tri istorii",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1996,
+          "pays": "Russie-Ukraine",
+          "generique": [
+            "Serguei Makovetsky",
+            "Leonid Kouchnir",
+            "Jan Daniel"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'histoire glaçante de Tikhomirov qui ne supporte plus sa voisine envahissante, le récit d'une infirmière aigrie par son passé, et la confrontation cruelle et impitoyable entre une fillette et un vieillard."
+            }
+          ]
+        },
+        {
+          "idFilm": 141927,
+          "ordre": 1,
+          "idSeance": 31812,
+          "idCopie": 18897,
+          "duree": 116,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19665,
+          "dateHeure": "2019-10-05T21:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Éternel retour",
+          "art": "L'",
+          "titreVo": "Vechnoe vozvrashchenie",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2012,
+          "pays": "Ukraine",
+          "generique": [
+            "Alla Demidova",
+            "Renata Litvinova",
+            "Serguei Makovetsky"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le film s'inspire d'une histoire vraie survenue à Kira Mouratova, quand un étudiant du même cours qu'elle a commencé à lui raconter comme il se sentait déchiré entre sa femme et sa maîtresse, qu'il aimait toutes les deux sincèrement."
+            }
+          ]
+        },
+        {
+          "idFilm": 141927,
+          "ordre": 1,
+          "idSeance": 31092,
+          "idCopie": 18897,
+          "duree": 116,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2013,
+          "idEvenement": 19665,
+          "dateHeure": "2019-10-20T17:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Éternel retour",
+          "art": "L'",
+          "titreVo": "Vechnoe vozvrashchenie",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2012,
+          "pays": "Ukraine",
+          "generique": [
+            "Alla Demidova",
+            "Renata Litvinova",
+            "Serguei Makovetsky"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le film s'inspire d'une histoire vraie survenue à Kira Mouratova, quand un étudiant du même cours qu'elle a commencé à lui raconter comme il se sentait déchiré entre sa femme et sa maîtresse, qu'il aimait toutes les deux sincèrement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Courts métrages",
+      "tri": 3,
+      "items": [
+        {
+          "idFilm": 141923,
+          "ordre": 2,
+          "idSeance": 31846,
+          "idCopie": 18870,
+          "duree": 10,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "valide": 0,
+          "idCategorie": 2038,
+          "idEvenement": 19671,
+          "dateHeure": "2019-09-27T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Attestation",
+          "art": "L'",
+          "titreVo": "Spravka",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2004,
+          "pays": "Russie",
+          "generique": [
+            "Inga Doronina",
+            "Yuriy Nevgamonnyy",
+            "Nina Rouslanova"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quand Grigori arrive au cabinet où sa mère est soignée par le docteur Rita, ce dernier l'informe qu'elle est décédée durant la nuit."
+            }
+          ]
+        },
+        {
+          "idFilm": 141923,
+          "ordre": 2,
+          "idSeance": 31006,
+          "idCopie": 18870,
+          "duree": 10,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "valide": 0,
+          "idCategorie": 2038,
+          "idEvenement": 19671,
+          "dateHeure": "2019-10-06T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Attestation",
+          "art": "L'",
+          "titreVo": "Spravka",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2004,
+          "pays": "Russie",
+          "generique": [
+            "Inga Doronina",
+            "Yuriy Nevgamonnyy",
+            "Nina Rouslanova"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quand Grigori arrive au cabinet où sa mère est soignée par le docteur Rita, ce dernier l'informe qu'elle est décédée durant la nuit."
+            }
+          ]
+        },
+        {
+          "idFilm": 141915,
+          "ordre": 2,
+          "idSeance": 31847,
+          "idCopie": 18890,
+          "duree": 45,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2038,
+          "idEvenement": 19776,
+          "dateHeure": "2019-10-06T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Au bord du ravin abrupt",
+          "titreVo": "U krutogo yara",
+          "realisateurs": "Alexandre Mouratov, Kira Mouratova",
+          "annee": 1962,
+          "pays": "URSS",
+          "generique": [
+            "Valeri Issakov",
+            "Marcella Tchebotarenko"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Senia, un villageois appréciant la chasse et le calme de la nature, est chargé d'abattre une famille de loups rodant dans la forêt et menaçant le kolkhoze. Mais sa traque ne s'avère pas aisée et un conflit intérieur va rapidement agiter le chasseur."
+            }
+          ]
+        },
+        {
+          "idFilm": 141915,
+          "ordre": 2,
+          "idSeance": 31848,
+          "idCopie": 18890,
+          "duree": 45,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2038,
+          "idEvenement": 19776,
+          "dateHeure": "2019-10-12T16:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Au bord du ravin abrupt",
+          "titreVo": "U krutogo yara",
+          "realisateurs": "Alexandre Mouratov, Kira Mouratova",
+          "annee": 1962,
+          "pays": "URSS",
+          "generique": [
+            "Valeri Issakov",
+            "Marcella Tchebotarenko"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Senia, un villageois appréciant la chasse et le calme de la nature, est chargé d'abattre une famille de loups rodant dans la forêt et menaçant le kolkhoze. Mais sa traque ne s'avère pas aisée et un conflit intérieur va rapidement agiter le chasseur."
+            }
+          ]
+        },
+        {
+          "idFilm": 141920,
+          "ordre": 1,
+          "idSeance": 31846,
+          "idCopie": 18880,
+          "duree": 19,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2038,
+          "idEvenement": 19671,
+          "dateHeure": "2019-09-27T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Lettre à l'Amérique",
+          "titreVo": "Pismo v Ameriku",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1999,
+          "pays": "Ukraine",
+          "generique": [
+            "Sergueï Tchetbertkov",
+            "Outa Kilter",
+            "Pavel Makarov"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Igor enregistre un message audiovisuel pour son ancien amour émigré aux États-Unis. Peu inspiré, il en vient à discuter avec Lena, à qui il sous-loue son appartement, et qui lui doit deux mois de loyer..."
+            }
+          ]
+        },
+        {
+          "idFilm": 141920,
+          "ordre": 1,
+          "idSeance": 31006,
+          "idCopie": 18880,
+          "duree": 19,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2038,
+          "idEvenement": 19671,
+          "dateHeure": "2019-10-06T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Lettre à l'Amérique",
+          "titreVo": "Pismo v Ameriku",
+          "realisateurs": "Kira Mouratova",
+          "annee": 1999,
+          "pays": "Ukraine",
+          "generique": [
+            "Sergueï Tchetbertkov",
+            "Outa Kilter",
+            "Pavel Makarov"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Igor enregistre un message audiovisuel pour son ancien amour émigré aux États-Unis. Peu inspiré, il en vient à discuter avec Lena, à qui il sous-loue son appartement, et qui lui doit deux mois de loyer..."
+            }
+          ]
+        },
+        {
+          "idFilm": 141914,
+          "ordre": 1,
+          "idSeance": 31847,
+          "idCopie": 18891,
+          "duree": 27,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2038,
+          "idEvenement": 19776,
+          "dateHeure": "2019-10-06T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Pluie de printemps",
+          "titreVo": "Vesenniy dozhd",
+          "realisateurs": "Alexandre Mouratov, Kira Mouratova",
+          "annee": 1958,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un train de banlieue, Kolia rencontre la jeune Katia. Ils font connaissance et commencent à se fréquenter, mais leur idylle va bientôt tourner court."
+            }
+          ]
+        },
+        {
+          "idFilm": 141914,
+          "ordre": 1,
+          "idSeance": 31848,
+          "idCopie": 18891,
+          "duree": 27,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2038,
+          "idEvenement": 19776,
+          "dateHeure": "2019-10-12T16:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Pluie de printemps",
+          "titreVo": "Vesenniy dozhd",
+          "realisateurs": "Alexandre Mouratov, Kira Mouratova",
+          "annee": 1958,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un train de banlieue, Kolia rencontre la jeune Katia. Ils font connaissance et commencent à se fréquenter, mais leur idylle va bientôt tourner court."
+            }
+          ]
+        },
+        {
+          "idFilm": 141925,
+          "ordre": 3,
+          "idSeance": 31846,
+          "idCopie": 18895,
+          "duree": 33,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2038,
+          "idEvenement": 19671,
+          "dateHeure": "2019-09-27T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Poupée",
+          "art": "La",
+          "titreVo": "Kukla",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2007,
+          "pays": "Ukraine",
+          "generique": [
+            "Natalia Bouzko",
+            "Leonid Kouchnir",
+            "Yuriy Nevgamonnyy"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Tania, peintre de rue, est abordée par Sacha, un ami de son ex-mari Boris. Ce dernier a confié à son compagnon le soin d'offrir à Tania une importante somme d'argent, ce qui fait le bonheur de la jeune artiste."
+            }
+          ]
+        },
+        {
+          "idFilm": 141925,
+          "ordre": 3,
+          "idSeance": 31006,
+          "idCopie": 18895,
+          "duree": 33,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2038,
+          "idEvenement": 19671,
+          "dateHeure": "2019-10-06T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Poupée",
+          "art": "La",
+          "titreVo": "Kukla",
+          "realisateurs": "Kira Mouratova",
+          "annee": 2007,
+          "pays": "Ukraine",
+          "generique": [
+            "Natalia Bouzko",
+            "Leonid Kouchnir",
+            "Yuriy Nevgamonnyy"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Tania, peintre de rue, est abordée par Sacha, un ami de son ex-mari Boris. Ce dernier a confié à son compagnon le soin d'offrir à Tania une importante somme d'argent, ce qui fait le bonheur de la jeune artiste."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Kira Mouratova actrice",
+      "tri": 3,
+      "items": [
+        {
+          "idFilm": 142014,
+          "ordre": 2,
+          "idSeance": 30962,
+          "idCopie": 18900,
+          "duree": 25,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2023,
+          "idEvenement": 19781,
+          "dateHeure": "2019-09-29T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Docteur",
+          "titreVo": "Doctor",
+          "realisateurs": "Vladimir Bortko",
+          "annee": 1974,
+          "pays": "URSS"
+        },
+        {
+          "idFilm": 142014,
+          "ordre": 2,
+          "idSeance": 31820,
+          "idCopie": 18900,
+          "duree": 25,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2023,
+          "idEvenement": 19781,
+          "dateHeure": "2019-10-13T20:15:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Docteur",
+          "titreVo": "Doctor",
+          "realisateurs": "Vladimir Bortko",
+          "annee": 1974,
+          "pays": "URSS"
+        },
+        {
+          "idFilm": 114534,
+          "ordre": 1,
+          "idSeance": 30962,
+          "idCopie": 18899,
+          "duree": 87,
+          "version": "",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2023,
+          "idEvenement": 19781,
+          "dateHeure": "2019-09-29T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Une tournée dangereuse",
+          "titreVo": "Opasnye gastroli",
+          "realisateurs": "Georgi Yungvald-Khilkevich",
+          "annee": 1969,
+          "pays": "URSS",
+          "generique": [
+            "Nikolay Grinko",
+            "Vladimir Vysotskiy",
+            "Yefim Kopelyan"
+          ]
+        },
+        {
+          "idFilm": 114534,
+          "ordre": 1,
+          "idSeance": 31820,
+          "idCopie": 18899,
+          "duree": 87,
+          "version": "",
+          "format": "DCP",
+          "valide": 0,
+          "idCategorie": 2023,
+          "idEvenement": 19781,
+          "dateHeure": "2019-10-13T20:15:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Une tournée dangereuse",
+          "titreVo": "Opasnye gastroli",
+          "realisateurs": "Georgi Yungvald-Khilkevich",
+          "annee": 1969,
+          "pays": "URSS",
+          "generique": [
+            "Nikolay Grinko",
+            "Vladimir Vysotskiy",
+            "Yefim Kopelyan"
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {}
+}

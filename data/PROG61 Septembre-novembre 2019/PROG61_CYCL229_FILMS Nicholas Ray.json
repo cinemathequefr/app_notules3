@@ -2,12 +2,10 @@
   {
     "titre": "À l'ombre des potences",
     "titreVo": "Run for Cover",
+    "annee": 1955,
     "idFilm": 35310,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
-    "annee": 1954,
-    "anneeSortie": null,
-    "dateSortie": "1955-09-22T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -25,12 +23,10 @@
     "titre": "Amants de la nuit",
     "art": "Les",
     "titreVo": "They Live by Night",
+    "annee": 1951,
     "idFilm": 35517,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
-    "annee": 1947,
-    "anneeSortie": null,
-    "dateSortie": "1951-09-13T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -48,12 +44,10 @@
   {
     "titre": "Amère victoire",
     "titreVo": "",
+    "annee": 1957,
     "idFilm": 37729,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
-    "annee": 1957,
-    "anneeSortie": null,
-    "dateSortie": "1957-11-19T23:00:00.000Z",
     "pays": "France",
     "textes": [
       {
@@ -73,12 +67,10 @@
     "art": "L'",
     "titreVo": "Amerikanische Freund",
     "artVo": "Der",
+    "annee": 1977,
     "idFilm": 45651,
     "ageMinimal": 0,
     "realisateurs": "Wim Wenders",
-    "annee": 1976,
-    "anneeSortie": null,
-    "dateSortie": "1977-09-27T22:00:00.000Z",
     "pays": "RFA-France",
     "textes": [
       {
@@ -97,12 +89,10 @@
     "titre": "Ardente gitane",
     "art": "L'",
     "titreVo": "Hot Blood",
+    "annee": 1957,
     "idFilm": 44946,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
-    "annee": 1955,
-    "anneeSortie": null,
-    "dateSortie": "1957-01-08T23:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -119,12 +109,10 @@
   {
     "titre": "Born to Be Bad",
     "titreVo": "",
+    "annee": 1985,
     "idFilm": 58680,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
-    "annee": 1950,
-    "anneeSortie": null,
-    "dateSortie": "1985-05-28T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -145,12 +133,10 @@
     "art": "Le",
     "titreVo": "True Story of Jesse James",
     "artVo": "The",
+    "annee": 1957,
     "idFilm": 35290,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
-    "annee": 1956,
-    "anneeSortie": null,
-    "dateSortie": "1957-07-02T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -168,12 +154,10 @@
     "titre": "Cinquante-cinq jours de Pékin",
     "art": "Les",
     "titreVo": "Fifty Five Days at Peking",
+    "annee": 1963,
     "idFilm": 35998,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
-    "annee": 1962,
-    "anneeSortie": null,
-    "dateSortie": "1963-08-06T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -191,12 +175,10 @@
     "titre": "Dents du diable",
     "art": "Les",
     "titreVo": "Ombre bianche",
+    "annee": 1960,
     "idFilm": 44109,
     "ageMinimal": 0,
     "realisateurs": "Baccio Bandini, Nicholas Ray",
-    "annee": 1959,
-    "anneeSortie": null,
-    "dateSortie": "1960-09-06T22:00:00.000Z",
     "pays": "Italie-France-Grande-Bretagne-États-Unis",
     "textes": [
       {
@@ -214,12 +196,10 @@
   {
     "titre": "Derrière le miroir",
     "titreVo": "Bigger Than Life",
+    "annee": 1957,
     "idFilm": 35989,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
-    "annee": 1956,
-    "anneeSortie": null,
-    "dateSortie": "1957-02-12T23:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -238,12 +218,10 @@
     "titre": "Diables de Guadalcanal",
     "art": "Les",
     "titreVo": "Flying Leathernecks",
+    "annee": 1952,
     "idFilm": 35727,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
-    "annee": 1950,
-    "anneeSortie": null,
-    "dateSortie": "1952-09-11T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -260,12 +238,10 @@
   {
     "titre": "Don't Expect Too Much",
     "titreVo": "",
+    "annee": 2011,
     "idFilm": 125950,
     "ageMinimal": null,
     "realisateurs": "Susan Ray",
-    "annee": 2011,
-    "anneeSortie": null,
-    "dateSortie": null,
     "pays": "États-Unis",
     "textes": [
       {
@@ -278,12 +254,10 @@
     "titre": "Forêt interdite",
     "art": "La",
     "titreVo": "Wind Across the Everglades",
+    "annee": 1959,
     "idFilm": 35463,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray, Budd Schulberg",
-    "annee": 1958,
-    "anneeSortie": null,
-    "dateSortie": "1959-04-02T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -302,12 +276,10 @@
     "titre": "Fureur de vivre",
     "art": "La",
     "titreVo": "Rebel without a Cause",
+    "annee": 1956,
     "idFilm": 35507,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
-    "annee": 1955,
-    "anneeSortie": null,
-    "dateSortie": "1956-03-27T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -322,16 +294,33 @@
     ]
   },
   {
+    "titre": "High Green Wall",
+    "titreVo": "",
+    "annee": 1954,
+    "idFilm": 142228,
+    "ageMinimal": null,
+    "realisateurs": "Nicholas Ray",
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Adaptation télévisée de _L'Homme qui aimait Dickens_ de Evelyn Waugh."
+      }
+    ],
+    "generique": [
+      "Thomas Gomez",
+      "Maurice Marsac"
+    ]
+  },
+  {
     "titre": "Indomptables",
     "art": "Les",
     "titreVo": "Lusty Men",
     "artVo": "The",
+    "annee": 1953,
     "idFilm": 35369,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray, Robert Parrish",
-    "annee": 1952,
-    "anneeSortie": null,
-    "dateSortie": "1953-08-20T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -349,12 +338,10 @@
   {
     "titre": "Johnny Guitar",
     "titreVo": "",
+    "annee": 1955,
     "idFilm": 35504,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
-    "annee": 1953,
-    "anneeSortie": null,
-    "dateSortie": "1955-02-10T23:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -373,12 +360,10 @@
     "titre": "Maison dans l'ombre",
     "art": "La",
     "titreVo": "On Dangerous Ground",
+    "annee": 1952,
     "idFilm": 73564,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
-    "annee": 1950,
-    "anneeSortie": null,
-    "dateSortie": "1952-06-19T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -396,12 +381,10 @@
   {
     "titre": "Nick's movie",
     "titreVo": "Lightning Over Water",
+    "annee": 1980,
     "idFilm": 39308,
     "ageMinimal": null,
     "realisateurs": "Wim Wenders, Nicholas Ray",
-    "annee": 1979,
-    "anneeSortie": 1980,
-    "dateSortie": null,
     "pays": "RFA",
     "textes": [
       {
@@ -414,12 +397,10 @@
     "titre": "Paradis des mauvais garçons",
     "art": "Le",
     "titreVo": "Macao",
+    "annee": 1952,
     "idFilm": 37057,
     "ageMinimal": 0,
     "realisateurs": "Josef von Sternberg",
-    "annee": 1950,
-    "anneeSortie": null,
-    "dateSortie": "1952-09-11T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -440,12 +421,10 @@
   {
     "titre": "Rêves humides",
     "titreVo": "Wet Dreams",
+    "annee": 1974,
     "idFilm": 88810,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray, Jens Jørgen Thorsen, Sam Rotterdam, [etc.]",
-    "annee": 1974,
-    "anneeSortie": null,
-    "dateSortie": "1974-09-03T22:00:00.000Z",
     "pays": "Pays-Bas",
     "textes": [
       {
@@ -467,12 +446,10 @@
     "titre": "Roi des rois",
     "art": "Le",
     "titreVo": "King of Kings",
+    "annee": 1960,
     "idFilm": 35428,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
-    "annee": 1960,
-    "anneeSortie": null,
-    "dateSortie": null,
     "pays": "États-Unis",
     "textes": [
       {
@@ -490,12 +467,10 @@
     "titre": "Ruelles du malheur",
     "art": "Les",
     "titreVo": "Knock on any Door",
+    "annee": 1948,
     "idFilm": 35408,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
-    "annee": 1948,
-    "anneeSortie": null,
-    "dateSortie": null,
     "pays": "États-Unis",
     "textes": [
       {
@@ -513,12 +488,10 @@
   {
     "titre": "Secret de femme",
     "titreVo": "A Woman's Secret",
+    "annee": 1948,
     "idFilm": 73563,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
-    "annee": 1948,
-    "anneeSortie": null,
-    "dateSortie": null,
     "pays": "États-Unis",
     "textes": [
       {
@@ -536,12 +509,10 @@
   {
     "titre": "Traquenard",
     "titreVo": "Party Girl",
+    "annee": 1960,
     "idFilm": 35535,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
-    "annee": 1958,
-    "anneeSortie": null,
-    "dateSortie": "1960-03-08T23:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -559,12 +530,10 @@
     "titre": "Violent",
     "art": "Le",
     "titreVo": "In a Lonely Place",
+    "annee": 1951,
     "idFilm": 35986,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
-    "annee": 1949,
-    "anneeSortie": null,
-    "dateSortie": "1951-06-07T22:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {
@@ -582,12 +551,10 @@
   {
     "titre": "We Can't Go Home Again",
     "titreVo": "",
+    "annee": 1980,
     "idFilm": 35499,
     "ageMinimal": null,
     "realisateurs": "Nicholas Ray",
-    "annee": 1971,
-    "anneeSortie": null,
-    "dateSortie": "1980-02-19T23:00:00.000Z",
     "pays": "États-Unis",
     "textes": [
       {

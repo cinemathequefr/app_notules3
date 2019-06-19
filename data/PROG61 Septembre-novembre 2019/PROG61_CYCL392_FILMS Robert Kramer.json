@@ -1,0 +1,568 @@
+[
+  {
+    "titre": "A toute allure",
+    "titreVo": "",
+    "annee": 1981,
+    "idFilm": 77276,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Nelly et Serge aiment le patin à roulettes qu'ils pratiquent dans la patinoire du centre commercial de La Défense. Ils ont un projet : s'entraîner sans répit pour aller en Amérique et devenir champion de roller derby. Mais sans argent, ce projet est irréalisable."
+      }
+    ],
+    "generique": [
+      "Laure Duthilleul",
+      "William Cherino",
+      "Bernard Ballet"
+    ]
+  },
+  {
+    "titre": "Berlin 10/90",
+    "titreVo": "",
+    "annee": 1990,
+    "idFilm": 74588,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le film est une commande de La Sept. Il s'agit de réaliser un plan séquence d'une heure en vidéo. Enfermé dans la salle de bains d'un hôtel de Berlin, face à un téléviseur qui projette des extraits d'actualités et des séquences tournées par lui-même, le cinéaste se livre au difficile exercice d'autofilmage et improvise sur le sens de sa présence dans la ville de ses origines."
+      }
+    ]
+  },
+  {
+    "titre": "Cités de la plaine",
+    "titreVo": "",
+    "annee": 2001,
+    "idFilm": 72267,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans le nord de la France, un homme remonte le fil de sa vie. Immigré maghrébin, il a fondé un commerce contre vents et marées et épousé une française dont il a eu un enfant. Aujourd'hui, Ben perd la vue et son mariage bat de l'aile. Il pense à sa mère égorgée en Algérie."
+      }
+    ],
+    "generique": [
+      "Ben",
+      "Amélie Desrumeaux",
+      "Bernard Trolet",
+      "Erika Kramer"
+    ]
+  },
+  {
+    "titre": "City Empires",
+    "titreVo": "",
+    "annee": 1998,
+    "idFilm": 142087,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Film inédit réalisé à l'occasion de la Revue parlée, « Architecte et cinéaste », organisée par le Centre Pompidou, présentée par Hubert Damisch, et dont les participants étaient Rem Koolhaas et Robert Kramer. Les séquences de ce film sont extraites de : _Route One/USA_, _Diesel_, _À toute allure_, _Berlin 10/90_, _Sous le vent_, _Ghosts of Electricity_."
+      }
+    ]
+  },
+  {
+    "titre": "Dear doc",
+    "titreVo": "",
+    "annee": 1991,
+    "idFilm": 93002,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Robert Kramer s'adresse à son complice Paul McIsaac, alias Doc, le personnage principal de _Doc's Kingdom e_t de _Route One/USA_. Cette lettre-vidéo, écrite, tournée et composée à la fin du montage de _Route One/USA_, exprime la force d'une amitié de longue date."
+      }
+    ],
+    "generique": [
+      "Paul McIsaac"
+    ]
+  },
+  {
+    "titre": "Des graines dans le vent",
+    "titreVo": "",
+    "annee": 1997,
+    "idFilm": 142089,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Plan séquence suivant une marche européenne contre la précarité à Wakefield, dans le centre de l'Angleterre."
+      }
+    ]
+  },
+  {
+    "titre": "Diesel",
+    "titreVo": "",
+    "annee": 1985,
+    "idFilm": 49501,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans une ville du futur, Anna, une jeune prostituée est témoin d'un meurtre. Deux tueurs se lancent à ses trousses. La jeune femme trouve refuge auprès d'un marginal, Diesel, qui se terre dans les galeries souterraines de la ville."
+      }
+    ],
+    "generique": [
+      "Gérard Klein",
+      "Agnès Soral",
+      "Richard Bohringer",
+      "Niels Arestrup"
+    ]
+  },
+  {
+    "titre": "Doc's Kingdom",
+    "titreVo": "",
+    "annee": 1991,
+    "idFilm": 56078,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "Portugal-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après le décès de sa mère dans un hôpital new-yorkais, Jimmy découvre que son père qu'il croyait mort vit au Portugal, et il part à sa rencontre. Doc est médecin et habite seul dans le port de Lisbonne."
+      }
+    ],
+    "generique": [
+      "Paul McIsaac",
+      "Vincent Gallo",
+      "Ruy Furtado",
+      "Roslyn Payn"
+    ]
+  },
+  {
+    "titre": "En marge",
+    "titreVo": "Edge",
+    "artVo": "The",
+    "annee": 1968,
+    "idFilm": 58827,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un militant contre la Guerre au Vietnam envisage d'assassiner le président des États-Unis. Dans son groupuscule, l'intérêt politique d'un meurtre, sa portée révolutionnaire ou ou sa résonance morale sont discutés. Se pose la question des rapports entre théorie et pratique, la pensée et l'acte."
+      }
+    ],
+    "generique": [
+      "Jack Rader",
+      "Tom Griffin",
+      "Howard Loeb Babeuf"
+    ]
+  },
+  {
+    "titre": "FALN",
+    "titreVo": "",
+    "annee": 1965,
+    "idFilm": 92756,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer, Peter Gessner",
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un documentaire social et politique sur la situation au Venezuela au début des années soixante, et l'apparition de la lutte armée, en particulier les guérilleros des Forces Armées de Libération Nationale (FALN)."
+      }
+    ]
+  },
+  {
+    "titre": "Ghosts of electricity",
+    "titreVo": "",
+    "annee": 1997,
+    "idFilm": 92753,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le film est une commande du Festival de Locarno pour son cinquantième anniversaire. Robert Kramer y imagine un monde dans lequel le cinéma et les sciences entretiennent un dialogue humaniste qui rend nos vies meilleures."
+      }
+    ]
+  },
+  {
+    "titre": "Guns",
+    "titreVo": "",
+    "annee": 1980,
+    "idFilm": 33982,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un journaliste enquête sur un trafic d'armes qui transite par le port de Marseille. Il est l'ami d'une actrice, Margot, venue à Marseille accompagner sa mère dans sa maladie. À Paris, il vit avec une Américaine et sa petite fille."
+      }
+    ],
+    "generique": [
+      "Patrick Bauchau",
+      "Juliet Berto",
+      "Peggy Frankston"
+    ]
+  },
+  {
+    "titre": "Hi Steve, Vidéo-lettres de Robert Kramer et Stephen Dwoskin",
+    "titreVo": "",
+    "annee": 1991,
+    "idFilm": 142002,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer, Stephen Dwoskin",
+    "pays": "France-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Entre février et juin 1991, les cinéastes Robert Kramer et Steve Dwoskin échangent plusieurs vidéolettres (quatre de Kramer, trois de Dwoskin), réalisées en Hi8."
+      }
+    ]
+  },
+  {
+    "titre": "Ice",
+    "titreVo": "",
+    "annee": 1969,
+    "idFilm": 33992,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les États-Unis sont en guerre contre le Mexique. À New-York, un groupe de révolutionnaires clandestins se mobilise contre le régime fasciste et répressif. Après que l'un des leurs a été torturé par les agents du gouvernement, les radicaux décident de passer à l'action."
+      }
+    ],
+    "generique": [
+      "Tom Griffin",
+      "Paul McIsaac",
+      "Robert Kramer"
+    ]
+  },
+  {
+    "titre": "In the Country",
+    "titreVo": "",
+    "annee": 1967,
+    "idFilm": 82026,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme et une femme se retirent à la campagne. Ils fuient l'action politique, la lutte contre la Guerre du Vietnam, à laquelle ils ne croient plus. L'homme est replié sur lui-même et amer. La femme croit encore en l'amour et l'amitié."
+      }
+    ],
+    "generique": [
+      "Catherine Merrill",
+      "William Devane"
+    ]
+  },
+  {
+    "titre": "Manteau",
+    "art": "Le",
+    "titreVo": "",
+    "annee": 1996,
+    "idFilm": 92757,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un cinéaste enquête sur un mystérieux manteau péruvien et tente, avec l'aide d'un archéologue, de retracer l'histoire du vêtement autrefois volé par un conquistador."
+      }
+    ],
+    "generique": [
+      "Jean-Quentin Châtelain"
+    ]
+  },
+  {
+    "titre": "Maquette",
+    "titreVo": "",
+    "annee": 1990,
+    "idFilm": 142085,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une troupe de danse travaille dans le centre culturel de Châteauvallon au dessus de Toulon. Le film aborde les rapports entre les acteurs du centre culturel et la ville de Toulon."
+      }
+    ]
+  },
+  {
+    "titre": "Milestones",
+    "titreVo": "",
+    "annee": 1975,
+    "idFilm": 62729,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer, John Douglas",
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le film dresse le portrait d'une Amérique qui change à travers les témoignages de hippies et d'activistes politiques. Dans le contexte de la Guerre du Vietnam et de la contre-culture, ils tâchent de réconcilier leurs idéaux avec le mode vie américain. Le film mêle séquences écrites et improvisations."
+      }
+    ],
+    "generique": [
+      "Grace Paley",
+      "Mary Chapelle",
+      "Sharon Krebs",
+      "Jim Nolfi"
+    ]
+  },
+  {
+    "titre": "Naissance",
+    "titreVo": "",
+    "annee": 1981,
+    "idFilm": 142083,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un film sur la naissance de Noélie, le 10 mai 1981, l'attente de l'enfant et son arrivée dans la famille."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Film de commande sur les mécanismes physiologiques engendrés par la peur. Une femme est abordée par un homme : apeurée elle s'enfuit."
+      }
+    ],
+    "generique": [
+      "Chantal Birman",
+      "Valérie Coquerel-Jeanneau",
+      "Yves Jeanneau"
+    ]
+  },
+  {
+    "titre": "Notre nazi",
+    "titreVo": "",
+    "annee": 1984,
+    "idFilm": 92754,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Robert Kramer suit le tournage de _Wundkanal_, film réalisé par le cinéaste allemand Thomas Harlan. Pour interpréter le rôle principal, Harlan a fait appel à un criminel de guerre, le docteur Alfred Filbert, ancien commandant de la Gestapo. ."
+      }
+    ],
+    "generique": [
+      "Alfred Filbert",
+      "Thomas Harlan"
+    ]
+  },
+  {
+    "titre": "People's war",
+    "titreVo": "",
+    "annee": 1969,
+    "idFilm": 79508,
+    "ageMinimal": null,
+    "realisateurs": "Newsreel",
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Tourné au Nord Viêt-Nam en 1969, _People's Wa_r filme la mobilisation du peuple vietnamien contre la puissante armée américaine : la « guerre du peuple »."
+      }
+    ]
+  },
+  {
+    "titre": "Peur",
+    "art": "La",
+    "titreVo": "",
+    "annee": 1983,
+    "idFilm": 142091,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Film de commande sur les mécanismes physiologiques engendrés par la peur. Une femme est abordée par un homme : apeurée elle s'enfuit."
+      }
+    ]
+  },
+  {
+    "titre": "Plan-minutes",
+    "titreVo": "",
+    "annee": 1995,
+    "idFilm": 142090,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Succession de plans d'une minutes saisissant des instants de vie susceptibles d'intéresser un jour les spectateurs qui célébreront le deuxième centenaire du cinéma."
+      }
+    ]
+  },
+  {
+    "titre": "Point de départ",
+    "titreVo": "",
+    "annee": 1994,
+    "idFilm": 59674,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1969, Robert Kramer s'était rendu au Vietnam avec une délégation d'américains opposés à la guerre et en avait ramené 40 minutes en noir et blanc intitulées _People's War._ 23  ans plus tard, il à Hanoï, caméra sur l'épaule, avide de voir, d'écouter, de comprendre le Vietnam des années 1990."
+      }
+    ]
+  },
+  {
+    "titre": "Roue. Greg Lemond USA/Andrew Hampsten USA",
+    "art": "La",
+    "titreVo": "",
+    "annee": 1993,
+    "idFilm": 142086,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Portrait des coureurs Greg Lemond et Andrew Hampsten à la veille de la saison cycliste de 1993."
+      }
+    ]
+  },
+  {
+    "titre": "Route one/U.S.A",
+    "titreVo": "",
+    "annee": 1991,
+    "idFilm": 56969,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Robert et Doc traversent les Etats-Unis du Canada vers la la Floride. Le hasard les porte à faire de nombreuses rencontres. Avec ceux qu'ils croisent, il est question de la pauvreté, du racisme, de la déforestation, de la condition des migrants et de la violence dans le pays."
+      }
+    ],
+    "generique": [
+      "Paul McIsaac"
+    ]
+  },
+  {
+    "titre": "Say Kom Sa",
+    "titreVo": "",
+    "annee": 1998,
+    "idFilm": 123088,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Erika et Robert Kramer reviennent sur leur vie commune depuis dix ans et l'interrogent."
+      }
+    ]
+  },
+  {
+    "titre": "Scenes from Portuguese Class Struggle",
+    "titreVo": "",
+    "annee": 1975,
+    "idFilm": 121940,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer, Philip Spinelli",
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le film observe les changements dans la société portugaise pendant la Révolution des œillets, entre 1974 et 1976. Il cherche à comprendre quelles étaient les potentialités politiques réelles du Mouvement pour le pouvoir populaire."
+      }
+    ]
+  },
+  {
+    "titre": "Sous le vent",
+    "titreVo": "",
+    "annee": 1991,
+    "idFilm": 141948,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Robert Kramer propose un voyage le long de la Seine, de Omaha Beach à Paris. Que ce soit avec Serge Daney, avec une exploitante ou dans les archives, il est beaucoup question du cinéma et de son avenir."
+      }
+    ]
+  },
+  {
+    "titre": "Troublemakers",
+    "titreVo": "",
+    "annee": 1966,
+    "idFilm": 142262,
+    "ageMinimal": null,
+    "realisateurs": "Robert Machover, Norman Fruchter",
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Un plan d'enfer",
+    "titreVo": "",
+    "annee": 1986,
+    "idFilm": 142088,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France",
+    "generique": [
+      "Christine Amat",
+      "Diane Bellego"
+    ]
+  },
+  {
+    "titre": "Walk the walk",
+    "titreVo": "",
+    "annee": 1996,
+    "idFilm": 60497,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Abel est noir et entraineur sportif. Nellie fait des recherches sur le développement des micro-organismes. Leur fille, Raye, a vingt ans. Ils vivent en France. Raye et Abel vont parcourir l'Europe chacun de leur côté. Leurs pas les porteront en Allemagne, en Suisse pour Raye et jusqu'à Odessa pour Abel."
+      }
+    ],
+    "generique": [
+      "Jacques Martial",
+      "Laure Duthilleul",
+      "Betsabée Haas"
+    ]
+  },
+  {
+    "titre": "X-Country",
+    "titreVo": "",
+    "annee": 1987,
+    "idFilm": 142084,
+    "ageMinimal": null,
+    "realisateurs": "Robert Kramer",
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Robert Kramer filme le mariage d'une amie militante politique avec un représentant du Front de libération Farabundo Marti, les Guérilleros du Salvador. La fête a lieu dans l'ancienne résidence du président James Monreoe."
+      }
+    ]
+  }
+]
