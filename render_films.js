@@ -19,9 +19,10 @@ try {
   let args = helpers.extractArgsValue(process.argv.slice(2).join(" "));
   var idProg = helpers.toNumOrNull(args.p[0]);
   var idCycle = helpers.toNumOrNull(args.c[0]);
+  var isDef = !_.isUndefined(args.d);
 } catch (e) {
   console.error(
-    "Erreur d'arguments. Les arguments attendus sont de la forme : -p <id programme> -c <id cycle>."
+    "Erreur d'arguments. Les arguments attendus sont de la forme : -p <id programme> -c <id cycle> -d (optionnel)."
   );
 }
 
@@ -31,46 +32,55 @@ try {
   let progDirectoryName = helpers.getFullCode.prog(progConfig).join(" "); // Nom du répertoire du programme
   let cycleFullCode = helpers.getFullCode.cycle(progConfig, idCycle);
 
-  let films = await helpers.readFileAsJson(
-    `${config.pathData.local}${progDirectoryName}/${cycleFullCode[0]}_FILMS ${
-      cycleFullCode[1]
-    }.json`
-  );
+  let films;
 
-  let filmsSite = await filmsFromSite(films); // Récupère les synopsis des films sur le site
-  console.log(JSON.stringify(filmsSite, null, 2));
+  if (isDef === false) {
+    films = await helpers.readFileAsJson(`${config.pathData.local}${progDirectoryName}/${cycleFullCode[0]}_FILMS ${cycleFullCode[1]}.json`);
+  } else {
+    films = await helpers.readFileAsJson(`${config.pathData.remote}${progDirectoryName}/${cycleFullCode[0]} ${cycleFullCode[1]}/${cycleFullCode[0]}_FILMS_DEF ${cycleFullCode[1]}.json`);
+  }
 
-  films = _(
-      _.merge(
-        _(films)
-        .groupBy("idFilm")
-        .mapValues(e => e[0])
-        .value(),
-        filmsSite
+  films = _(films).sortBy(d => _.kebabCase(d.titre)).value(); // Important quand isDef===true car l'ordre des films peut être devenu incorrect avec la correction d'un titre
+
+  if (isDef === false) {
+    let filmsSite = await filmsFromSite(films); // Récupère les synopsis des films sur le site
+    films = _(
+        _.merge(
+          _(films)
+          .groupBy("idFilm")
+          .mapValues(e => e[0])
+          .value(),
+          filmsSite
+        )
       )
-    )
-    .map()
-    .orderBy(d => _.kebabCase(d.titre))
-    .value();
+      .map()
+      .orderBy(d => _.kebabCase(d.titre))
+      .value();
+  }
 
   let md = markdownFilms({
     header: cycleConfig,
     data: films
   });
 
-  // await writeFile(
-  //   // `${config.pathData.remote}${progDirectoryName}/${cycleFullCode[0]} ${cycleFullCode[1]}/${cycleFullCode[0]}_FILMS ${cycleFullCode[1]}.md`,
-  //   `${config.pathData.remote}${progDirectoryName}/${cycleFullCode[0]}_FILMS ${cycleFullCode[1]}.md`,
-  //   md,
-  //   "utf8"
-  // );
-  await helpers.writeFileInFolder(
-    `${config.pathData.remote}${progDirectoryName}`,
-    `${cycleFullCode[0]} ${cycleFullCode[1]}`, // Répertoire éventuellement à créer
-    `${cycleFullCode[0]}_FILMS ${cycleFullCode[1]}.md`,
-    md,
-    "utf8"
-  );
+  if (isDef === false) {
+    await helpers.writeFileInFolder(
+      `${config.pathData.remote}${progDirectoryName}`,
+      `${cycleFullCode[0]} ${cycleFullCode[1]}`, // Répertoire éventuellement à créer
+      `${cycleFullCode[0]}_FILMS ${cycleFullCode[1]}.md`,
+      md,
+      "utf8"
+    );
+  } else {
+    await helpers.writeFileInFolder(
+      `${config.pathData.remote}${progDirectoryName}`,
+      `${cycleFullCode[0]} ${cycleFullCode[1]}`, // Répertoire éventuellement à créer
+      `${cycleFullCode[0]}_FILMS_DEF_FINAL ${cycleFullCode[1]}.md`,
+      md,
+      "utf8"
+    );
+  }
+
 
 })();
 
