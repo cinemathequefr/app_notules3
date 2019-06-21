@@ -1,0 +1,137 @@
+[
+  {
+    "idCategorie": 1590,
+    "idEvenement": 19635,
+    "idSeance": 31084,
+    "dateHeure": "2019-10-19T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Critique de la séparation / Réfutation de tous les jugements, tant élogieux qu'hostiles, qui ont été",
+    "items": [
+      {
+        "idFilm": 100369,
+        "ordre": 1,
+        "idSeance": 31084,
+        "idCopie": 18967,
+        "duree": 17,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 91003,
+        "ordre": 2,
+        "idSeance": 31084,
+        "idCopie": 18969,
+        "duree": 22,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 100368,
+        "ordre": 3,
+        "idSeance": 31084,
+        "idCopie": 18970,
+        "duree": 18,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 1590,
+    "idEvenement": 19636,
+    "idSeance": 31085,
+    "dateHeure": "2019-10-19T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Hurlements en faveur de Sade",
+    "items": [
+      {
+        "idFilm": 54547,
+        "ordre": 1,
+        "idSeance": 31085,
+        "idCopie": 18968,
+        "duree": 64,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 1590,
+    "idEvenement": 19639,
+    "idSeance": 31086,
+    "dateHeure": "2019-10-19T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Société du spectacle (La)",
+    "items": [
+      {
+        "idFilm": 53828,
+        "ordre": 1,
+        "idSeance": 31086,
+        "idCopie": 1939,
+        "duree": 90,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 1590,
+    "idEvenement": 19637,
+    "idSeance": 31088,
+    "dateHeure": "2019-10-20T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "In girum imus nocte et consumimur igni",
+    "items": [
+      {
+        "idFilm": 55468,
+        "ordre": 1,
+        "idSeance": 31088,
+        "idCopie": 1516,
+        "duree": 100,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 1590,
+    "idEvenement": 20070,
+    "idSeance": 31090,
+    "dateHeure": "2019-10-20T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Guy Debord, son art et son temps",
+    "items": [
+      {
+        "idFilm": 100367,
+        "ordre": 1,
+        "idSeance": 31090,
+        "idCopie": 19045,
+        "duree": 60,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  }
+]

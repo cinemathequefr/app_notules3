@@ -1,0 +1,108 @@
+[
+  {
+    "titre": "Critique de la séparation",
+    "titreVo": "",
+    "idFilm": 100369,
+    "ageMinimal": null,
+    "realisateurs": "Guy Debord",
+    "annee": 1961,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Film composé d'images de nature diverse enchevêtrées (comics, photographies d'identité, journaux, extraits de films). L'ajout de sous titres, et d'un commentaire critique vise à rendre l'ensemble difficile à suivre."
+      }
+    ]
+  },
+  {
+    "titre": "Guy Debord, son art et son temps",
+    "titreVo": "",
+    "idFilm": 100367,
+    "ageMinimal": null,
+    "realisateurs": "Brigitte Cornand",
+    "annee": 1994,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Réalisé par Brigitte Cornand avec l'appui de Guy Debord, ce film composé de photographies et d'archives en noir et blanc, d'actualités télévisées récentes ou anciennes, de textes apparaissant à l'écran, et ponctué de réflexions de Guy Debord constitue une critique de la société et des médias."
+      }
+    ]
+  },
+  {
+    "titre": "Hurlements en faveur de Sade",
+    "titreVo": "",
+    "idFilm": 54547,
+    "ageMinimal": null,
+    "realisateurs": "Guy Debord",
+    "annee": 1952,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ce film alterne séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off, avec des séquences à écran noir silencieuses."
+      }
+    ]
+  },
+  {
+    "titre": "In girum imus nocte et consumimur igni",
+    "titreVo": "",
+    "idFilm": 55468,
+    "ageMinimal": null,
+    "realisateurs": "Guy Debord",
+    "annee": 1978,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une introspection éclairée par le cinéma. « Les spectateurs ne peuvent rester indifférents, en cette époque de tous les renoncements, de tous les arrangements, à cette voix seule qui parle d'absolu. » (Pascal Bonitzer)"
+      }
+    ]
+  },
+  {
+    "titre": "Réfutation de tous les jugements, tant élogieux qu'hostiles, qui ont été jusqu'ici portés sur le film « La Société du spectacle »",
+    "titreVo": "",
+    "idFilm": 91003,
+    "ageMinimal": null,
+    "realisateurs": "Guy Debord",
+    "annee": 1975,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Destiné à répondre aux attaques portées sur _La Société du Spectacle_ dont il a été l'objet au moment de sa sortie en salle, cet essai marque le début d'un processus de « réfutation » que Guy Debord réaffirme par la suite."
+      }
+    ]
+  },
+  {
+    "titre": "Société du spectacle",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 53828,
+    "ageMinimal": null,
+    "realisateurs": "Guy Debord",
+    "annee": 1973,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lecture de pages choisies du livre de Guy Debord, illustrée d'extraits de _Johnny Guitare, Shanghai Gesture, Potemkine, La Charge fantastique_, etc. _« Toute la vie des sociétés dans lesquelles règnent les conditions modernes de production s'annonce comme une immense accumulation de spectacles. Tout ce qui était directement vécu s'est éloigné dans une représentation. »_ (Guy Debord)"
+      }
+    ]
+  },
+  {
+    "titre": "Sur le passage de quelques personnes à travers une assez courte unité de temps",
+    "titreVo": "",
+    "idFilm": 100368,
+    "ageMinimal": null,
+    "realisateurs": "Guy Debord",
+    "annee": 1959,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Film expérimental réalisé comme un « anti documentaire » visant l'évitement de tout élément « digne d'intérêt » par le moyen de plans vagues et de vues en extérieurs, accompagnés de commentaires contestataires."
+      }
+    ]
+  }
+]
