@@ -1,0 +1,220 @@
+[
+  {
+    "idCategorie": 2029,
+    "idEvenement": 19989,
+    "idSeance": 31852,
+    "dateHeure": "2019-09-11T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Idoles (Les)",
+    "items": [
+      {
+        "idFilm": 29822,
+        "ordre": 1,
+        "idSeance": 31852,
+        "idCopie": 11373,
+        "duree": 105,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2029,
+    "idEvenement": 20082,
+    "idSeance": 31801,
+    "dateHeure": "2019-09-12T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Vivement dimanche !",
+    "items": [
+      {
+        "idFilm": 51370,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2029,
+    "idEvenement": 20033,
+    "idSeance": 30862,
+    "dateHeure": "2019-09-13T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Une fille et des fusils",
+    "items": [
+      {
+        "idFilm": 49823,
+        "ordre": 1,
+        "idSeance": 30862,
+        "idCopie": 18978,
+        "duree": 104,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2029,
+    "idEvenement": 20032,
+    "idSeance": 31854,
+    "dateHeure": "2019-09-13T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Gauloises bleues (Les)",
+    "items": [
+      {
+        "idFilm": 47840,
+        "ordre": 1,
+        "idSeance": 31854,
+        "idCopie": 18975,
+        "duree": 93,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2029,
+    "idEvenement": 20036,
+    "idSeance": 31853,
+    "dateHeure": "2019-09-14T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Vallée (La)",
+    "items": [
+      {
+        "idFilm": 51228,
+        "ordre": 1,
+        "idSeance": 31853,
+        "idCopie": 8814,
+        "duree": 106,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2029,
+    "idEvenement": 20017,
+    "idSeance": 30870,
+    "dateHeure": "2019-09-14T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Amour fou (L')",
+    "items": [
+      {
+        "idFilm": 39714,
+        "ordre": 1,
+        "idSeance": 30870,
+        "idCopie": 18971,
+        "duree": 252,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2029,
+    "idEvenement": 20034,
+    "idSeance": 30873,
+    "dateHeure": "2019-09-15T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Mamaia",
+    "items": [
+      {
+        "idFilm": 48702,
+        "ordre": 1,
+        "idSeance": 30873,
+        "idCopie": 18976,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2029,
+    "idEvenement": 20037,
+    "idSeance": 30879,
+    "dateHeure": "2019-09-15T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Une étrange affaire",
+    "items": [
+      {
+        "idFilm": 48980,
+        "ordre": 1,
+        "idSeance": 30879,
+        "idCopie": 2443,
+        "duree": 105,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2029,
+    "idEvenement": 20035,
+    "idSeance": 31781,
+    "dateHeure": "2019-09-15T18:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Oiseaux vont mourir au Pérou (Les)",
+    "items": [
+      {
+        "idFilm": 48716,
+        "ordre": 1,
+        "idSeance": 31781,
+        "idCopie": 18977,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2029,
+    "idEvenement": 20081,
+    "idSeance": 30880,
+    "dateHeure": "2019-09-15T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Répétition (La)",
+    "items": [
+      {
+        "idFilm": 75242,
+        "ordre": 1
+      }
+    ]
+  }
+]

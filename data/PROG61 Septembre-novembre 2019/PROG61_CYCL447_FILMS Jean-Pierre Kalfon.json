@@ -1,0 +1,164 @@
+[
+  {
+    "titre": "Amour fou",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 39714,
+    "ageMinimal": null,
+    "realisateurs": "Jacques Rivette",
+    "annee": 1967,
+    "pays": "France"
+  },
+  {
+    "titre": "Bande à Bonnot",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 52101,
+    "ageMinimal": null,
+    "realisateurs": "Philippe Fourastié",
+    "annee": 1968,
+    "pays": "France-Italie"
+  },
+  {
+    "titre": "Gauloises bleues",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 47840,
+    "ageMinimal": null,
+    "realisateurs": "Michel Cournot",
+    "annee": 1967,
+    "pays": "France"
+  },
+  {
+    "titre": "Idoles",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 29822,
+    "ageMinimal": null,
+    "realisateurs": "Marc'O",
+    "annee": 1967,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "« J'ai fait ce film parce qu'il y a beaucoup de choses à dire par l'entremise du cinéma que l'on ne pourrait exprimer par le théâtre. » (Marc'O, 1968)"
+      }
+    ],
+    "generique": [
+      "Bulle Ogier",
+      "Pierre Clémenti",
+      "Jean-Pierre Kalfon"
+    ]
+  },
+  {
+    "titre": "Mamaia",
+    "titreVo": "",
+    "idFilm": 48702,
+    "ageMinimal": null,
+    "realisateurs": "José Varela",
+    "annee": 1966,
+    "pays": "France"
+  },
+  {
+    "titre": "Oiseaux vont mourir au Pérou",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 48716,
+    "ageMinimal": null,
+    "realisateurs": "Romain Gary",
+    "annee": 1967,
+    "pays": "France",
+    "adaptation": "D'après la nouvelle _Les Oiseaux vont mourir au Pérou_ de Romain Gary."
+  },
+  {
+    "titre": "Paul",
+    "titreVo": "",
+    "idFilm": 50127,
+    "ageMinimal": null,
+    "realisateurs": "Diourka Medveczky",
+    "annee": 1968,
+    "pays": "France",
+    "generique": [
+      "Jean-Pierre Léaud",
+      "Bernadette Lafont",
+      "Jean-Pierre Kalfon"
+    ]
+  },
+  {
+    "titre": "Répétition",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 75242,
+    "ageMinimal": null,
+    "realisateurs": "Catherine Corsini",
+    "annee": 2000,
+    "pays": "France-Canada"
+  },
+  {
+    "titre": "Une étrange affaire",
+    "titreVo": "",
+    "idFilm": 48980,
+    "ageMinimal": 0,
+    "realisateurs": "Pierre Granier-Deferre",
+    "annee": 1981,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune publicitaire ambitieux rentre dans le jeu de son nouveau patron qui abuse de son dévouement et en néglige sa femme."
+      }
+    ],
+    "generique": [
+      "Michel Piccoli",
+      "Gérard Lanvin",
+      "Nathalie Baye",
+      "Jean-Pierre Kalfon"
+    ],
+    "adaptation": "D'après le roman _Affaires étrangères_ de Jean-Marc Roberts."
+  },
+  {
+    "titre": "Une fille et des fusils",
+    "titreVo": "",
+    "idFilm": 49823,
+    "ageMinimal": null,
+    "realisateurs": "Claude Lelouch",
+    "annee": 1964,
+    "pays": "France"
+  },
+  {
+    "titre": "Vallée",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 51228,
+    "ageMinimal": null,
+    "realisateurs": "Barbet Schroeder",
+    "annee": 1971,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Femme de consul, Viviane participe à une expédition en Nouvelle-Guinée. Elle s'éprend du leader du groupe, dont l'objectif est d'atteindre une mystérieuse vallée, où nul n'ose s'aventurer."
+      }
+    ],
+    "generique": [
+      "Jean-Pierre Kalfon",
+      "Bulle Ogier",
+      "Valérie Lagrange"
+    ]
+  },
+  {
+    "titre": "Vivement dimanche !",
+    "titreVo": "",
+    "idFilm": 51370,
+    "ageMinimal": null,
+    "realisateurs": "François Truffaut",
+    "annee": 1982,
+    "pays": "France",
+    "generique": [
+      "Fanny Ardant",
+      "Jean-Louis Trintignant",
+      "Philippe Laudenbach"
+    ],
+    "adaptation": "D'après le roman _The Long Saturday Night_ de Charles Williams."
+  }
+]

@@ -8,7 +8,7 @@ const database = require("./lib/database");
 const config = require("./lib/config.js");
 const seances = require("./lib/query/seances.js");
 const films = require("./lib/query/films.js");
-// const confs = require("./lib/query/confs.js");
+const confs = require("./lib/query/confs.js");
 const helpers = require("./lib/helpers.js");
 const {
   promisify
@@ -24,6 +24,7 @@ try {
   var idCycle = helpers.toNumOrNull(args.c[0]);
   var doFilms = !_.isUndefined(args.f);
   var doSeances = !_.isUndefined(args.s);
+  var doConfs = !_.isUndefined(args.a); // Flag `a` comme "action culturelle"
 
 
 } catch (e) {
@@ -60,7 +61,20 @@ try {
       );
     }
 
-    // Confs
+    // Confs (flag -a)
+    if (doConfs) {
+      console.log(`Requête confs.`);
+      let c = await confs(db, cycleConfig);
+      console.log(`Conférences : ${_.map(c).length} items.`)
+      await helpers.writeFileInFolder(
+        `${config.pathData.local}${progDirectoryName}`,
+        "",
+        `${cycleFullCode[0]}_CONFS ${cycleFullCode[1]}.json`,
+        JSON.stringify(c, null, 2),
+        "utf8"
+      );
+
+    }
     // let c = await confs(db, cycleConfig);
     // console.log(`Conférences : ${_.map(c).length} items.`)
     // await helpers.writeFileInFolder(
