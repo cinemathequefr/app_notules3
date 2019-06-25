@@ -9,6 +9,13 @@
           1645
         ],
         "tri": 1
+      },
+      {
+        "titre": "Carte blanche à Arnaud Desplechin",
+        "cats": [
+          2033
+        ],
+        "tri": 1
       }
     ],
     "idProg": 61
@@ -37,9 +44,6 @@
             "Arnaud Desplechin",
             "Fabrice Desplechin"
           ],
-          "duree": 65,
-          "format": "35 mm",
-          "version": "",
           "seance": [
             {
               "idSeance": 30771,
@@ -73,9 +77,6 @@
             "Emmanuelle Devos",
             "Marianne Denicourt"
           ],
-          "duree": 178,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
               "idSeance": 30774,
@@ -109,9 +110,6 @@
             "Ian Holm",
             "Emmanuelle Devos"
           ],
-          "duree": 157,
-          "format": "35 mm",
-          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30822,
@@ -145,9 +143,6 @@
             "Marion Cotillard",
             "Charlotte Gainsbourg"
           ],
-          "duree": 135,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
               "idSeance": 30794,
@@ -180,9 +175,6 @@
             "Michel Vuillermoz",
             "Denis Podalydès"
           ],
-          "duree": 90,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
               "idSeance": 31767,
@@ -200,7 +192,7 @@
         {
           "idFilm": 119934,
           "titre": "Jimmy P. (Psychothérapie d'un Indien des plaines)",
-          "titreVo": "Jimmy P. (Psychotherapy of a Plains Indian)",
+          "titreVo": "Jimmy P., Psychotherapy of a Plains Indian",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2013,
           "pays": "États-Unis",
@@ -216,9 +208,6 @@
             "Mathieu Amalric",
             "Gina McKee"
           ],
-          "duree": 120,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30793,
@@ -253,9 +242,6 @@
             "Wladimir Yordanoff",
             "László Szabó"
           ],
-          "duree": 118,
-          "format": "35 mm",
-          "version": "",
           "seance": [
             {
               "idSeance": 30787,
@@ -288,9 +274,6 @@
             "Mathieu Amalric",
             "Catherine Deneuve"
           ],
-          "duree": 151,
-          "format": "35 mm",
-          "version": "",
           "seance": [
             {
               "idSeance": 30760,
@@ -335,9 +318,6 @@
             "Sara Forestier",
             "Antoine Reinartz"
           ],
-          "duree": 119,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
               "idSeance": 30831,
@@ -371,9 +351,6 @@
             "Bruno Todeschini",
             "Marianne Denicourt"
           ],
-          "duree": 139,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
               "idSeance": 30780,
@@ -407,9 +384,6 @@
             "Lou Roy-Lecollinet",
             "Quentin Dolmaire"
           ],
-          "duree": 124,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
               "idSeance": 31768,
@@ -444,9 +418,6 @@
             "Anne Consigny",
             "Mathieu Amalric"
           ],
-          "duree": 150,
-          "format": "35 mm",
-          "version": "",
           "seance": [
             {
               "idSeance": 30824,
@@ -480,9 +451,6 @@
             "Roch Leibovici",
             "Marianne Denicourt"
           ],
-          "duree": 54,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
               "idSeance": 30779,
@@ -494,6 +462,38 @@
                 "Henri Langlois"
               ],
               "mention": "Séance présentée par Arnaud Desplechin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Carte blanche à Arnaud Desplechin",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 75848,
+          "titre": "Sobibor, 14 octobre 1943, 16 heures",
+          "titreVo": "",
+          "realisateurs": "Claude Lanzmann",
+          "annee": 2000,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre."
+            }
+          ],
+          "seance": [
+            {
+              "idSeance": 30832,
+              "ordre": 1,
+              "idEvenement": 20016,
+              "dateHeure": "2019-09-08T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
             }
           ]
         }

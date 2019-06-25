@@ -3,10 +3,10 @@
     "titre": "Aimée",
     "art": "L'",
     "titreVo": "",
-    "annee": 2007,
     "idFilm": 103618,
     "ageMinimal": null,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 2006,
     "pays": "France",
     "textes": [
       {
@@ -23,10 +23,10 @@
   {
     "titre": "Comment je me suis disputé... (Ma vie sexuelle)",
     "titreVo": "",
-    "annee": 1996,
     "idFilm": 59965,
     "ageMinimal": null,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 1994,
     "pays": "France",
     "textes": [
       {
@@ -44,10 +44,10 @@
   {
     "titre": "Esther Kahn",
     "titreVo": "",
-    "annee": 2000,
     "idFilm": 68647,
     "ageMinimal": null,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 1998,
     "pays": "France-Grande-Bretagne",
     "textes": [
       {
@@ -66,10 +66,10 @@
     "titre": "Fantômes d'Ismaël",
     "art": "Les",
     "titreVo": "",
-    "annee": 2017,
     "idFilm": 135952,
     "ageMinimal": null,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 2016,
     "pays": "France",
     "textes": [
       {
@@ -87,10 +87,10 @@
     "titre": "Forêt TV",
     "art": "La",
     "titreVo": "",
-    "annee": 2014,
     "idFilm": 132705,
     "ageMinimal": null,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 2014,
     "pays": "France",
     "textes": [
       {
@@ -106,10 +106,10 @@
   {
     "titre": "Jimmy P. (Psychothérapie d'un Indien des plaines)",
     "titreVo": "Jimmy P.",
-    "annee": 2013,
     "idFilm": 119934,
     "ageMinimal": 0,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 2012,
     "pays": "États-Unis",
     "textes": [
       {
@@ -127,10 +127,10 @@
   {
     "titre": "Léo en jouant « Dans la compagnie des hommes »",
     "titreVo": "",
-    "annee": 2004,
     "idFilm": 85681,
     "ageMinimal": 0,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 2002,
     "pays": "France",
     "textes": [
       {
@@ -149,10 +149,10 @@
   {
     "titre": "Rois et reine",
     "titreVo": "",
-    "annee": 2004,
     "idFilm": 94570,
     "ageMinimal": null,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 2003,
     "pays": "France",
     "textes": [
       {
@@ -169,10 +169,10 @@
   {
     "titre": "Roubaix, une lumière",
     "titreVo": "",
-    "annee": 2018,
     "idFilm": 141999,
     "ageMinimal": null,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 2018,
     "pays": "France",
     "textes": [
       {
@@ -185,10 +185,10 @@
     "titre": "Sentinelle",
     "art": "La",
     "titreVo": "",
-    "annee": 1992,
     "idFilm": 48083,
     "ageMinimal": null,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 1991,
     "pays": "France",
     "textes": [
       {
@@ -204,12 +204,27 @@
     ]
   },
   {
+    "titre": "Sobibor, 14 octobre 1943, 16 heures",
+    "titreVo": "",
+    "idFilm": 75848,
+    "ageMinimal": null,
+    "realisateurs": "Claude Lanzmann",
+    "annee": 2000,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sobibor, 14 octobre 1943, 16 heures : lieu, heure, jour, mois et année de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre."
+      }
+    ]
+  },
+  {
     "titre": "Trois souvenirs de ma jeunesse",
     "titreVo": "",
-    "annee": 2015,
     "idFilm": 126923,
     "ageMinimal": null,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 2014,
     "pays": "France",
     "textes": [
       {
@@ -221,10 +236,10 @@
   {
     "titre": "Un conte de Noël",
     "titreVo": "",
-    "annee": 2008,
     "idFilm": 103548,
     "ageMinimal": 0,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 2007,
     "pays": "France",
     "textes": [
       {
@@ -244,10 +259,10 @@
     "titre": "Vie des morts",
     "art": "La",
     "titreVo": "",
-    "annee": 1991,
     "idFilm": 48084,
     "ageMinimal": null,
     "realisateurs": "Arnaud Desplechin",
+    "annee": 1990,
     "pays": "France",
     "textes": [
       {

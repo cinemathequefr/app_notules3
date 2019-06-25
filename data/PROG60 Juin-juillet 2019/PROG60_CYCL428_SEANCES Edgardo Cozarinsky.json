@@ -1,0 +1,260 @@
+[
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19071,
+    "idSeance": 30727,
+    "dateHeure": "2019-06-26T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeSeance": 44,
+    "titreEvenement": "Guerre d'un seul homme (La)",
+    "items": [
+      {
+        "idFilm": 47856,
+        "ordre": 1
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19075,
+    "idSeance": 31384,
+    "dateHeure": "2019-06-27T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Apprentis sorciers (Les)",
+    "items": [
+      {
+        "idFilm": 57671,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19070,
+    "idSeance": 30542,
+    "dateHeure": "2019-06-27T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Fantômes de Tanger",
+    "items": [
+      {
+        "idFilm": 29159,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19077,
+    "idSeance": 31368,
+    "dateHeure": "2019-06-29T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Violon de Rothschild (Le)",
+    "idSeanceAssoc": 30546,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 58337,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1938,
+    "typeEvenement": 14,
+    "idEvenement": 19208,
+    "idSeance": 30546,
+    "dateHeure": "2019-06-29T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Dialogue avec Edgardo Cozarinsky",
+    "idSeanceAssoc": 31368,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idConf": 19208,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19067,
+    "idSeance": 30138,
+    "dateHeure": "2019-06-29T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Citizen Langlois",
+    "items": [
+      {
+        "idFilm": 43605,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19072,
+    "idSeance": 30137,
+    "dateHeure": "2019-06-29T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Guerriers et captives",
+    "items": [
+      {
+        "idFilm": 47857,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19080,
+    "idSeance": 30543,
+    "dateHeure": "2019-06-30T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Puntos suspensivos o Esperando a los bárbaros",
+    "items": [
+      {
+        "idFilm": 127308,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19068,
+    "idSeance": 30432,
+    "dateHeure": "2019-06-30T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Dans le rouge du couchant",
+    "items": [
+      {
+        "idFilm": 93371,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19074,
+    "idSeance": 30159,
+    "dateHeure": "2019-07-03T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Notes pour une biographie imaginaire",
+    "items": [
+      {
+        "idFilm": 124233,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19078,
+    "idSeance": 30544,
+    "dateHeure": "2019-07-03T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Nocturnos",
+    "items": [
+      {
+        "idFilm": 124232,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19066,
+    "idSeance": 30434,
+    "dateHeure": "2019-07-03T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Lettre à un père",
+    "items": [
+      {
+        "idFilm": 124231,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19079,
+    "idSeance": 30545,
+    "dateHeure": "2019-07-06T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Ronde de nuit",
+    "items": [
+      {
+        "idFilm": 98629,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1929,
+    "typeEvenement": 13,
+    "idEvenement": 19335,
+    "idSeance": 31359,
+    "dateHeure": "2019-07-07T15:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Cinéma des Cahiers (Le)",
+    "items": [
+      {
+        "idFilm": 141557,
+        "ordre": 1
+      }
+    ]
+  }
+]
