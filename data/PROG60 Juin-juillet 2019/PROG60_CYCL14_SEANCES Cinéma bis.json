@@ -1,0 +1,110 @@
+[
+  {
+    "idCategorie": 1995,
+    "typeEvenement": 13,
+    "idEvenement": 19401,
+    "idSeance": 31399,
+    "dateHeure": "2019-06-07T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Anges de l'enfer (Les)",
+    "items": [
+      {
+        "idFilm": 33096,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1995,
+    "typeEvenement": 13,
+    "idEvenement": 19152,
+    "idSeance": 29999,
+    "dateHeure": "2019-06-07T22:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Cible étoilée (La)",
+    "items": [
+      {
+        "idFilm": 31920,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1996,
+    "typeEvenement": 13,
+    "idEvenement": 19300,
+    "idSeance": 30448,
+    "dateHeure": "2019-06-21T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Fair game",
+    "items": [
+      {
+        "idFilm": 141540,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1996,
+    "typeEvenement": 13,
+    "idEvenement": 19301,
+    "idSeance": 30449,
+    "dateHeure": "2019-06-21T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Long week end",
+    "items": [
+      {
+        "idFilm": 55670,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1997,
+    "typeEvenement": 13,
+    "idEvenement": 19333,
+    "idSeance": 30427,
+    "dateHeure": "2019-06-28T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Homme d'Istambul (L')",
+    "items": [
+      {
+        "idFilm": 53101,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1997,
+    "typeEvenement": 13,
+    "idEvenement": 19334,
+    "idSeance": 30428,
+    "dateHeure": "2019-06-28T22:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Mains qui tuent (Les)",
+    "items": [
+      {
+        "idFilm": 35894,
+        "ordre": 1
+      }
+    ]
+  }
+]
