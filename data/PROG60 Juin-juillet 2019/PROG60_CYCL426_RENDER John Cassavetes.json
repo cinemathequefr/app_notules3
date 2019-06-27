@@ -58,6 +58,9 @@
             "Stella Stevens",
             "John Cassavetes"
           ],
+          "duree": 103,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29962,
@@ -104,6 +107,9 @@
             "Alan Arkin",
             "Valerie Curtin"
           ],
+          "duree": 83,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29978,
@@ -145,6 +151,9 @@
             "John Marley",
             "Lynn Carlin"
           ],
+          "duree": 130,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30397,
@@ -187,6 +196,9 @@
             "Julie Carmen",
             "Buck Henry"
           ],
+          "duree": 123,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29970,
@@ -229,6 +241,9 @@
             "Peter Falk",
             "Jenny Runacre"
           ],
+          "duree": 140,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30520,
@@ -272,6 +287,9 @@
             "Diahnne Abbott",
             "Seymour Cassel"
           ],
+          "duree": 141,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30019,
@@ -315,6 +333,9 @@
             "Timothy Agoglia Carey",
             "Seymour Cassel"
           ],
+          "duree": 109,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29955,
@@ -357,6 +378,9 @@
             "Val Avery",
             "John Cassavetes"
           ],
+          "duree": 115,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30004,
@@ -399,6 +423,9 @@
             "Joan Blondell",
             "Ben Gazzara"
           ],
+          "duree": 144,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30013,
@@ -441,6 +468,9 @@
             "Hugh Hurd",
             "Anthony Ray"
           ],
+          "duree": 87,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30036,
@@ -472,6 +502,9 @@
             "Judy Garland",
             "Gena Rowlands"
           ],
+          "duree": 102,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29963,
@@ -513,6 +546,9 @@
             "Peter Falk",
             "Fred Draper"
           ],
+          "duree": 146,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30402,
@@ -562,6 +598,9 @@
             "John Cassavetes",
             "Angie Dickinson"
           ],
+          "duree": 95,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29960,
@@ -604,6 +643,9 @@
             "Beverly Adams",
             "Mimsy Farmer"
           ],
+          "duree": 84,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31399,
@@ -638,6 +680,9 @@
             "George Kennedy",
             "Robert Vaughn"
           ],
+          "duree": 110,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29999,
@@ -673,6 +718,9 @@
             "Charles Bronson",
             "John Cassavetes"
           ],
+          "duree": 149,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30724,
@@ -717,6 +765,9 @@
             "Amy Irving",
             "Charles Durning"
           ],
+          "duree": 117,
+          "format": "Numérique",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30082,
@@ -750,6 +801,9 @@
             "Sidney Poitier",
             "Jack Warden"
           ],
+          "duree": 85,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31386,
@@ -793,6 +847,9 @@
             "Ruth Gordon",
             "Sidney Blackmer"
           ],
+          "duree": 137,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29989,
@@ -836,6 +893,9 @@
             "Martin Balsam",
             "Beau Bridges"
           ],
+          "duree": 115,
+          "format": "Numérique",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29954,
@@ -878,6 +938,9 @@
               "texte": "En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de _Faces_. De ces rencontres improvisées va naître l'un des épisodes mythiques de la série _Cinéastes de notre temps_."
             }
           ],
+          "duree": 50,
+          "format": "Numérique",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30031,
@@ -900,30 +963,30 @@
         {
           "seance": [
             {
-              "idSeance": 29956,
-              "ordre": 1,
+              "idSeance": 29955,
+              "ordre": 2,
               "idEvenement": 19209,
-              "dateHeure": "2019-05-31T21:15:00",
+              "dateHeure": "2019-05-31T19:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
               ]
             },
             {
-              "idSeance": 30398,
-              "ordre": 1,
+              "idSeance": 30397,
+              "ordre": 2,
               "idEvenement": 19210,
-              "dateHeure": "2019-06-08T16:45:00",
+              "dateHeure": "2019-06-08T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
               ]
             },
             {
-              "idSeance": 30055,
-              "ordre": 1,
+              "idSeance": 30054,
+              "ordre": 2,
               "idEvenement": 19211,
-              "dateHeure": "2019-06-16T17:00:00",
+              "dateHeure": "2019-06-16T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"

@@ -73,22 +73,12 @@ try {
         JSON.stringify(c, null, 2),
         "utf8"
       );
-
     }
-    // let c = await confs(db, cycleConfig);
-    // console.log(`Conférences : ${_.map(c).length} items.`)
-    // await helpers.writeFileInFolder(
-    //   `${config.pathData.local}${progDirectoryName}`,
-    //   "",
-    //   `${cycleFullCode[0]}_CONFS ${cycleFullCode[1]}.json`,
-    //   JSON.stringify(c, null, 2),
-    //   "utf8"
-    // );
 
     if (doSeances) {
       console.log(`Requête séances.`);
       let s = await seances(db, cycleConfig);
-      console.log(`Séances (films) : ${s.length} items.`);
+      console.log(`Séances : ${s.length} items.`);
 
       await helpers.writeFileInFolder(
         `${config.pathData.local}${progDirectoryName}`,
