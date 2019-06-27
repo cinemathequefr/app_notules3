@@ -21,6 +21,7 @@
           "titreVo": "Too Late Blues",
           "realisateurs": "John Cassavetes",
           "annee": 1961,
+          "idCopie": 18546,
           "duree": 103,
           "version": "VOSTF",
           "format": "35 mm",
@@ -34,7 +35,8 @@
               "typeTexte": 9,
               "texte": "Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre à un monde conformiste et hostile."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30057,
@@ -53,6 +55,7 @@
           "titreVo": "Too Late Blues",
           "realisateurs": "John Cassavetes",
           "annee": 1961,
+          "idCopie": 18546,
           "duree": 103,
           "version": "VOSTF",
           "format": "35 mm",
@@ -66,7 +69,8 @@
               "typeTexte": 9,
               "texte": "Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre à un monde conformiste et hostile."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 29978,
@@ -84,6 +88,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1984,
+          "idCopie": 18155,
           "duree": 83,
           "version": "VOSTF",
           "format": "35 mm",
@@ -102,7 +107,8 @@
               "typeTexte": 99,
               "texte": "Film sous réserve."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30503,
@@ -120,6 +126,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1984,
+          "idCopie": 18155,
           "duree": 83,
           "version": "VOSTF",
           "format": "35 mm",
@@ -138,7 +145,8 @@
               "typeTexte": 99,
               "texte": "Film sous réserve."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30397,
@@ -157,6 +165,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1965,
+          "idCopie": 18158,
           "duree": 130,
           "version": "VOSTF",
           "format": "DCP",
@@ -170,7 +179,8 @@
               "typeTexte": 9,
               "texte": "Richard et Freddie rencontrent dans un bar une call-girl, Jeannie, qui les entraîne chez elle. De retour chez lui, Richard se dispute avec sa femme, Maria, et repart chez Jeannie. Maria décide à son tour de passer la nuit dehors."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30062,
@@ -188,6 +198,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1965,
+          "idCopie": 18158,
           "duree": 130,
           "version": "VOSTF",
           "format": "DCP",
@@ -201,7 +212,8 @@
               "typeTexte": 9,
               "texte": "Richard et Freddie rencontrent dans un bar une call-girl, Jeannie, qui les entraîne chez elle. De retour chez lui, Richard se dispute avec sa femme, Maria, et repart chez Jeannie. Maria décide à son tour de passer la nuit dehors."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 29970,
@@ -219,6 +231,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1979,
+          "idCopie": 18170,
           "duree": 123,
           "version": "VOSTF",
           "format": "35 mm",
@@ -233,7 +246,8 @@
               "typeTexte": 9,
               "texte": "Gloria, New-Yorkaise solitaire et ancienne maîtresse d'un gangster, recueille le jeune fils de ses voisins de palier, assassinés par la mafia. Elle décide de s'enfuir avec lui pour le protéger de la pègre."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30504,
@@ -251,6 +265,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1979,
+          "idCopie": 18170,
           "duree": 123,
           "version": "VOSTF",
           "format": "35 mm",
@@ -265,7 +280,8 @@
               "typeTexte": 9,
               "texte": "Gloria, New-Yorkaise solitaire et ancienne maîtresse d'un gangster, recueille le jeune fils de ses voisins de palier, assassinés par la mafia. Elle décide de s'enfuir avec lui pour le protéger de la pègre."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30520,
@@ -283,6 +299,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1969,
+          "idCopie": 284,
           "duree": 140,
           "version": "VOSTF",
           "format": "35 mm",
@@ -297,7 +314,8 @@
               "typeTexte": 9,
               "texte": "Après avoir enterré l'un de leurs amis, trois quadragénaires plutôt tranquilles quittent tout et partent pour une virée de plusieurs jours."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30035,
@@ -315,6 +333,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1969,
+          "idCopie": 284,
           "duree": 140,
           "version": "VOSTF",
           "format": "35 mm",
@@ -329,7 +348,8 @@
               "typeTexte": 9,
               "texte": "Après avoir enterré l'un de leurs amis, trois quadragénaires plutôt tranquilles quittent tout et partent pour une virée de plusieurs jours."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30019,
@@ -347,6 +367,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1983,
+          "idCopie": 18154,
           "duree": 141,
           "version": "VOSTF",
           "format": "DCP",
@@ -362,7 +383,8 @@
               "typeTexte": 9,
               "texte": "Les tendres et solides relations entre un frère et une sœur. Lui, écrivain, fêtard et alcoolique, est entouré de filles vénales, et ne réussit pas à communiquer avec son jeune fils. Elle, brisée par son récent divorce, ne parvient pas à oublier son mari et sa fille."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30502,
@@ -380,6 +402,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1983,
+          "idCopie": 18154,
           "duree": 141,
           "version": "VOSTF",
           "format": "DCP",
@@ -395,7 +418,8 @@
               "typeTexte": 9,
               "texte": "Les tendres et solides relations entre un frère et une sœur. Lui, écrivain, fêtard et alcoolique, est entouré de filles vénales, et ne réussit pas à communiquer avec son jeune fils. Elle, brisée par son récent divorce, ne parvient pas à oublier son mari et sa fille."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 29955,
@@ -416,6 +440,7 @@
           "titreVo": "Killing of a Chinese Bookie",
           "realisateurs": "John Cassavetes",
           "annee": 1976,
+          "idCopie": 18153,
           "duree": 109,
           "version": "VOSTF",
           "format": "DCP",
@@ -429,7 +454,8 @@
               "typeTexte": 9,
               "texte": "Cosmo Vitelli vient de rembourser la dernière hypothèque de sa boîte de nuit et fête l'événement à une table de jeux, où il perd une très grosse somme d'argent. La pègre lui propose, pour éponger sa dette, d'assassiner un vieux bookmaker chinois devenu gênant."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30056,
@@ -449,6 +475,7 @@
           "titreVo": "Killing of a Chinese Bookie",
           "realisateurs": "John Cassavetes",
           "annee": 1976,
+          "idCopie": 18153,
           "duree": 109,
           "version": "VOSTF",
           "format": "DCP",
@@ -462,7 +489,8 @@
               "typeTexte": 9,
               "texte": "Cosmo Vitelli vient de rembourser la dernière hypothèque de sa boîte de nuit et fête l'événement à une table de jeux, où il perd une très grosse somme d'argent. La pègre lui propose, pour éponger sa dette, d'assassiner un vieux bookmaker chinois devenu gênant."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30004,
@@ -480,6 +508,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1971,
+          "idCopie": 18152,
           "duree": 115,
           "version": "VOSTF",
           "format": "DCP",
@@ -494,7 +523,8 @@
               "typeTexte": 9,
               "texte": "Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30049,
@@ -512,6 +542,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1971,
+          "idCopie": 18152,
           "duree": 115,
           "version": "VOSTF",
           "format": "DCP",
@@ -526,7 +557,8 @@
               "typeTexte": 9,
               "texte": "Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30013,
@@ -544,6 +576,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1977,
+          "idCopie": 13308,
           "duree": 144,
           "version": "VOSTF",
           "format": "DCP",
@@ -558,7 +591,8 @@
               "typeTexte": 9,
               "texte": "Après une représentation, la comédienne Myrtle Gordon assiste à la mort accidentelle d'une admiratrice. Elle se noie dans le whisky, bouleversée par ce décès, alors qu'elle doit justement interpréter le rôle d'une femme désespérée."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30054,
@@ -577,6 +611,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1977,
+          "idCopie": 13308,
           "duree": 144,
           "version": "VOSTF",
           "format": "DCP",
@@ -591,7 +626,8 @@
               "typeTexte": 9,
               "texte": "Après une représentation, la comédienne Myrtle Gordon assiste à la mort accidentelle d'une admiratrice. Elle se noie dans le whisky, bouleversée par ce décès, alors qu'elle doit justement interpréter le rôle d'une femme désespérée."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30036,
@@ -609,6 +645,7 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1959,
+          "idCopie": 16136,
           "duree": 87,
           "version": "VOSTF",
           "format": "DCP",
@@ -623,7 +660,8 @@
               "typeTexte": 9,
               "texte": "Benny, Hugh et Lelia sont trois jeunes afro-américains, frères et sœur, et partagent le même appartement à New York. Alors que Benny passe ses journées entre la rue et les bars, Hugh tente de faire carrière comme chanteur de jazz. Lelia, quant à elle, rêve d'écrire."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 29963,
@@ -641,6 +679,7 @@
           "titreVo": "A Child Is Waiting",
           "realisateurs": "John Cassavetes",
           "annee": 1962,
+          "idCopie": 18161,
           "duree": 102,
           "version": "VOSTF",
           "format": "DCP",
@@ -654,7 +693,8 @@
               "typeTexte": 9,
               "texte": "Dans une institution spécialisée qui accueille des enfants autistes et trisomiques, une professeur de musique, en désaccord avec les méthodes du directeur, s'attache à un enfant rétif."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30068,
@@ -672,6 +712,7 @@
           "titreVo": "A Child Is Waiting",
           "realisateurs": "John Cassavetes",
           "annee": 1962,
+          "idCopie": 18161,
           "duree": 102,
           "version": "VOSTF",
           "format": "DCP",
@@ -685,7 +726,8 @@
               "typeTexte": 9,
               "texte": "Dans une institution spécialisée qui accueille des enfants autistes et trisomiques, une professeur de musique, en désaccord avec les méthodes du directeur, s'attache à un enfant rétif."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30402,
@@ -703,6 +745,7 @@
           "titreVo": "A Woman Under the Influence",
           "realisateurs": "John Cassavetes",
           "annee": 1974,
+          "idCopie": 11615,
           "duree": 146,
           "version": "VOSTF",
           "format": "DCP",
@@ -716,7 +759,8 @@
               "typeTexte": 9,
               "texte": "Face à l'indifférence de son mari et sous la pression exercée par son milieu social, une femme glisse peu à peu vers la folie."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30048,
@@ -734,6 +778,7 @@
           "titreVo": "A Woman Under the Influence",
           "realisateurs": "John Cassavetes",
           "annee": 1974,
+          "idCopie": 11615,
           "duree": 146,
           "version": "VOSTF",
           "format": "DCP",
@@ -747,7 +792,8 @@
               "typeTexte": 9,
               "texte": "Face à l'indifférence de son mari et sous la pression exercée par son milieu social, une femme glisse peu à peu vers la folie."
             }
-          ]
+          ],
+          "valide": 1
         }
       ]
     },
@@ -772,6 +818,7 @@
           "titreVo": "Devil's Angels",
           "realisateurs": "Daniel Haller",
           "annee": 1967,
+          "idCopie": 18504,
           "duree": 84,
           "version": "VOSTF",
           "format": "35 mm",
@@ -785,7 +832,8 @@
               "typeTexte": 9,
               "texte": "Cody et sa bande de blousons noirs, les « Skulls », quittent leur ville où la police les a trop vus. Ils arrivent bientôt à Brookville, une petite cité qui paraît déserte au premier abord."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 29999,
@@ -804,6 +852,7 @@
           "titreVo": "Brass Target",
           "realisateurs": "John Hough",
           "annee": 1978,
+          "idCopie": 18422,
           "duree": 110,
           "version": "VOSTF",
           "format": "35 mm",
@@ -819,7 +868,8 @@
               "typeTexte": 9,
               "texte": "Allemagne, août 1945. L'or de la banque centrale est dérobé lors d'un transfert en train. Les Soviétiques accusant les Américains, le général Patton décide de mener lui-même l'enquête."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30724,
@@ -839,6 +889,7 @@
           "titreVo": "Dirty Dozen",
           "realisateurs": "Robert Aldrich",
           "annee": 1966,
+          "idCopie": 18174,
           "duree": 149,
           "version": "VOSTF",
           "format": "35 mm",
@@ -854,7 +905,8 @@
               "typeTexte": 9,
               "texte": "En 1944, douze soldats américains, condamnés à mort ou à de fortes peines, ont pour mission d'attaquer un château abritant de hauts dignitaires nazis, en échange d'une possible amnistie."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30046,
@@ -874,6 +926,7 @@
           "titreVo": "Dirty Dozen",
           "realisateurs": "Robert Aldrich",
           "annee": 1966,
+          "idCopie": 18174,
           "duree": 149,
           "version": "VOSTF",
           "format": "35 mm",
@@ -889,7 +942,8 @@
               "typeTexte": 9,
               "texte": "En 1944, douze soldats américains, condamnés à mort ou à de fortes peines, ont pour mission d'attaquer un château abritant de hauts dignitaires nazis, en échange d'une possible amnistie."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30082,
@@ -908,6 +962,7 @@
           "titreVo": "Fury",
           "realisateurs": "Brian De Palma",
           "annee": 1978,
+          "idCopie": 15614,
           "duree": 117,
           "version": "VOSTF",
           "format": "Numérique",
@@ -923,7 +978,8 @@
               "typeTexte": 9,
               "texte": "Un jeune homme doué de perception extrasensorielle est enlevé par une agence de contre-espionnage qui veut utiliser ses aptitudes paranormales à des fins politiques. Son père le recherche activement, aidé par une jeune étudiante dotée des mêmes pouvoirs."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 31386,
@@ -942,6 +998,7 @@
           "titreVo": "Edge of the City",
           "realisateurs": "Martin Ritt",
           "annee": 1956,
+          "idCopie": 18176,
           "duree": 85,
           "version": "VOSTF",
           "format": "35 mm",
@@ -956,7 +1013,8 @@
               "typeTexte": 9,
               "texte": "Un déserteur trouve un emploi dans les docks, où il se lie avec un ouvrier noir. Mais leur amitié irrite le chef de chantier."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30077,
@@ -975,6 +1033,7 @@
           "titreVo": "Edge of the City",
           "realisateurs": "Martin Ritt",
           "annee": 1956,
+          "idCopie": 18176,
           "duree": 85,
           "version": "VOSTF",
           "format": "35 mm",
@@ -989,7 +1048,8 @@
               "typeTexte": 9,
               "texte": "Un déserteur trouve un emploi dans les docks, où il se lie avec un ouvrier noir. Mais leur amitié irrite le chef de chantier."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 29989,
@@ -1007,6 +1067,7 @@
           "titreVo": "",
           "realisateurs": "Roman Polanski",
           "annee": 1967,
+          "idCopie": 12459,
           "duree": 137,
           "version": "VOSTF",
           "format": "DCP",
@@ -1022,7 +1083,8 @@
               "typeTexte": 9,
               "texte": "Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30034,
@@ -1040,6 +1102,7 @@
           "titreVo": "",
           "realisateurs": "Roman Polanski",
           "annee": 1967,
+          "idCopie": 12459,
           "duree": 137,
           "version": "VOSTF",
           "format": "DCP",
@@ -1055,7 +1118,8 @@
               "typeTexte": 9,
               "texte": "Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 29954,
@@ -1073,6 +1137,7 @@
           "titreVo": "Two-minute Warning",
           "realisateurs": "Larry Peerce",
           "annee": 1976,
+          "idCopie": 12634,
           "duree": 115,
           "version": "VOSTF",
           "format": "Numérique",
@@ -1088,7 +1153,8 @@
               "typeTexte": 9,
               "texte": "Un tireur embusqué menace de tirer sur la foule lors d'un match de championnat de football américain au Los Angeles Memorial Coliseum. Repéré par une caméra, il est traqué par le capitaine Peter Holly et le sergent Button, qui doivent l'intercepter avant la fin du match."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30076,
@@ -1106,6 +1172,7 @@
           "titreVo": "Two-minute Warning",
           "realisateurs": "Larry Peerce",
           "annee": 1976,
+          "idCopie": 12634,
           "duree": 115,
           "version": "VOSTF",
           "format": "Numérique",
@@ -1121,7 +1188,8 @@
               "typeTexte": 9,
               "texte": "Un tireur embusqué menace de tirer sur la foule lors d'un match de championnat de football américain au Los Angeles Memorial Coliseum. Repéré par une caméra, il est traqué par le capitaine Peter Holly et le sergent Button, qui doivent l'intercepter avant la fin du match."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 29960,
@@ -1140,6 +1208,7 @@
           "titreVo": "Killers",
           "realisateurs": "Don Siegel",
           "annee": 1964,
+          "idCopie": 688,
           "duree": 95,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1154,7 +1223,8 @@
               "typeTexte": 9,
               "texte": "Après l'exécution d'un contrat, deux tueurs cherchent à connaître le passé de leur victime."
             }
-          ]
+          ],
+          "valide": 1
         },
         {
           "idSeance": 30089,
@@ -1173,6 +1243,7 @@
           "titreVo": "Killers",
           "realisateurs": "Don Siegel",
           "annee": 1964,
+          "idCopie": 688,
           "duree": 95,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1187,7 +1258,8 @@
               "typeTexte": 9,
               "texte": "Après l'exécution d'un contrat, deux tueurs cherchent à connaître le passé de leur victime."
             }
-          ]
+          ],
+          "valide": 1
         }
       ]
     },
@@ -1211,6 +1283,7 @@
           "titreVo": "",
           "realisateurs": "Hubert Knapp, André S. Labarthe",
           "annee": 1998,
+          "idCopie": 18413,
           "duree": 50,
           "version": "VOSTF",
           "format": "Numérique",
@@ -1219,7 +1292,8 @@
               "typeTexte": 9,
               "texte": "En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de _Faces_. De ces rencontres improvisées va naître l'un des épisodes mythiques de la série _Cinéastes de notre temps_."
             }
-          ]
+          ],
+          "valide": 1
         }
       ]
     },
@@ -1240,7 +1314,6 @@
           "idEvenement": 19209,
           "typeEvenement": 14,
           "titre": "Discussion avec Nicole Brenez",
-          "duree": 45,
           "textes": [
             {
               "typeTexte": 114,
@@ -1269,7 +1342,6 @@
           "idEvenement": 19211,
           "typeEvenement": 14,
           "titre": "Discussion avec Pacôme Thiellement",
-          "duree": 45,
           "textes": [
             {
               "typeTexte": 156,
@@ -1298,7 +1370,6 @@
           "idEvenement": 19210,
           "typeEvenement": 14,
           "titre": "Discussion avec Thierry Jousse",
-          "duree": 45,
           "textes": [
             {
               "typeTexte": 114,

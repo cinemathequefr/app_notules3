@@ -28,6 +28,7 @@ try {
 
   let films;
   let seances;
+  let confs = [];
   let merge;
   let render;
   let markdown;
@@ -61,11 +62,36 @@ try {
       isDef = false;
     } catch (e) {
       console.log(e); // Erreur fatale : ni _FILMS_DEF.json, ni _FILMS.json n'ont été trouvés
+      process.exit(1); // Faut-il sortir du process ou continuer sans films ?
+    }
+  }
+
+  // Lecture des données confs
+  // NOTE : en l'absence de données, le script continue.
+  // TODO: voir comment gérer le statut _DEF pour la sortie. Je postule pour le moment qu'il reste déterminé par celui des films uniquement.
+  try {
+    confs = await helpers.readFileAsJson(
+      `${config.pathData.remote}${progDirectoryName}/${cycleFullCode[0]} ${cycleFullCode[1]}/${cycleFullCode[0]}_CONFS_DEF ${
+        cycleFullCode[1]
+      }.json`
+    );
+    // isDef = true;
+  } catch (e) {
+    try {
+      confs = await helpers.readFileAsJson(
+        `${config.pathData.local}${progDirectoryName}/${cycleFullCode[0]}_CONFS ${
+          cycleFullCode[1]
+        }.json`
+      );
+      // isDef = false;
+    } catch (e) {
+      console.log("Info : aucune donnée _CONFS n'a  été trouvée.");
     }
   }
 
   // _MERGE : Fusion des données films et séances
-  merge = doMerge(cycleConfig, films, seances);
+  merge = doMerge(cycleConfig, films, seances, confs);
+  // merge = doMerge(cycleConfig, films, seances);
   merge = cleanTitreEvenement(merge);
   await helpers.writeFileInFolder(
     `${config.pathData.local}${progDirectoryName}`,
