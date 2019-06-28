@@ -1,5 +1,5 @@
 lib/config.js
-lib/queries.js
+#lib/queries.js
 
 # Logs
 logs
