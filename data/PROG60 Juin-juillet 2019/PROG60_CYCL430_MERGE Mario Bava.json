@@ -2204,6 +2204,7 @@
           "idCategorie": 1941,
           "idEvenement": 19292,
           "typeEvenement": 14,
+          "typeConference": "Conversation",
           "titre": "Mario Bava, un cinéaste rouge profond",
           "duree": 60,
           "textes": [
@@ -2237,6 +2238,7 @@
           "idCategorie": 1941,
           "idEvenement": 19213,
           "typeEvenement": 14,
+          "typeConference": "Conférence",
           "titre": "« Mario Bava : l'image qui saigne »",
           "duree": 90,
           "textes": [
