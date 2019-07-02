@@ -7,7 +7,17 @@
     "ageMinimal": null,
     "realisateurs": "Jacques Rivette",
     "annee": 1967,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sébastien, metteur en scène de théâtre, monte _Andromaque_ de Racine, pièce dans laquelle sa compagne Claire doit jouer le rôle d'Hermione. Mais durant les répétitions, un conflit les oppose et Claire quitte soudainement le théâtre. Tandis que Sébastien décide de faire appel à Marta, son ancienne épouse, pour la remplacer, Claire sombre dans le désespoir."
+      }
+    ],
+    "generique": [
+      "Bulle Ogier",
+      "Jean-Pierre Kalfon"
+    ]
   },
   {
     "titre": "Bande à Bonnot",
@@ -17,7 +27,19 @@
     "ageMinimal": null,
     "realisateurs": "Philippe Fourastié",
     "annee": 1968,
-    "pays": "France-Italie"
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au début du XXe siècle, à Paris, une bande de voyous terrorise la ville. Formé d'ouvriers anarchistes haïssant la bourgeoisie, ce gang braque les banques et commet des meurtres. A leur tête, Jules Bonnot. La police met sur l'affaire l'un de ses meilleurs commissaires pour mettre fin à leurs méfaits..."
+      }
+    ],
+    "generique": [
+      "Jacques Brel",
+      "Bruno Cremer",
+      "Annie Girardot",
+      "Jean-Pierre Kalfon"
+    ]
   },
   {
     "titre": "Gauloises bleues",
@@ -27,7 +49,18 @@
     "ageMinimal": null,
     "realisateurs": "Michel Cournot",
     "annee": 1967,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au chômage et sans domicile, Ivan fait la connaissance de Jeanne, une jeune serveuse. Ils se marient et, bientôt, Jeanne est enceinte. En attendant la naissance de son fils, Ivan revoit son existence passée."
+      }
+    ],
+    "generique": [
+      "Annie Girardot",
+      "Jean-Pierre Kalfon",
+      "Bruno Cremer"
+    ]
   },
   {
     "titre": "Idoles",
@@ -57,7 +90,17 @@
     "ageMinimal": null,
     "realisateurs": "José Varela",
     "annee": 1966,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Nana, jeune étudiante roumaine, et son fiancé partent pour se marier dans le delta du Danube. En route, Nana veut aller chez le coiffeur de Mamaia. Elle y rencontre Balthazar, le chauffeur d'un groupe de rock."
+      }
+    ],
+    "generique": [
+      "Adriana Bogdan",
+      "Jean-Pierre Kalfon"
+    ]
   },
   {
     "titre": "Oiseaux vont mourir au Pérou",
@@ -68,6 +111,18 @@
     "realisateurs": "Romain Gary",
     "annee": 1967,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Adriana, une ravissante jeune femme, est abordée par un groupe d'individus avec qui elle s'abandonne sur une plage. Son mari part à sa recherche : il a décidé de la tuer."
+      }
+    ],
+    "generique": [
+      "Jean Seberg",
+      "Maurice Ronet",
+      "Pierre Brasseur",
+      "Danielle Darrieux"
+    ],
     "adaptation": "D'après la nouvelle _Les Oiseaux vont mourir au Pérou_ de Romain Gary."
   },
   {
@@ -78,21 +133,17 @@
     "realisateurs": "Diourka Medveczky",
     "annee": 1968,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Paul, un jeune homme d'une famille bourgeoise, désireux de donner une signification à sa vie, quitte les siens pour errer dans la ville. A la suite d'une rencontre hasardeuse, il est amené à traverser la France pour rejoindre un groupe de végétariens monastiques et nocturnes..."
+      }
+    ],
     "generique": [
       "Jean-Pierre Léaud",
       "Bernadette Lafont",
       "Jean-Pierre Kalfon"
     ]
-  },
-  {
-    "titre": "Répétition",
-    "art": "La",
-    "titreVo": "",
-    "idFilm": 75242,
-    "ageMinimal": null,
-    "realisateurs": "Catherine Corsini",
-    "annee": 2000,
-    "pays": "France-Canada"
   },
   {
     "titre": "Une étrange affaire",
@@ -123,7 +174,18 @@
     "ageMinimal": null,
     "realisateurs": "Claude Lelouch",
     "annee": 1964,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pour devenir de vrais gangsters, quatre jeunes paumés s'astreignent à une discipline de fer pour éviter de mal finir, comme la plupart de leurs prédécesseurs. Ils apprendront à jouer au poker, à se battre, à prendre des coups et à tirer au revolver. Après la théorie, ils s'attaquent à la pratique en préparant un gros coup..."
+      }
+    ],
+    "generique": [
+      "Jean-Pierre Kalfon",
+      "Jacques Portet",
+      "Janine Magnan"
+    ]
   },
   {
     "titre": "Vallée",
@@ -145,20 +207,5 @@
       "Bulle Ogier",
       "Valérie Lagrange"
     ]
-  },
-  {
-    "titre": "Vivement dimanche !",
-    "titreVo": "",
-    "idFilm": 51370,
-    "ageMinimal": null,
-    "realisateurs": "François Truffaut",
-    "annee": 1982,
-    "pays": "France",
-    "generique": [
-      "Fanny Ardant",
-      "Jean-Louis Trintignant",
-      "Philippe Laudenbach"
-    ],
-    "adaptation": "D'après le roman _The Long Saturday Night_ de Charles Williams."
   }
 ]

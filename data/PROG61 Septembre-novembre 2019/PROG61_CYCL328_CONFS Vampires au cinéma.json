@@ -1,0 +1,62 @@
+[
+  {
+    "idCategorie": 2076,
+    "idEvenement": 20642,
+    "titre": "Vampires, l'art du transgenre",
+    "duree": 90,
+    "idTypeConference": 55,
+    "typeConference": "Conférence",
+    "textes": [
+      {
+        "typeTexte": 114,
+        "texte": "Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €)."
+      },
+      {
+        "typeTexte": 156,
+        "texte": "**Matthieu Orléan** est collaborateur artistique à La Cinémathèque française, chargé des expositions temporaires. Il a notamment été le commissaire des expositions « ¡Almodóvar : Exhibition! », « Dennis Hopper et le Nouvel Hollywood », « Le Monde enchanté de Jacques Demy » et « Gus Van Sant / Icônes ». Il est commissaire de l'exposition « Vampires »."
+      },
+      {
+        "typeTexte": 8,
+        "texte": "Le vampire est le héros de toutes les transgressions politiques et sexuelles. Originaire de la région de Transylvanie, le Comte Dracula, symbole du vampire par excellence, est une figure trans-artistique, et paradoxale : mort/vivant, terrifiant/séducteur, marginal/autocrate. On s'attachera donc à mieux définir l'identité du vampire, en particulier cinématographique, ainsi que sa capacité extraordinaire à distordre la mise en scène et contaminer la grammaire des films. Et si la première victime (très consentante) du vampire était finalement le cinéma lui-même ?"
+      }
+    ],
+    "intervenants": [
+      {
+        "nomComplet": "Matthieu Orléan",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2076,
+    "idEvenement": 20643,
+    "titre": "Film + discussion",
+    "duree": 45,
+    "idTypeConference": 16,
+    "typeConference": "Dialogue",
+    "textes": [
+      {
+        "typeTexte": 114,
+        "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+      },
+      {
+        "typeTexte": 156,
+        "texte": "**Diane Arnaud** est universitaire et essayiste. Elle a écrit plusieurs ouvrages, entre autres : _Kiyoshi Kurosawa : mémoire de la disparition_ (Rouge Profond, 2007) ; _Changements de têtes : de Georges Méliès à David Lynch_ (Rouge Profond, 2012) ; _Imaginaires du déjà-vu : Resnais, Rivette, Lynch et les autres_ (Hermann, 2016)."
+      },
+      {
+        "typeTexte": 8,
+        "texte": "« _Entretien avec un vampire_ est davantage un film sur l'absence du bien et du mal. Louis, le héros, devient un vampire, commet des actes barbares, et attend une punition. Mais il n'y a pas de jugement, il n'y a aucun Dieu pour le condamner. Et cette impunité devient une punition encore plus cruelle. » Neil Jordan, 1994"
+      }
+    ],
+    "intervenants": [
+      {
+        "nomComplet": "Diane Arnaud",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 1
+      }
+    ]
+  }
+]

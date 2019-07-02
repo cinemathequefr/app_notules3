@@ -60,29 +60,29 @@
       "Georges Franju"
     ],
     "titreEvenement": "« Mario Bava : l'image qui saigne »",
+    "idSeanceAssoc": 30173,
     "typeAssoc": 117,
     "items": [
-      {
-        "ordre": 1
-      }
+      {}
     ]
   },
   {
     "idCategorie": 1931,
     "typeEvenement": 13,
     "idEvenement": 19027,
-    "idSeance": 30172,
-    "dateHeure": "2019-07-05T19:00:00",
+    "idSeance": 30173,
+    "dateHeure": "2019-07-05T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
     "titreEvenement": "Ile de l'épouvante (L')",
+    "idSeanceAssoc": 30172,
     "typeAssoc": 117,
     "items": [
       {
         "idFilm": 66016,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 30173,
         "idCopie": 18363,
         "duree": 90,
@@ -1351,7 +1351,7 @@
         "idFilm": 41943,
         "ordre": 1,
         "idSeance": 30537,
-        "idCopie": 18465,
+        "idCopie": 18833,
         "duree": 104,
         "version": "VF",
         "format": "35 mm",

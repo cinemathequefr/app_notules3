@@ -1,0 +1,36 @@
+[
+  {
+    "idCategorie": 2066,
+    "idEvenement": 20631,
+    "titre": "film + Discussion",
+    "duree": 45,
+    "idTypeConference": 16,
+    "typeConference": "Dialogue",
+    "textes": [
+      {
+        "typeTexte": 114,
+        "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+      },
+      {
+        "typeTexte": 156,
+        "texte": "**Bernard Eisenschitz** est traducteur et historien du cinéma. Auteur de plusieurs ouvrages, en particulier sur Fritz Lang ou Nicholas Ray, il a mené à bien la restauration de _L'Atalante_, éditée en DVD par Gaumont, comme toute l'œuvre de Jean Vigo."
+      },
+      {
+        "typeTexte": 156,
+        "texte": "**Bernard Eisenschitz** est traducteur et historien du cinéma. Auteur de nombreux ouvrages, il a écrit, entre autres, _Fritz Lang au travail_ (Éditions Cahiers du cinéma, 2011) et _Roman américain_. _Les Vies de Nicholas Ray_ (Éditions Bourgois, 1990)."
+      },
+      {
+        "typeTexte": 8,
+        "texte": "« J'aime _Les Amants de la nuit_ parce que toutes les erreurs sont de moi. » Nicholas Ray"
+      }
+    ],
+    "intervenants": [
+      {
+        "nomComplet": "Bernard Eisenschitz",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 1
+      }
+    ]
+  }
+]

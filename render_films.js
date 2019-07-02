@@ -1,4 +1,4 @@
-const fs = require("fs");
+// const fs = require("fs");
 const _ = require("lodash");
 const cheerio = require("cheerio");
 const helpers = require("./lib/helpers.js");

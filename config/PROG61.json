@@ -4,13 +4,55 @@
   "dateFrom": "",
   "dateTo": "",
   "cycles": [{
+      "idCycleProg": 13,
+      "titreCycle": "Cinéma d'avant-garde",
+      "sousCycles": [{
+        "titre": "Maisons, masures et cambuses aux images",
+        "cats": [2039],
+        "tri": 4
+      }]
+    },
+    {
+      "idCycleProg": 14,
+      "titreCycle": "Cinéma bis",
+      "sousCycles": [{
+        "titre": "Vampires au cinéma",
+        "cats": [2020],
+        "tri": 4
+      }]
+    },
+    {
+      "idCycleProg": 143,
+      "titreCycle": "Fenêtres sur les collections",
+      "sousCycles": [{
+        "titre": "Sur les rails",
+        "cats": [2058],
+        "tri": 4
+      }]
+    },
+    {
+      "idCycleProg": 192,
+      "titreCycle": "Ciné-club Jean Douchet",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2040],
+        "tri": 4
+      }]
+    },
+    {
       "idCycleProg": 229,
       "titreCycle": "Nicholas Ray",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1020],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1020],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2066],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 328,
@@ -28,6 +70,21 @@
         {
           "titre": "Cinéma bis",
           "cats": [2020],
+          "tri": 1
+        },
+        {
+          "titre": "Nuit Blade",
+          "cats": [2032],
+          "tri": 1
+        },
+        {
+          "titre": "Nuit Halloween",
+          "cats": [2062],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2076],
           "tri": 1
         }
       ]

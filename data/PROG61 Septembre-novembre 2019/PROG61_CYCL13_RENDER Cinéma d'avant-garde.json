@@ -1,0 +1,247 @@
+{
+  "header": {
+    "idCycleProg": 13,
+    "titreCycle": "Cinéma d'avant-garde",
+    "sousCycles": [
+      {
+        "titre": "Maisons, masures et cambuses aux images",
+        "cats": [
+          2039
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 61
+  },
+  "data": [
+    {
+      "titreSousCycle": "Maisons, masures et cambuses aux images",
+      "tri": 4,
+      "items": [
+        {
+          "idCategorie": 2039,
+          "idEvenement": 20059,
+          "films": [
+            {
+              "idFilm": 142194,
+              "titre": "Amoureux de la pellicule",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Frédéric Rolland",
+              "annee": 2018,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Alors que des cinémathèques et centres d'archives audiovisuels institutionnels se sont multipliés et disposent de fonds importants, il existe parallèlement, un peu partout en France, de simples amateurs, collectionneurs de films en support argentique. Ces passionnés disposent, dans des lieux empreints d'une part de la magie du cinéma, de films rares ou d'appareils dans tous les formats. Pourtant, l'existence même de ces inconditionnels a été reléguée jusqu'à l'invisibilité, au fur et à mesure de l'évolution des technologies et d'un contexte légal plus contraignant. Entre la fin des années 1970 avec la concurrence des enregistreurs vidéo grand public et le passage au numérique de l'exploitation industrielle du cinéma quasi achevé en 2012, nombre d'entre eux ont abandonné leurs bobines et la raison d'être de ces collections a évolué plus encore vers 'l'objet'. Ce film est un voyage dans les collections privées françaises parmi les plus conséquentes, véritables musées du cinéma. Le milieu des collectionneurs dispose encore aujourd'hui de foires, de boutiques et même d'associations spécialisées, cependant une période se clôt et ce film témoigne d'usages en passe de disparaître. » (Frédéric Rolland)"
+                }
+              ],
+              "duree": 34,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 142196,
+              "titre": "Collection de la Cinémathèque Centrale de l'Enseignement Public",
+              "titreVo": "",
+              "realisateurs": "Frédéric Rolland",
+              "annee": 2017,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Ce film présente une série d'une douzaine d'extraits de documents représentatifs du fonds de la Cinémathèque Centrale de l'Enseignement Public qui fut le principal distributeur de films documentaires, prophylactiques, des supports de cours, etc. dans les établissements scolaires entre 1920 et 1996 de la maternelle à l'université. Supplanté par la vidéo, le service ferme et le Centre National de Documentation Pédagogique, aujourd'hui réseau Canopé, en fait don en 2010 à la Direction des Bibliothèques Universitaires de la Sorbonne nouvelle Paris 3. Le corpus de films « pédagogiques », de 2500 titres, actuellement en cours de numérisation, aborde tous les sujets, de la médecine au théâtre, en passant par les mathématiques, l'histoire, la littérature, l'apprentissage des langues, et bien d'autres. Son intérêt réside autant dans les sujets mêmes que dans la dimension historiographique de ces contenus. » (Frédéric Rolland)"
+                }
+              ],
+              "duree": 52,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-27T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2039,
+          "idEvenement": 20062,
+          "films": [
+            {
+              "idFilm": 142201,
+              "titre": "Cinéma du Diable – Regard sur le cinéma fantastique français",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Marcel L'Herbier",
+              "annee": 1967,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Fondé sur la citation d'extraits, précurseur des Histoire(s) du Cinéma de Jean-Luc Godard, Le Cinéma du Diable offre un essai riche et singulier sur ce pan à tort supposé peu fourni du cinéma français. Depuis Louis Lumière jusqu'aux _Amants de Teruel_ de Raymond Rouleau en passant par _La Jetée_ de Chris Marker, Marcel L'Herbier configure et organise tout un champ d'images en projets esthétiques, catégories et styles. (Nicole Brenez) Plusieurs montages du film ont existé (en 1964 et 1967), la copie présentée est la version proposée en milieu scolaire. (Frédéric Rolland)"
+                }
+              ],
+              "duree": 86,
+              "format": "16 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-27T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2039,
+          "idEvenement": 20065,
+          "films": [
+            {
+              "idFilm": 54078,
+              "titre": "Naissance du cinéma",
+              "titreVo": "",
+              "realisateurs": "Roger Leenhardt",
+              "annee": 1946,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Roger Leenhardt rend hommage à tous les inventeurs du cinéma en présentant les premières recherches qui vont aboutir à l'invention de la caméra d'Edison et des Frères Lumière : expériences de laboratoire, lanterne magique, baraques foraines, théâtre optique de Reynaud, études de mouvements de Marey et Muybridge."
+                }
+              ],
+              "duree": 39,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 121761,
+              "titre": "Don Quichotte de Cervantès TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1964,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Comment, du XVIIe au XXe siècles, l'illustration du célèbre roman de Cervantès a enrichi et appauvri à la fois notre connaissance du roman."
+                }
+              ],
+              "duree": 24,
+              "format": "16 mm",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 79280,
+              "titre": "Orson Welles",
+              "titreVo": "",
+              "realisateurs": "François Reichenbach, Frédéric Rossif",
+              "annee": 1968,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Portrait composé d'interviews d'Orson Welles (en Californie où il réside et à Cannes pendant le festival) alternant avec des séquences de tournage de son Don Quichotte commencé en 1957 et alors inachevé."
+                }
+              ],
+              "generique": [
+                "Jeanne Moreau",
+                "Orson Welles",
+                "Henry Chapier",
+                "François Reichenbach"
+              ],
+              "duree": 24,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-11-22T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2039,
+          "idEvenement": 20067,
+          "films": [
+            {
+              "idFilm": 50415,
+              "titre": "Images médiévales",
+              "titreVo": "",
+              "realisateurs": "William Novik",
+              "annee": 1948,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Les enluminures de manuscrits médiévaux conservés à la BNF se transforment en fresque de vie quotidienne au Moyen Âge. Récipiendaire du Prix pour la Couleur au Festival de Cannes 1949, le film constitue aussi la première intervention de René Vautier dans le cinéma. (Nicole Brenez)"
+                }
+              ],
+              "duree": 17,
+              "format": "16 mm",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 90265,
+              "titre": "Rossignol de Kabylie",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Georges Régnier",
+              "annee": 1963,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "D'après une nouvelle d'Emmanuel Roblès, Le Rossignol de Kabylie (in L'Homme d'avril, Seuil, 1959). En pleine guerre d'Algérie, un soldat français vient rendre visite à un poète arabe, le « Rossignol de Kabylie », qu'il admire."
+                }
+              ],
+              "adaptation": "D'après la nouvelle _Le Rossignol de Kabylie_ d'Emmanuel Roblès.",
+              "duree": 21,
+              "format": "16 mm",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 142202,
+              "titre": "Quatre-vingt-treize",
+              "titreVo": "",
+              "realisateurs": "Jean Vidal",
+              "annee": 1963,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Récit d'un pan de la Révolution française constitué à partir de gravures et estampes, le film de Jean Vidal invente des « Actualités révolutionnaires » qui a bien des égards annoncent et amorcent les Ciné-Tracts et autres Newsreel des années 1960. (Nicole Brenez)"
+                }
+              ],
+              "duree": 30,
+              "format": "DCP",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-11-22T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

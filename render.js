@@ -92,7 +92,9 @@ try {
   // _MERGE : Fusion des données films et séances
   merge = doMerge(cycleConfig, films, seances, confs);
   // merge = doMerge(cycleConfig, films, seances);
+
   merge = cleanTitreEvenement(merge);
+
   await helpers.writeFileInFolder(
     `${config.pathData.local}${progDirectoryName}`,
     "",

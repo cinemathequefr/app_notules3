@@ -873,10 +873,10 @@
           "version": "VF",
           "seance": [
             {
-              "idSeance": 30172,
-              "ordre": 2,
+              "idSeance": 30173,
+              "ordre": 1,
               "idEvenement": 19027,
-              "dateHeure": "2019-07-05T19:00:00",
+              "dateHeure": "2019-07-05T21:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -1649,7 +1649,6 @@
             },
             {
               "idSeance": 30172,
-              "ordre": 1,
               "idEvenement": 19213,
               "dateHeure": "2019-07-05T19:00:00",
               "idSalle": [
