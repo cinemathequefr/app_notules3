@@ -241,14 +241,19 @@
     "pays": "Allemagne-France",
     "textes": [
       {
+        "typeTexte": 8,
+        "texte": "À la suite de la projection de _La Comtesse_ de Julie Delpy (voir P. ), dialogue avec la réalisatrice, compositrice et actrice de ce film consacré à Élisabeth Báthory, comtesse hongroise du XVIème siècle et restée dans l'Histoire sous le nom de « la dame sanglante ». « J'avais envie de raconter l'histoire d'une déchéance totale. (...) Je me souviens de cette phrase dans _Comme il vous plaira_, de Shakespeare : « Et d'heure en heure, on mûrit, on mûrit. Et d'heure en heure, on pourrit, on pourrit ! ». » Julie Delpy, 2010"
+      },
+      {
         "typeTexte": 9,
         "texte": "A la mort de son mari, la comtesse Elizabeth Bathory se trouve à la tête d'un vaste domaine et d'une immense fortune. Elle tombe éperdument amoureuse d'un jeune homme, mais celui-ci l'abandonne. Sombrant progressivement dans la folie, Elizabeth se persuade que le sang de jeunes vierges lui procure jeunesse et beauté. Débute alors une série d'actes sanglants et diaboliques."
       }
     ],
     "generique": [
       "Julie Delpy",
+      "Julie Delpy",
       "Daniel Brühl",
-      "William Hurt"
+      "Daniel Brühl"
     ]
   },
   {
@@ -617,6 +622,20 @@
     ]
   },
   {
+    "titre": "Dracula's Daughter",
+    "titreVo": "",
+    "idFilm": 32674,
+    "ageMinimal": null,
+    "realisateurs": "Lambert H. Hillyer",
+    "annee": 1936,
+    "pays": "États-Unis",
+    "generique": [
+      "Otto Kruger",
+      "Gloria Holden",
+      "Marguerite Churchill"
+    ]
+  },
+  {
     "titre": "Du sang pour Dracula",
     "titreVo": "Dracula cerca sangue di vergine e mori di sete !",
     "idFilm": 59536,
@@ -706,6 +725,58 @@
     ]
   },
   {
+    "titre": "Gran amor del Conde Dracula",
+    "art": "El",
+    "titreVo": "",
+    "idFilm": 43247,
+    "ageMinimal": null,
+    "realisateurs": "Javier Aguirre",
+    "annee": 1972,
+    "pays": "Espagne"
+  },
+  {
+    "titre": "Histoire de ma mort",
+    "titreVo": "Història de la meva mort",
+    "idFilm": 120677,
+    "ageMinimal": null,
+    "realisateurs": "Albert Serra",
+    "annee": 2011,
+    "pays": "Espagne-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après sa rencontre avec un nouveau serviteur qui assistera aux derniers jours de sa vie, Casanova quitte son château suisse pour une terre de l'Europe septentrionale. Là, il est confronté à l'existence du vampire."
+      }
+    ],
+    "generique": [
+      "Vicenç Altaió",
+      "Clara Visa",
+      "Noelia Rodenas"
+    ]
+  },
+  {
+    "titre": "Hurlements",
+    "titreVo": "Howling",
+    "artVo": "The",
+    "idFilm": 31390,
+    "ageMinimal": null,
+    "realisateurs": "Joe Dante",
+    "annee": 1980,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une journaliste découvre l'existence d'une communauté qui dissimule un repaire de loups-garous."
+      }
+    ],
+    "generique": [
+      "Patrick Macnee",
+      "John Carradine",
+      "Dee Wallace"
+    ],
+    "adaptation": "D'après le roman _The Howling_ de Gary Brandner."
+  },
+  {
     "titre": "Irma Vep",
     "titreVo": "",
     "idFilm": 55633,
@@ -763,6 +834,21 @@
     ]
   },
   {
+    "titre": "Loup-garou de Londres",
+    "art": "Le",
+    "titreVo": "An American Werewolf in London",
+    "idFilm": 33737,
+    "ageMinimal": null,
+    "realisateurs": "John Landis",
+    "annee": 1980,
+    "pays": "États-Unis-Grande-Bretagne",
+    "generique": [
+      "David Naughton",
+      "Jenny Agutter",
+      "Griffin Dunne"
+    ]
+  },
+  {
     "titre": "Maîtresses de Dracula",
     "art": "Les",
     "titreVo": "Brides of Dracula",
@@ -804,6 +890,17 @@
       "Christine Forrest",
       "Elianne Nadeau"
     ]
+  },
+  {
+    "titre": "Massacre des vampires",
+    "art": "Le",
+    "titreVo": "Strage dei vampiri",
+    "artVo": "Le",
+    "idFilm": 142414,
+    "ageMinimal": null,
+    "realisateurs": "Roberto Mauri",
+    "annee": 1962,
+    "pays": "Italie"
   },
   {
     "titre": "Morse",
@@ -939,6 +1036,17 @@
     ]
   },
   {
+    "titre": "Orgie des vampires",
+    "art": "L'",
+    "titreVo": "Mostro dell opera",
+    "artVo": "Il",
+    "idFilm": 64055,
+    "ageMinimal": null,
+    "realisateurs": "Renato Polselli",
+    "annee": 1961,
+    "pays": "Italie"
+  },
+  {
     "titre": "Prédateurs",
     "art": "Les",
     "titreVo": "Hunger",
@@ -1003,6 +1111,27 @@
     ]
   },
   {
+    "titre": "Territoire des morts",
+    "art": "Le",
+    "titreVo": "Land of the Dead",
+    "idFilm": 97020,
+    "ageMinimal": null,
+    "realisateurs": "George A. Romero",
+    "annee": 2004,
+    "pays": "Canada-France-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un futur proche, quelques survivants, barricadés dans une ville bunker, résistent aux assauts organisés des zombies, qui désormais pensent et communiquent."
+      }
+    ],
+    "generique": [
+      "Simon Baker",
+      "Asia Argento",
+      "Dennis Hopper"
+    ]
+  },
+  {
     "titre": "Thirst, ceci est mon sang",
     "titreVo": "Bakjwi",
     "idFilm": 108292,
@@ -1059,6 +1188,20 @@
     ],
     "generique": [
       "Christopher Lee"
+    ]
+  },
+  {
+    "titre": "Une nuit en enfer",
+    "titreVo": "From Dusk Till Dawn",
+    "idFilm": 45648,
+    "ageMinimal": null,
+    "realisateurs": "Robert Rodriguez",
+    "annee": 1995,
+    "pays": "États-Unis",
+    "generique": [
+      "John Saxon",
+      "Harvey Keitel",
+      "George Clooney"
     ]
   },
   {

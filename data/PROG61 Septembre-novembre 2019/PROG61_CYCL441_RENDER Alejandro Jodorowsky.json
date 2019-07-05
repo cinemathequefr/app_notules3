@@ -1,0 +1,369 @@
+{
+  "header": {
+    "idCycleProg": 441,
+    "titreCycle": "Alejandro Jodorowsky",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          2022
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [
+          2070
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 61
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 142423,
+          "duree": 100,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 31414,
+              "ordre": 1,
+              "idEvenement": 20673,
+              "dateHeure": "2019-09-30T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 120100,
+          "titre": "Danza de la realidad",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Alejandro Jodorowsky",
+          "annee": 2013,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le film est un exercice d'autobiographie imaginaire. Né au Chili en 1929, dans la petite ville de Tocopilla, où le film a été tourné, Alejandro Jodorowsky fut confronté à une éducation très dure et violente, au sein d'une famille déracinée. Bien que les faits et les personnages soient réels, la fiction dépasse la réalité dans un univers poétique où le réalisateur réinvente sa famille."
+            }
+          ],
+          "generique": [
+            "Brontis Jodorowsky",
+            "Pamela Flores"
+          ],
+          "duree": 130,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 31000,
+              "ordre": 1,
+              "idEvenement": 19773,
+              "dateHeure": "2019-10-05T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 56888,
+          "titre": "Fando y lis",
+          "titreVo": "",
+          "realisateurs": "Alejandro Jodorowsky",
+          "annee": 1968,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux jeunes gens recherchent une cité mythique où tous leurs vœux seraient exaucés. En route, ils ne rencontrent que corruption et folie."
+            }
+          ],
+          "generique": [
+            "Sergio Kleiner",
+            "Diana Mariscal"
+          ],
+          "duree": 0,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30977,
+              "ordre": 1,
+              "idEvenement": 19770,
+              "dateHeure": "2019-10-02T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 120081,
+          "titre": "Jodorowsky's Dune",
+          "titreVo": "",
+          "realisateurs": "Franck Pavich",
+          "annee": 2016,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'histoire d'un film rêvé, jamais réalisé : l'adaptation ambitieuse de _Dune_ par Alejandro Jodorowsky en 1975."
+            }
+          ],
+          "duree": 83,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 31009,
+              "ordre": 1,
+              "idEvenement": 19782,
+              "dateHeure": "2019-10-06T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 60690,
+          "titre": "Montagne sacrée",
+          "art": "La",
+          "titreVo": "Holy Mountain",
+          "artVo": "The",
+          "realisateurs": "Alejandro Jodorowsky",
+          "annee": 1973,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un voleur, invité dans la tour d'un alchimiste, rencontre un groupe de sept personnages qui représentent sept planètes. Malgré leur puissance, tous redoutent la mort, qui n'épargne personne. Aussi, le petit groupe se met-il en quête du secret de l'immortalité, un secret qui serait jalousement gardé par les neuf sages de la Montagne sacrée..."
+            }
+          ],
+          "duree": 114,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 31002,
+              "ordre": 1,
+              "idEvenement": 19988,
+              "dateHeure": "2019-10-06T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 131749,
+          "titre": "Poesía sin fin",
+          "titreVo": "",
+          "realisateurs": "Alejandro Jodorowsky",
+          "annee": 2016,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans l'effervescence de la capitale chilienne Santiago, pendant les années 1940 et 50, « Alejandrito » Jodorowsky, âgé d'une vingtaine d'années, décide de devenir poète contre la volonté de sa famille."
+            }
+          ],
+          "generique": [
+            "Adan Jodorowsky",
+            "Pamela Flores"
+          ],
+          "duree": 130,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 31012,
+              "ordre": 1,
+              "idEvenement": 19774,
+              "dateHeure": "2019-10-09T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 44011,
+          "titre": "Santa sangre",
+          "titreVo": "",
+          "realisateurs": "Alejandro Jodorowsky",
+          "annee": 1993,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Suite à un drame familial, Fenix, petit mime d'un cirque de Mexico, est enfermé dans un hôpital psychiatrique. Huit ans plus tard, il retrouve sa mère. Le cirque n'existant plus, ils errent dans la ville, représentant une pantomime qui se prolonge tragiquement dans leur vie quotidienne."
+            }
+          ],
+          "generique": [
+            "Blanca Guerra",
+            "Axel Jodorowsky"
+          ],
+          "duree": 123,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 31825,
+              "ordre": 1,
+              "idEvenement": 19775,
+              "dateHeure": "2019-10-06T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 43971,
+          "titre": "Topo",
+          "art": "El",
+          "titreVo": "",
+          "realisateurs": "Alejandro Jodorowsky",
+          "annee": 1971,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "El Topo, un mystérieux pistolero, sillonne le désert accompagné de son fils de huit ans. Sa route le conduit à sauver Mara, la maîtresse du Colonel, qui le met alors au défi de triompher des quatre Maîtres qui règnent sur la région."
+            }
+          ],
+          "generique": [
+            "Alejandro Jodorowsky",
+            "Mara Lorenzio",
+            "David Silva"
+          ],
+          "duree": 125,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 31843,
+              "ordre": 1,
+              "idEvenement": 19769,
+              "dateHeure": "2019-10-04T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 49070,
+          "titre": "Tusk",
+          "titreVo": "",
+          "realisateurs": "Alejandro Jodorowsky",
+          "annee": 1980,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le destin d'Elise, une jeune orpheline vivant en Inde et d'un éléphanteau né le même jour qu'elle."
+            }
+          ],
+          "duree": 120,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30998,
+              "ordre": 1,
+              "idEvenement": 19772,
+              "dateHeure": "2019-10-05T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 59096,
+          "titre": "Voleur d'arc-en-ciel",
+          "art": "Le",
+          "titreVo": "Rainbow Thief",
+          "artVo": "The",
+          "realisateurs": "Alejandro Jodorowsky",
+          "annee": 1994,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Meleagre, prince héritier fortuné, octogénaire excentrique, est obligé de se réfugier dans les égouts de la ville pour échapper à sa famille qui veut le faire interner pour toucher son argent. Dima, un clochard, lui sert de serviteur mais convoite également la fortune à venir."
+            }
+          ],
+          "generique": [
+            "Peter O'Toole",
+            "Omar Sharif",
+            "Christopher Lee"
+          ],
+          "duree": 75,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30999,
+              "ordre": 1,
+              "idEvenement": 19771,
+              "dateHeure": "2019-10-05T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 1,
+      "items": [
+        {
+          "titre": "Jodorowsky par Jodorowsky",
+          "textes": [
+            {
+              "typeTexte": 114,
+              "texte": "Tarifs Leçon de cinéma : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Après avoir créé plusieurs revues (papier et en ligne), **Bernard Payen** rejoint La Cinémathèque française en 2001. Responsable de programmation depuis 2011, il organise notamment des rencontres régulières dédiées à la jeune création cinématographique contemporaine. Ancien responsable du court métrage à la Semaine de la Critique, il a réalisé plusieurs films et poursuit une activité journalistique pour le magazine _Court-Circuit_ (Arte), la revue _Bref_, ou la radio Aligre Fm."
+            },
+            {
+              "typeTexte": 8,
+              "texte": "« J'avais toujours pensé que _La Montagne sacrée_ allait être vu dans le futur, et j'étais convaincu que personne ne pourrait le comprendre à l'époque. » Alejandro Jodorowsky, 2009"
+            }
+          ],
+          "duree": 90,
+          "seance": [
+            {
+              "idSeance": 31002,
+              "ordre": 2,
+              "idEvenement": 20635,
+              "dateHeure": "2019-10-06T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

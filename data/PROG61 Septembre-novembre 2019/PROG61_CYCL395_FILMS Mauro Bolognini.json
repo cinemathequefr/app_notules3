@@ -1,29 +1,11 @@
 [
   {
-    "titre": "12 registi per 12 città",
-    "titreVo": "",
-    "annee": 1989,
-    "idFilm": 93768,
-    "ageMinimal": 0,
-    "realisateurs": "Alberto Lattuada, Michelangelo Antonioni, Bernardo Bertolucci, [etc.]",
-    "pays": "Italie"
-  },
-  {
-    "titre": "12 registi per 12 città : Palermo",
-    "titreVo": "",
-    "annee": 1989,
-    "idFilm": 98997,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
-    "pays": "Italie"
-  },
-  {
     "titre": "Agostino",
     "titreVo": "",
-    "annee": 1962,
     "idFilm": 72626,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1962,
     "pays": "Italie",
     "textes": [
       {
@@ -43,10 +25,10 @@
     "art": "Les",
     "titreVo": "Innamorati",
     "artVo": "Gli",
-    "annee": 1956,
     "idFilm": 42101,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1955,
     "pays": "Italie-France",
     "textes": [
       {
@@ -63,10 +45,10 @@
   {
     "titre": "Arabella",
     "titreVo": "",
-    "annee": 1967,
     "idFilm": 58592,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1967,
     "pays": "Italie",
     "textes": [
       {
@@ -84,10 +66,10 @@
     "titre": "Assoluto naturale",
     "art": "L'",
     "titreVo": "",
-    "annee": 1969,
     "idFilm": 84659,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1969,
     "pays": "Italie",
     "textes": [
       {
@@ -106,10 +88,10 @@
     "art": "Le",
     "titreVo": "Bell'Antonio",
     "artVo": "Il",
-    "annee": 1961,
     "idFilm": 42068,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1959,
     "pays": "Italie-France",
     "textes": [
       {
@@ -127,25 +109,30 @@
   {
     "titre": "Black Journal = Mémoires diaboliques",
     "titreVo": "Gran bollito",
-    "annee": 1977,
     "idFilm": 75906,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1977,
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
         "texte": "Une femme assassine sauvagement ses amies et les transforme en savon. Son méfait accompli, elle reprend calmement le cours de sa vie."
       }
+    ],
+    "generique": [
+      "Laura Antonelli",
+      "Shelley Winters",
+      "Max von Sydow"
     ]
   },
   {
     "titre": "Bubu",
     "titreVo": "",
-    "annee": 1977,
     "idFilm": 39050,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1970,
     "pays": "Italie",
     "textes": [
       {
@@ -161,10 +148,10 @@
     "titre": "Ca s'est passé à Rome",
     "titreVo": "Giornata balorda",
     "artVo": "La",
-    "annee": 1961,
     "idFilm": 41950,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1960,
     "pays": "Italie-France",
     "textes": [
       {
@@ -180,52 +167,13 @@
     "adaptation": "D'après les nouvelles _Racconti romani_ et _Nuovi racconti romani_ d'Alberto Moravia."
   },
   {
-    "titre": "Capriccio all'italiana",
-    "titreVo": "",
-    "annee": 1967,
-    "idFilm": 60124,
-    "ageMinimal": null,
-    "realisateurs": "Steno, Mauro Bolognini, Pier Paolo Pasolini, [etc.]",
-    "pays": "Italie"
-  },
-  {
-    "titre": "Capriccio all'italiana : La gelosa",
-    "titreVo": "",
-    "annee": 1968,
-    "idFilm": 66934,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
-    "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Bolognini met en scène une jalouse maladive."
-      }
-    ]
-  },
-  {
-    "titre": "Capriccio all'italiana : Perché ?",
-    "titreVo": "",
-    "annee": 1967,
-    "idFilm": 66683,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
-    "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "L'histoire d'une épouse horripilante."
-      }
-    ]
-  },
-  {
     "titre": "Cavalieri della regina",
     "art": "I",
     "titreVo": "",
-    "annee": 1954,
     "idFilm": 56337,
     "ageMinimal": null,
     "realisateurs": "Joseph Lerner, Mauro Bolognini",
+    "annee": 1954,
     "pays": "Italie",
     "textes": [
       {
@@ -243,10 +191,10 @@
   {
     "titre": "Ce merveilleux automne",
     "titreVo": "Un bellissimo novembre",
-    "annee": 1972,
     "idFilm": 42108,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1968,
     "pays": "Italie-France",
     "textes": [
       {
@@ -265,10 +213,10 @@
     "titre": "Certosa di Parma TV",
     "art": "La",
     "titreVo": "",
-    "annee": 1982,
     "idFilm": 120324,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1982,
     "pays": "Italie-France-RFA",
     "textes": [
       {
@@ -281,10 +229,10 @@
     "titre": "Chevalier de Maupin",
     "art": "Le",
     "titreVo": "Madamigella di Maupin",
-    "annee": 1966,
     "idFilm": 42102,
     "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1965,
     "pays": "Italie-France-Espagne-Yougoslavie",
     "textes": [
       {
@@ -302,10 +250,10 @@
   {
     "titre": "Chronique d'un homicide",
     "titreVo": "Imputazione di omicidio per uno studente",
-    "annee": 2015,
     "idFilm": 82514,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1972,
     "pays": "Italie",
     "textes": [
       {
@@ -324,10 +272,10 @@
     "art": "La",
     "titreVo": "Corruzione",
     "artVo": "La",
-    "annee": 1966,
     "idFilm": 42071,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1963,
     "pays": "Italie-France",
     "textes": [
       {
@@ -345,10 +293,10 @@
     "titre": "Dame aux camélias",
     "art": "La",
     "titreVo": "",
-    "annee": 1981,
     "idFilm": 46956,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1980,
     "pays": "France-Italie",
     "textes": [
       {
@@ -365,10 +313,10 @@
   {
     "titre": "Débrouillez-vous !",
     "titreVo": "Arrangiatevi !",
-    "annee": 1959,
     "idFilm": 70413,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1959,
     "pays": "Italie",
     "textes": [
       {
@@ -381,10 +329,10 @@
     "titre": "Donna e una cosa meravigliosa",
     "art": "La",
     "titreVo": "",
-    "annee": 1964,
     "idFilm": 44717,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1964,
     "pays": "Italie"
   },
   {
@@ -392,10 +340,10 @@
     "art": "Les",
     "titreVo": "Notte brava",
     "artVo": "La",
-    "annee": 1961,
     "idFilm": 45024,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1959,
     "pays": "Italie-France",
     "textes": [
       {
@@ -415,10 +363,10 @@
     "titre": "Grande bourgeoise",
     "art": "La",
     "titreVo": "Fatti di gente per bene",
-    "annee": 1975,
     "idFilm": 41948,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1974,
     "pays": "Italie-France",
     "textes": [
       {
@@ -435,10 +383,10 @@
   {
     "titre": "Guardia, guardia scelta, brigadiere e maresciallo",
     "titreVo": "",
-    "annee": 1956,
     "idFilm": 66904,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1956,
     "pays": "Italie",
     "textes": [
       {
@@ -457,10 +405,10 @@
     "art": "L'",
     "titreVo": "Eredità Ferramonti",
     "artVo": "L'",
-    "annee": 1977,
     "idFilm": 42091,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1975,
     "pays": "Italie",
     "textes": [
       {
@@ -478,10 +426,10 @@
     "titre": "Jeunes maris",
     "art": "Les",
     "titreVo": "Giovani mariti",
-    "annee": 1958,
     "idFilm": 42092,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1958,
     "pays": "Italie-France",
     "textes": [
       {
@@ -499,10 +447,10 @@
   {
     "titre": "Liberté mon amour",
     "titreVo": "Libera amore mio",
-    "annee": 1973,
     "idFilm": 60132,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1973,
     "pays": "Italie",
     "textes": [
       {
@@ -519,10 +467,10 @@
   {
     "titre": "Marisa la Coquette",
     "titreVo": "Marisa la civetta",
-    "annee": 1957,
     "idFilm": 90659,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1957,
     "pays": "Italie",
     "textes": [
       {
@@ -541,10 +489,10 @@
     "art": "Le",
     "titreVo": "Viaccia",
     "artVo": "La",
-    "annee": 1961,
     "idFilm": 42063,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1960,
     "pays": "Italie-France",
     "textes": [
       {
@@ -562,10 +510,10 @@
   {
     "titre": "Metello",
     "titreVo": "",
-    "annee": 1971,
     "idFilm": 42103,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1969,
     "pays": "Italie",
     "textes": [
       {
@@ -582,51 +530,25 @@
     "titre": "Mia signora",
     "art": "La",
     "titreVo": "",
-    "annee": 1964,
     "idFilm": 105872,
     "ageMinimal": null,
     "realisateurs": "Tinto Brass, Luigi Comencini, Mauro Bolognini",
-    "pays": "Italie"
-  },
-  {
-    "titre": "Mia Signora : I mei cari",
-    "art": "La",
-    "titreVo": "",
     "annee": 1964,
-    "idFilm": 66673,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un homme malade passe un long moment à l'hôpital. Au lieu de le réconforter, ses proches lui reprochent de ne pas assumer ses responsabilités de père de famille."
-      }
-    ]
-  },
-  {
-    "titre": "Mia Signora : Luciana",
-    "art": "La",
-    "titreVo": "",
-    "annee": 1964,
-    "idFilm": 66674,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
-    "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "En accompagnant sa femme à l'aéroport, Giovanni rencontre Luciana, dont le mari part également en avion."
+        "texte": "I mei cari : Un homme malade passe un long moment à l'hôpital. Au lieu de le réconforter, ses proches lui reprochent de ne pas assumer ses responsabilités de père de famille. Luciana: En accompagnant sa femme à l'aéroport, Giovanni rencontre Luciana, dont le mari part également en avion."
       }
     ]
   },
   {
     "titre": "Mosca addio",
     "titreVo": "",
-    "annee": 1986,
     "idFilm": 66656,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1986,
     "pays": "Italie",
     "textes": [
       {
@@ -645,36 +567,25 @@
     "art": "Les",
     "titreVo": "Fate",
     "artVo": "Le",
-    "annee": 1967,
     "idFilm": 56602,
     "ageMinimal": null,
     "realisateurs": "Luciano Salce, Mario Monicelli, Mauro Bolognini, [etc.]",
-    "pays": "Italie-France"
-  },
-  {
-    "titre": "Ogresses : L'ogresse Héléna",
-    "art": "Les",
-    "titreVo": "Fate : Fata Elena",
-    "artVo": "Le",
-    "annee": 1967,
-    "idFilm": 56659,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
+    "annee": 1966,
     "pays": "Italie-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En rendant visite à un ami, Luigi s'éprend de sa femme Elena, avec qui il débute une relation."
+        "texte": "L'Ogresse Héléna: En rendant visite à un ami, Luigi s'éprend de sa femme Elena, avec qui il débute une relation."
       }
     ]
   },
   {
     "titre": "Où es-tu allé en vacances ?",
     "titreVo": "Dove vai in vacanza ? : Saro tutta per te",
-    "annee": 1979,
     "idFilm": 70065,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1978,
     "pays": "Italie",
     "textes": [
       {
@@ -691,57 +602,42 @@
     "titre": "Plus vieux métier du monde",
     "art": "Le",
     "titreVo": "",
-    "annee": 1967,
     "idFilm": 60118,
     "ageMinimal": null,
     "realisateurs": "Franco Indovina, Mauro Bolognini, Philippe de Broca, [etc.]",
-    "pays": "France-Italie-RFA"
-  },
-  {
-    "titre": "Plus vieux métier du monde : Nuits romaines",
-    "art": "Le",
-    "titreVo": "",
-    "annee": 1967,
-    "idFilm": 53284,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
-    "pays": "France-Italie-RFA"
+    "annee": 1966,
+    "pays": "France-Italie-RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Segment Nuits romaines"
+      }
+    ]
   },
   {
     "titre": "Poupées",
     "art": "Les",
     "titreVo": "Bambole",
     "artVo": "Le",
-    "annee": 1965,
     "idFilm": 42105,
     "ageMinimal": null,
     "realisateurs": "Dino Risi, Luigi Comencini, Franco Rossi, [etc.]",
-    "pays": "Italie-France"
-  },
-  {
-    "titre": "Poupées : Monseigneur Cupidon",
-    "art": "Les",
-    "titreVo": "Bambole : Monsignor Cupido",
-    "artVo": "Le",
-    "annee": 1965,
-    "idFilm": 58026,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
+    "annee": 1964,
     "pays": "Italie-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un monsignore vénitien se rend à une conférence à Rome en compagnie de son neveu Vincenzo, un beau jeune homme timide. Dans l'hôtel où ils logent, Béatrice, la femme du propriétaire, s'entiche de ce garçon et fait tout pour le séduire."
+        "texte": "Segment Monseigneur Cupidon : Un monsignore vénitien se rend à une conférence à Rome en compagnie de son neveu Vincenzo, un beau jeune homme timide. Dans l'hôtel où ils logent, Béatrice, la femme du propriétaire, s'entiche de ce garçon et fait tout pour le séduire."
       }
     ]
   },
   {
     "titre": "Quand la chair succombe",
     "titreVo": "Senilita",
-    "annee": 1963,
     "idFilm": 42106,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1961,
     "pays": "Italie-France",
     "textes": [
       {
@@ -759,10 +655,10 @@
     "titre": "Silenzio é complicità",
     "art": "Il",
     "titreVo": "",
-    "annee": 1976,
     "idFilm": 119828,
     "ageMinimal": null,
     "realisateurs": "Laura Betti, Bernardo Bertolucci, Mauro Bolognini, [etc.]",
+    "annee": 1976,
     "pays": "Italie"
   },
   {
@@ -770,62 +666,46 @@
     "art": "Les",
     "titreVo": "Streghe",
     "artVo": "Le",
-    "annee": 1968,
     "idFilm": 65391,
     "ageMinimal": null,
     "realisateurs": "Luchino Visconti, Mauro Bolognini, Pier Paolo Pasolini, [etc.]",
-    "pays": "Italie-France"
-  },
-  {
-    "titre": "Sorcières : Sentiment civique",
-    "art": "Les",
-    "titreVo": "Streghe : Senso civico",
-    "artVo": "Le",
-    "annee": 1968,
-    "idFilm": 66681,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
+    "annee": 1966,
     "pays": "Italie-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une automobiliste pressée est contrainte de transporter d'urgence un conducteur choqué à l'hôpital. Elle va utiliser le stratagème du véhicule prioritaire (un mouchoir blanc) dans ses propres intérêts..."
+        "texte": "Cinq portraits de femmes modernes, cinq regards sur la survivance de la sorcellerie dans l'Italie contemporaine."
       }
+    ],
+    "generique": [
+      "Silvana Mangano",
+      "Totò",
+      "Ninetto Davoli"
     ]
   },
   {
     "titre": "Tre volti",
     "art": "I",
     "titreVo": "",
-    "annee": 1964,
     "idFilm": 60128,
     "ageMinimal": null,
     "realisateurs": "Michelangelo Antonioni, Mauro Bolognini, Franco Indovina",
-    "pays": "Italie"
-  },
-  {
-    "titre": "Tre volti : Gli amanti celebri",
-    "art": "I",
-    "titreVo": "",
     "annee": 1964,
-    "idFilm": 56047,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Linda est mariée à Robert, un écrivain, jusqu'au jour où elle retrouve son ancien amant Rodolphe, qui lui suggère de divorcer pour vivre avec lui."
+        "texte": "Gli amanti celebri : Linda est mariée à Robert, un écrivain, jusqu'au jour où elle retrouve son ancien amant Rodolphe, qui lui suggère de divorcer pour vivre avec lui."
       }
     ]
   },
   {
     "titre": "Une fille formidable",
     "titreVo": "Ci troviamo in galleria",
-    "annee": 1953,
     "idFilm": 64750,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1953,
     "pays": "Italie",
     "textes": [
       {
@@ -842,10 +722,10 @@
     "titre": "Vena d'oro",
     "art": "La",
     "titreVo": "",
-    "annee": 1955,
     "idFilm": 92504,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1955,
     "pays": "Italie",
     "textes": [
       {
@@ -864,10 +744,10 @@
     "art": "La",
     "titreVo": "Venexiana",
     "artVo": "La",
-    "annee": 1988,
     "idFilm": 42109,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1985,
     "pays": "Italie",
     "textes": [
       {
@@ -882,10 +762,10 @@
   {
     "titre": "Vertiges",
     "titreVo": "Per le antiche scale",
-    "annee": 1977,
     "idFilm": 56875,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1975,
     "pays": "Italie-France",
     "textes": [
       {
@@ -904,10 +784,10 @@
     "titre": "Villa del Venerdi",
     "art": "La",
     "titreVo": "",
-    "annee": 1991,
     "idFilm": 72592,
     "ageMinimal": null,
     "realisateurs": "Mauro Bolognini",
+    "annee": 1991,
     "pays": "Italie",
     "textes": [
       {

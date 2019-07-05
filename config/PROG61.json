@@ -22,6 +22,15 @@
       }]
     },
     {
+      "idCycleProg": 18,
+      "titreCycle": "Conservatoire des techniques cinématographiques",
+      "sousCycles": [{
+        "titre": "",
+        "cats": [2035],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 143,
       "titreCycle": "Fenêtres sur les collections",
       "sousCycles": [{
@@ -164,14 +173,21 @@
       "idCycleProg": 395,
       "titreCycle": "Mauro Bolognini",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1763],
-        "tri": 1
-      }, {
-        "titre": "Films collectifs",
-        "cats": [2036],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1763],
+          "tri": 1
+        },
+        {
+          "titre": "Films collectifs",
+          "cats": [2036],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2074],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 438,
@@ -205,10 +221,16 @@
       "idCycleProg": 441,
       "titreCycle": "Alejandro Jodorowsky",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2022],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [2022],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2070],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 447,

@@ -10,7 +10,7 @@
     "glob": "^7.1.4",
     "html-entities": "^1.2.1",
     "html-minifier": "^4.0.0",
-    "iconv-lite": "^0.4.24",
+    "iconv-lite": "^0.5.00",
     "lodash": "^4.17.11",
     "moment": "^2.23.0",
     "node-firebird": "^0.8.6",
