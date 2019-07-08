@@ -102,10 +102,16 @@
       "idCycleProg": 337,
       "titreCycle": "Sterling Hayden",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1556],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1556],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2073],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 341,
@@ -210,10 +216,16 @@
           "titre": "Courts métrages",
           "cats": [2038],
           "tri": 3
-        }, {
+        },
+        {
           "titre": "Kira Mouratova actrice",
           "cats": [2023],
           "tri": 3
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2069],
+          "tri": 1
         }
       ]
     },

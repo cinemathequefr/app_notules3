@@ -1,8 +1,10 @@
 {
-  "data": [{
+  "data": [
+    {
       "titreSousCycle": "Les films",
       "tri": 1,
-      "items": [{
+      "items": [
+        {
           "idSeance": 31994,
           "ordre": 1,
           "dateHeure": "2019-11-04T17:30:00",
@@ -14,7 +16,7 @@
           "idEvenement": 19511,
           "typeEvenement": 13,
           "idFilm": 84659,
-          "art": "L",
+          "art": "L'",
           "titre": "Absolu naturel",
           "artVo": "L'",
           "titreVo": "Assoluto naturale",
@@ -26,10 +28,12 @@
             "Isa Miranda"
           ],
           "adaptation": "D'après le roman _L’Absolu naturel_ de Goffredo Parise.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Un intellectuel anglais idéaliste fait la connaissance d'une séduisante bourgeoise. Lors d'un voyage en automobile, ils débutent une relation avec naturel et spontanéité, mais très tôt, les disputes et désaccords se succèdent."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un intellectuel anglais idéaliste fait la connaissance d'une séduisante bourgeoise. Lors d'un voyage en automobile, ils débutent une relation avec naturel et spontanéité, mais très tôt, les disputes et désaccords se succèdent."
+            }
+          ]
         },
         {
           "idSeance": 31993,
@@ -55,10 +59,12 @@
             "Daniel Olbrychski",
             "Aurore Clément"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Ida Nudel, juive russe interdite d'exil en Israël, est arrêtée en 1978 lors d'une manifestation et envoyée en Sibérie dans un camp de travaux forcés pour hommes."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ida Nudel, juive russe interdite d'exil en Israël, est arrêtée en 1978 lors d'une manifestation et envoyée en Sibérie dans un camp de travaux forcés pour hommes."
+            }
+          ]
         },
         {
           "idSeance": 31878,
@@ -85,10 +91,12 @@
             "John Saxon"
           ],
           "adaptation": "D'après le roman _Agostino_ d'Alberto Moravia.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Agostino éprouve une passion exclusive pour sa mère, ravissante veuve. Mais les intrusions intempestives de Renzo, son amant, perturbent la vie affective de l'enfant."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Agostino éprouve une passion exclusive pour sa mère, ravissante veuve. Mais les intrusions intempestives de Renzo, son amant, perturbent la vie affective de l'enfant."
+            }
+          ]
         },
         {
           "idSeance": 31285,
@@ -115,10 +123,12 @@
             "John Saxon"
           ],
           "adaptation": "D'après le roman _Agostino_ d'Alberto Moravia.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Agostino éprouve une passion exclusive pour sa mère, ravissante veuve. Mais les intrusions intempestives de Renzo, son amant, perturbent la vie affective de l'enfant."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Agostino éprouve une passion exclusive pour sa mère, ravissante veuve. Mais les intrusions intempestives de Renzo, son amant, perturbent la vie affective de l'enfant."
+            }
+          ]
         },
         {
           "idSeance": 31188,
@@ -146,10 +156,12 @@
             "Antonella Lualdi",
             "Sergio Raimondi"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Les aventures amoureuses d'une bande de jeunes gens, dans un quartier populaire de la Rome des années 1950."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les aventures amoureuses d'une bande de jeunes gens, dans un quartier populaire de la Rome des années 1950."
+            }
+          ]
         },
         {
           "idSeance": 31240,
@@ -177,10 +189,12 @@
             "Antonella Lualdi",
             "Sergio Raimondi"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Les aventures amoureuses d'une bande de jeunes gens, dans un quartier populaire de la Rome des années 1950."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les aventures amoureuses d'une bande de jeunes gens, dans un quartier populaire de la Rome des années 1950."
+            }
+          ]
         },
         {
           "idSeance": 31233,
@@ -206,10 +220,12 @@
             "Giancarlo Giannini",
             "Margaret Rutherford"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Dans l'Italie en crise des années 1920, Arabella tente d'extorquer de l'argent à plusieurs personnes pour venir en aide à sa mère, menacée d'expulsion."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans l'Italie en crise des années 1920, Arabella tente d'extorquer de l'argent à plusieurs personnes pour venir en aide à sa mère, menacée d'expulsion."
+            }
+          ]
         },
         {
           "idSeance": 31169,
@@ -239,10 +255,12 @@
             "Rina Morelli"
           ],
           "adaptation": "D'après le roman _Le Bel Antonio_ de Vitaliano Brancati.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "De retour dans sa ville natale après un long séjour à Rome, le séduisant Antonio épouse la pure Barbara, dont il est éperdument amoureux. Mais il cache un lourd secret."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "De retour dans sa ville natale après un long séjour à Rome, le séduisant Antonio épouse la pure Barbara, dont il est éperdument amoureux. Mais il cache un lourd secret."
+            }
+          ]
         },
         {
           "idSeance": 31252,
@@ -272,10 +290,12 @@
             "Rina Morelli"
           ],
           "adaptation": "D'après le roman _Le Bel Antonio_ de Vitaliano Brancati.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "De retour dans sa ville natale après un long séjour à Rome, le séduisant Antonio épouse la pure Barbara, dont il est éperdument amoureux. Mais il cache un lourd secret."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "De retour dans sa ville natale après un long séjour à Rome, le séduisant Antonio épouse la pure Barbara, dont il est éperdument amoureux. Mais il cache un lourd secret."
+            }
+          ]
         },
         {
           "idSeance": 31991,
@@ -302,7 +322,8 @@
             "Mario Scaccia",
             "Renato Pozzetto"
           ],
-          "textes": [{
+          "textes": [
+            {
               "typeTexte": 9,
               "texte": "Pendant la Seconde Guerre mondiale, une femme assassine sauvagement ses amies et les transforme en savon, avant de reprendre le cours de sa vie."
             },
@@ -336,10 +357,12 @@
             "Massimo Ranieri",
             "Antonio Falsi"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Par paresse et dans l'espoir de gagner plus, Bubù renonce à son métier de boulanger et convainc sa compagne Berta de se prostituer."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Par paresse et dans l'espoir de gagner plus, Bubù renonce à son métier de boulanger et convainc sa compagne Berta de se prostituer."
+            }
+          ]
         },
         {
           "idSeance": 31924,
@@ -365,10 +388,12 @@
             "Massimo Ranieri",
             "Antonio Falsi"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Par paresse et dans l'espoir de gagner plus, Bubù renonce à son métier de boulanger et convainc sa compagne Berta de se prostituer."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Par paresse et dans l'espoir de gagner plus, Bubù renonce à son métier de boulanger et convainc sa compagne Berta de se prostituer."
+            }
+          ]
         },
         {
           "idSeance": 31211,
@@ -392,10 +417,12 @@
             "Gabriele Ferzetti"
           ],
           "adaptation": "D'après le roman _Un bellissimo novembre_ d'Ercole Patti.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Au cours de vacances dans la maison familiale en Sicile, Nino, un adolescent, s'éprend de sa tante Cettina."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au cours de vacances dans la maison familiale en Sicile, Nino, un adolescent, s'éprend de sa tante Cettina."
+            }
+          ]
         },
         {
           "idSeance": 31262,
@@ -419,10 +446,12 @@
             "Gabriele Ferzetti"
           ],
           "adaptation": "D'après le roman _Un bellissimo novembre_ d'Ercole Patti.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Au cours de vacances dans la maison familiale en Sicile, Nino, un adolescent, s'éprend de sa tante Cettina."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au cours de vacances dans la maison familiale en Sicile, Nino, un adolescent, s'éprend de sa tante Cettina."
+            }
+          ]
         },
         {
           "idSeance": 31236,
@@ -448,10 +477,12 @@
             "Andrea Occhipinti"
           ],
           "adaptation": "D'après le roman _La Chartreuse de Parme_ de Stendhal.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour."
+            }
+          ]
         },
         {
           "idSeance": 31210,
@@ -480,7 +511,8 @@
             "Ottavia Piccolo"
           ],
           "adaptation": "D'après le roman _Mademoiselle de Maupin_ de Théophile Gautier.",
-          "textes": [{
+          "textes": [
+            {
               "typeTexte": 9,
               "texte": "La jeune et innocente mademoiselle de Maupin, contrainte de fuir la maison de son oncle, se déguisé en abbé et prend la route du couvent. Prise pour un homme, elle est arrêtée par une troupe du roi qui décide de l'enrôler contre son gré."
             },
@@ -517,7 +549,8 @@
             "Ottavia Piccolo"
           ],
           "adaptation": "D'après le roman _Mademoiselle de Maupin_ de Théophile Gautier.",
-          "textes": [{
+          "textes": [
+            {
               "typeTexte": 9,
               "texte": "La jeune et innocente mademoiselle de Maupin, contrainte de fuir la maison de son oncle, se déguisé en abbé et prend la route du couvent. Prise pour un homme, elle est arrêtée par une troupe du roi qui décide de l'enrôler contre son gré."
             },
@@ -551,10 +584,12 @@
             "Martin Balsam",
             "Valentina Cortese"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Lors d'une manifestation qui dégénère violemment, Fabio blesse mortellement un policier, mais l'un de ses camarades est inculpé à sa place. Fabio va tout mettre en œuvre pour innocenter son ami."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lors d'une manifestation qui dégénère violemment, Fabio blesse mortellement un policier, mais l'un de ses camarades est inculpé à sa place. Fabio va tout mettre en œuvre pour innocenter son ami."
+            }
+          ]
         },
         {
           "idSeance": 31177,
@@ -582,10 +617,12 @@
             "Alain Cuny",
             "Rosanna Schiaffino"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Stefano, timide et sensible, veut entrer dans les ordres. Mais son père le destine à une tout autre carrière et, pour le détourner de sa vocation, l'emmène en croisière avec une jeune femme."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Stefano, timide et sensible, veut entrer dans les ordres. Mais son père le destine à une tout autre carrière et, pour le détourner de sa vocation, l'emmène en croisière avec une jeune femme."
+            }
+          ]
         },
         {
           "idSeance": 31255,
@@ -613,10 +650,12 @@
             "Alain Cuny",
             "Rosanna Schiaffino"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Stefano, timide et sensible, veut entrer dans les ordres. Mais son père le destine à une tout autre carrière et, pour le détourner de sa vocation, l'emmène en croisière avec une jeune femme."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Stefano, timide et sensible, veut entrer dans les ordres. Mais son père le destine à une tout autre carrière et, pour le détourner de sa vocation, l'emmène en croisière avec une jeune femme."
+            }
+          ]
         },
         {
           "idSeance": 31970,
@@ -645,10 +684,12 @@
             "Domenico Modugno"
           ],
           "adaptation": "D'après le roman _Les Trois mousquetaires_ d'Alexandre Dumas.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Les trois mousquetaires servent les desseins de Marie de Médicis et sauvent l'infante d'Espagne."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les trois mousquetaires servent les desseins de Marie de Médicis et sauvent l'infante d'Espagne."
+            }
+          ]
         },
         {
           "idSeance": 31235,
@@ -678,10 +719,12 @@
             "Fabrizio Bentivoglio"
           ],
           "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "L'amour d'Armand Duval pour Marguerite Gautier, prostituée et courtisane, atteinte de tuberculose."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'amour d'Armand Duval pour Marguerite Gautier, prostituée et courtisane, atteinte de tuberculose."
+            }
+          ]
         },
         {
           "idSeance": 31304,
@@ -711,10 +754,12 @@
             "Fabrizio Bentivoglio"
           ],
           "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "L'amour d'Armand Duval pour Marguerite Gautier, prostituée et courtisane, atteinte de tuberculose."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'amour d'Armand Duval pour Marguerite Gautier, prostituée et courtisane, atteinte de tuberculose."
+            }
+          ]
         },
         {
           "idSeance": 31209,
@@ -767,10 +812,12 @@
             "Peppino De Filippo",
             "Laura Adani"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Dans la Rome de l'après-guerre, deux familles sont contraintes de cohabiter dans un appartement. Lorsque les conditions de vie s'améliorent, l'un des deux patriarches se lance à la recherche d'un logement convenable."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans la Rome de l'après-guerre, deux familles sont contraintes de cohabiter dans un appartement. Lorsque les conditions de vie s'améliorent, l'un des deux patriarches se lance à la recherche d'un logement convenable."
+            }
+          ]
         },
         {
           "idSeance": 31168,
@@ -800,10 +847,12 @@
             "Mylène Demongeot"
           ],
           "adaptation": "D'après le roman _Ragazzi di vita_ de Pier Paolo Pasolini.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "À Rome, deux jeunes voyous volent une voiture et fuient vers la banlieue en compagnie de deux prostituées pour une nuit de bagarres et de beuveries."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Rome, deux jeunes voyous volent une voiture et fuient vers la banlieue en compagnie de deux prostituées pour une nuit de bagarres et de beuveries."
+            }
+          ]
         },
         {
           "idSeance": 31254,
@@ -833,10 +882,12 @@
             "Mylène Demongeot"
           ],
           "adaptation": "D'après le roman _Ragazzi di vita_ de Pier Paolo Pasolini.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "À Rome, deux jeunes voyous volent une voiture et fuient vers la banlieue en compagnie de deux prostituées pour une nuit de bagarres et de beuveries."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Rome, deux jeunes voyous volent une voiture et fuient vers la banlieue en compagnie de deux prostituées pour une nuit de bagarres et de beuveries."
+            }
+          ]
         },
         {
           "idSeance": 31219,
@@ -863,10 +914,12 @@
             "Catherine Deneuve",
             "Fernando Rey"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Après une longue séparation, le comte Bonmartini et sa femme Linda se remettent en couple pour le bien-être de leurs enfants. Mais la jeune femme conserve une profonde aversion envers son époux, que l'on retrouve bientôt assassiné."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Après une longue séparation, le comte Bonmartini et sa femme Linda se remettent en couple pour le bien-être de leurs enfants. Mais la jeune femme conserve une profonde aversion envers son époux, que l'on retrouve bientôt assassiné."
+            }
+          ]
         },
         {
           "idSeance": 31923,
@@ -893,10 +946,12 @@
             "Catherine Deneuve",
             "Fernando Rey"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Après une longue séparation, le comte Bonmartini et sa femme Linda se remettent en couple pour le bien-être de leurs enfants. Mais la jeune femme conserve une profonde aversion envers son époux, que l'on retrouve bientôt assassiné."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Après une longue séparation, le comte Bonmartini et sa femme Linda se remettent en couple pour le bien-être de leurs enfants. Mais la jeune femme conserve une profonde aversion envers son époux, que l'on retrouve bientôt assassiné."
+            }
+          ]
         },
         {
           "idSeance": 31192,
@@ -922,10 +977,12 @@
             "Nino Manfredi",
             "Gino Cervi"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "À Rome, quatre agents de la circulation zélés se heurtent à la désapprobation et au mépris de la population."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Rome, quatre agents de la circulation zélés se heurtent à la désapprobation et au mépris de la population."
+            }
+          ]
         },
         {
           "idSeance": 31298,
@@ -954,10 +1011,12 @@
             "Fabio Testi"
           ],
           "adaptation": "D'après le roman _L'Héritage Ferramonti_ de Gaetano Carlo Chelli.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Rome, 1880. Le riche Gregorio Ferramonti méprise et rejette ses trois enfants, Mario, Pippo et Teta, qu'il accuse de ne pas l'aimer et de convoiter son argent."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Rome, 1880. Le riche Gregorio Ferramonti méprise et rejette ses trois enfants, Mario, Pippo et Teta, qu'il accuse de ne pas l'aimer et de convoiter son argent."
+            }
+          ]
         },
         {
           "idSeance": 31167,
@@ -985,10 +1044,12 @@
             "Gérard Blain",
             "Antonella Lualdi"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Quatre amis inséparables mènent une vie insouciante, jusqu'au mariage de l'un d'entre eux, qui marque le début de leur éloignement. Plus tard, ils tentent de se retrouver."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quatre amis inséparables mènent une vie insouciante, jusqu'au mariage de l'un d'entre eux, qui marque le début de leur éloignement. Plus tard, ils tentent de se retrouver."
+            }
+          ]
         },
         {
           "idSeance": 31253,
@@ -1016,10 +1077,12 @@
             "Gérard Blain",
             "Antonella Lualdi"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Quatre amis inséparables mènent une vie insouciante, jusqu'au mariage de l'un d'entre eux, qui marque le début de leur éloignement. Plus tard, ils tentent de se retrouver."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quatre amis inséparables mènent une vie insouciante, jusqu'au mariage de l'un d'entre eux, qui marque le début de leur éloignement. Plus tard, ils tentent de se retrouver."
+            }
+          ]
         },
         {
           "idSeance": 31990,
@@ -1042,10 +1105,12 @@
             "Adolfo Celi",
             "Philippe Leroy"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Rome, 1930. Alors que sa famille s'est exilée en province, Liberia, restée en ville, s'oppose fermement au fascisme, et devient la cible d'un dignitaire du régime."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Rome, 1930. Alors que sa famille s'est exilée en province, Liberia, restée en ville, s'oppose fermement au fascisme, et devient la cible d'un dignitaire du régime."
+            }
+          ]
         },
         {
           "idSeance": 31193,
@@ -1071,10 +1136,12 @@
             "Francisco Rabal",
             "Marisa Allasio"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "La jeune Marisa, belle et coquette vendeuse de glaces à la gare, fait chavirer les cœurs et papillonne entre les hommes."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La jeune Marisa, belle et coquette vendeuse de glaces à la gare, fait chavirer les cœurs et papillonne entre les hommes."
+            }
+          ]
         },
         {
           "idSeance": 31155,
@@ -1103,10 +1170,12 @@
             "Pietro Germi"
           ],
           "adaptation": "D'après le roman _L'Eredità_ de Mario Pratesi.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Le jeune Amerigo quitte son village pour venir travailler avec son oncle à Florence, où il tombe amoureux d'une prostituée. Pour se rapprocher d'elle, il va jusqu'au vol et à la dépravation."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le jeune Amerigo quitte son village pour venir travailler avec son oncle à Florence, où il tombe amoureux d'une prostituée. Pour se rapprocher d'elle, il va jusqu'au vol et à la dépravation."
+            }
+          ]
         },
         {
           "idSeance": 31212,
@@ -1133,10 +1202,12 @@
             "Lucia Bosè"
           ],
           "adaptation": "D'après le roman _Metello_ de Vasco Pratolini.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Metello, un bel ouvrier d'origine paysanne, tente d'échapper à la misère. Il prend peu à peu conscience de sa condition sociale, et devient responsable syndical lors de la grande grève de 1902."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Metello, un bel ouvrier d'origine paysanne, tente d'échapper à la misère. Il prend peu à peu conscience de sa condition sociale, et devient responsable syndical lors de la grande grève de 1902."
+            }
+          ]
         },
         {
           "idSeance": 31305,
@@ -1163,10 +1234,12 @@
             "Lucia Bosè"
           ],
           "adaptation": "D'après le roman _Metello_ de Vasco Pratolini.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Metello, un bel ouvrier d'origine paysanne, tente d'échapper à la misère. Il prend peu à peu conscience de sa condition sociale, et devient responsable syndical lors de la grande grève de 1902."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Metello, un bel ouvrier d'origine paysanne, tente d'échapper à la misère. Il prend peu à peu conscience de sa condition sociale, et devient responsable syndical lors de la grande grève de 1902."
+            }
+          ]
         },
         {
           "idSeance": 31176,
@@ -1193,10 +1266,12 @@
             "Philippe Leroy"
           ],
           "adaptation": "D'après le roman _Senilità_ d'Italo Svevo.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Emilio Brentani, trentenaire célibataire, tombe passionnément amoureux d'Angiolina, une jeune fille aux mœurs légères."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Emilio Brentani, trentenaire célibataire, tombe passionnément amoureux d'Angiolina, une jeune fille aux mœurs légères."
+            }
+          ]
         },
         {
           "idSeance": 31238,
@@ -1207,6 +1282,7 @@
             "Georges Franju"
           ],
           "typeAssoc": 117,
+          "idSeanceAssoc": 31244,
           "idCategorie": 1763,
           "idEvenement": 19549,
           "typeEvenement": 13,
@@ -1224,10 +1300,12 @@
             "Philippe Leroy"
           ],
           "adaptation": "D'après le roman _Senilità_ d'Italo Svevo.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Emilio Brentani, trentenaire célibataire, tombe passionnément amoureux d'Angiolina, une jeune fille aux mœurs légères."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Emilio Brentani, trentenaire célibataire, tombe passionnément amoureux d'Angiolina, une jeune fille aux mœurs légères."
+            }
+          ]
         },
         {
           "idSeance": 31160,
@@ -1253,10 +1331,12 @@
             "Sophia Loren",
             "Carlo Dapporto"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Gardenio, un artiste comique qui peine à rencontrer le succès, épouse la jeune Caterina. Mais c'est elle qui devient célèbre grâce à sa voix magnifique."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Gardenio, un artiste comique qui peine à rencontrer le succès, épouse la jeune Caterina. Mais c'est elle qui devient célèbre grâce à sa voix magnifique."
+            }
+          ]
         },
         {
           "idSeance": 31870,
@@ -1282,10 +1362,12 @@
             "Sophia Loren",
             "Carlo Dapporto"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Gardenio, un artiste comique qui peine à rencontrer le succès, épouse la jeune Caterina. Mais c'est elle qui devient célèbre grâce à sa voix magnifique."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Gardenio, un artiste comique qui peine à rencontrer le succès, épouse la jeune Caterina. Mais c'est elle qui devient célèbre grâce à sa voix magnifique."
+            }
+          ]
         },
         {
           "idSeance": 31203,
@@ -1311,10 +1393,12 @@
             "Mario Girotti",
             "Titina De Filippo"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Corrado vit avec sa mère, veuve, qui le couve encore comme un enfant. Il lui présente un jour Manfredi, un ingénieur qu'il vient de rencontrer."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Corrado vit avec sa mère, veuve, qui le couve encore comme un enfant. Il lui présente un jour Manfredi, un ingénieur qu'il vient de rencontrer."
+            }
+          ]
         },
         {
           "idSeance": 31228,
@@ -1340,10 +1424,12 @@
             "Mario Girotti",
             "Titina De Filippo"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Corrado vit avec sa mère, veuve, qui le couve encore comme un enfant. Il lui présente un jour Manfredi, un ingénieur qu'il vient de rencontrer."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Corrado vit avec sa mère, veuve, qui le couve encore comme un enfant. Il lui présente un jour Manfredi, un ingénieur qu'il vient de rencontrer."
+            }
+          ]
         },
         {
           "idSeance": 31220,
@@ -1370,10 +1456,12 @@
             "Marthe Keller",
             "Pierre Blaise"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Dans la Toscane des années 1930, le professeur Bonaccorsi, psychiatre réputé, mène des recherches sur la folie dans l'asile où il travaille. Une nouvelle venue, le docteur Anna Bersani, s'oppose très vite à ses théories."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans la Toscane des années 1930, le professeur Bonaccorsi, psychiatre réputé, mène des recherches sur la folie dans l'asile où il travaille. Une nouvelle venue, le docteur Anna Bersani, s'oppose très vite à ses théories."
+            }
+          ]
         },
         {
           "idSeance": 31303,
@@ -1400,10 +1488,12 @@
             "Marthe Keller",
             "Pierre Blaise"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Dans la Toscane des années 1930, le professeur Bonaccorsi, psychiatre réputé, mène des recherches sur la folie dans l'asile où il travaille. Une nouvelle venue, le docteur Anna Bersani, s'oppose très vite à ses théories."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans la Toscane des années 1930, le professeur Bonaccorsi, psychiatre réputé, mène des recherches sur la folie dans l'asile où il travaille. Une nouvelle venue, le docteur Anna Bersani, s'oppose très vite à ses théories."
+            }
+          ]
         },
         {
           "idSeance": 31972,
@@ -1432,10 +1522,12 @@
             "Jeanne Valérie"
           ],
           "adaptation": "D'après la nouvelle _La Villa del venerdì_ d'Alberto Moravia.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "À peine mariée avec Stefan, Alina exige de pouvoir prendre un amant. Son époux accepte, à la seule condition qu'elle lui rapporte chaque détail de cette liaison."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À peine mariée avec Stefan, Alina exige de pouvoir prendre un amant. Son époux accepte, à la seule condition qu'elle lui rapporte chaque détail de cette liaison."
+            }
+          ]
         },
         {
           "idSeance": 31992,
@@ -1463,10 +1555,12 @@
             "Monica Guerritore",
             "Jason Connery"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "À Venise, au XVI<sup>e</sup> siècle, alors que l'on célèbre la fin de la peste noire, deux femmes, Valeria et Angela, rivalisent de charme et de séduction pour conquérir le jeune Jules."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Venise, au XVI<sup>e</sup> siècle, alors que l'on célèbre la fin de la peste noire, deux femmes, Valeria et Angela, rivalisent de charme et de séduction pour conquérir le jeune Jules."
+            }
+          ]
         },
         {
           "idSeance": 31263,
@@ -1494,10 +1588,12 @@
             "Paolo Stoppa"
           ],
           "adaptation": "D'après les recueils de nouvelles _Racconti romani_ et _Nuovi racconti romani_ d'Alberto Moravia.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Un jeune chômeur, ayant besoin d'argent pour entretenir sa famille, se rend à Rome pour trouver du travail. Il y fait de multiples rencontres."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune chômeur, ayant besoin d'argent pour entretenir sa famille, se rend à Rome pour trouver du travail. Il y fait de multiples rencontres."
+            }
+          ]
         },
         {
           "idSeance": 31284,
@@ -1525,17 +1621,20 @@
             "Paolo Stoppa"
           ],
           "adaptation": "D'après les recueils de nouvelles _Racconti romani_ et _Nuovi racconti romani_ d'Alberto Moravia.",
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Un jeune chômeur, ayant besoin d'argent pour entretenir sa famille, se rend à Rome pour trouver du travail. Il y fait de multiples rencontres."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune chômeur, ayant besoin d'argent pour entretenir sa famille, se rend à Rome pour trouver du travail. Il y fait de multiples rencontres."
+            }
+          ]
         }
       ]
     },
     {
       "titreSousCycle": "Films collectifs",
       "tri": 1,
-      "items": [{
+      "items": [
+        {
           "idSeance": 31296,
           "ordre": 1,
           "dateHeure": "2019-11-23T16:30:00",
@@ -1562,10 +1661,12 @@
             "Rquel Welch",
             "Capucine"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Sexy comédie en quatre parties."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sexy comédie en quatre parties."
+            }
+          ]
         },
         {
           "idSeance": 31276,
@@ -1592,10 +1693,12 @@
             "Paolo Villaggio",
             "Alberto Sordi"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Film à sketches en trois épisodes sur le thème des vacances."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film à sketches en trois épisodes sur le thème des vacances."
+            }
+          ]
         },
         {
           "idSeance": 31289,
@@ -1623,10 +1726,12 @@
             "Jeanne Moreau",
             "Raquel Welch"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Film à skecthes : la prostitution à travers les âges."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film à skecthes : la prostitution à travers les âges."
+            }
+          ]
         },
         {
           "idSeance": 31191,
@@ -1655,10 +1760,12 @@
             "Elke Sommer",
             "Gina Lollobrigida"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Quatre histoires du _Décaméron_ de Boccace transposées dans l'Italie des années 1960."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quatre histoires du _Décaméron_ de Boccace transposées dans l'Italie des années 1960."
+            }
+          ]
         },
         {
           "idSeance": 31283,
@@ -1677,10 +1784,12 @@
           "titreVo": "",
           "realisateurs": "Laura Betti",
           "annee": 1976,
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Film conçu par Laura Betti pour dénoncer l'absence d'enquête sérieuse pour éclaircir les circonstances de la mort de Pier Paolo Pasolini, dont elle était très proche."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film conçu par Laura Betti pour dénoncer l'absence d'enquête sérieuse pour éclaircir les circonstances de la mort de Pier Paolo Pasolini, dont elle était très proche."
+            }
+          ]
         },
         {
           "idSeance": 31311,
@@ -1708,10 +1817,12 @@
             "Totò",
             "Ninetto Davoli"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Cinq portraits de femmes modernes, cinq regards sur la survivance de la sorcellerie dans l'Italie contemporaine."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Cinq portraits de femmes modernes, cinq regards sur la survivance de la sorcellerie dans l'Italie contemporaine."
+            }
+          ]
         },
         {
           "idSeance": 31295,
@@ -1736,52 +1847,60 @@
             "Richard Harris",
             "Esmeralda Ruspoli"
           ],
-          "textes": [{
-            "typeTexte": 9,
-            "texte": "Film en trois parties. Bolognini a réalisé le segment _Gli Amanti celebri_ : Linda, mariée à un écrivain, retrouve un jour son ancien amant, qui lui suggère de divorcer pour vivre avec lui."
-          }]
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film en trois parties. Bolognini a réalisé le segment _Gli Amanti celebri_ : Linda, mariée à un écrivain, retrouve un jour son ancien amant, qui lui suggère de divorcer pour vivre avec lui."
+            }
+          ]
         }
       ]
     },
     {
       "titreSousCycle": "Rencontres et conférences",
       "tri": 1,
-      "items": [{
-        "idSeance": 31244,
-        "dateHeure": "2019-11-14T19:00:00",
-        "idSalle": [
-          "GF",
-          "Georges Franju"
-        ],
-        "typeAssoc": 117,
-        "idCategorie": 2074,
-        "idEvenement": 20639,
-        "typeEvenement": 14,
-        "idTypeConference": 55,
-        "typeConference": "Conférence",
-        "titre": "Mauro Bolognini, au-delà du style",
-        "sousTitre": "Conférence de Jean A. Gili",
-        "duree": 90,
-        "textes": [{
-            "typeTexte": 114,
-            "texte": "Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €)."
-          },
-          {
-            "typeTexte": 156,
-            "texte": "Historien du cinéma et critique, Jean A. Gili est spécialiste du cinéma transalpin. Il a consacré des ouvrages, entres autres, à Luigi Comencini, Ettore Scola, Federico Fellini et Nanni Moretti. En 2011, il a publié, aux éditions de La Martinière, _Le Cinéma italien_."
-          },
-          {
-            "typeTexte": 8,
-            "texte": "Faisant souvent figure de cinéaste de second plan, Mauro Bolognini est au contraire un des grands artistes de son époque. Auteur de plus de quarante films, il a réalisé des œuvres relevant de différents genres et a donné sans doute le meilleur de lui-même dans des adaptations de textes littéraires auxquels il apportait une élégance formelle unique, sachant tirer parti des décors naturels offerts par les grandes villes italiennes."
-          }
-        ],
-        "intervenants": [{
-          "nomComplet": "Jean A. Gili",
-          "idFonction": 139,
-          "fonction": "Conférencier",
-          "ordre": 1
-        }]
-      }]
+      "items": [
+        {
+          "idSeance": 31244,
+          "dateHeure": "2019-11-14T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 31238,
+          "idCategorie": 2074,
+          "idEvenement": 20639,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Mauro Bolognini, au-delà du style",
+          "sousTitre": "Conférence de Jean A. Gili",
+          "duree": 90,
+          "textes": [
+            {
+              "typeTexte": 114,
+              "texte": "Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €)."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Historien du cinéma et critique, Jean A. Gili est spécialiste du cinéma transalpin. Il a consacré des ouvrages, entres autres, à Luigi Comencini, Ettore Scola, Federico Fellini et Nanni Moretti. En 2011, il a publié, aux éditions de La Martinière, _Le Cinéma italien_."
+            },
+            {
+              "typeTexte": 8,
+              "texte": "Faisant souvent figure de cinéaste de second plan, Mauro Bolognini est au contraire un des grands artistes de son époque. Auteur de plus de quarante films, il a réalisé des œuvres relevant de différents genres et a donné sans doute le meilleur de lui-même dans des adaptations de textes littéraires auxquels il apportait une élégance formelle unique, sachant tirer parti des décors naturels offerts par les grandes villes italiennes."
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Jean A. Gili",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        }
+      ]
     }
   ],
   "info": {}
