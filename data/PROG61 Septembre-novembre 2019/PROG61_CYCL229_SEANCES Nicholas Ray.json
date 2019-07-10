@@ -1,6 +1,7 @@
 [
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19459,
     "idSeance": 31413,
     "dateHeure": "2019-08-29T20:00:00",
@@ -8,6 +9,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "typeSeance": 44,
     "titreEvenement": "Forêt interdite (La)",
     "items": [
       {
@@ -20,10 +22,36 @@
         "format": "35 mm",
         "valide": 1
       }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19482,
+    "idSeance": 30773,
+    "dateHeure": "2019-08-30T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Ami américain (L')",
+    "items": [
+      {
+        "idFilm": 45651,
+        "ordre": 1,
+        "idSeance": 30773,
+        "idCopie": 13761,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
     ]
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19470,
     "idSeance": 30781,
     "dateHeure": "2019-08-30T19:00:00",
@@ -47,21 +75,46 @@
   },
   {
     "idCategorie": 1020,
-    "idEvenement": 19467,
-    "idSeance": 30782,
+    "typeEvenement": 13,
+    "idEvenement": 19476,
+    "idSeance": 31808,
     "dateHeure": "2019-08-30T21:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Ruelles du malheur (Les)",
+    "titreEvenement": "Fureur de vivre (La)",
     "items": [
       {
-        "idFilm": 35408,
+        "idFilm": 35507,
         "ordre": 1,
-        "idSeance": 30782,
-        "idCopie": 18631,
-        "duree": 100,
+        "idSeance": 31808,
+        "idCopie": 10940,
+        "duree": 111,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19478,
+    "idSeance": 31412,
+    "dateHeure": "2019-08-31T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Nick's Movie",
+    "items": [
+      {
+        "idFilm": 39308,
+        "ordre": 1,
+        "idSeance": 31412,
+        "idCopie": 18901,
+        "duree": 91,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
@@ -70,14 +123,15 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19463,
     "idSeance": 30784,
-    "dateHeure": "2019-08-31T19:30:00",
+    "dateHeure": "2019-08-31T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "A Woman's Secret",
+    "titreEvenement": "Secret de femme",
     "items": [
       {
         "idFilm": 73563,
@@ -93,9 +147,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19481,
     "idSeance": 30785,
-    "dateHeure": "2019-08-31T21:30:00",
+    "dateHeure": "2019-08-31T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -116,9 +171,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19468,
     "idSeance": 30788,
-    "dateHeure": "2019-09-01T17:00:00",
+    "dateHeure": "2019-09-01T17:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -139,9 +195,10 @@
   },
   {
     "idCategorie": 1020,
-    "idEvenement": 19469,
+    "typeEvenement": 13,
+    "idEvenement": 20071,
     "idSeance": 30789,
-    "dateHeure": "2019-09-01T19:00:00",
+    "dateHeure": "2019-09-01T19:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -149,8 +206,18 @@
     "titreEvenement": "Maison dans l'ombre (La)",
     "items": [
       {
-        "idFilm": 73564,
+        "idFilm": 142228,
         "ordre": 1,
+        "idSeance": 30789,
+        "idCopie": 19046,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 73564,
+        "ordre": 2,
         "idSeance": 30789,
         "idCopie": 18634,
         "duree": 82,
@@ -162,9 +229,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19460,
     "idSeance": 30790,
-    "dateHeure": "2019-09-01T21:00:00",
+    "dateHeure": "2019-09-01T21:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -185,6 +253,31 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19467,
+    "idSeance": 31997,
+    "dateHeure": "2019-09-02T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Ruelles du malheur (Les)",
+    "items": [
+      {
+        "idFilm": 35408,
+        "ordre": 1,
+        "idSeance": 31997,
+        "idCopie": 18631,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19465,
     "idSeance": 30797,
     "dateHeure": "2019-09-02T19:00:00",
@@ -208,6 +301,7 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19458,
     "idSeance": 30798,
     "dateHeure": "2019-09-02T21:00:00",
@@ -231,9 +325,34 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19458,
+    "idSeance": 30853,
+    "dateHeure": "2019-09-04T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Diables de Guadalcanal (Les)",
+    "items": [
+      {
+        "idFilm": 35727,
+        "ordre": 1,
+        "idSeance": 30853,
+        "idCopie": 18637,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19466,
     "idSeance": 30805,
-    "dateHeure": "2019-09-04T19:30:00",
+    "dateHeure": "2019-09-04T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -254,14 +373,15 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19462,
     "idSeance": 30806,
-    "dateHeure": "2019-09-04T21:30:00",
+    "dateHeure": "2019-09-04T21:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "A l'ombre des potences",
+    "titreEvenement": "À l'ombre des potences",
     "items": [
       {
         "idFilm": 35310,
@@ -277,32 +397,10 @@
   },
   {
     "idCategorie": 1020,
-    "idEvenement": 19457,
-    "idSeance": 30836,
-    "dateHeure": "2019-09-05T19:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "titreEvenement": "Derrière le miroir",
-    "items": [
-      {
-        "idFilm": 35989,
-        "ordre": 1,
-        "idSeance": 30836,
-        "idCopie": 13264,
-        "duree": 95,
-        "version": "STF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19476,
-    "idSeance": 30828,
-    "dateHeure": "2019-09-05T21:30:00",
+    "idSeance": 30838,
+    "dateHeure": "2019-09-05T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -312,7 +410,7 @@
       {
         "idFilm": 35507,
         "ordre": 1,
-        "idSeance": 30828,
+        "idSeance": 30838,
         "idCopie": 10940,
         "duree": 111,
         "version": "VOSTF",
@@ -323,6 +421,79 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19463,
+    "idSeance": 31804,
+    "dateHeure": "2019-09-05T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Secret de femme",
+    "items": [
+      {
+        "idFilm": 73563,
+        "ordre": 1,
+        "idSeance": 31804,
+        "idCopie": 18686,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19467,
+    "idSeance": 31809,
+    "dateHeure": "2019-09-05T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Ruelles du malheur (Les)",
+    "items": [
+      {
+        "idFilm": 35408,
+        "ordre": 1,
+        "idSeance": 31809,
+        "idCopie": 18631,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19474,
+    "idSeance": 30826,
+    "dateHeure": "2019-09-07T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Cinquante-cinq jours de Pékin (Les)",
+    "items": [
+      {
+        "idFilm": 35998,
+        "ordre": 1,
+        "idSeance": 30826,
+        "idCopie": 18660,
+        "duree": 153,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19456,
     "idSeance": 30827,
     "dateHeure": "2019-09-07T19:30:00",
@@ -340,15 +511,16 @@
         "duree": 83,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19455,
     "idSeance": 30837,
-    "dateHeure": "2019-09-07T21:30:00",
+    "dateHeure": "2019-09-07T21:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -369,6 +541,7 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19475,
     "idSeance": 30840,
     "dateHeure": "2019-09-08T19:00:00",
@@ -392,6 +565,7 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19461,
     "idSeance": 30841,
     "dateHeure": "2019-09-08T21:15:00",
@@ -415,6 +589,31 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19468,
+    "idSeance": 30839,
+    "dateHeure": "2019-09-09T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Violent (Le)",
+    "items": [
+      {
+        "idFilm": 35986,
+        "ordre": 1,
+        "idSeance": 30839,
+        "idCopie": 12523,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19472,
     "idSeance": 31775,
     "dateHeure": "2019-09-09T20:00:00",
@@ -438,22 +637,23 @@
   },
   {
     "idCategorie": 1020,
-    "idEvenement": 19471,
-    "idSeance": 30848,
-    "dateHeure": "2019-09-11T19:30:00",
+    "typeEvenement": 13,
+    "idEvenement": 19461,
+    "idSeance": 30844,
+    "dateHeure": "2019-09-11T17:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Dents du diable (Les)",
+    "titreEvenement": "Traquenard",
     "items": [
       {
-        "idFilm": 44109,
+        "idFilm": 35535,
         "ordre": 1,
-        "idSeance": 30848,
-        "idCopie": 18658,
-        "duree": 110,
-        "version": "VOAutres",
+        "idSeance": 30844,
+        "idCopie": 18656,
+        "duree": 99,
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
       }
@@ -461,9 +661,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19477,
     "idSeance": 30849,
-    "dateHeure": "2019-09-11T21:30:00",
+    "dateHeure": "2019-09-11T19:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -484,9 +685,34 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19471,
+    "idSeance": 30848,
+    "dateHeure": "2019-09-11T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Dents du diable (Les)",
+    "items": [
+      {
+        "idFilm": 44109,
+        "ordre": 1,
+        "idSeance": 30848,
+        "idCopie": 18658,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19474,
     "idSeance": 30854,
-    "dateHeure": "2019-09-12T19:00:00",
+    "dateHeure": "2019-09-12T19:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -507,6 +733,31 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19465,
+    "idSeance": 30859,
+    "dateHeure": "2019-09-13T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Born to Be Bad",
+    "items": [
+      {
+        "idFilm": 58680,
+        "ordre": 1,
+        "idSeance": 30859,
+        "idCopie": 18632,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19470,
     "idSeance": 30860,
     "dateHeure": "2019-09-13T19:00:00",
@@ -515,6 +766,7 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Amants de la nuit (Les)",
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 35517,
@@ -529,10 +781,29 @@
     ]
   },
   {
+    "idCategorie": 2066,
+    "typeEvenement": 14,
+    "idEvenement": 20631,
+    "idSeance": 30860,
+    "dateHeure": "2019-09-13T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Film + Discussion avec Bernard Eisenschitz",
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19467,
-    "idSeance": 30861,
-    "dateHeure": "2019-09-13T21:00:00",
+    "idSeance": 30865,
+    "dateHeure": "2019-09-14T15:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -542,7 +813,7 @@
       {
         "idFilm": 35408,
         "ordre": 1,
-        "idSeance": 30861,
+        "idSeance": 30865,
         "idCopie": 18631,
         "duree": 100,
         "version": "VOSTF",
@@ -553,21 +824,22 @@
   },
   {
     "idCategorie": 1020,
-    "idEvenement": 19463,
-    "idSeance": 30866,
-    "dateHeure": "2019-09-14T17:00:00",
+    "typeEvenement": 13,
+    "idEvenement": 19457,
+    "idSeance": 31803,
+    "dateHeure": "2019-09-14T17:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "A Woman's Secret",
+    "titreEvenement": "Derrière le miroir",
     "items": [
       {
-        "idFilm": 73563,
+        "idFilm": 35989,
         "ordre": 1,
-        "idSeance": 30866,
-        "idCopie": 18686,
-        "duree": 84,
+        "idSeance": 31803,
+        "idCopie": 13264,
+        "duree": 95,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
@@ -576,9 +848,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19468,
     "idSeance": 30867,
-    "dateHeure": "2019-09-14T19:00:00",
+    "dateHeure": "2019-09-14T19:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -599,9 +872,10 @@
   },
   {
     "idCategorie": 1020,
-    "idEvenement": 19469,
+    "typeEvenement": 13,
+    "idEvenement": 20071,
     "idSeance": 30868,
-    "dateHeure": "2019-09-14T21:00:00",
+    "dateHeure": "2019-09-14T21:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -609,8 +883,18 @@
     "titreEvenement": "Maison dans l'ombre (La)",
     "items": [
       {
-        "idFilm": 73564,
+        "idFilm": 142228,
         "ordre": 1,
+        "idSeance": 30868,
+        "idCopie": 19046,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 73564,
+        "ordre": 2,
         "idSeance": 30868,
         "idCopie": 18634,
         "duree": 82,
@@ -622,6 +906,7 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19460,
     "idSeance": 30874,
     "dateHeure": "2019-09-15T17:00:00",
@@ -645,9 +930,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19466,
     "idSeance": 30875,
-    "dateHeure": "2019-09-15T19:00:00",
+    "dateHeure": "2019-09-15T19:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -668,14 +954,15 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19462,
     "idSeance": 30876,
-    "dateHeure": "2019-09-15T21:00:00",
+    "dateHeure": "2019-09-15T21:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "A l'ombre des potences",
+    "titreEvenement": "À l'ombre des potences",
     "items": [
       {
         "idFilm": 35310,
@@ -691,6 +978,7 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19481,
     "idSeance": 30882,
     "dateHeure": "2019-09-16T17:00:00",
@@ -714,52 +1002,7 @@
   },
   {
     "idCategorie": 1020,
-    "idEvenement": 19465,
-    "idSeance": 30883,
-    "dateHeure": "2019-09-16T19:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Born to Be Bad",
-    "items": [
-      {
-        "idFilm": 58680,
-        "ordre": 1,
-        "idSeance": 30883,
-        "idCopie": 18632,
-        "duree": 94,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 1020,
-    "idEvenement": 19458,
-    "idSeance": 30884,
-    "dateHeure": "2019-09-16T21:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Diables de Guadalcanal (Les)",
-    "items": [
-      {
-        "idFilm": 35727,
-        "ordre": 1,
-        "idSeance": 30884,
-        "idCopie": 18637,
-        "duree": 102,
-        "version": "VOSTF",
-        "format": "16 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19456,
     "idSeance": 30891,
     "dateHeure": "2019-09-18T19:30:00",
@@ -777,12 +1020,61 @@
         "duree": 83,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19475,
+    "idSeance": 30892,
+    "dateHeure": "2019-09-18T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Amère victoire",
+    "items": [
+      {
+        "idFilm": 37729,
+        "ordre": 1,
+        "idSeance": 30892,
+        "idCopie": 18666,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19472,
+    "idSeance": 30912,
+    "dateHeure": "2019-09-21T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Roi des rois (Le)",
+    "items": [
+      {
+        "idFilm": 35428,
+        "ordre": 1,
+        "idSeance": 30912,
+        "idCopie": 18749,
+        "duree": 160,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19478,
     "idSeance": 30913,
     "dateHeure": "2019-09-21T19:30:00",
@@ -790,7 +1082,7 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Nick's movie",
+    "titreEvenement": "Nick's Movie",
     "items": [
       {
         "idFilm": 39308,
@@ -806,6 +1098,7 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19482,
     "idSeance": 30914,
     "dateHeure": "2019-09-21T21:30:00",
@@ -829,9 +1122,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19464,
     "idSeance": 30922,
-    "dateHeure": "2019-09-22T19:30:00",
+    "dateHeure": "2019-09-22T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -846,15 +1140,16 @@
         "duree": 90,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19477,
     "idSeance": 30923,
-    "dateHeure": "2019-09-22T21:30:00",
+    "dateHeure": "2019-09-22T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -875,6 +1170,7 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19476,
     "idSeance": 30926,
     "dateHeure": "2019-09-23T19:00:00",
@@ -898,9 +1194,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19457,
     "idSeance": 30927,
-    "dateHeure": "2019-09-23T21:00:00",
+    "dateHeure": "2019-09-23T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -913,7 +1210,7 @@
         "idSeance": 30927,
         "idCopie": 13264,
         "duree": 95,
-        "version": "STF",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
       }
@@ -921,9 +1218,34 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19464,
+    "idSeance": 30930,
+    "dateHeure": "2019-09-25T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Rêves humides",
+    "items": [
+      {
+        "idFilm": 88810,
+        "ordre": 1,
+        "idSeance": 30930,
+        "idCopie": 18902,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19455,
     "idSeance": 30934,
-    "dateHeure": "2019-09-25T19:30:00",
+    "dateHeure": "2019-09-25T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -944,9 +1266,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19471,
     "idSeance": 31778,
-    "dateHeure": "2019-09-25T21:30:00",
+    "dateHeure": "2019-09-25T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -959,7 +1282,7 @@
         "idSeance": 31778,
         "idCopie": 18658,
         "duree": 110,
-        "version": "VOAutres",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
       }
@@ -967,9 +1290,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19475,
     "idSeance": 31779,
-    "dateHeure": "2019-09-26T19:00:00",
+    "dateHeure": "2019-09-26T19:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -990,9 +1314,10 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19459,
     "idSeance": 31780,
-    "dateHeure": "2019-09-26T21:00:00",
+    "dateHeure": "2019-09-26T21:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1013,9 +1338,34 @@
   },
   {
     "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19457,
+    "idSeance": 31945,
+    "dateHeure": "2019-09-27T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Derrière le miroir",
+    "items": [
+      {
+        "idFilm": 35989,
+        "ordre": 1,
+        "idSeance": 31945,
+        "idCopie": 13264,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
     "idEvenement": 19461,
-    "idSeance": 30946,
-    "dateHeure": "2019-09-27T19:00:00",
+    "idSeance": 32010,
+    "dateHeure": "2019-09-28T15:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1025,11 +1375,35 @@
       {
         "idFilm": 35535,
         "ordre": 1,
-        "idSeance": 30946,
+        "idSeance": 32010,
         "idCopie": 18656,
         "duree": 99,
         "version": "VOSTF",
         "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1020,
+    "typeEvenement": 13,
+    "idEvenement": 19560,
+    "idSeance": 30958,
+    "dateHeure": "2019-09-28T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Don't Expect Too Much",
+    "items": [
+      {
+        "idFilm": 125950,
+        "ordre": 1,
+        "idSeance": 30958,
+        "idCopie": 18675,
+        "duree": 70,
+        "version": "VOSTF",
+        "format": "DCP",
         "valide": 1
       }
     ]

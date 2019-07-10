@@ -2,18 +2,18 @@
   {
     "idCategorie": 2066,
     "idEvenement": 20631,
-    "titre": "film + Discussion",
+    "titre": "Film + Discussion avec Bernard Eisenschitz",
     "duree": 45,
     "idTypeConference": 16,
     "typeConference": "Dialogue",
     "textes": [
       {
-        "typeTexte": 114,
-        "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+        "typeTexte": 156,
+        "texte": "**Bernard Benoliel** est directeur de l'Action culturelle et éducative à La Cinémathèque française."
       },
       {
-        "typeTexte": 156,
-        "texte": "**Bernard Eisenschitz** est traducteur et historien du cinéma. Auteur de plusieurs ouvrages, en particulier sur Fritz Lang ou Nicholas Ray, il a mené à bien la restauration de _L'Atalante_, éditée en DVD par Gaumont, comme toute l'œuvre de Jean Vigo."
+        "typeTexte": 114,
+        "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
       },
       {
         "typeTexte": 156,
@@ -30,7 +30,14 @@
         "idFonction": 142,
         "fonction": "Interviewé",
         "ordre": 1
+      },
+      {
+        "nomComplet": "Bernard Benoliel",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 3
       }
-    ]
+    ],
+    "mentionAnimation": "Rencontre animée par Bernard Benoliel"
   }
 ]

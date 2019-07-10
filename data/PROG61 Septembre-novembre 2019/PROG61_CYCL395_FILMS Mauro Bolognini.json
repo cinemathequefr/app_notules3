@@ -1,5 +1,14 @@
 [
   {
+    "titre": "12 registi per 12 città",
+    "titreVo": "",
+    "idFilm": 93768,
+    "ageMinimal": 0,
+    "realisateurs": "Alberto Lattuada, Michelangelo Antonioni, Bernardo Bertolucci, [etc.]",
+    "annee": 1989,
+    "pays": "Italie"
+  },
+  {
     "titre": "Agostino",
     "titreVo": "",
     "idFilm": 72626,
@@ -10,7 +19,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Agostino éprouve une passion exclusive pour sa mère, veuve ravissante. Mais la vie affective de l'enfant est perturbée par les intrusions intempestives de Renzo, l'amant de sa mère."
+        "texte": "Agostino éprouve une passion exclusive pour sa mère, ravissante veuve. Mais les intrusions intempestives de Renzo, son amant, perturbent la vie affective de l'enfant."
       }
     ],
     "generique": [
@@ -60,27 +69,6 @@
       "Virna Lisi",
       "Giancarlo Giannini",
       "Margaret Rutherford"
-    ]
-  },
-  {
-    "titre": "Assoluto naturale",
-    "art": "L'",
-    "titreVo": "",
-    "idFilm": 84659,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
-    "annee": 1969,
-    "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un intellectuel anglais idéaliste fait la connaissance d'une séduisante bourgeoise. Lors d'un voyage en automobile, ils débutent une relation avec naturel et spontanéité, mais très tôt, les disputes et désaccords se succèdent."
-      }
-    ],
-    "generique": [
-      "Laurence Harvey",
-      "Sylva Koscina",
-      "Isa Miranda"
     ]
   },
   {
@@ -156,7 +144,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un jeune chômeur a besoin d'argent pour pouvoir entretenir sa famille. Il se rend à Rome pour y trouver du travail, et va y faire diverses rencontres."
+        "texte": "Un jeune chômeur, ayant besoin d'argent pour entretenir sa famille, se rend à Rome pour trouver du travail. Il y fait de multiples rencontres."
       }
     ],
     "generique": [
@@ -165,6 +153,51 @@
       "Paolo Stoppa"
     ],
     "adaptation": "D'après les nouvelles _Racconti romani_ et _Nuovi racconti romani_ d'Alberto Moravia."
+  },
+  {
+    "titre": "Capriccio all'italiana",
+    "titreVo": "",
+    "idFilm": 60124,
+    "ageMinimal": null,
+    "realisateurs": "Steno, Mauro Bolognini, Pier Paolo Pasolini, [etc.]",
+    "annee": 1967,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "la gelosa : Bolognini met en scène une jalouse maladive. perché : L'histoire d'une épouse horripilante."
+      }
+    ]
+  },
+  {
+    "titre": "Capriccio all'italiana : La gelosa",
+    "titreVo": "",
+    "idFilm": 66934,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1968,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bolognini met en scène une jalouse maladive."
+      }
+    ]
+  },
+  {
+    "titre": "Capriccio all'italiana : Perché ?",
+    "titreVo": "",
+    "idFilm": 66683,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1967,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire d'une épouse horripilante."
+      }
+    ]
   },
   {
     "titre": "Cavalieri della regina",
@@ -324,16 +357,6 @@
         "texte": "À Rome, après la Seconde Guerre Mondiale, deux familles sont contraintes à cohabiter dans un appartement. Lorsque les conditions s'améliorent, le patriarche de l'une des deux familles se lance à la recherche d'un logement convenable."
       }
     ]
-  },
-  {
-    "titre": "Donna e una cosa meravigliosa",
-    "art": "La",
-    "titreVo": "",
-    "idFilm": 44717,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
-    "annee": 1964,
-    "pays": "Italie"
   },
   {
     "titre": "Garçons",
@@ -543,6 +566,38 @@
     ]
   },
   {
+    "titre": "Mia Signora : I mei cari",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 66673,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1964,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme malade passe un long moment à l'hôpital. Au lieu de le réconforter, ses proches lui reprochent de ne pas assumer ses responsabilités de père de famille."
+      }
+    ]
+  },
+  {
+    "titre": "Mia Signora : Luciana",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 66674,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1964,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En accompagnant sa femme à l'aéroport, Giovanni rencontre Luciana, dont le mari part également en avion."
+      }
+    ]
+  },
+  {
     "titre": "Mosca addio",
     "titreVo": "",
     "idFilm": 66656,
@@ -576,6 +631,23 @@
       {
         "typeTexte": 9,
         "texte": "L'Ogresse Héléna: En rendant visite à un ami, Luigi s'éprend de sa femme Elena, avec qui il débute une relation."
+      }
+    ]
+  },
+  {
+    "titre": "Ogresses : L'ogresse Héléna",
+    "art": "Les",
+    "titreVo": "Fate : Fata Elena",
+    "artVo": "Le",
+    "idFilm": 56659,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1966,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En rendant visite à un ami, Luigi s'éprend de sa femme Elena, avec qui il débute une relation."
       }
     ]
   },
@@ -615,6 +687,16 @@
     ]
   },
   {
+    "titre": "Plus vieux métier du monde : Nuits romaines",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 53284,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1966,
+    "pays": "France-Italie-RFA"
+  },
+  {
     "titre": "Poupées",
     "art": "Les",
     "titreVo": "Bambole",
@@ -628,6 +710,23 @@
       {
         "typeTexte": 9,
         "texte": "Segment Monseigneur Cupidon : Un monsignore vénitien se rend à une conférence à Rome en compagnie de son neveu Vincenzo, un beau jeune homme timide. Dans l'hôtel où ils logent, Béatrice, la femme du propriétaire, s'entiche de ce garçon et fait tout pour le séduire."
+      }
+    ]
+  },
+  {
+    "titre": "Poupées : Monseigneur Cupidon",
+    "art": "Les",
+    "titreVo": "Bambole : Monsignor Cupido",
+    "artVo": "Le",
+    "idFilm": 58026,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1964,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un monsignore vénitien se rend à une conférence à Rome en compagnie de son neveu Vincenzo, un beau jeune homme timide. Dans l'hôtel où ils logent, Béatrice, la femme du propriétaire, s'entiche de ce garçon et fait tout pour le séduire."
       }
     ]
   },
@@ -652,16 +751,6 @@
     ]
   },
   {
-    "titre": "Silenzio é complicità",
-    "art": "Il",
-    "titreVo": "",
-    "idFilm": 119828,
-    "ageMinimal": null,
-    "realisateurs": "Laura Betti, Bernardo Bertolucci, Mauro Bolognini, [etc.]",
-    "annee": 1976,
-    "pays": "Italie"
-  },
-  {
     "titre": "Sorcières",
     "art": "Les",
     "titreVo": "Streghe",
@@ -684,6 +773,23 @@
     ]
   },
   {
+    "titre": "Sorcières : Sentiment civique",
+    "art": "Les",
+    "titreVo": "Streghe : Senso civico",
+    "artVo": "Le",
+    "idFilm": 66681,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1966,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une automobiliste pressée est contrainte de transporter d'urgence un conducteur choqué à l'hôpital. Elle va utiliser le stratagème du véhicule prioritaire (un mouchoir blanc) dans ses propres intérêts..."
+      }
+    ]
+  },
+  {
     "titre": "Tre volti",
     "art": "I",
     "titreVo": "",
@@ -696,6 +802,22 @@
       {
         "typeTexte": 9,
         "texte": "Gli amanti celebri : Linda est mariée à Robert, un écrivain, jusqu'au jour où elle retrouve son ancien amant Rodolphe, qui lui suggère de divorcer pour vivre avec lui."
+      }
+    ]
+  },
+  {
+    "titre": "Tre volti : Gli amanti celebri",
+    "art": "I",
+    "titreVo": "",
+    "idFilm": 56047,
+    "ageMinimal": null,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1964,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Linda est mariée à Robert, un écrivain, jusqu'au jour où elle retrouve son ancien amant Rodolphe, qui lui suggère de divorcer pour vivre avec lui."
       }
     ]
   },

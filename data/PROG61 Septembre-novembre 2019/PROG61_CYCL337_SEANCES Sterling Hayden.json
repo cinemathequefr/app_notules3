@@ -23,7 +23,7 @@
         "valide": 1
       }
     ],
-    "mention": "Ouverture de la rétrospective"
+    "mention": "Ouverture de la rétrospective. Séance présentée par Philippe Garnier"
   },
   {
     "idCategorie": 1556,
@@ -84,7 +84,7 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "film + Discussion",
+    "titreEvenement": "film + Discussion avec Philippe Garnier",
     "typeAssoc": 118,
     "items": [
       {
@@ -102,7 +102,7 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Terror in a Texas town",
+    "titreEvenement": "Terreur au Texas",
     "items": [
       {
         "idFilm": 34508,
@@ -193,12 +193,12 @@
     "typeEvenement": 13,
     "idEvenement": 19570,
     "idSeance": 31126,
-    "dateHeure": "2019-10-26T21:00:00",
+    "dateHeure": "2019-10-26T21:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Ultime razzia (L')",
+    "titreEvenement": "Ultime Razzia (L')",
     "items": [
       {
         "idFilm": 34042,
@@ -294,7 +294,7 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Star (The)",
+    "titreEvenement": "Star (La)",
     "items": [
       {
         "idFilm": 70252,
@@ -318,7 +318,7 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Meurtrière Ambition",
+    "titreEvenement": "Meurtrière ambition",
     "items": [
       {
         "idFilm": 35488,
@@ -433,7 +433,7 @@
     "typeEvenement": 13,
     "idEvenement": 19565,
     "idSeance": 31986,
-    "dateHeure": "2019-10-31T19:30:00",
+    "dateHeure": "2019-10-31T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -457,12 +457,12 @@
     "typeEvenement": 13,
     "idEvenement": 19571,
     "idSeance": 31152,
-    "dateHeure": "2019-10-31T21:30:00",
+    "dateHeure": "2019-10-31T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Meurtrière Ambition",
+    "titreEvenement": "Meurtrière ambition",
     "items": [
       {
         "idFilm": 35488,
@@ -481,10 +481,10 @@
     "typeEvenement": 13,
     "idEvenement": 19581,
     "idSeance": 31862,
-    "dateHeure": "2019-11-02T15:00:00",
+    "dateHeure": "2019-11-02T16:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "titreEvenement": "Mourir à Belfast",
     "items": [
@@ -534,7 +534,7 @@
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Terror in a Texas town",
+    "titreEvenement": "Terreur au Texas",
     "items": [
       {
         "idFilm": 34508,
@@ -551,30 +551,6 @@
   {
     "idCategorie": 1556,
     "typeEvenement": 13,
-    "idEvenement": 19576,
-    "idSeance": 31863,
-    "dateHeure": "2019-11-03T17:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Tendres chasseurs",
-    "items": [
-      {
-        "idFilm": 43037,
-        "ordre": 1,
-        "idSeance": 31863,
-        "idCopie": 18745,
-        "duree": 104,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 1556,
-    "typeEvenement": 13,
     "idEvenement": 19580,
     "idSeance": 31888,
     "dateHeure": "2019-11-03T17:30:00",
@@ -582,7 +558,7 @@
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "King of the Gypsies",
+    "titreEvenement": "Roi des Gitans (Le)",
     "items": [
       {
         "idFilm": 55341,
@@ -630,7 +606,7 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Winter Kills",
+    "titreEvenement": "Qui a tué le président ?",
     "items": [
       {
         "idFilm": 67512,
@@ -654,7 +630,7 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "King of the Gypsies",
+    "titreEvenement": "Roi des Gitans (Le)",
     "items": [
       {
         "idFilm": 55341,

@@ -10,33 +10,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Clay Hardin, l'adjoint du shérif Mark Fletcher, se jure de venger son chef, assassiné par le dangereux Ben Thompson."
+        "texte": "Clay Hardin, l'adjoint du shérif Mark Fletcher, promet de venger son chef, assassiné par le dangereux Ben Thompson."
       }
     ],
     "generique": [
       "Sterling Hayden",
       "Yvonne De Carlo",
       "Zachary Scott"
-    ]
-  },
-  {
-    "titre": "Cet homme est prêt à tout",
-    "titreVo": "Hard Contract",
-    "idFilm": 35784,
-    "ageMinimal": null,
-    "realisateurs": "S. Lee Pogostin",
-    "annee": 1968,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un impitoyable tueur à gages américain part en Europe pour effectuer un dernier coup, suite à un contrat avec l'agent Ramsey. Sa rencontre avec une belle jeune femme le perturbe au point qu'il renonce à mener à bien le 'hard contract\"."
-      }
-    ],
-    "generique": [
-      "James Coburn",
-      "Lee Remick",
-      "Lilli Palmer"
     ]
   },
   {
@@ -74,13 +54,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un ordinateur mis au point par une poignée de scientifiques crée un monstre hermaphrodite, nouvelle messie d'une société en mal d'icône."
+        "texte": "Un ordinateur mis au point par une poignée de scientifiques crée un monstre hermaphrodite, nouveau messie d'une société en mal d'icône."
       }
     ],
     "generique": [
       "Jon Finch",
       "Sterling Hayden",
-      "Hugh Griffith"
+      "Derrick O'Connor"
     ]
   },
   {
@@ -94,7 +74,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En Amérique du Sud, un gangster recherché oblige un honnête pilote d'avion américain à l'aider à quitter le pays."
+        "texte": "En Amérique du Sud, un gangster en fuite oblige un pilote d'avion américain à l'aider à quitter le pays."
       }
     ],
     "generique": [
@@ -125,8 +105,29 @@
     "adaptation": "D'après le roman _Red Alert_ de Peter George."
   },
   {
-    "titre": "Johnny Guitar",
+    "titre": "Hard Contract",
     "titreVo": "",
+    "idFilm": 35784,
+    "ageMinimal": 0,
+    "realisateurs": "S. Lee Pogostin",
+    "annee": 1968,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un impitoyable tueur à gages américain part en Europe pour effectuer un dernier coup, suite à un contrat avec l'agent Ramsey. Sa rencontre avec une belle jeune femme le perturbe au point qu'il renonce à mener à bien le 'hard contract\"."
+      }
+    ],
+    "generique": [
+      "James Coburn",
+      "Sterling Hayden",
+      "Lee Remick",
+      "Lilli Palmer"
+    ]
+  },
+  {
+    "titre": "Johnny Guitare",
+    "titreVo": "Johnny Guitar",
     "idFilm": 35504,
     "ageMinimal": 0,
     "realisateurs": "Nicholas Ray",
@@ -135,7 +136,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Vienna, tenancière d'un saloon fréquenté par des hors-la-loi, embauche son ancien amant, cow-boy et musicien, pour l'aider dans sa lutte qui l'oppose à un groupe d'éleveurs."
+        "texte": "Vienna, qui tient un saloon fréquenté par des hors-la-loi, embauche un ancien amant, cow-boy et musicien. Il va l'aider dans sa lutte qui l'oppose à un groupe d'éleveurs."
       }
     ],
     "generique": [
@@ -156,7 +157,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Bouleversé par le suicide de sa femme, un pasteur se détourne de la foi. Après avoir vécu dans les bas fonds parmi les clochards, sa vie retrouve du sens grâce à l'amour d'une jeune aveugle."
+        "texte": "Bouleversé par le suicide de sa femme, un pasteur se détourne de la foi. Après avoir vécu dans les bas-fonds parmi les clochards, il retrouve l'envie de vivre grâce à l'amour d'une jeune aveugle."
       }
     ],
     "generique": [
@@ -166,17 +167,17 @@
     ]
   },
   {
-    "titre": "Meurtrière Ambition",
+    "titre": "Meurtrière ambition",
     "titreVo": "Crime of Passion",
     "idFilm": 35488,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Gerd Oswald",
     "annee": 1956,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une journaliste abandonne son métier pour épouser un inspecteur de police de Los Angeles. Pourtant, la vie d'épouse ne lui convient guère. Déçue par le manque d'ambition de son mari, elle va œuvrer dans l'ombre pour faire avancer sa carrière dans la police."
+        "texte": "Une journaliste abandonne son métier pour épouser un inspecteur de police. Déçue par sa vie de femme au foyer, et par le manque d'ambition de son mari, elle va œuvrer dans l'ombre pour faire avancer sa carrière."
       }
     ],
     "generique": [
@@ -190,14 +191,14 @@
     "titreVo": "Outsider",
     "artVo": "The",
     "idFilm": 56246,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Tony Luraschi",
     "annee": 1979,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "1973, en Irlande du Nord. Un Américain engagé volontaire dans les troupes de l'IRA, devient la cible d'un double complot politique."
+        "texte": "1973, en Irlande du Nord. Un Américain, engagé volontaire dans les troupes de l'IRA, devient la cible d'un double complot politique."
       }
     ],
     "generique": [
@@ -242,7 +243,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En pleine nuit, Terry Lennox demande à Philip Marlowe, détective privé, de le conduire au Mexique. À son retour, Marlowe est cueilli par la police qui l'accuse du meurtre de l'épouse de Lennox."
+        "texte": "En pleine nuit, Terry Lennox demande au privé Philip Marlowe de le conduire au Mexique. À son retour, Marlowe est cueilli par la police, accusé d'avoir tué l'épouse de Lennox."
       }
     ],
     "generique": [
@@ -264,18 +265,19 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Tout juste sorti de prison, le docteur Reidenschneider prépare un casse mirifique dans une bijouterie. Il recrute à cette occasion une équipe de spécialistes."
+        "texte": "Tout juste sorti de prison, le docteur Reidenschneider, pour préparer un casse de grande ampleur, recrute une équipe de quatre spécialistes."
       }
     ],
     "generique": [
       "Sterling Hayden",
       "Louis Calhern",
-      "Jean Hagen"
+      "Jean Hagen",
+      "James Whitmore"
     ],
     "adaptation": "D'après le roman _The Asphalt Jungle_ de W.R. Burnett."
   },
   {
-    "titre": "Qui a tué le président?",
+    "titre": "Qui a tué le président ?",
     "titreVo": "Winter Kills",
     "idFilm": 67512,
     "ageMinimal": 0,
@@ -285,7 +287,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le président des Etats-Unis est assassiné. Dix-neuf ans plus tard, son frère mène l'enquête et met à jour un immense complot politique. Sa propre vie est alors menacée."
+        "texte": "Le président des États-Unis est assassiné. Dix-neuf ans plus tard, son frère mène l'enquête et met à jour un immense complot politique. Sa propre vie est alors menacée."
       }
     ],
     "generique": [
@@ -297,7 +299,7 @@
     "adaptation": "D'après le roman _Winter Kills_ de Richard Condon."
   },
   {
-    "titre": "Roi des gitans",
+    "titre": "Roi des Gitans",
     "art": "Le",
     "titreVo": "King of the Gypsies",
     "idFilm": 55341,
@@ -308,29 +310,28 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Sur son lit de mort, le « roi » d'une tribu de gitans new-yorkaise, passe sa couronne à son petit-fils. Le père d'Eric, envieux, commence à comploter contre son propre fils..."
+        "texte": "Sur son lit de mort, excluant son propre fils, le « roi » d'une tribu de gitans new-yorkaise transmet sa couronne à son petit-fils. Son choix entraîne jalousies et complots."
       }
     ],
     "generique": [
       "Sterling Hayden",
       "Susan Sarandon",
-      "Shelley Winters"
+      "Shelley Winters",
+      "Eric Roberts"
     ]
   },
   {
-    "titre": "Star = L'Etoile",
+    "titre": "Star",
     "art": "La",
-    "titreVo": "Star",
-    "artVo": "The",
     "idFilm": 70252,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Stuart Heisler",
     "annee": 1952,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Margaret Elliott, une star de cinéma sur le déclin, se retrouve dans la misère. Elle tente par tous les moyens de décrocher le rôle qui lui permettrait de faire son retour au cinéma et de récupérer enfin la garde de sa fille."
+        "texte": "Margaret Elliott, star de cinéma sur le déclin, se retrouve dans la misère. Elle tente par tous les moyens de décrocher le rôle qui lui permettrait de faire son come-back, et de récupérer la garde de sa fille."
       }
     ],
     "generique": [
@@ -350,12 +351,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un ornithologue s'installe avec sa famille sur une île déserte, dans l'attente d'une migration d'oiseaux susceptible d'éclairer ses recherches. Leur tranquillité est brisée par l'arrivée sur l'île d' un prisonnier évadé..."
+        "texte": "Un ornithologue s'installe avec sa famille sur une île déserte, dans l'attente d'une migration d'oiseaux susceptible d'éclairer ses recherches. Leur tranquillité prend fin quand arrive sur l'île un prisonnier évadé."
       }
     ],
     "generique": [
       "Sterling Hayden",
       "Maureen McNalley",
+      "Susan Strasberg",
       "Andrew Hayden"
     ]
   },
@@ -363,14 +365,14 @@
     "titre": "Terreur au Texas",
     "titreVo": "Terror in a Texas Town",
     "idFilm": 34508,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Joseph H. Lewis",
     "annee": 1958,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Au Texas, le vieil émigré suédois Hansen refuse de vendre sa propriété au riche homme d'affaires Ed McNeil qui convoite ses terres ainsi que celles de ses autres voisins, ayant appris qu'elles regorgeaient de pétrole..."
+        "texte": "Au Texas, le vieil émigré suédois Hansen refuse de vendre sa propriété au riche Ed McNeil, qui convoite ses terres, ayant appris qu'elles regorgeaient de pétrole."
       }
     ],
     "generique": [
@@ -380,7 +382,7 @@
     ]
   },
   {
-    "titre": "Ultime razzia",
+    "titre": "Ultime Razzia",
     "art": "L'",
     "titreVo": "Killing",
     "artVo": "The",
@@ -392,7 +394,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un gangster et ses complices organisent le hold-up de la caisse d'un champ de courses."
+        "texte": "Un gangster et ses complices organisent un hold-up pour s'emparer de la caisse d'un champ de courses."
       }
     ],
     "generique": [
@@ -413,12 +415,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le rancher John Garthest arrêté pour avoir gravement blessé sa femme, Valérie Horvat et pour avoir tué ses parents. Au cours du procès, il se remémore l'incident et les événements précédents."
+        "texte": "Le rancher John Garth est arrêté pour avoir tué ses parents et gravement blessé sa femme. Au cours du procès, il se remémore l'incident et les événements précédents."
       }
     ],
     "generique": [
       "Anita Ekberg",
-      "Sterling Hayden"
+      "Sterling Hayden",
+      "Anthony Steel"
     ]
   }
 ]

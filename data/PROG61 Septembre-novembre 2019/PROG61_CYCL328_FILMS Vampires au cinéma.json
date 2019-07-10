@@ -629,6 +629,12 @@
     "realisateurs": "Lambert H. Hillyer",
     "annee": 1936,
     "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après qu'il a été tué par le professeur Van Helsing, le corps de Dracula est volé par une mystérieuse jeune femme."
+      }
+    ],
     "generique": [
       "Otto Kruger",
       "Gloria Holden",
@@ -725,6 +731,21 @@
     ]
   },
   {
+    "titre": "Frisson des vampires",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 54027,
+    "ageMinimal": null,
+    "realisateurs": "Jean Rollin",
+    "annee": 1970,
+    "pays": "France",
+    "generique": [
+      "Sandra Julien",
+      "Jean-Marie Durand",
+      "Jacques Robiolles"
+    ]
+  },
+  {
     "titre": "Gran amor del Conde Dracula",
     "art": "El",
     "titreVo": "",
@@ -732,7 +753,18 @@
     "ageMinimal": null,
     "realisateurs": "Javier Aguirre",
     "annee": 1972,
-    "pays": "Espagne"
+    "pays": "Espagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Quatre femmes passent la nuit dans un vieux sanatorium désert sur une montagne. Elles tombent à tour de rôle dans les mains maléfiques d'un médecin qui les force à sucer le sang des autres et à fouetter les vierges innocentes du village afin qu'ils puissent lécher les coupes suintantes propre."
+      }
+    ],
+    "generique": [
+      "Paul Naschy",
+      "Haydée Politoff",
+      "Rossana Yanni"
+    ]
   },
   {
     "titre": "Histoire de ma mort",
@@ -842,6 +874,12 @@
     "realisateurs": "John Landis",
     "annee": 1980,
     "pays": "États-Unis-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux jeunes Américains en vacances s'égarent dans une région déserte de l'Angleterre. Ils sont attaqués par une bête étrange. Peu après, l'un d'entre eux se réveille dans un hôpital..."
+      }
+    ],
     "generique": [
       "David Naughton",
       "Jenny Agutter",
@@ -900,7 +938,13 @@
     "ageMinimal": null,
     "realisateurs": "Roberto Mauri",
     "annee": 1962,
-    "pays": "Italie"
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans les environs de Vienne, un vampire élit domicile dans les sous-sols d'un vieux château occupé par Wolfgang et sa femme Louise. Il est séduit par celle-ci et tente alors d'en faire sa compagne de nuits éternelles..."
+      }
+    ]
   },
   {
     "titre": "Morse",
@@ -1044,7 +1088,13 @@
     "ageMinimal": null,
     "realisateurs": "Renato Polselli",
     "annee": 1961,
-    "pays": "Italie"
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une troupe de danseuses investit un vieux théâtre abandonné pour les besoins des répétitions. Malgré les avertissements répétés du gardien des lieux, le directeur décide d'y rester. D'étranges phénomènes vont faire naître à nouveau la vieille malédiction qui plane sur le théâtre."
+      }
+    ]
   },
   {
     "titre": "Prédateurs",
@@ -1070,6 +1120,17 @@
     "adaptation": "D'après le roman _Les Sanguinaires_ de Whitley Strieber."
   },
   {
+    "titre": "Proies du vampire",
+    "art": "Les",
+    "titreVo": "Vampiro",
+    "artVo": "El",
+    "idFilm": 43918,
+    "ageMinimal": null,
+    "realisateurs": "Fernando Mendez",
+    "annee": 1957,
+    "pays": "Mexique"
+  },
+  {
     "titre": "Retour de Dracula",
     "art": "Le",
     "titreVo": "Return of Dracula = The Fantastic Disappearing Man",
@@ -1085,6 +1146,16 @@
         "texte": "Après avoir tué et usurpé l'identité d'un artiste tchèque installé dans les Balkans, Dracula s'envole vers les Etats-unis pour continuer sa quête et soif de sang."
       }
     ]
+  },
+  {
+    "titre": "Santo défend le trésor de Dracula",
+    "titreVo": "Santo en el tesoro de Drácula",
+    "idFilm": 87310,
+    "ageMinimal": null,
+    "realisateurs": "René Cardona",
+    "annee": 1968,
+    "pays": "Mexique",
+    "adaptation": "D'après le roman _Dracula_ de Bram Stoker."
   },
   {
     "titre": "Spermula",
@@ -1198,6 +1269,12 @@
     "realisateurs": "Robert Rodriguez",
     "annee": 1995,
     "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux criminels attendent l'arrivée de leur contact dans un bar après la prise d'otage d'une famille près de la frontière mexicaine."
+      }
+    ],
     "generique": [
       "John Saxon",
       "Harvey Keitel",
@@ -1261,24 +1338,18 @@
     ]
   },
   {
-    "titre": "Vampire nue",
-    "art": "La",
-    "titreVo": "",
-    "idFilm": 64100,
+    "titre": "Vampire,... vous avez dit vampire ?",
+    "titreVo": "Fright night",
+    "idFilm": 32808,
     "ageMinimal": null,
-    "realisateurs": "Jean Rollin",
-    "annee": 1969,
-    "pays": "France",
+    "realisateurs": "Tom Holland",
+    "annee": 1985,
+    "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une secte de scientifiques voue une culte à une jeune femme sur laquelle ils font des expériences. Le fils du directeur de la secte tombe amoureux de cette femme vampire et tente de s'échapper avec elle des mains des scientifiques."
+        "texte": "Un adolescent passionné de films fantastiques surprend ses nouveaux voisins qui emménagent porter un cercueil. Il est convaincu d'avoir affaire à des vampires."
       }
-    ],
-    "generique": [
-      "Olivier Martin",
-      "Caroline Cartier",
-      "Maurice Lemaître"
     ]
   },
   {

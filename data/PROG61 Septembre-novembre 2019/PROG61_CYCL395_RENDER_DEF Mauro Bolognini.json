@@ -13,7 +13,8 @@
       {
         "titre": "Films collectifs",
         "cats": [
-          2036
+          2036,
+          2042
         ],
         "tri": 1
       },
@@ -33,39 +34,6 @@
       "tri": 1,
       "items": [
         {
-          "idFilm": 84659,
-          "titre": "Absolu naturel",
-          "art": "L'",
-          "titreVo": "Assoluto naturale",
-          "artVo": "L'",
-          "realisateurs": "Mauro Bolognini",
-          "annee": 1969,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un intellectuel anglais idéaliste fait la connaissance d'une séduisante bourgeoise. Lors d'un voyage en automobile, ils débutent une relation avec naturel et spontanéité, mais très tôt, les disputes et désaccords se succèdent."
-            }
-          ],
-          "adaptation": "D'après le roman _L’Absolu naturel_ de Goffredo Parise.",
-          "generique": [
-            "Laurence Harvey",
-            "Sylva Koscina",
-            "Isa Miranda"
-          ],
-          "seance": [
-            {
-              "idSeance": 31994,
-              "ordre": 1,
-              "idEvenement": 19511,
-              "dateHeure": "2019-11-04T17:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
           "idFilm": 66656,
           "titre": "Adieu Moscou",
           "titreVo": "Mosca addio",
@@ -84,7 +52,7 @@
           ],
           "duree": 102,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31993,
@@ -118,7 +86,7 @@
           ],
           "duree": 102,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31878,
@@ -162,7 +130,7 @@
             "Sergio Raimondi"
           ],
           "duree": 90,
-          "format": "35 mm",
+          "format": "DCP",
           "version": "VOSTF",
           "seance": [
             {
@@ -179,7 +147,7 @@
               "idSeance": 31240,
               "ordre": 1,
               "idEvenement": 19508,
-              "dateHeure": "2019-11-14T16:45:00",
+              "dateHeure": "2019-11-14T17:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -209,13 +177,13 @@
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 31233,
+              "idSeance": 32030,
               "ordre": 1,
               "idEvenement": 19509,
-              "dateHeure": "2019-11-13T17:15:00",
+              "dateHeure": "2019-11-08T19:30:00",
               "idSalle": [
-                "HL",
-                "Henri Langlois"
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]
@@ -323,8 +291,8 @@
             "Antonio Falsi"
           ],
           "duree": 100,
-          "format": "35 mm",
-          "version": "VO",
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31218,
@@ -369,7 +337,7 @@
           ],
           "duree": 89,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31263,
@@ -587,7 +555,7 @@
               "idSeance": 31255,
               "ordre": 1,
               "idEvenement": 19523,
-              "dateHeure": "2019-11-16T21:00:00",
+              "dateHeure": "2019-11-16T21:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -712,35 +680,6 @@
           ]
         },
         {
-          "idFilm": 44717,
-          "titre": "Donna è una cosa meravigliosa",
-          "art": "La",
-          "titreVo": "",
-          "realisateurs": "Mauro Bolognini",
-          "annee": 1964,
-          "textes": {
-            "typeTexte": 9,
-            "texte": "Deux histoires : les amours pathétiques de deux nains de cirque, et la vie d'une jeune femme que le désir de maternité conduit à infantiliser son mari."
-          },
-          "generique": [
-            "Carmen Najarro",
-            "Sandra Milo",
-            "Vittorio Caprioli"
-          ],
-          "seance": [
-            {
-              "idSeance": 31209,
-              "ordre": 1,
-              "idEvenement": 19525,
-              "dateHeure": "2019-11-09T15:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
           "idFilm": 45024,
           "titre": "Garçons",
           "art": "Les",
@@ -762,8 +701,8 @@
             "Mylène Demongeot"
           ],
           "duree": 95,
-          "format": "35 mm",
-          "version": "VOSTA",
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31168,
@@ -962,7 +901,20 @@
             "Adolfo Celi",
             "Philippe Leroy"
           ],
+          "duree": 110,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
+            {
+              "idSeance": 32034,
+              "ordre": 1,
+              "idEvenement": 19532,
+              "dateHeure": "2019-11-08T21:45:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
             {
               "idSeance": 31990,
               "ordre": 1,
@@ -992,8 +944,8 @@
             "Francisco Rabal",
             "Marisa Allasio"
           ],
-          "duree": 86,
-          "format": "Vidéo",
+          "duree": 87,
+          "format": "DCP",
           "version": "VOSTF",
           "seance": [
             {
@@ -1037,6 +989,16 @@
               "ordre": 1,
               "idEvenement": 19534,
               "dateHeure": "2019-10-31T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 32036,
+              "ordre": 1,
+              "idEvenement": 19534,
+              "dateHeure": "2019-11-21T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1149,9 +1111,9 @@
             "Sophia Loren",
             "Carlo Dapporto"
           ],
-          "duree": 0,
-          "format": "",
-          "version": "VF",
+          "duree": 91,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31160,
@@ -1164,13 +1126,13 @@
               ]
             },
             {
-              "idSeance": 31870,
+              "idSeance": 32029,
               "ordre": 1,
               "idEvenement": 19555,
-              "dateHeure": "2019-11-08T19:30:00",
+              "dateHeure": "2019-11-13T17:15:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]
@@ -1195,6 +1157,9 @@
             "Mario Girotti",
             "Titina De Filippo"
           ],
+          "duree": 86,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31203,
@@ -1340,6 +1305,79 @@
       "tri": 1,
       "items": [
         {
+          "idFilm": 60124,
+          "titre": "Caprice à l'italienne",
+          "titreVo": "Capriccio all'italiana",
+          "realisateurs": "Mauro Bolognini, Mario Monicelli, Pier Paolo Pasolini, Steno, Pino Zac",
+          "annee": 1967,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film à sketches : un regard souvent acerbe sur la société italienne des années 60."
+            }
+          ],
+          "generique": [
+            "Silvana Mangano",
+            "Enzo Marignani",
+            "Ugo D'Alessio",
+            "Dante Maggio"
+          ],
+          "duree": 95,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 32035,
+              "ordre": 1,
+              "idEvenement": 20709,
+              "dateHeure": "2019-11-09T15:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 105872,
+          "titre": "Mia signora",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Tinto Brass, Luigi Comencini, Mauro Bolognini",
+          "annee": 1964,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film à sketches en cinq segments sur les relations houleuses entre mari et femme."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mauro Bolognini réalise les épisodes _I Miei cari_ et _Luciana_."
+            }
+          ],
+          "generique": [
+            "Alberto Sordi",
+            "Silvana Mangano",
+            "Elena Nicolai",
+            "Elena Fabrizi"
+          ],
+          "duree": 102,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 32013,
+              "ordre": 1,
+              "idEvenement": 19536,
+              "dateHeure": "2019-11-21T16:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
           "idFilm": 56602,
           "titre": "Ogresses",
           "art": "Les",
@@ -1393,15 +1431,15 @@
             "Paolo Villaggio",
             "Alberto Sordi"
           ],
-          "duree": 127,
+          "duree": 133,
           "format": "35 mm",
           "version": "VF",
           "seance": [
             {
-              "idSeance": 31276,
+              "idSeance": 32018,
               "ordre": 1,
               "idEvenement": 19544,
-              "dateHeure": "2019-11-20T17:15:00",
+              "dateHeure": "2019-11-22T16:45:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1430,13 +1468,13 @@
           ],
           "duree": 110,
           "format": "35 mm",
-          "version": "VOSTF",
+          "version": "VF",
           "seance": [
             {
-              "idSeance": 31289,
+              "idSeance": 32017,
               "ordre": 1,
               "idEvenement": 19545,
-              "dateHeure": "2019-11-22T16:45:00",
+              "dateHeure": "2019-11-20T17:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1473,32 +1511,6 @@
               "ordre": 1,
               "idEvenement": 19547,
               "dateHeure": "2019-11-06T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idFilm": 119828,
-          "titre": "Silenzio é complicità",
-          "art": "Il",
-          "titreVo": "",
-          "realisateurs": "Laura Betti",
-          "annee": 1976,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Film conçu par Laura Betti pour dénoncer l'absence d'enquête sérieuse pour éclaircir les circonstances de la mort de Pier Paolo Pasolini, dont elle était très proche."
-            }
-          ],
-          "seance": [
-            {
-              "idSeance": 31283,
-              "ordre": 1,
-              "idEvenement": 19550,
-              "dateHeure": "2019-11-21T16:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1560,12 +1572,15 @@
             "Richard Harris",
             "Esmeralda Ruspoli"
           ],
+          "duree": 115,
+          "format": "Numérique",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31295,
               "ordre": 1,
               "idEvenement": 19553,
-              "dateHeure": "2019-11-23T14:30:00",
+              "dateHeure": "2019-11-23T14:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1583,16 +1598,16 @@
           "titre": "Mauro Bolognini, au-delà du style",
           "textes": [
             {
-              "typeTexte": 114,
-              "texte": "Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €)."
+              "typeTexte": 8,
+              "texte": "Faisant souvent figure de cinéaste de second plan, Mauro Bolognini est au contraire un des grands artistes de son époque. Auteur de plus de quarante films, il a réalisé des œuvres relevant de différents genres et a donné sans doute le meilleur de lui-même dans des adaptations de textes littéraires auxquels il apportait une élégance formelle unique, sachant tirer parti des décors naturels offerts par les grandes villes italiennes."
             },
             {
               "typeTexte": 156,
               "texte": "Historien du cinéma et critique, Jean A. Gili est spécialiste du cinéma transalpin. Il a consacré des ouvrages, entres autres, à Luigi Comencini, Ettore Scola, Federico Fellini et Nanni Moretti. En 2011, il a publié, aux éditions de La Martinière, _Le Cinéma italien_."
             },
             {
-              "typeTexte": 8,
-              "texte": "Faisant souvent figure de cinéaste de second plan, Mauro Bolognini est au contraire un des grands artistes de son époque. Auteur de plus de quarante films, il a réalisé des œuvres relevant de différents genres et a donné sans doute le meilleur de lui-même dans des adaptations de textes littéraires auxquels il apportait une élégance formelle unique, sachant tirer parti des décors naturels offerts par les grandes villes italiennes."
+              "typeTexte": 114,
+              "texte": "Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €)."
             }
           ],
           "duree": 90,

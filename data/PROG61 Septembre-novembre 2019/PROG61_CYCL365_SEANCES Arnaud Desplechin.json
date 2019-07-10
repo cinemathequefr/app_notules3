@@ -14,7 +14,13 @@
     "items": [
       {
         "idFilm": 94570,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30760,
+        "idCopie": 5138,
+        "duree": 151,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
       }
     ],
     "mention": "Ouverture de la rétrospective"
@@ -22,28 +28,9 @@
   {
     "idCategorie": 1645,
     "typeEvenement": 13,
-    "idEvenement": 19749,
-    "idSeance": 31767,
-    "dateHeure": "2019-08-29T19:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Forêt (La)",
-    "items": [
-      {
-        "idFilm": 132705,
-        "ordre": 1
-      }
-    ],
-    "mention": "Séance présentée par Michel Vuillermoz"
-  },
-  {
-    "idCategorie": 1645,
-    "typeEvenement": 13,
     "idEvenement": 19745,
-    "idSeance": 30771,
-    "dateHeure": "2019-08-29T21:30:00",
+    "idSeance": 31925,
+    "dateHeure": "2019-08-29T19:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -52,10 +39,41 @@
     "items": [
       {
         "idFilm": 103618,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 31925,
+        "idCopie": 18871,
+        "duree": 65,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Arnaud Desplechin"
+  },
+  {
+    "idCategorie": 1645,
+    "typeEvenement": 13,
+    "idEvenement": 19749,
+    "idSeance": 31926,
+    "dateHeure": "2019-08-29T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Forêt (La)",
+    "items": [
+      {
+        "idFilm": 132705,
+        "ordre": 1,
+        "idSeance": 31926,
+        "idCopie": 10486,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Michel Vuillermoz et Grégoire Hetzel"
   },
   {
     "idCategorie": 1645,
@@ -71,7 +89,13 @@
     "items": [
       {
         "idFilm": 48084,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30779,
+        "idCopie": 18876,
+        "duree": 54,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Arnaud Desplechin"
@@ -90,7 +114,13 @@
     "items": [
       {
         "idFilm": 48083,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30780,
+        "idCopie": 2550,
+        "duree": 139,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Emmanuel Salinger (sous réserve), Caroline Champetier et Bruno Todeschini"
@@ -109,7 +139,13 @@
     "items": [
       {
         "idFilm": 59965,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30774,
+        "idCopie": 7803,
+        "duree": 178,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Emmanuelle Devos"
@@ -128,7 +164,13 @@
     "items": [
       {
         "idFilm": 85681,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30787,
+        "idCopie": 10558,
+        "duree": 118,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Nicolas Saada"
@@ -138,7 +180,7 @@
     "typeEvenement": 13,
     "idEvenement": 19750,
     "idSeance": 30793,
-    "dateHeure": "2019-09-01T17:00:00",
+    "dateHeure": "2019-09-01T17:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -147,17 +189,23 @@
     "items": [
       {
         "idFilm": 119934,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30793,
+        "idCopie": 3190,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ],
-    "mention": "Accompagnement musical par Nicolas Saada"
+    "mention": "Séance présentée par Nicolas Saada"
   },
   {
     "idCategorie": 1645,
     "typeEvenement": 13,
     "idEvenement": 19748,
     "idSeance": 30794,
-    "dateHeure": "2019-09-01T20:00:00",
+    "dateHeure": "2019-09-01T20:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -166,7 +214,13 @@
     "items": [
       {
         "idFilm": 135952,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30794,
+        "idCopie": 15961,
+        "duree": 135,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Irina Lubtchansky et Hippolyte Girardot"
@@ -182,13 +236,38 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Rois et reine",
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 94570,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30817,
+        "idCopie": 5138,
+        "duree": 151,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
       }
     ],
     "mention": "Séance suivie d'une discussion avec Arnaud Desplechin et Mathieu Amalric"
+  },
+  {
+    "idCategorie": 2065,
+    "typeEvenement": 14,
+    "idEvenement": 20630,
+    "idSeance": 30817,
+    "dateHeure": "2019-09-06T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Film + Dialogue avec Arnaud Desplechin et Mathieu Amalric",
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
   },
   {
     "idCategorie": 1645,
@@ -201,13 +280,38 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Esther Kahn",
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 68647,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30822,
+        "idCopie": 18913,
+        "duree": 157,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Eric Gautier"
+  },
+  {
+    "idCategorie": 2065,
+    "typeEvenement": 14,
+    "idEvenement": 20628,
+    "idSeance": 30822,
+    "dateHeure": "2019-09-07T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Desplechin par Desplechin",
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
   },
   {
     "idCategorie": 1645,
@@ -223,10 +327,16 @@
     "items": [
       {
         "idFilm": 103548,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30824,
+        "idCopie": 7535,
+        "duree": 150,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
       }
     ],
-    "mention": "Séance présentée par Chiara Mastroianni, Melvil Poupaud et Catherine Deneuve"
+    "mention": "Séance présentée par Anne Consigny et Melvil Poupaud"
   },
   {
     "idCategorie": 1645,
@@ -242,13 +352,19 @@
     "items": [
       {
         "idFilm": 126923,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 31768,
+        "idCopie": 18874,
+        "duree": 124,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Quentin Dolmaire et Lou Roy-Lecollinet"
   },
   {
-    "idCategorie": 1645,
+    "idCategorie": 2033,
     "typeEvenement": 13,
     "idEvenement": 19754,
     "idSeance": 30831,
@@ -261,7 +377,13 @@
     "items": [
       {
         "idFilm": 141999,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30831,
+        "idCopie": 18873,
+        "duree": 119,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -270,16 +392,41 @@
     "typeEvenement": 13,
     "idEvenement": 20016,
     "idSeance": 30832,
-    "dateHeure": "2019-09-08T19:30:00",
+    "dateHeure": "2019-09-08T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "titreEvenement": "Sobibor, 14 octobre 1943, 16 heures",
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 75848,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30832,
+        "idCopie": 2551,
+        "duree": 95,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2065,
+    "typeEvenement": 14,
+    "idEvenement": 20629,
+    "idSeance": 30832,
+    "dateHeure": "2019-09-08T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Film + Dialogue",
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   }

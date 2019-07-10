@@ -27,16 +27,21 @@
         "fonction": "Conférencier",
         "ordre": 1
       }
-    ]
+    ],
+    "sousTitre": "Conférence de Matthieu Orléan"
   },
   {
     "idCategorie": 2076,
     "idEvenement": 20643,
-    "titre": "Film + discussion",
+    "titre": "Film + Discussion",
     "duree": 45,
     "idTypeConference": 16,
     "typeConference": "Dialogue",
     "textes": [
+      {
+        "typeTexte": 156,
+        "texte": "**Bernard Benoliel** est directeur de l'Action culturelle et éducative à La Cinémathèque française."
+      },
       {
         "typeTexte": 114,
         "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
@@ -56,7 +61,55 @@
         "idFonction": 142,
         "fonction": "Interviewé",
         "ordre": 1
+      },
+      {
+        "nomComplet": "Bernard Benoliel",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
       }
-    ]
+    ],
+    "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+  },
+  {
+    "idCategorie": 2076,
+    "idEvenement": 20667,
+    "titre": "Film + Dialogue avec Julie Delpy (sous réserve)",
+    "duree": 60,
+    "idTypeConference": 16,
+    "typeConference": "Dialogue",
+    "textes": [
+      {
+        "typeTexte": 114,
+        "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+      },
+      {
+        "typeTexte": 156,
+        "texte": "Matthieu Orléan est collaborateur artistique à La Cinémathèque française, chargé des expositions temporaires. Il est commissaire de l'exposition « Vampires »."
+      },
+      {
+        "typeTexte": 156,
+        "texte": "Julie Delpy est actrice (_Détective_, _La Passion Béatrice_, _Trois couleurs : blanc_, _Killing Zoe_, _Before Sunrise_...) et cinéaste (_Looking for Jimmy_, _Two Days in Paris_, _La Comtesse_, _Le Skylab_, _Lolo_...)."
+      },
+      {
+        "typeTexte": 8,
+        "texte": "À la suite de la projection de _La Comtesse_ de Julie Delpy (voir P. ), dialogue avec la réalisatrice, compositrice et actrice de ce film consacré à Élisabeth Báthory, comtesse hongroise du XVIème siècle et restée dans l'Histoire sous le nom de « la dame sanglante ». « J'avais envie de raconter l'histoire d'une déchéance totale. (...) Je me souviens de cette phrase dans _Comme il vous plaira_, de Shakespeare : « Et d'heure en heure, on mûrit, on mûrit. Et d'heure en heure, on pourrit, on pourrit ! ». » Julie Delpy, 2010"
+      }
+    ],
+    "intervenants": [
+      {
+        "nomComplet": "Julie Delpy",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Matthieu Orléan",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
+      }
+    ],
+    "mentionAnimation": "Rencontre animée par Matthieu Orléan"
   }
 ]

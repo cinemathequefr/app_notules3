@@ -11,6 +11,10 @@
       {
         "typeTexte": 9,
         "texte": "Film composé d'images de nature diverse enchevêtrées (comics, photographies d'identité, journaux, extraits de films). L'ajout de sous titres, et d'un commentaire critique vise à rendre l'ensemble difficile à suivre."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries."
       }
     ]
   },
@@ -41,6 +45,10 @@
       {
         "typeTexte": 9,
         "texte": "Ce film alterne séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off, avec des séquences à écran noir silencieuses."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries."
       }
     ]
   },
@@ -53,6 +61,14 @@
     "annee": 1978,
     "pays": "France",
     "textes": [
+      {
+        "typeTexte": 8,
+        "texte": "« Je ne ferai dans ce film aucune concession au public. Plusieurs excellentes raisons justifient, à mes yeux, une telle conduite ; et je vais les dire. Tout d'abord, il est assez notoire que je n'ai nulle part fait de concessions aux idées dominantes de mon époque, ni à aucun des pouvoirs existants. Par ailleurs, quelle que soit l'époque, rien d'important ne s'est communiqué en ménageant un public, fût-il composé des contemporains de Périclès ; et, dans le miroir glacé de l'écran, les spectateurs ne voient présentement rien qui évoque les citoyens respectables d'une démocratie. » Guy Debord, texte lu en voix off au début du film"
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries."
+      },
       {
         "typeTexte": 9,
         "texte": "Une introspection éclairée par le cinéma. « Les spectateurs ne peuvent rester indifférents, en cette époque de tous les renoncements, de tous les arrangements, à cette voix seule qui parle d'absolu. » (Pascal Bonitzer)"
@@ -71,6 +87,10 @@
       {
         "typeTexte": 9,
         "texte": "Destiné à répondre aux attaques portées sur _La Société du Spectacle_ dont il a été l'objet au moment de sa sortie en salle, cet essai marque le début d'un processus de « réfutation » que Guy Debord réaffirme par la suite."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries."
       }
     ]
   },
@@ -84,6 +104,10 @@
     "annee": 1973,
     "pays": "France",
     "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries."
+      },
       {
         "typeTexte": 9,
         "texte": "Lecture de pages choisies du livre de Guy Debord, illustrée d'extraits de _Johnny Guitare, Shanghai Gesture, Potemkine, La Charge fantastique_, etc. _« Toute la vie des sociétés dans lesquelles règnent les conditions modernes de production s'annonce comme une immense accumulation de spectacles. Tout ce qui était directement vécu s'est éloigné dans une représentation. »_ (Guy Debord)"
@@ -102,6 +126,10 @@
       {
         "typeTexte": 9,
         "texte": "Film expérimental réalisé comme un « anti documentaire » visant l'évitement de tout élément « digne d'intérêt » par le moyen de plans vagues et de vues en extérieurs, accompagnés de commentaires contestataires."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Ce film a été numérisé et restauré en 2018 par Les Films du Losange et le laboratoire Eclair avec le soutien du CNC, de la Bibliothèque nationale de France et de Stanford Libraries."
       }
     ]
   }

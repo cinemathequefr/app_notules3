@@ -126,6 +126,24 @@
     "adaptation": "D'après la nouvelle _Les Oiseaux vont mourir au Pérou_ de Romain Gary."
   },
   {
+    "titre": "Panthéon Discount",
+    "titreVo": "",
+    "idFilm": 142416,
+    "ageMinimal": null,
+    "realisateurs": "Stéphan Castang",
+    "annee": 2016,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 2050, la médecine est remplacée par une machine : le Sherlock,une sorte de super scanner qui non seulement diagnostique, mais soigne également suivant les moyens du patient."
+      }
+    ],
+    "generique": [
+      "Christian Delvallée"
+    ]
+  },
+  {
     "titre": "Paul",
     "titreVo": "",
     "idFilm": 50127,
@@ -198,14 +216,19 @@
     "pays": "France",
     "textes": [
       {
+        "typeTexte": 8,
+        "texte": "« _La Vallée_, c'est Shangri-La, le paradis sur terre. C'est une rêverie, dont les éléments sont réels. Le cinéma les fait exister. C'est cela la force du cinéma : son pouvoir de réalité. » Barbet Schroeder « Une des scènes les plus marquantes du film est celle de la cérémonie à laquelle nous participons avec les Papous. (...) Ils nous avaient enduit le corps d'huile, avant de le saupoudrer de cendre et de nous poser des coiffes en plumes d'oiseaux de paradis. Ainsi, aidés par le bronzage, nous avions la même couleur qu'eux. » Jean-Pierre Kalfon (_Tout va bien M'man ! Souvenirs_, 2018) Le dialogue sera suivi d'une signature à la Librairie, à partir de 17h30, où Jean-Pierre Kalfon dédicacera ses Mémoires : _Tout va bien M'man. Souvenirs_, Éditions de l'Archipel, 2018"
+      },
+      {
         "typeTexte": 9,
         "texte": "Femme de consul, Viviane participe à une expédition en Nouvelle-Guinée. Elle s'éprend du leader du groupe, dont l'objectif est d'atteindre une mystérieuse vallée, où nul n'ose s'aventurer."
       }
     ],
     "generique": [
       "Jean-Pierre Kalfon",
+      "Jean-Pierre Kalfon",
       "Bulle Ogier",
-      "Valérie Lagrange"
+      "Bulle Ogier"
     ]
   }
 ]

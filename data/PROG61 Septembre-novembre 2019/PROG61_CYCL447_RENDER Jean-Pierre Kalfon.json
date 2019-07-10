@@ -1,0 +1,479 @@
+{
+  "header": {
+    "idCycleProg": 447,
+    "titreCycle": "Jean-Pierre Kalfon",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          2029
+        ],
+        "tri": 2
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [
+          2067
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 61
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 2,
+      "items": [
+        {
+          "idCategorie": 2029,
+          "idEvenement": 20017,
+          "films": [
+            {
+              "idFilm": 39714,
+              "titre": "Amour fou",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Jacques Rivette",
+              "annee": 1967,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Sébastien, metteur en scène de théâtre, monte _Andromaque_ de Racine, pièce dans laquelle sa compagne Claire doit jouer le rôle d'Hermione. Mais durant les répétitions, un conflit les oppose et Claire quitte soudainement le théâtre. Tandis que Sébastien décide de faire appel à Marta, son ancienne épouse, pour la remplacer, Claire sombre dans le désespoir."
+                }
+              ],
+              "generique": [
+                "Bulle Ogier",
+                "Jean-Pierre Kalfon"
+              ],
+              "duree": 252,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-14T18:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Jean-Pierre Kalfon"
+            }
+          ]
+        },
+        {
+          "idCategorie": 2029,
+          "idEvenement": 20084,
+          "films": [
+            {
+              "idFilm": 52101,
+              "titre": "Bande à Bonnot",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Philippe Fourastié",
+              "annee": 1968,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Au début du XXe siècle, à Paris, une bande de voyous terrorise la ville. Formé d'ouvriers anarchistes haïssant la bourgeoisie, ce gang braque les banques et commet des meurtres. A leur tête, Jules Bonnot. La police met sur l'affaire l'un de ses meilleurs commissaires pour mettre fin à leurs méfaits..."
+                }
+              ],
+              "generique": [
+                "Jacques Brel",
+                "Bruno Cremer",
+                "Annie Girardot",
+                "Jean-Pierre Kalfon"
+              ],
+              "duree": 105,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-12T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2029,
+          "idEvenement": 20032,
+          "films": [
+            {
+              "idFilm": 47840,
+              "titre": "Gauloises bleues",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Michel Cournot",
+              "annee": 1967,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Au chômage et sans domicile, Ivan fait la connaissance de Jeanne, une jeune serveuse. Ils se marient et, bientôt, Jeanne est enceinte. En attendant la naissance de son fils, Ivan revoit son existence passée."
+                }
+              ],
+              "generique": [
+                "Annie Girardot",
+                "Jean-Pierre Kalfon",
+                "Bruno Cremer"
+              ],
+              "duree": 93,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-13T21:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Martine Pascal"
+            }
+          ]
+        },
+        {
+          "idCategorie": 2029,
+          "idEvenement": 19989,
+          "films": [
+            {
+              "idFilm": 29822,
+              "titre": "Idoles",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Marc'O",
+              "annee": 1967,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« J'ai fait ce film parce qu'il y a beaucoup de choses à dire par l'entremise du cinéma que l'on ne pourrait exprimer par le théâtre. » (Marc'O, 1968)"
+                }
+              ],
+              "generique": [
+                "Bulle Ogier",
+                "Pierre Clémenti",
+                "Jean-Pierre Kalfon"
+              ],
+              "duree": 105,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-11T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Jean-Pierre Kalfon et Marc'O"
+            }
+          ]
+        },
+        {
+          "idCategorie": 2029,
+          "idEvenement": 20034,
+          "films": [
+            {
+              "idFilm": 48702,
+              "titre": "Mamaia",
+              "titreVo": "",
+              "realisateurs": "José Varela",
+              "annee": 1966,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Nana, jeune étudiante roumaine, et son fiancé partent pour se marier dans le delta du Danube. En route, Nana veut aller chez le coiffeur de Mamaia. Elle y rencontre Balthazar, le chauffeur d'un groupe de rock."
+                }
+              ],
+              "generique": [
+                "Adriana Bogdan",
+                "Jean-Pierre Kalfon"
+              ],
+              "duree": 95,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-15T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2029,
+          "idEvenement": 20035,
+          "films": [
+            {
+              "idFilm": 48716,
+              "titre": "Oiseaux vont mourir au Pérou",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Romain Gary",
+              "annee": 1967,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Adriana, une ravissante jeune femme, est abordée par un groupe d'individus avec qui elle s'abandonne sur une plage. Son mari part à sa recherche : il a décidé de la tuer."
+                }
+              ],
+              "adaptation": "D'après la nouvelle _Les Oiseaux vont mourir au Pérou_ de Romain Gary.",
+              "generique": [
+                "Jean Seberg",
+                "Maurice Ronet",
+                "Pierre Brasseur",
+                "Danielle Darrieux"
+              ],
+              "duree": 95,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-15T18:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2029,
+          "idEvenement": 20668,
+          "films": [
+            {
+              "idFilm": 142416,
+              "titre": "Panthéon Discount",
+              "titreVo": "",
+              "realisateurs": "Stéphan Castang",
+              "annee": 2016,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "En 2050, la médecine est remplacée par une machine : le Sherlock,une sorte de super scanner qui non seulement diagnostique, mais soigne également suivant les moyens du patient."
+                }
+              ],
+              "generique": [
+                "Christian Delvallée"
+              ],
+              "duree": 15,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 50127,
+              "titre": "Paul",
+              "titreVo": "",
+              "realisateurs": "Diourka Medveczky",
+              "annee": 1968,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Paul, un jeune homme d'une famille bourgeoise, désireux de donner une signification à sa vie, quitte les siens pour errer dans la ville. A la suite d'une rencontre hasardeuse, il est amené à traverser la France pour rejoindre un groupe de végétariens monastiques et nocturnes..."
+                }
+              ],
+              "generique": [
+                "Jean-Pierre Léaud",
+                "Bernadette Lafont",
+                "Jean-Pierre Kalfon"
+              ],
+              "duree": 93,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-15T20:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2029,
+          "idEvenement": 20037,
+          "films": [
+            {
+              "idFilm": 48980,
+              "titre": "Une étrange affaire",
+              "titreVo": "",
+              "realisateurs": "Pierre Granier-Deferre",
+              "annee": 1981,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un jeune publicitaire ambitieux rentre dans le jeu de son nouveau patron qui abuse de son dévouement et en néglige sa femme."
+                }
+              ],
+              "adaptation": "D'après le roman _Affaires étrangères_ de Jean-Marc Roberts.",
+              "generique": [
+                "Michel Piccoli",
+                "Gérard Lanvin",
+                "Nathalie Baye",
+                "Jean-Pierre Kalfon"
+              ],
+              "duree": 105,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-15T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2029,
+          "idEvenement": 20033,
+          "films": [
+            {
+              "idFilm": 49823,
+              "titre": "Une fille et des fusils",
+              "titreVo": "",
+              "realisateurs": "Claude Lelouch",
+              "annee": 1964,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Pour devenir de vrais gangsters, quatre jeunes paumés s'astreignent à une discipline de fer pour éviter de mal finir, comme la plupart de leurs prédécesseurs. Ils apprendront à jouer au poker, à se battre, à prendre des coups et à tirer au revolver. Après la théorie, ils s'attaquent à la pratique en préparant un gros coup..."
+                }
+              ],
+              "generique": [
+                "Jean-Pierre Kalfon",
+                "Jacques Portet",
+                "Janine Magnan"
+              ],
+              "duree": 104,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-13T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Claude Lelouch"
+            }
+          ]
+        },
+        {
+          "idCategorie": 2029,
+          "idEvenement": 20036,
+          "films": [
+            {
+              "idFilm": 51228,
+              "titre": "Vallée",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Barbet Schroeder",
+              "annee": 1971,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Femme de consul, Viviane participe à une expédition en Nouvelle-Guinée. Elle s'éprend du leader du groupe, dont l'objectif est d'atteindre une mystérieuse vallée, où nul n'ose s'aventurer."
+                },
+                {
+                  "typeTexte": 8,
+                  "texte": "« _La Vallée_, c'est Shangri-La, le paradis sur terre. C'est une rêverie, dont les éléments sont réels. Le cinéma les fait exister. C'est cela la force du cinéma : son pouvoir de réalité. » Barbet Schroeder « Une des scènes les plus marquantes du film est celle de la cérémonie à laquelle nous participons avec les Papous. (...) Ils nous avaient enduit le corps d'huile, avant de le saupoudrer de cendre et de nous poser des coiffes en plumes d'oiseaux de paradis. Ainsi, aidés par le bronzage, nous avions la même couleur qu'eux. » Jean-Pierre Kalfon (_Tout va bien M'man ! Souvenirs_, 2018) Le dialogue sera suivi d'une signature à la Librairie, à partir de 17h30, où Jean-Pierre Kalfon dédicacera ses Mémoires : _Tout va bien M'man. Souvenirs_, Éditions de l'Archipel, 2018"
+                }
+              ],
+              "generique": [
+                "Jean-Pierre Kalfon",
+                "Jean-Pierre Kalfon",
+                "Bulle Ogier",
+                "Bulle Ogier"
+              ],
+              "duree": 106,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-14T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idCategorie": 2067,
+          "idEvenement": 20632,
+          "films": [
+            {
+              "titre": "Jean-Pierre Kalfon raconté par lui-même...",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "« _La Vallée_, c'est Shangri-La, le paradis sur terre. C'est une rêverie, dont les éléments sont réels. Le cinéma les fait exister. C'est cela la force du cinéma : son pouvoir de réalité. » Barbet Schroeder « Une des scènes les plus marquantes du film est celle de la cérémonie à laquelle nous participons avec les Papous. (...) Ils nous avaient enduit le corps d'huile, avant de le saupoudrer de cendre et de nous poser des coiffes en plumes d'oiseaux de paradis. Ainsi, aidés par le bronzage, nous avions la même couleur qu'eux. » Jean-Pierre Kalfon (_Tout va bien M'man ! Souvenirs_, 2018) Le dialogue sera suivi d'une signature à la Librairie, à partir de 17h30, où Jean-Pierre Kalfon dédicacera ses Mémoires : _Tout va bien M'man. Souvenirs_, Éditions de l'Archipel, 2018"
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Après avoir créé plusieurs revues (papier et en ligne), **Bernard Payen** rejoint La Cinémathèque française en 2001. Responsable de programmation depuis 2011, il organise notamment des rencontres régulières dédiées à la jeune création cinématographique contemporaine. Ancien responsable du court métrage à la Semaine de la Critique, il a réalisé plusieurs films et poursuit une activité journalistique pour le magazine _Court-Circuit_ (Arte), la revue _Bref_, ou la radio Aligre Fm."
+                },
+                {
+                  "typeTexte": 114,
+                  "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+                }
+              ],
+              "duree": 60,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-14T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

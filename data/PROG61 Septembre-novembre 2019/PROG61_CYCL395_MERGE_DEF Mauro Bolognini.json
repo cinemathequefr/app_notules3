@@ -5,37 +5,6 @@
       "tri": 1,
       "items": [
         {
-          "idSeance": 31994,
-          "ordre": 1,
-          "dateHeure": "2019-11-04T17:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 1763,
-          "idEvenement": 19511,
-          "typeEvenement": 13,
-          "idFilm": 84659,
-          "art": "L'",
-          "titre": "Absolu naturel",
-          "artVo": "L'",
-          "titreVo": "Assoluto naturale",
-          "realisateurs": "Mauro Bolognini",
-          "annee": 1969,
-          "generique": [
-            "Laurence Harvey",
-            "Sylva Koscina",
-            "Isa Miranda"
-          ],
-          "adaptation": "D'après le roman _L’Absolu naturel_ de Goffredo Parise.",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un intellectuel anglais idéaliste fait la connaissance d'une séduisante bourgeoise. Lors d'un voyage en automobile, ils débutent une relation avec naturel et spontanéité, mais très tôt, les disputes et désaccords se succèdent."
-            }
-          ]
-        },
-        {
           "idSeance": 31993,
           "ordre": 1,
           "dateHeure": "2019-11-22T14:30:00",
@@ -52,7 +21,7 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1986,
           "duree": 102,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Liv Ullmann",
@@ -83,7 +52,7 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1962,
           "duree": 102,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Ingrid Thulin",
@@ -115,7 +84,7 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1962,
           "duree": 102,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Ingrid Thulin",
@@ -150,7 +119,7 @@
           "annee": 1956,
           "duree": 90,
           "version": "VOSTF",
-          "format": "35 mm",
+          "format": "DCP",
           "generique": [
             "Franco Interlenghi",
             "Antonella Lualdi",
@@ -166,7 +135,7 @@
         {
           "idSeance": 31240,
           "ordre": 1,
-          "dateHeure": "2019-11-14T16:45:00",
+          "dateHeure": "2019-11-14T17:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -183,7 +152,7 @@
           "annee": 1956,
           "duree": 90,
           "version": "VOSTF",
-          "format": "35 mm",
+          "format": "DCP",
           "generique": [
             "Franco Interlenghi",
             "Antonella Lualdi",
@@ -197,12 +166,12 @@
           ]
         },
         {
-          "idSeance": 31233,
+          "idSeance": 32030,
           "ordre": 1,
-          "dateHeure": "2019-11-13T17:15:00",
+          "dateHeure": "2019-11-08T19:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 1763,
           "idEvenement": 19509,
@@ -350,8 +319,8 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1977,
           "duree": 100,
-          "version": "VO",
-          "format": "35 mm",
+          "version": "VOSTF",
+          "format": "DCP",
           "generique": [
             "Ottavia Piccolo",
             "Massimo Ranieri",
@@ -381,8 +350,8 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1977,
           "duree": 100,
-          "version": "VO",
-          "format": "35 mm",
+          "version": "VOSTF",
+          "format": "DCP",
           "generique": [
             "Ottavia Piccolo",
             "Massimo Ranieri",
@@ -627,7 +596,7 @@
         {
           "idSeance": 31255,
           "ordre": 1,
-          "dateHeure": "2019-11-16T21:00:00",
+          "dateHeure": "2019-11-16T21:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -762,33 +731,6 @@
           ]
         },
         {
-          "idSeance": 31209,
-          "ordre": 1,
-          "dateHeure": "2019-11-09T15:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 1763,
-          "idEvenement": 19525,
-          "typeEvenement": 13,
-          "idFilm": 44717,
-          "art": "La",
-          "titre": "Donna è una cosa meravigliosa",
-          "titreVo": "",
-          "realisateurs": "Mauro Bolognini",
-          "annee": 1964,
-          "generique": [
-            "Carmen Najarro",
-            "Sandra Milo",
-            "Vittorio Caprioli"
-          ],
-          "textes": {
-            "typeTexte": 9,
-            "texte": "Deux histoires : les amours pathétiques de deux nains de cirque, et la vie d'une jeune femme que le désir de maternité conduit à infantiliser son mari."
-          }
-        },
-        {
           "idSeance": 31884,
           "ordre": 1,
           "dateHeure": "2019-11-14T14:30:00",
@@ -838,8 +780,8 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1961,
           "duree": 95,
-          "version": "VOSTA",
-          "format": "35 mm",
+          "version": "VOSTF",
+          "format": "DCP",
           "generique": [
             "Jean-Claude Brialy",
             "Laurent Terzieff",
@@ -873,8 +815,8 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1961,
           "duree": 95,
-          "version": "VOSTA",
-          "format": "35 mm",
+          "version": "VOSTF",
+          "format": "DCP",
           "generique": [
             "Jean-Claude Brialy",
             "Laurent Terzieff",
@@ -1085,6 +1027,37 @@
           ]
         },
         {
+          "idSeance": 32034,
+          "ordre": 1,
+          "dateHeure": "2019-11-08T21:45:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 1763,
+          "idEvenement": 19532,
+          "typeEvenement": 13,
+          "idFilm": 60132,
+          "titre": "Liberté mon amour",
+          "titreVo": "Libera amore mio",
+          "realisateurs": "Mauro Bolognini",
+          "annee": 1973,
+          "duree": 110,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Claudia Cardinale",
+            "Adolfo Celi",
+            "Philippe Leroy"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Rome, 1930. Alors que sa famille s'est exilée en province, Liberia, restée en ville, s'oppose fermement au fascisme, et devient la cible d'un dignitaire du régime."
+            }
+          ]
+        },
+        {
           "idSeance": 31990,
           "ordre": 1,
           "dateHeure": "2019-11-15T17:00:00",
@@ -1100,6 +1073,9 @@
           "titreVo": "Libera amore mio",
           "realisateurs": "Mauro Bolognini",
           "annee": 1973,
+          "duree": 110,
+          "version": "VOSTF",
+          "format": "DCP",
           "generique": [
             "Claudia Cardinale",
             "Adolfo Celi",
@@ -1128,9 +1104,9 @@
           "titreVo": "Marisa la civetta",
           "realisateurs": "Mauro Bolognini",
           "annee": 1957,
-          "duree": 86,
+          "duree": 87,
           "version": "VOSTF",
-          "format": "Vidéo",
+          "format": "DCP",
           "generique": [
             "Renato Salvatori",
             "Francisco Rabal",
@@ -1147,6 +1123,40 @@
           "idSeance": 31155,
           "ordre": 1,
           "dateHeure": "2019-10-31T19:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1763,
+          "idEvenement": 19534,
+          "typeEvenement": 13,
+          "idFilm": 42063,
+          "art": "Le",
+          "titre": "Mauvais chemin",
+          "artVo": "La",
+          "titreVo": "Viaccia",
+          "realisateurs": "Mauro Bolognini",
+          "annee": 1961,
+          "duree": 100,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Jean-Paul Belmondo",
+            "Claudia Cardinale",
+            "Pietro Germi"
+          ],
+          "adaptation": "D'après le roman _L'Eredità_ de Mario Pratesi.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le jeune Amerigo quitte son village pour venir travailler avec son oncle à Florence, où il tombe amoureux d'une prostituée. Pour se rapprocher d'elle, il va jusqu'au vol et à la dépravation."
+            }
+          ]
+        },
+        {
+          "idSeance": 32036,
+          "ordre": 1,
+          "dateHeure": "2019-11-21T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1323,9 +1333,9 @@
           "titreVo": "Ci troviamo in galleria",
           "realisateurs": "Mauro Bolognini",
           "annee": 1953,
-          "duree": 0,
-          "version": "VF",
-          "format": "",
+          "duree": 91,
+          "version": "VOSTF",
+          "format": "35 mm",
           "generique": [
             "Alberto Sordi",
             "Sophia Loren",
@@ -1339,12 +1349,12 @@
           ]
         },
         {
-          "idSeance": 31870,
+          "idSeance": 32029,
           "ordre": 1,
-          "dateHeure": "2019-11-08T19:30:00",
+          "dateHeure": "2019-11-13T17:15:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "idCategorie": 1763,
           "idEvenement": 19555,
@@ -1354,9 +1364,9 @@
           "titreVo": "Ci troviamo in galleria",
           "realisateurs": "Mauro Bolognini",
           "annee": 1953,
-          "duree": 0,
-          "version": "VF",
-          "format": "",
+          "duree": 91,
+          "version": "VOSTF",
+          "format": "35 mm",
           "generique": [
             "Alberto Sordi",
             "Sophia Loren",
@@ -1387,6 +1397,9 @@
           "titreVo": "Vena d'oro",
           "realisateurs": "Mauro Bolognini",
           "annee": 1955,
+          "duree": 86,
+          "version": "VOSTF",
+          "format": "35 mm",
           "generique": [
             "Marta Toren",
             "Richard Basehart",
@@ -1418,6 +1431,9 @@
           "titreVo": "Vena d'oro",
           "realisateurs": "Mauro Bolognini",
           "annee": 1955,
+          "duree": 86,
+          "version": "VOSTF",
+          "format": "35 mm",
           "generique": [
             "Marta Toren",
             "Richard Basehart",
@@ -1580,7 +1596,7 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1960,
           "duree": 89,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Jean Sorel",
@@ -1613,7 +1629,7 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1960,
           "duree": 89,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Jean Sorel",
@@ -1634,6 +1650,75 @@
       "titreSousCycle": "Films collectifs",
       "tri": 1,
       "items": [
+        {
+          "idSeance": 32035,
+          "ordre": 1,
+          "dateHeure": "2019-11-09T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2036,
+          "idEvenement": 20709,
+          "typeEvenement": 13,
+          "idFilm": 60124,
+          "titre": "Caprice à l'italienne",
+          "titreVo": "Capriccio all'italiana",
+          "realisateurs": "Mauro Bolognini, Mario Monicelli, Pier Paolo Pasolini, Steno, Pino Zac",
+          "annee": 1967,
+          "duree": 95,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Silvana Mangano",
+            "Enzo Marignani",
+            "Ugo D'Alessio",
+            "Dante Maggio"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film à sketches : un regard souvent acerbe sur la société italienne des années 60."
+            }
+          ]
+        },
+        {
+          "idSeance": 32013,
+          "ordre": 1,
+          "dateHeure": "2019-11-21T16:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2036,
+          "idEvenement": 19536,
+          "typeEvenement": 13,
+          "idFilm": 105872,
+          "art": "La",
+          "titre": "Mia signora",
+          "titreVo": "",
+          "realisateurs": "Tinto Brass, Luigi Comencini, Mauro Bolognini",
+          "annee": 1964,
+          "duree": 102,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Alberto Sordi",
+            "Silvana Mangano",
+            "Elena Nicolai",
+            "Elena Fabrizi"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film à sketches en cinq segments sur les relations houleuses entre mari et femme."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mauro Bolognini réalise les épisodes _I Miei cari_ et _Luciana_."
+            }
+          ]
+        },
         {
           "idSeance": 31296,
           "ordre": 1,
@@ -1669,9 +1754,9 @@
           ]
         },
         {
-          "idSeance": 31276,
+          "idSeance": 32018,
           "ordre": 1,
-          "dateHeure": "2019-11-20T17:15:00",
+          "dateHeure": "2019-11-22T16:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1684,7 +1769,7 @@
           "titreVo": "Dove vai in vacanza?",
           "realisateurs": "Mauro Bolognini, Luciano Salce, Alberto Sordi",
           "annee": 1978,
-          "duree": 127,
+          "duree": 133,
           "version": "VF",
           "format": "35 mm",
           "generique": [
@@ -1701,9 +1786,9 @@
           ]
         },
         {
-          "idSeance": 31289,
+          "idSeance": 32017,
           "ordre": 1,
-          "dateHeure": "2019-11-22T16:45:00",
+          "dateHeure": "2019-11-20T17:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1718,7 +1803,7 @@
           "realisateurs": "Claude Autant-Lara, Philippe de Broca, Jean-Luc Godard, Mauro Bolognini, Franco Indovina, Michael Pfleghar",
           "annee": 1966,
           "duree": 110,
-          "version": "VOSTF",
+          "version": "VF",
           "format": "35 mm",
           "generique": [
             "Michèle Mercier",
@@ -1768,30 +1853,6 @@
           ]
         },
         {
-          "idSeance": 31283,
-          "ordre": 1,
-          "dateHeure": "2019-11-21T16:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 2036,
-          "idEvenement": 19550,
-          "typeEvenement": 13,
-          "idFilm": 119828,
-          "art": "Il",
-          "titre": "Silenzio é complicità",
-          "titreVo": "",
-          "realisateurs": "Laura Betti",
-          "annee": 1976,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Film conçu par Laura Betti pour dénoncer l'absence d'enquête sérieuse pour éclaircir les circonstances de la mort de Pier Paolo Pasolini, dont elle était très proche."
-            }
-          ]
-        },
-        {
           "idSeance": 31311,
           "ordre": 1,
           "dateHeure": "2019-11-25T14:30:00",
@@ -1827,7 +1888,7 @@
         {
           "idSeance": 31295,
           "ordre": 1,
-          "dateHeure": "2019-11-23T14:30:00",
+          "dateHeure": "2019-11-23T14:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1842,6 +1903,9 @@
           "titreVo": "Tre volti",
           "realisateurs": "Michelangelo Antonioni, Mauro Bolognini, Franco Indovina",
           "annee": 1964,
+          "duree": 115,
+          "version": "VOSTF",
+          "format": "Numérique",
           "generique": [
             "Soraya",
             "Richard Harris",
@@ -1879,16 +1943,16 @@
           "duree": 90,
           "textes": [
             {
-              "typeTexte": 114,
-              "texte": "Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €)."
+              "typeTexte": 8,
+              "texte": "Faisant souvent figure de cinéaste de second plan, Mauro Bolognini est au contraire un des grands artistes de son époque. Auteur de plus de quarante films, il a réalisé des œuvres relevant de différents genres et a donné sans doute le meilleur de lui-même dans des adaptations de textes littéraires auxquels il apportait une élégance formelle unique, sachant tirer parti des décors naturels offerts par les grandes villes italiennes."
             },
             {
               "typeTexte": 156,
               "texte": "Historien du cinéma et critique, Jean A. Gili est spécialiste du cinéma transalpin. Il a consacré des ouvrages, entres autres, à Luigi Comencini, Ettore Scola, Federico Fellini et Nanni Moretti. En 2011, il a publié, aux éditions de La Martinière, _Le Cinéma italien_."
             },
             {
-              "typeTexte": 8,
-              "texte": "Faisant souvent figure de cinéaste de second plan, Mauro Bolognini est au contraire un des grands artistes de son époque. Auteur de plus de quarante films, il a réalisé des œuvres relevant de différents genres et a donné sans doute le meilleur de lui-même dans des adaptations de textes littéraires auxquels il apportait une élégance formelle unique, sachant tirer parti des décors naturels offerts par les grandes villes italiennes."
+              "typeTexte": 114,
+              "texte": "Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €)."
             }
           ],
           "intervenants": [

@@ -1,0 +1,1881 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les adaptations du _Dracula_ de Bram Stoker",
+      "tri": 1,
+      "items": [
+        {
+          "idSeance": 31032,
+          "ordre": 1,
+          "dateHeure": "2019-10-11T21:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "mention": "Séance présentée par Jacques Sirgent",
+          "idCategorie": 2021,
+          "idEvenement": 19740,
+          "typeEvenement": 13,
+          "idFilm": 45668,
+          "art": "Le",
+          "titre": "Cauchemar de Dracula",
+          "titreVo": "Dracula = Horror of Dracula",
+          "realisateurs": "Terence Fisher",
+          "annee": 1958,
+          "duree": 82,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Peter Cushing",
+            "Christopher Lee",
+            "Michael Gough"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jonathan Harker se rend dans les Carpates chez le Comte Dracula qui l'a engagé comme bibliothécaire. Il est mordu par une femme-vampire."
+            }
+          ]
+        },
+        {
+          "idSeance": 31850,
+          "ordre": 1,
+          "dateHeure": "2019-10-12T21:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2021,
+          "idEvenement": 19737,
+          "typeEvenement": 13,
+          "idFilm": 29919,
+          "titre": "Dracula",
+          "titreVo": "",
+          "realisateurs": "John Badham",
+          "annee": 1978,
+          "duree": 112,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Frank Langella",
+            "Laurence Olivier",
+            "Donald Pleasence"
+          ],
+          "adaptation": "D'après la pièce _Dracula_ de Hamilton Deane et John L. Balderston.  \nD'après le roman _Dracula_ de Bram Stoker.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À bord d'un navire pris dans une tempête, le comte Dracula, est le seul rescapé du naufrage. Secouru par une jeune femme, il se retrouve dans un asile dirigé par le Dr Seward et fait la connaissance de sa fille Lucy."
+            }
+          ]
+        },
+        {
+          "idSeance": 31027,
+          "ordre": 1,
+          "dateHeure": "2019-10-11T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "mention": "Séance présentée par Jacques Sirgent",
+          "idCategorie": 2021,
+          "idEvenement": 19741,
+          "typeEvenement": 13,
+          "idFilm": 30928,
+          "titre": "Dracula",
+          "titreVo": "",
+          "realisateurs": "Tod Browning",
+          "annee": 1931,
+          "duree": 75,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Bela Lugosi",
+            "Helen Chandler",
+            "David Manners"
+          ],
+          "adaptation": "D'après la pièce _Dracula_ de Garrett Fort.  \nD'après le roman _Dracula_ de Bram Stoker.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Renfield se rend pour affaires au château du comte Dracula. Durant la nuit, il est mordu au cou par trois femmes et emmené par le comte, en état d'hypnose, à bord d'un voilier en direction de l'Angleterre."
+            }
+          ]
+        },
+        {
+          "idSeance": 31039,
+          "ordre": 1,
+          "dateHeure": "2019-10-13T20:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2021,
+          "idEvenement": 19736,
+          "typeEvenement": 13,
+          "idFilm": 57748,
+          "titre": "Dracula",
+          "titreVo": "Bram Stoker's Dracula",
+          "realisateurs": "Francis Ford Coppola",
+          "annee": 1992,
+          "duree": 140,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Gary Oldman",
+            "Winona Ryder",
+            "Anthony Hopkins",
+            "Keanu Reeves"
+          ],
+          "adaptation": "D'après le roman _Dracula_ de Bram Stoker.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dracula se rend à Londres pour séduire Mina, en qui il reconnaît sa bien-aimée morte suicidée en 1462. Il s'attaque à la fidèle amie de Mina, que son fiancé cherche à sauver des griffes du vampire."
+            }
+          ]
+        },
+        {
+          "idSeance": 31040,
+          "ordre": 1,
+          "dateHeure": "2019-10-13T18:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2021,
+          "idEvenement": 19735,
+          "typeEvenement": 13,
+          "idFilm": 116310,
+          "titre": "Dracula 3D",
+          "titreVo": "",
+          "realisateurs": "Dario Argento",
+          "annee": 2011,
+          "duree": 106,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Thomas Kretschmann",
+            "Asia Argento",
+            "Marta Gastini",
+            "Rutger Hauer"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Transylvanie, 1893. Le comte Dracula découvre une photo de Mina avec son époux Jonathan Harker, et reconnait en Mina la réincarnation de l'amour de sa vie, décédée 400 ans plus tôt. Il les fait venir dans son château en engageant Jonathan comme bibliothécaire."
+            }
+          ]
+        },
+        {
+          "idSeance": 31939,
+          "ordre": 1,
+          "dateHeure": "2019-10-12T18:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2021,
+          "idEvenement": 19738,
+          "typeEvenement": 13,
+          "idFilm": 35066,
+          "titre": "Dracula et ses femmes vampires",
+          "titreVo": "Dracula",
+          "realisateurs": "Dan Curtis",
+          "annee": 1973,
+          "duree": 98,
+          "version": "VF",
+          "format": "35 mm",
+          "generique": [
+            "Simon Ward",
+            "Nigel Davenport"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dracula poursuit une femme qui ressemble à sa femme décédée il y a longtemps."
+            }
+          ]
+        },
+        {
+          "idSeance": 31018,
+          "ordre": 1,
+          "dateHeure": "2019-10-09T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "mention": "Ouverture de la rétrospective",
+          "idCategorie": 2021,
+          "idEvenement": 19743,
+          "typeEvenement": 13,
+          "idFilm": 39961,
+          "titre": "Nosferatu le vampire",
+          "titreVo": "Nosferatu – Eine Symphonie des Grauens",
+          "realisateurs": "F.W. Murnau",
+          "annee": 1921,
+          "duree": 94,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Max Schreck",
+            "Alexander Granach",
+            "Gustav von Wangenheim"
+          ],
+          "adaptation": "D'après le roman _Dracula_ de Bram Stoker.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La nuit est le refuge des créatures les plus inquiétantes et parmi elles, Nosferatu, le vampire, règne en grand seigneur. Mais, si une fois, une fois seulement, il se laisse surprendre par l'arrivée du jour, alors il disparaîtra à tout jamais."
+            }
+          ]
+        },
+        {
+          "idSeance": 31026,
+          "ordre": 1,
+          "dateHeure": "2019-10-13T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2021,
+          "idEvenement": 19744,
+          "typeEvenement": 13,
+          "idFilm": 39707,
+          "titre": "Nosferatu, fantôme de la nuit",
+          "titreVo": "Nosferatu, Phantom der Nacht",
+          "realisateurs": "Werner Herzog",
+          "annee": 1978,
+          "duree": 107,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Klaus Kinski",
+            "Isabelle Adjani",
+            "Bruno Ganz"
+          ],
+          "adaptation": "D'après le film _Nosferatu, le vampire_ de Friedrich Wilhelm Murnau.  \nD'après le roman _Dracula_ de Bram Stoker.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au XIXème siècle, Jonathan Harker part dans les Carpates afin de vendre sa maison à Dracula."
+            }
+          ]
+        },
+        {
+          "idSeance": 31943,
+          "ordre": 1,
+          "dateHeure": "2019-10-14T19:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2021,
+          "idEvenement": 19739,
+          "typeEvenement": 13,
+          "idFilm": 87102,
+          "art": "Les",
+          "titre": "Nuits de Dracula",
+          "artVo": "El",
+          "titreVo": "Conde Dracula",
+          "realisateurs": "Jesus Franco",
+          "annee": 1969,
+          "duree": 95,
+          "version": "VF",
+          "format": "35 mm",
+          "generique": [
+            "Christopher Lee",
+            "Klaus Kinski",
+            "Herbert Lom"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Après avoir tué et usurpé l'identité d'un artiste tchèque installé dans les Balkans, Dracula s'envole vers les Etats-unis pour continuer sa quête et soif de sang."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Vampires d'auteurs",
+      "tri": 3,
+      "items": [
+        {
+          "idSeance": 31095,
+          "ordre": 1,
+          "dateHeure": "2019-10-21T21:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 20046,
+          "typeEvenement": 13,
+          "idFilm": 125659,
+          "titre": "A Girl Walks Home Alone at Night",
+          "titreVo": "",
+          "realisateurs": "Ana Lily Amirpour",
+          "annee": 2014,
+          "duree": 99,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Sheila Vand",
+            "Arash Marandi",
+            "Marshall Manesh"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans la ville étrange de Bad City, lieu de tous les vices où suintent la mort et la solitude, les habitants n'imaginent pas qu'un vampire les surveille. Mais quand l'amour entre en jeu, la passion rouge sang éclate..."
+            }
+          ]
+        },
+        {
+          "idSeance": 32001,
+          "ordre": 1,
+          "dateHeure": "2019-10-20T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19704,
+          "typeEvenement": 13,
+          "idFilm": 60083,
+          "art": "The",
+          "titre": "Addiction",
+          "titreVo": "",
+          "realisateurs": "Abel Ferrara",
+          "annee": 1995,
+          "duree": 81,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Christopher Walken",
+            "Lili Taylor",
+            "Annabella Sciorra",
+            "Paul Calderon"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A New York, une étudiante en philosophie est mordue par une femme-vampire."
+            }
+          ]
+        },
+        {
+          "idSeance": 31974,
+          "ordre": 1,
+          "dateHeure": "2019-10-18T22:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19702,
+          "typeEvenement": 13,
+          "idFilm": 30405,
+          "titre": "Aux frontières de l'aube",
+          "titreVo": "Near Dark",
+          "realisateurs": "Kathryn Bigelow",
+          "annee": 1987,
+          "duree": 94,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Adrian Pasdar",
+            "Jenny Wright",
+            "Lance Henriksen"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans une petite ville du Middle West, Caleb, fils de fermier parti rejoindre des amis dans un bar, rencontre une jeune et jolie étrangère, qui le mord juste avant le lever du jour. Il va se joindre au groupe de vampires de la jeune fille."
+            }
+          ]
+        },
+        {
+          "idSeance": 31112,
+          "ordre": 1,
+          "dateHeure": "2019-10-24T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19698,
+          "typeEvenement": 13,
+          "idFilm": 42588,
+          "art": "Le",
+          "titre": "Bal des vampires",
+          "artVo": "The",
+          "titreVo": "Fearless Vampire Killer's or Pardon Me, but Your Teeth Are in My Neck = Dance of the Vampires",
+          "realisateurs": "Roman Polanski",
+          "annee": 1966,
+          "duree": 110,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Roman Polanski",
+            "Sharon Tate",
+            "Jack MacGowran"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le professeur Abronsius et son assistant Alfred sont des chasseurs de vampires. Au fil de leurs aventures, ces derniers vont se retrouver au beau milieu d'un château où l'on prépare le bal annuel des vampires."
+            }
+          ]
+        },
+        {
+          "idSeance": 31797,
+          "ordre": 1,
+          "dateHeure": "2019-10-12T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 1535,
+          "idEvenement": 19708,
+          "typeEvenement": 13,
+          "idFilm": 110886,
+          "art": "La",
+          "titre": "Comtesse",
+          "artVo": "The",
+          "titreVo": "Countess",
+          "realisateurs": "Julie Delpy",
+          "annee": 2008,
+          "duree": 94,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Julie Delpy",
+            "Julie Delpy",
+            "Daniel Brühl",
+            "Daniel Brühl"
+          ],
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "À la suite de la projection de _La Comtesse_ de Julie Delpy (voir P. ), dialogue avec la réalisatrice, compositrice et actrice de ce film consacré à Élisabeth Báthory, comtesse hongroise du XVIème siècle et restée dans l'Histoire sous le nom de « la dame sanglante ». « J'avais envie de raconter l'histoire d'une déchéance totale. (...) Je me souviens de cette phrase dans _Comme il vous plaira_, de Shakespeare : « Et d'heure en heure, on mûrit, on mûrit. Et d'heure en heure, on pourrit, on pourrit ! ». » Julie Delpy, 2010"
+            },
+            {
+              "typeTexte": 9,
+              "texte": "A la mort de son mari, la comtesse Elizabeth Bathory se trouve à la tête d'un vaste domaine et d'une immense fortune. Elle tombe éperdument amoureuse d'un jeune homme, mais celui-ci l'abandonne. Sombrant progressivement dans la folie, Elizabeth se persuade que le sang de jeunes vierges lui procure jeunesse et beauté. Débute alors une série d'actes sanglants et diaboliques."
+            }
+          ]
+        },
+        {
+          "idSeance": 31127,
+          "ordre": 1,
+          "dateHeure": "2019-10-26T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19709,
+          "typeEvenement": 13,
+          "idFilm": 115762,
+          "titre": "Dark Shadows",
+          "titreVo": "",
+          "realisateurs": "Tim Burton",
+          "annee": 2011,
+          "duree": 113,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Johnny Depp",
+            "Michelle Pfeiffer",
+            "Helena Bonham-Carter",
+            "Eva Green"
+          ],
+          "adaptation": "D'après la série télévisée _Dark Shadows_ de Dan Curtis.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Barnabas Collins, emprisonné par une sorcière, est un vampire. Libéré accidentellement, il retourne chez lui où ses descendants lointains ont besoin de son aide."
+            }
+          ]
+        },
+        {
+          "idSeance": 31102,
+          "ordre": 1,
+          "dateHeure": "2019-10-23T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 20047,
+          "typeEvenement": 13,
+          "idFilm": 102342,
+          "art": "Le",
+          "titre": "Dernier homme",
+          "titreVo": "",
+          "realisateurs": "Ghassan Salhab",
+          "annee": 2006,
+          "duree": 102,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Carlos Chahine"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A Beyrouth, on découvre chaque jour des nouvelles victimes d'un probable tueur en série, qui vide ses victimes de leur sang. Un médecin d'une quarantaine d'années présente des symptômes troublants."
+            }
+          ]
+        },
+        {
+          "idSeance": 31117,
+          "ordre": 1,
+          "dateHeure": "2019-10-25T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19706,
+          "typeEvenement": 13,
+          "idFilm": 87317,
+          "titre": "Dracula, pages tirées du journal d'une vierge",
+          "titreVo": "Dracula, Pages from a Virgin's Diary",
+          "realisateurs": "Guy Maddin",
+          "annee": 2002,
+          "duree": 74,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Wei-Qiang Zhang",
+            "Tara Birtwhistle",
+            "David Moroni"
+          ],
+          "adaptation": "D'après le ballet _Dracula_ de Mark Godden.  \nD'après le roman _Dracula_ de Bram Stoker.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Adaptation pour le cinéma d'un ballet de Gustav Malher, ce film combine à la fois une danse sensuelle, des scènes mimées et des intertitres qui rappellent le cinéma muet. Il est interprété par les danseurs du Royal Winnipeg Ballet."
+            }
+          ]
+        },
+        {
+          "idSeance": 31857,
+          "ordre": 1,
+          "dateHeure": "2019-10-25T21:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19643,
+          "typeEvenement": 13,
+          "idFilm": 41405,
+          "titre": "Dracula, prince des ténèbres",
+          "titreVo": "Dracula, Prince of Darkness",
+          "realisateurs": "Terence Fisher",
+          "annee": 1965,
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Christopher Lee",
+            "Barbara Shelley",
+            "Andrew Keir"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un couple fait un voyage en Transylvanie. A la nuit tombée, ils décident de faire une halte et dorment dans un grand manoir. Au petit matin, un voyageur est retrouvé égorgé."
+            }
+          ]
+        },
+        {
+          "idSeance": 31827,
+          "ordre": 1,
+          "dateHeure": "2019-10-17T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 1535,
+          "idEvenement": 19703,
+          "typeEvenement": 13,
+          "idFilm": 60560,
+          "titre": "Entretien avec un vampire",
+          "titreVo": "Interview with the Vampire",
+          "realisateurs": "Neil Jordan",
+          "annee": 1993,
+          "duree": 120,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Brad Pitt",
+            "Brad Pitt",
+            "Christian Slater",
+            "Christian Slater"
+          ],
+          "adaptation": "D'après le roman _Entretien avec un vampire_ d'Anne Rice et Anne Rice.",
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "« _Entretien avec un vampire_ est davantage un film sur l'absence du bien et du mal. Louis, le héros, devient un vampire, commet des actes barbares, et attend une punition. Mais il n'y a pas de jugement, il n'y a aucun Dieu pour le condamner. Et cette impunité devient une punition encore plus cruelle. » Neil Jordan, 1994"
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Entretien entre un journaliste curieux et un vampire âgé de deux cent ans. Le journaliste l'enregistre et décide de pénétrer dans son monde mystérieux et secret."
+            }
+          ]
+        },
+        {
+          "idSeance": 31290,
+          "ordre": 1,
+          "dateHeure": "2019-11-22T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 20044,
+          "typeEvenement": 13,
+          "idFilm": 51375,
+          "titre": "Et mourir de plaisir",
+          "titreVo": "",
+          "realisateurs": "Roger Vadim",
+          "annee": 1959,
+          "duree": 87,
+          "version": "",
+          "format": "35 mm",
+          "generique": [
+            "Mel Ferrer",
+            "Elsa Martinelli",
+            "Annette Vadim"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans une magnifique villa de la campagne romaine vivent les derniers descendants de la famille des Karnstein. Leopoldo doit bientôt épouser la belle Georgia Monteverdi. Mais peu avant la cérémonie Carmilla, sa cousine secrètement amoureuse de lui, meurt étrangement, le cœur transpercé d'un pieu."
+            }
+          ]
+        },
+        {
+          "idSeance": 31098,
+          "ordre": 1,
+          "dateHeure": "2019-10-21T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19705,
+          "typeEvenement": 13,
+          "idFilm": 55633,
+          "titre": "Irma Vep",
+          "titreVo": "",
+          "realisateurs": "Olivier Assayas",
+          "annee": 1996,
+          "duree": 99,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Maggie Cheung",
+            "Jean-Pierre Léaud",
+            "Nathalie Richard"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un réalisateur, René Vidal, entreprend de tourner une nouvelle version du film _Les Vampires_, réalisé par Louis Feuillade en 1915. Il veut donner le rôle d'Irma Vep à Maggie Cheung, une actrice Hongkongaise. Le tournage devient vite catastrophique."
+            }
+          ]
+        },
+        {
+          "idSeance": 31975,
+          "ordre": 1,
+          "dateHeure": "2019-10-16T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 20043,
+          "typeEvenement": 13,
+          "idFilm": 39701,
+          "art": "Les",
+          "titre": "Lèvres rouges",
+          "titreVo": "",
+          "realisateurs": "Harry Kümel",
+          "annee": 1971,
+          "duree": 87,
+          "version": "VF",
+          "format": "35 mm",
+          "generique": [
+            "Delphine Seyrig",
+            "Danielle Ouimet",
+            "John Karlen"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un couple séjourne à Ostende, dans un vaste hôtel désert en cette basse saison. Le couple rencontre la comtesse Bathory et sa protégée Ilona, qui vont exercer sur eux leur emprise."
+            }
+          ]
+        },
+        {
+          "idSeance": 31927,
+          "ordre": 1,
+          "dateHeure": "2019-10-24T21:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 20525,
+          "typeEvenement": 13,
+          "idFilm": 57359,
+          "titre": "Martin",
+          "titreVo": "",
+          "realisateurs": "George A. Romero",
+          "annee": 1977,
+          "duree": 95,
+          "version": "VO",
+          "format": "35 mm",
+          "generique": [
+            "John Amplas",
+            "Lincoln Maazel",
+            "Christine Forrest",
+            "Elianne Nadeau"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune homme de dix-sept ans, obsédé par le sang, est persuadé d'être un vampire."
+            }
+          ]
+        },
+        {
+          "idSeance": 31856,
+          "ordre": 1,
+          "dateHeure": "2019-10-25T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19712,
+          "typeEvenement": 13,
+          "idFilm": 45480,
+          "art": "Les",
+          "titre": "Maîtresses de Dracula",
+          "artVo": "The",
+          "titreVo": "Brides of Dracula",
+          "realisateurs": "Terence Fisher",
+          "annee": 1960,
+          "duree": 85,
+          "version": "VO",
+          "format": "35 mm",
+          "generique": [
+            "Peter Cushing",
+            "Yvonne Monlaur",
+            "Freda Jackson"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le docteur Van Helsink retourne en Transylvanie pour empêcher Dracula de séduire la douce, jeune et ravissante institutrice, Marianne."
+            }
+          ]
+        },
+        {
+          "idSeance": 31063,
+          "ordre": 1,
+          "dateHeure": "2019-10-16T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19707,
+          "typeEvenement": 13,
+          "idFilm": 107022,
+          "titre": "Morse",
+          "titreVo": "Låt den rätte komma in",
+          "realisateurs": "Tomas Alfredson",
+          "annee": 2008,
+          "duree": 114,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Kåre Hedebrant",
+            "Lina Leandersson",
+            "Per Ragnar"
+          ],
+          "adaptation": "D'après le roman _Let the Right One In_ de John Ajvide Lindqvist.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Oskar se pose beaucoup de questions par rapport à sa nouvelle amie, Eli: pourquoi se promène-t-elle en t-shirt les soirs glaciaux d'hiver ou bien même pourquoi le jour de son arrivée coïncide parfaitement avec de nombreuses disparitions et meurtres inquiétants: il découvre qu'Eli est en fait un vampire!"
+            }
+          ]
+        },
+        {
+          "idSeance": 31066,
+          "ordre": 1,
+          "dateHeure": "2019-10-10T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Elina Löwensohn",
+          "typeAssoc": 117,
+          "idSeanceAssoc": 31072,
+          "idCategorie": 1535,
+          "idEvenement": 20008,
+          "typeEvenement": 13,
+          "idFilm": 77327,
+          "titre": "Nadja",
+          "titreVo": "",
+          "realisateurs": "Michael Almereyda",
+          "annee": 1994,
+          "duree": 93,
+          "version": "VO",
+          "format": "35 mm",
+          "generique": [
+            "Peter Fonda",
+            "David Lynch"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A New-York, la fille du comte Dracula apprend la mort de son père. Elle décide de renouer des liens avec son frère, ce qui va laisser place à de nombreuses péripéties."
+            }
+          ]
+        },
+        {
+          "idSeance": 31942,
+          "ordre": 1,
+          "dateHeure": "2019-10-17T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 20015,
+          "typeEvenement": 13,
+          "idFilm": 142092,
+          "titre": "Niemand",
+          "titreVo": "",
+          "realisateurs": "Bertrand Mandico",
+          "annee": 2018,
+          "duree": 6,
+          "version": "",
+          "format": ""
+        },
+        {
+          "idSeance": 31942,
+          "ordre": 2,
+          "dateHeure": "2019-10-17T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 20015,
+          "typeEvenement": 13,
+          "idFilm": 119997,
+          "titre": "Only Lovers Left Alive",
+          "titreVo": "",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 2012,
+          "duree": 122,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Tom Hiddleston",
+            "Tilda Swinton",
+            "Mia Wasikowska"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Adam, musicien underground, et Eve, son amante, sont des vampires vivant entre Detroit et Tanger. L'arrivée de la petite sœur d'Eve va perturber leur existence."
+            }
+          ]
+        },
+        {
+          "idSeance": 31999,
+          "ordre": 1,
+          "dateHeure": "2019-10-19T22:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19701,
+          "typeEvenement": 13,
+          "idFilm": 36659,
+          "art": "Les",
+          "titre": "Prédateurs",
+          "artVo": "The",
+          "titreVo": "Hunger",
+          "realisateurs": "Tony Scott",
+          "annee": 1982,
+          "duree": 97,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Catherine Deneuve",
+            "David Bowie",
+            "Susan Sarandon"
+          ],
+          "adaptation": "D'après le roman _Les Sanguinaires_ de Whitley Strieber.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Miriam, une femme vampire, vit à New York depuis trois cents ans, avec John. Celui-ci est soudainement frappé d'un processus accéléré de vieillissement. Sa compagne va tout tenter pour empêcher ce processus de dégradation."
+            }
+          ]
+        },
+        {
+          "idSeance": 32000,
+          "ordre": 1,
+          "dateHeure": "2019-10-20T21:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19700,
+          "typeEvenement": 13,
+          "idFilm": 56863,
+          "titre": "Spermula",
+          "titreVo": "",
+          "realisateurs": "Charles Matton",
+          "annee": 1975,
+          "duree": 103,
+          "version": "VF",
+          "format": "Numérique",
+          "generique": [
+            "Dayle Haddon",
+            "Udo Kier",
+            "Ginette Leclerc"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Prônant une morale et une liberté nouvelles, une société secrète envoie dans notre monde un commando de femmes d'une grande beauté, afin de le conquérir en libérant les hommes de la virilité, source d'orgueil. Conte à la fois onirique et réaliste, ovni cinématographique profondément féministe, Spermula est un hymne fastueux à la création, à la femme et à l'amour. film interdit au moins de 16 ans"
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en HD par Hiventy, pour Sylvie Matton, avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 31106,
+          "ordre": 1,
+          "dateHeure": "2019-10-23T19:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 20011,
+          "typeEvenement": 13,
+          "idFilm": 108292,
+          "titre": "Thirst, ceci est mon sang",
+          "titreVo": "Bakjwi",
+          "realisateurs": "Chan-wook Park",
+          "annee": 2008,
+          "duree": 134,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Kang-ho Song",
+            "Ok-vin Kim",
+            "Hae-sook Kim"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un prêtre fait une expérience médicale ratée, succombe au vampirisme et devient vampire. Il tombe sous le charme de l'épouse de son ancien ami et a une violente attirance charnelle avec cette dernière."
+            }
+          ]
+        },
+        {
+          "idSeance": 31948,
+          "ordre": 1,
+          "dateHeure": "2019-10-14T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19711,
+          "typeEvenement": 13,
+          "idFilm": 43667,
+          "titre": "Vampir",
+          "titreVo": "Cuadecuc",
+          "realisateurs": "Pere Portabella, Joan Brossa",
+          "annee": 1970,
+          "duree": 67,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Christopher Lee",
+            "Jesus Franco"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En 1970, le cinéaste Pere Portabella est invité sur le plateau de tournage du film _Les nuits de Dracula_. Il filme alors des moments de tournage dans cette atmosphère morbide et mystérieuse. « Ce film est une tentative de réflexion sur le langage cinématographique. » P. Portabella"
+            }
+          ]
+        },
+        {
+          "idSeance": 31941,
+          "ordre": 1,
+          "dateHeure": "2019-11-07T22:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19699,
+          "typeEvenement": 13,
+          "idFilm": 50525,
+          "art": "Le",
+          "titre": "Vampire",
+          "titreVo": "",
+          "realisateurs": "Jean Painlevé",
+          "annee": 1939,
+          "duree": 10,
+          "version": "",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ce document scientifique sur la chauve-souris du Brésil est aussi un film d'épouvante."
+            }
+          ]
+        },
+        {
+          "idSeance": 31941,
+          "ordre": 2,
+          "dateHeure": "2019-11-07T22:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19699,
+          "typeEvenement": 13,
+          "idFilm": 29210,
+          "titre": "Vampires",
+          "titreVo": "",
+          "realisateurs": "John Carpenter",
+          "annee": 1997,
+          "duree": 108,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "James Woods",
+            "Daniel Baldwin",
+            "Sheryl Lee"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A la tête de mercenaires, Jack Crow est chargé par le Vatican de traquer et exterminer les groupes de vampires. Valek, un puissant vampire ayant échappé à une de ces traques, se venge en massacrant à son tour les hommes de Jack Crow."
+            }
+          ]
+        },
+        {
+          "idSeance": 31132,
+          "ordre": 1,
+          "dateHeure": "2019-10-27T16:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19996,
+          "typeEvenement": 13,
+          "idFilm": 99082,
+          "art": "Les",
+          "titre": "Vampires : L'Evasion du mort",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1915,
+          "duree": 45,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Jean Ayme",
+            "Musidora"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête. _Production Gaumont_"
+            }
+          ]
+        },
+        {
+          "idSeance": 31134,
+          "ordre": 1,
+          "dateHeure": "2019-10-27T21:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19997,
+          "typeEvenement": 13,
+          "idFilm": 99086,
+          "art": "Les",
+          "titre": "Vampires : L'Homme des poisons",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1916,
+          "duree": 60,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Moriss",
+            "Musidora"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête."
+            }
+          ]
+        },
+        {
+          "idSeance": 31131,
+          "ordre": 3,
+          "dateHeure": "2019-10-27T14:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19691,
+          "typeEvenement": 13,
+          "idFilm": 99079,
+          "art": "Les",
+          "titre": "Vampires : La Bague qui tue",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1915,
+          "duree": 17,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Jean Ayme"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Texte à saisir"
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 2015 par Gaumont."
+            }
+          ]
+        },
+        {
+          "idSeance": 31131,
+          "ordre": 2,
+          "dateHeure": "2019-10-27T14:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19691,
+          "typeEvenement": 13,
+          "idFilm": 48546,
+          "art": "Les",
+          "titre": "Vampires : La Tête coupée",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1915,
+          "duree": 40,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Jean Ayme"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Texte à saisir"
+            }
+          ]
+        },
+        {
+          "idSeance": 31131,
+          "ordre": 1,
+          "dateHeure": "2019-10-27T14:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19691,
+          "typeEvenement": 13,
+          "idFilm": 99080,
+          "art": "Les",
+          "titre": "Vampires : Le Cryptogramme rouge",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1915,
+          "duree": 48,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Musidora",
+            "Jean Ayme"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Texte à saisir"
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 2015 par Gaumont."
+            }
+          ]
+        },
+        {
+          "idSeance": 31133,
+          "ordre": 1,
+          "dateHeure": "2019-10-27T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19692,
+          "typeEvenement": 13,
+          "idFilm": 99085,
+          "art": "Les",
+          "titre": "Vampires : Le Maître de la foudre",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1916,
+          "duree": 0,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Musidora",
+            "Louis Leubas"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête."
+            }
+          ]
+        },
+        {
+          "idSeance": 31132,
+          "ordre": 2,
+          "dateHeure": "2019-10-27T16:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19996,
+          "typeEvenement": 13,
+          "idFilm": 99081,
+          "art": "Les",
+          "titre": "Vampires : Le Spectre",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1915,
+          "duree": 39,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Jean Ayme",
+            "Musidora"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête. _Production Gaumont_"
+            }
+          ]
+        },
+        {
+          "idSeance": 31134,
+          "ordre": 2,
+          "dateHeure": "2019-10-27T21:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19997,
+          "typeEvenement": 13,
+          "idFilm": 99087,
+          "art": "Les",
+          "titre": "Vampires : Les Noces sanglantes",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1916,
+          "duree": 66,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Musidora",
+            "Moriss"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête."
+            }
+          ]
+        },
+        {
+          "idSeance": 31132,
+          "ordre": 3,
+          "dateHeure": "2019-10-27T16:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19996,
+          "typeEvenement": 13,
+          "idFilm": 99083,
+          "art": "Les",
+          "titre": "Vampires : Les Yeux qui fascinent",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1916,
+          "duree": 71,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Jean Ayme",
+            "Musidora"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête. _Production Gaumont_"
+            }
+          ]
+        },
+        {
+          "idSeance": 31133,
+          "ordre": 2,
+          "dateHeure": "2019-10-27T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19692,
+          "typeEvenement": 13,
+          "idFilm": 99084,
+          "art": "Les",
+          "titre": "Vampires : Satanas",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1916,
+          "duree": 52,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Fernand Herrmann",
+            "Musidora"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête."
+            }
+          ]
+        },
+        {
+          "idSeance": 31947,
+          "ordre": 1,
+          "dateHeure": "2019-10-23T22:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19697,
+          "typeEvenement": 13,
+          "idFilm": 48251,
+          "titre": "Vampyr ou l'étrange aventure de David Gray",
+          "titreVo": "",
+          "realisateurs": "Carl Theodor Dreyer",
+          "annee": 1930,
+          "duree": 72,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Julian West",
+            "Maurice Schutz",
+            "Sybille Schmitz"
+          ],
+          "adaptation": "D'après le roman _In a glass darkly_ de Sheridan Le Fanu.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un vampire terrorise un châtelain et ses deux filles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Cinéma bis",
+      "tri": 1,
+      "items": [
+        {
+          "idSeance": 31249,
+          "ordre": 1,
+          "dateHeure": "2019-11-15T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2020,
+          "idEvenement": 19718,
+          "typeEvenement": 13,
+          "idFilm": 36188,
+          "titre": "Blacula, le vampire noir",
+          "titreVo": "Blacula",
+          "realisateurs": "William Crain",
+          "annee": 1972,
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "William Marshall",
+            "Vonetta McGee",
+            "Denise Nicholas"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un prince africain transformé en vampire par le comte Dracula en 1780 et enfermé dans un cercueil est réveillé en 1972 et sévit dans les rues de Los Angeles."
+            }
+          ]
+        },
+        {
+          "idSeance": 31161,
+          "ordre": 1,
+          "dateHeure": "2019-11-01T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2020,
+          "idEvenement": 19713,
+          "typeEvenement": 13,
+          "idFilm": 59103,
+          "art": "La",
+          "titre": "Crypte du vampire",
+          "artVo": "La",
+          "titreVo": "Cripta e l'incubo",
+          "realisateurs": "Thomas, pseudonyme de Camillo Mastrocinque Miller",
+          "annee": 1963,
+          "duree": 82,
+          "version": "VF",
+          "format": "35 mm",
+          "generique": [
+            "Christopher Lee",
+            "José Campos",
+            "Adriana Ambesi",
+            "Carla Calò"
+          ],
+          "adaptation": "D'après le roman _Carmilla_ de Sheridan Le Fanu.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La fille du Comte Von Karnstein, qui vit dans le vieux manoir familial, subit de terribles cauchemars. Est elle la réincarnation de son ancêtre, Sheena la sorcière, condamnée au bûcher Rowena, la gouvernante, va mettre à profit ses connaissances en magie noire."
+            }
+          ]
+        },
+        {
+          "idSeance": 31204,
+          "ordre": 1,
+          "dateHeure": "2019-11-08T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2020,
+          "idEvenement": 19641,
+          "typeEvenement": 13,
+          "idFilm": 41664,
+          "titre": "Dracula 73",
+          "titreVo": "Dracula A.D. 72",
+          "realisateurs": "Alan Gibson",
+          "annee": 1972,
+          "duree": 96,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Christopher Lee",
+            "Peter Cushing"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les descendants des Von Hessling, qui tuèrent Dracula en 1850, retrouvent le vampire dans une église de Londres en 1972, après qu'il ait été réveillé par une invocation du Diable commise par une bande de jeunes lors d'une messe noire."
+            }
+          ]
+        },
+        {
+          "idSeance": 31205,
+          "ordre": 1,
+          "dateHeure": "2019-11-08T22:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2020,
+          "idEvenement": 19720,
+          "typeEvenement": 13,
+          "idFilm": 39336,
+          "titre": "Dracula vit toujours à Londres",
+          "artVo": "The",
+          "titreVo": "Satanic Rites of Dracula : Dracula Is Alive",
+          "realisateurs": "Alan Gibson",
+          "annee": 1973,
+          "duree": 87,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Christopher Lee",
+            "Peter Cushing"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Londres, 1974. La police est convaincue qu'un nouveau cas de vampirisme apparait et fait appel au spécialiste en la matière: van Helsink qui se retrouve à nouveau sur les traces du comte Dracula."
+            }
+          ]
+        },
+        {
+          "idSeance": 31025,
+          "ordre": 1,
+          "dateHeure": "2019-10-10T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2020,
+          "idEvenement": 20012,
+          "typeEvenement": 13,
+          "idFilm": 59536,
+          "titre": "Du sang pour Dracula",
+          "titreVo": "Dracula cerca sangue di vergine e mori di sete !",
+          "realisateurs": "Paul Morrissey",
+          "annee": 1973,
+          "duree": 90,
+          "version": "VF",
+          "format": "35 mm",
+          "generique": [
+            "Joe Dallesandro",
+            "Udo Kier",
+            "Vittorio De Sica",
+            "Roman Polanski"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le dernier descendant de Dracula est en train de mourir. Pour survivre, il doit boire du sang de jeunes femmes vierges et décide donc de partir en Italie."
+            }
+          ]
+        },
+        {
+          "idSeance": 31250,
+          "ordre": 1,
+          "dateHeure": "2019-11-15T22:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2020,
+          "idEvenement": 19719,
+          "typeEvenement": 13,
+          "idFilm": 59912,
+          "titre": "Un vampire à Brooklyn",
+          "titreVo": "Vampire in Brooklyn",
+          "realisateurs": "Wes Craven",
+          "annee": 1994,
+          "duree": 102,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Eddie Murphy",
+            "Angela Bassett",
+            "Allen Payne",
+            "Kadeem Hardison"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'unique survivant d'une lignée de vampires exilée aux Caraïbes cherche à assurer sa descendance. Il part à New York à la recherche d'une femme vampire seule susceptible de le lui permettre."
+            }
+          ]
+        },
+        {
+          "idSeance": 31128,
+          "ordre": 1,
+          "dateHeure": "2019-10-26T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2020,
+          "idEvenement": 20549,
+          "typeEvenement": 13,
+          "idFilm": 36680,
+          "titre": "Une messe pour Dracula",
+          "titreVo": "Taste the Blood of Dracula",
+          "realisateurs": "Peter Sasdy",
+          "annee": 1969,
+          "duree": 95,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Christopher Lee"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au XIXe siècle, des bourgeois ayant organisé une messe satanique ressuscitent le comte Dracula grâce aux services d'un homme qu'ils assassinent ensuite. Dracula va chercher vengeance pour le meurtre de son bienfaiteur."
+            }
+          ]
+        },
+        {
+          "idSeance": 31291,
+          "ordre": 1,
+          "dateHeure": "2019-11-22T22:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2020,
+          "idEvenement": 19722,
+          "typeEvenement": 13,
+          "idFilm": 55255,
+          "art": "The",
+          "titre": "Vampire Lovers",
+          "titreVo": "",
+          "realisateurs": "Roy Ward Baker",
+          "annee": 1970,
+          "generique": [
+            "Ingrid Pitt",
+            "Peter Cushing",
+            "Dawn Addams"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le baron von Hartog découvre que la famille Karnstein s'apprête à sortir de leurs caveaux pour devenir vampires. Il les tue tous sauf un: celui de Mircalla. Quelques années plus tard, une très belle jeune fille s'immisce dans la société afin de séduire des femmes, Mircalla."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Nuit Blade",
+      "tri": 4,
+      "items": []
+    },
+    {
+      "titreSousCycle": "Nuit Halloween",
+      "tri": 4,
+      "items": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 31797,
+          "ordre": 2,
+          "dateHeure": "2019-10-12T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 2076,
+          "idEvenement": 20667,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + Dialogue avec Julie Delpy (sous réserve)",
+          "duree": 60,
+          "textes": [
+            {
+              "typeTexte": 114,
+              "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Matthieu Orléan est collaborateur artistique à La Cinémathèque française, chargé des expositions temporaires. Il est commissaire de l'exposition « Vampires »."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Julie Delpy est actrice (_Détective_, _La Passion Béatrice_, _Trois couleurs : blanc_, _Killing Zoe_, _Before Sunrise_...) et cinéaste (_Looking for Jimmy_, _Two Days in Paris_, _La Comtesse_, _Le Skylab_, _Lolo_...)."
+            },
+            {
+              "typeTexte": 8,
+              "texte": "À la suite de la projection de _La Comtesse_ de Julie Delpy (voir P. ), dialogue avec la réalisatrice, compositrice et actrice de ce film consacré à Élisabeth Báthory, comtesse hongroise du XVIème siècle et restée dans l'Histoire sous le nom de « la dame sanglante ». « J'avais envie de raconter l'histoire d'une déchéance totale. (...) Je me souviens de cette phrase dans _Comme il vous plaira_, de Shakespeare : « Et d'heure en heure, on mûrit, on mûrit. Et d'heure en heure, on pourrit, on pourrit ! ». » Julie Delpy, 2010"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Julie Delpy",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Matthieu Orléan",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Matthieu Orléan"
+        },
+        {
+          "idSeance": 31827,
+          "ordre": 2,
+          "dateHeure": "2019-10-17T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 2076,
+          "idEvenement": 20643,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + Discussion",
+          "duree": 45,
+          "textes": [
+            {
+              "typeTexte": 156,
+              "texte": "**Bernard Benoliel** est directeur de l'Action culturelle et éducative à La Cinémathèque française."
+            },
+            {
+              "typeTexte": 114,
+              "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "**Diane Arnaud** est universitaire et essayiste. Elle a écrit plusieurs ouvrages, entre autres : _Kiyoshi Kurosawa : mémoire de la disparition_ (Rouge Profond, 2007) ; _Changements de têtes : de Georges Méliès à David Lynch_ (Rouge Profond, 2012) ; _Imaginaires du déjà-vu : Resnais, Rivette, Lynch et les autres_ (Hermann, 2016)."
+            },
+            {
+              "typeTexte": 8,
+              "texte": "« _Entretien avec un vampire_ est davantage un film sur l'absence du bien et du mal. Louis, le héros, devient un vampire, commet des actes barbares, et attend une punition. Mais il n'y a pas de jugement, il n'y a aucun Dieu pour le condamner. Et cette impunité devient une punition encore plus cruelle. » Neil Jordan, 1994"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Diane Arnaud",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+        },
+        {
+          "idSeance": 31072,
+          "dateHeure": "2019-10-10T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 31066,
+          "idCategorie": 2076,
+          "idEvenement": 20642,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Vampires, l'art du transgenre",
+          "sousTitre": "Conférence de Matthieu Orléan",
+          "duree": 90,
+          "textes": [
+            {
+              "typeTexte": 114,
+              "texte": "Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €)."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "**Matthieu Orléan** est collaborateur artistique à La Cinémathèque française, chargé des expositions temporaires. Il a notamment été le commissaire des expositions « ¡Almodóvar : Exhibition! », « Dennis Hopper et le Nouvel Hollywood », « Le Monde enchanté de Jacques Demy » et « Gus Van Sant / Icônes ». Il est commissaire de l'exposition « Vampires »."
+            },
+            {
+              "typeTexte": 8,
+              "texte": "Le vampire est le héros de toutes les transgressions politiques et sexuelles. Originaire de la région de Transylvanie, le Comte Dracula, symbole du vampire par excellence, est une figure trans-artistique, et paradoxale : mort/vivant, terrifiant/séducteur, marginal/autocrate. On s'attachera donc à mieux définir l'identité du vampire, en particulier cinématographique, ainsi que sa capacité extraordinaire à distordre la mise en scène et contaminer la grammaire des films. Et si la première victime (très consentante) du vampire était finalement le cinéma lui-même ?"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Matthieu Orléan",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {}
+}

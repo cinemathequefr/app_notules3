@@ -51,16 +51,21 @@
     "pays": "France-Grande-Bretagne",
     "textes": [
       {
+        "typeTexte": 8,
+        "texte": "« S'agissant d'_Esther Kahn_, je ne voulais pas montrer l'aspect culturel du théâtre, mais l'aborder comme on montre la vie d'un journal ou d'un tribunal : quels sont les rapports de force, les horaires, la topographie... Il faut être concret. » Arnaud Desplechin, 2000"
+      },
+      {
         "typeTexte": 9,
         "texte": "Timide et rêveuse, la jeune Esther Kahn vit dans le quartier juif de Londres à la fin du XIXème siècle. Travaillant dans l'atelier de couture familial, elle va de temps à autre au théâtre. Un jour, elle est recrutée comme figurante. Ses premiers pas sur les planches sont une révélation. Un vieil acteur lui propose de la former. Mais Esther n'a aucune expérience des sentiments qu'elle est censée exprimer sur scène..."
       }
     ],
     "generique": [
       "Summer Phoenix",
+      "Summer Phoenix",
       "Ian Holm",
-      "Emmanuelle Devos"
+      "Ian Holm"
     ],
-    "adaptation": "D'après le roman _Esther Kahn_ d'Arthur Symons."
+    "adaptation": "D'après le roman _Esther Kahn_ d'Arthur Symons et Arthur Symons."
   },
   {
     "titre": "Fantômes d'Ismaël",
@@ -156,14 +161,19 @@
     "pays": "France",
     "textes": [
       {
+        "typeTexte": 8,
+        "texte": "« La source de _Rois et Reine_, c'est nos petites vies, mais Arnaud les transforme en geysers. Ce film, c'est un mélange de Douglas Sirk et des Marx Brothers. » Mathieu Amalric, 2004"
+      },
+      {
         "typeTexte": 9,
         "texte": "Deux histoires disjointes : d'une part le couronnement de Nora Cotterelle, sur le point de se marier, et d'autre part la déchéance d'Ismaël Vuillard, interné par erreur dans un asile psychiatrique dont il n'est pas loin de sortir en piètre état."
       }
     ],
     "generique": [
       "Emmanuelle Devos",
+      "Emmanuelle Devos",
       "Mathieu Amalric",
-      "Catherine Deneuve"
+      "Mathieu Amalric"
     ]
   },
   {
@@ -213,8 +223,12 @@
     "pays": "France",
     "textes": [
       {
+        "typeTexte": 8,
+        "texte": "À la suite de la projection de _Sobibor_, Arnaud Desplechin parlera du film de Claude Lanzmann, de son importance, ainsi que de son incidence sur _Roubaix, une lumière_, projeté lors de la séance précédente. _Sobibor 14 octobre 1943, 16 heures_ de Claude Lanzmann Camp de Sobibor, 14 octobre 1943, 16 heures : lieu, jour, mois, année et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. Récit de son évasion par un des rescapés, Yehuda Lerner. « Sobibor n'est pas une histoire de survie, ou si ça l'est aussi, la survie n'en est pas le point central à mes yeux. Ce qui est central, c'est l'héroïsme, l'usage de la violence, et le fait que Lerner et ses camarades aient mis leur vie en jeu. Ils sont sortis de la passivité, et ce point-là est très difficile à penser. » Claude Lanzmann, 2001"
+      },
+      {
         "typeTexte": 9,
-        "texte": "Sobibor, 14 octobre 1943, 16 heures : lieu, heure, jour, mois et année de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre."
+        "texte": "Camp de Sobibor, 14 octobre 1943, 16 heures : lieu, jour, mois, année et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. Récit de son évasion par un des rescapés, Yehuda Lerner."
       }
     ]
   },

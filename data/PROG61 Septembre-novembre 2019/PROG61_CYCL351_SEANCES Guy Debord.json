@@ -1,6 +1,7 @@
 [
   {
     "idCategorie": 1590,
+    "typeEvenement": 13,
     "idEvenement": 19635,
     "idSeance": 31084,
     "dateHeure": "2019-10-19T15:00:00",
@@ -18,7 +19,7 @@
         "duree": 17,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 91003,
@@ -28,7 +29,7 @@
         "duree": 22,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 100368,
@@ -38,15 +39,40 @@
         "duree": 18,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
   {
     "idCategorie": 1590,
+    "typeEvenement": 13,
+    "idEvenement": 19639,
+    "idSeance": 31086,
+    "dateHeure": "2019-10-19T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Société du spectacle (La)",
+    "items": [
+      {
+        "idFilm": 53828,
+        "ordre": 1,
+        "idSeance": 31086,
+        "idCopie": 1939,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1590,
+    "typeEvenement": 13,
     "idEvenement": 19636,
     "idSeance": 31085,
-    "dateHeure": "2019-10-19T19:30:00",
+    "dateHeure": "2019-10-19T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -61,35 +87,13 @@
         "duree": 64,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
   {
     "idCategorie": 1590,
-    "idEvenement": 19639,
-    "idSeance": 31086,
-    "dateHeure": "2019-10-19T21:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Société du spectacle (La)",
-    "items": [
-      {
-        "idFilm": 53828,
-        "ordre": 1,
-        "idSeance": 31086,
-        "idCopie": 1939,
-        "duree": 90,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCategorie": 1590,
+    "typeEvenement": 13,
     "idEvenement": 19637,
     "idSeance": 31088,
     "dateHeure": "2019-10-20T14:30:00",
@@ -98,6 +102,7 @@
       "Henri Langlois"
     ],
     "titreEvenement": "In girum imus nocte et consumimur igni",
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 55468,
@@ -106,13 +111,32 @@
         "idCopie": 1516,
         "duree": 100,
         "version": "",
-        "format": "35 mm",
-        "valide": 0
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2072,
+    "typeEvenement": 14,
+    "idEvenement": 20637,
+    "idSeance": 31088,
+    "dateHeure": "2019-10-20T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Guy Debord, cinéaste avec Olivier Assayas et Vincent Kaufmann ",
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
   {
     "idCategorie": 1590,
+    "typeEvenement": 13,
     "idEvenement": 20070,
     "idSeance": 31090,
     "dateHeure": "2019-10-20T18:30:00",

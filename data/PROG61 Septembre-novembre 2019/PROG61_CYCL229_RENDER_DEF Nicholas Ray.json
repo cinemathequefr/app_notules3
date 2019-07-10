@@ -9,6 +9,13 @@
           1020
         ],
         "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [
+          2066
+        ],
+        "tri": 1
       }
     ],
     "idProg": 61
@@ -25,7 +32,6 @@
           "titreVo": "55 Days at Peking",
           "realisateurs": "Nicholas Ray",
           "annee": 1963,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -42,11 +48,20 @@
           "version": "VOSTF",
           "seance": [
             {
+              "idSeance": 30826,
+              "ordre": 1,
+              "idEvenement": 19474,
+              "dateHeure": "2019-09-07T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
               "idSeance": 30854,
               "ordre": 1,
               "idEvenement": 19474,
-              "titreEvenement": "Cinquante-cinq jours de Pékin (Les)",
-              "dateHeure": "2019-09-12T19:00:00",
+              "dateHeure": "2019-09-12T19:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -60,7 +75,6 @@
           "titreVo": "Run for Cover",
           "realisateurs": "Nicholas Ray",
           "annee": 1955,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -81,7 +95,7 @@
               "idSeance": 30806,
               "ordre": 1,
               "idEvenement": 19462,
-              "dateHeure": "2019-09-04T21:30:00",
+              "dateHeure": "2019-09-04T21:15:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -91,7 +105,7 @@
               "idSeance": 30876,
               "ordre": 1,
               "idEvenement": 19462,
-              "dateHeure": "2019-09-15T21:00:00",
+              "dateHeure": "2019-09-15T21:45:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -106,7 +120,6 @@
           "titreVo": "They Live by Night",
           "realisateurs": "Nicholas Ray",
           "annee": 1948,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -151,7 +164,6 @@
           "titreVo": "Bitter Victory",
           "realisateurs": "Nicholas Ray",
           "annee": 1957,
-          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -179,10 +191,20 @@
               ]
             },
             {
+              "idSeance": 30892,
+              "ordre": 1,
+              "idEvenement": 19475,
+              "dateHeure": "2019-09-18T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
               "idSeance": 31779,
               "ordre": 1,
               "idEvenement": 19475,
-              "dateHeure": "2019-09-26T19:00:00",
+              "dateHeure": "2019-09-26T19:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -198,7 +220,6 @@
           "artVo": "Der",
           "realisateurs": "Wim Wenders",
           "annee": 1977,
-          "pays": "RFA-France",
           "textes": [
             {
               "typeTexte": 9,
@@ -215,6 +236,16 @@
           "format": "DCP",
           "version": "VOSTF",
           "seance": [
+            {
+              "idSeance": 30773,
+              "ordre": 1,
+              "idEvenement": 19482,
+              "dateHeure": "2019-08-30T16:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
             {
               "idSeance": 30914,
               "ordre": 1,
@@ -234,7 +265,6 @@
           "titreVo": "Hot Blood",
           "realisateurs": "Nicholas Ray",
           "annee": 1955,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -278,7 +308,6 @@
           "titreVo": "",
           "realisateurs": "Nicholas Ray",
           "annee": 1985,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -307,13 +336,13 @@
               ]
             },
             {
-              "idSeance": 30883,
+              "idSeance": 30859,
               "ordre": 1,
               "idEvenement": 19465,
-              "dateHeure": "2019-09-16T19:00:00",
+              "dateHeure": "2019-09-13T17:00:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]
@@ -326,7 +355,6 @@
           "artVo": "The",
           "realisateurs": "Nicholas Ray",
           "annee": 1956,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -347,7 +375,7 @@
               "idSeance": 30837,
               "ordre": 1,
               "idEvenement": 19455,
-              "dateHeure": "2019-09-07T21:30:00",
+              "dateHeure": "2019-09-07T21:45:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -357,7 +385,7 @@
               "idSeance": 30934,
               "ordre": 1,
               "idEvenement": 19455,
-              "dateHeure": "2019-09-25T19:30:00",
+              "dateHeure": "2019-09-25T19:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -373,7 +401,6 @@
           "artVo": "The",
           "realisateurs": "Nicholas Ray",
           "annee": 1960,
-          "pays": "Italie-France-Grande-Bretagne-États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -389,13 +416,13 @@
           ],
           "duree": 110,
           "format": "35 mm",
-          "version": "VOAutres",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30848,
               "ordre": 1,
               "idEvenement": 19471,
-              "dateHeure": "2019-09-11T19:30:00",
+              "dateHeure": "2019-09-11T21:15:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -405,7 +432,7 @@
               "idSeance": 31778,
               "ordre": 1,
               "idEvenement": 19471,
-              "dateHeure": "2019-09-25T21:30:00",
+              "dateHeure": "2019-09-25T21:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -419,7 +446,6 @@
           "titreVo": "Bigger Than Life",
           "realisateurs": "Nicholas Ray",
           "annee": 1957,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -433,13 +459,13 @@
           ],
           "duree": 95,
           "format": "35 mm",
-          "version": "STF",
+          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30836,
+              "idSeance": 31803,
               "ordre": 1,
               "idEvenement": 19457,
-              "dateHeure": "2019-09-05T19:30:00",
+              "dateHeure": "2019-09-14T17:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -449,10 +475,20 @@
               "idSeance": 30927,
               "ordre": 1,
               "idEvenement": 19457,
-              "dateHeure": "2019-09-23T21:00:00",
+              "dateHeure": "2019-09-23T21:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 31945,
+              "ordre": 1,
+              "idEvenement": 19457,
+              "dateHeure": "2019-09-27T21:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]
@@ -464,7 +500,6 @@
           "titreVo": "Flying Leathernecks",
           "realisateurs": "Nicholas Ray",
           "annee": 1950,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -491,13 +526,41 @@
               ]
             },
             {
-              "idSeance": 30884,
+              "idSeance": 30853,
               "ordre": 1,
               "idEvenement": 19458,
-              "dateHeure": "2019-09-16T21:00:00",
+              "dateHeure": "2019-09-04T16:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 125950,
+          "titre": "Don't Expect Too Much",
+          "titreVo": "",
+          "realisateurs": "Susan Ray",
+          "annee": 2011,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Documentaire sur le tournage de _We Can't Go Home Again_, film expérimental politique et psychédélique réalisé par Nicholas Ray entre 1971 et 1973."
+            }
+          ],
+          "duree": 70,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30958,
+              "ordre": 1,
+              "idEvenement": 19560,
+              "dateHeure": "2019-09-28T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]
@@ -509,7 +572,6 @@
           "titreVo": "Wind Across the Everglades",
           "realisateurs": "Nicholas Ray, Budd Schulberg",
           "annee": 1959,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -533,13 +595,14 @@
               "idSalle": [
                 "HL",
                 "Henri Langlois"
-              ]
+              ],
+              "mention": "Ouverture de la rétrospective"
             },
             {
               "idSeance": 31780,
               "ordre": 1,
               "idEvenement": 19459,
-              "dateHeure": "2019-09-26T21:00:00",
+              "dateHeure": "2019-09-26T21:45:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -554,7 +617,6 @@
           "titreVo": "Rebel Without a Cause",
           "realisateurs": "Nicholas Ray",
           "annee": 1956,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -572,10 +634,20 @@
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30828,
+              "idSeance": 31808,
               "ordre": 1,
               "idEvenement": 19476,
-              "dateHeure": "2019-09-05T21:30:00",
+              "dateHeure": "2019-08-30T21:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 30838,
+              "ordre": 1,
+              "idEvenement": 19476,
+              "dateHeure": "2019-09-05T16:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -594,6 +666,51 @@
           ]
         },
         {
+          "idFilm": 142228,
+          "titre": "High Green Wall",
+          "titreVo": "",
+          "realisateurs": "Nicholas Ray",
+          "annee": 1954,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Henty, qui a survécu à un crash dans la jungle, est recueilli par l'affable et original McMaster. Pour remercier son hôte, il s'oblige à lui faire la lecture de son auteur préféré, Dickens."
+            }
+          ],
+          "adaptation": "D'après la nouvelle _L'Homme qui aimait Dickens_ d'Evelyn Waugh.",
+          "generique": [
+            "Joseph Cotten",
+            "Thomas Gomez",
+            "Maurice Marsac"
+          ],
+          "duree": 26,
+          "format": "Numérique",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30789,
+              "ordre": 1,
+              "idEvenement": 20071,
+              "dateHeure": "2019-09-01T19:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 30868,
+              "ordre": 1,
+              "idEvenement": 20071,
+              "dateHeure": "2019-09-14T21:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film suivi de _La Maison dans l'ombre_ de Nicholas Ray."
+        },
+        {
           "idFilm": 35369,
           "titre": "Indomptables",
           "art": "Les",
@@ -601,7 +718,6 @@
           "artVo": "The",
           "realisateurs": "Nicholas Ray, Robert Parrish",
           "annee": 1953,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -621,7 +737,7 @@
               "idSeance": 30790,
               "ordre": 1,
               "idEvenement": 19460,
-              "dateHeure": "2019-09-01T21:00:00",
+              "dateHeure": "2019-09-01T21:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -644,7 +760,6 @@
           "titre": "Johnny Guitar",
           "realisateurs": "Nicholas Ray",
           "annee": 1954,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -665,7 +780,7 @@
               "idSeance": 30805,
               "ordre": 1,
               "idEvenement": 19466,
-              "dateHeure": "2019-09-04T19:30:00",
+              "dateHeure": "2019-09-04T19:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -675,7 +790,7 @@
               "idSeance": 30875,
               "ordre": 1,
               "idEvenement": 19466,
-              "dateHeure": "2019-09-15T19:00:00",
+              "dateHeure": "2019-09-15T19:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -690,7 +805,6 @@
           "titreVo": "On Dangerous Ground",
           "realisateurs": "Nicholas Ray",
           "annee": 1952,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -709,9 +823,9 @@
           "seance": [
             {
               "idSeance": 30789,
-              "ordre": 1,
-              "idEvenement": 19469,
-              "dateHeure": "2019-09-01T19:00:00",
+              "ordre": 2,
+              "idEvenement": 20071,
+              "dateHeure": "2019-09-01T19:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -719,15 +833,16 @@
             },
             {
               "idSeance": 30868,
-              "ordre": 1,
-              "idEvenement": 19469,
-              "dateHeure": "2019-09-14T21:00:00",
+              "ordre": 2,
+              "idEvenement": 20071,
+              "dateHeure": "2019-09-14T21:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
               ]
             }
-          ]
+          ],
+          "precedeSuivi": "Film précédé de _High Green Wall_ de Nicholas Ray."
         },
         {
           "idFilm": 39308,
@@ -735,7 +850,6 @@
           "titreVo": "Lightning Over Water",
           "realisateurs": "Wim Wenders, Nicholas Ray",
           "annee": 1980,
-          "pays": "RFA",
           "textes": [
             {
               "typeTexte": 9,
@@ -746,6 +860,16 @@
           "format": "35 mm",
           "version": "VOSTF",
           "seance": [
+            {
+              "idSeance": 31412,
+              "ordre": 1,
+              "idEvenement": 19478,
+              "dateHeure": "2019-08-31T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
             {
               "idSeance": 30913,
               "ordre": 1,
@@ -765,7 +889,6 @@
           "titreVo": "Macao",
           "realisateurs": "Josef von Sternberg",
           "annee": 1952,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -790,7 +913,7 @@
               "idSeance": 30785,
               "ordre": 1,
               "idEvenement": 19481,
-              "dateHeure": "2019-08-31T21:30:00",
+              "dateHeure": "2019-08-31T21:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -814,7 +937,6 @@
           "titreVo": "Wet Dreams",
           "realisateurs": "Lasse Braun, Max Fischer, Oscar Gigard, Hans Kanters, Geert Koolman, Lee Kraft, Dusan Makavejev, Nicholas Ray, Jens Jørgen Thorsen, Heathcote Williams",
           "annee": 1974,
-          "pays": "Pays-Bas",
           "textes": [
             {
               "typeTexte": 9,
@@ -838,7 +960,17 @@
               "idSeance": 30922,
               "ordre": 1,
               "idEvenement": 19464,
-              "dateHeure": "2019-09-22T19:30:00",
+              "dateHeure": "2019-09-22T18:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30930,
+              "ordre": 1,
+              "idEvenement": 19464,
+              "dateHeure": "2019-09-25T16:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -853,7 +985,6 @@
           "titreVo": "King of Kings",
           "realisateurs": "Nicholas Ray",
           "annee": 1960,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -878,6 +1009,16 @@
                 "GF",
                 "Georges Franju"
               ]
+            },
+            {
+              "idSeance": 30912,
+              "ordre": 1,
+              "idEvenement": 19472,
+              "dateHeure": "2019-09-21T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
             }
           ]
         },
@@ -888,7 +1029,6 @@
           "titreVo": "Knock on Any Door",
           "realisateurs": "Nicholas Ray",
           "annee": 1949,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -906,20 +1046,30 @@
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30782,
+              "idSeance": 31997,
               "ordre": 1,
               "idEvenement": 19467,
-              "dateHeure": "2019-08-30T21:00:00",
+              "dateHeure": "2019-09-02T16:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
               ]
             },
             {
-              "idSeance": 30861,
+              "idSeance": 31809,
               "ordre": 1,
               "idEvenement": 19467,
-              "dateHeure": "2019-09-13T21:00:00",
+              "dateHeure": "2019-09-05T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30865,
+              "ordre": 1,
+              "idEvenement": 19467,
+              "dateHeure": "2019-09-14T15:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -933,7 +1083,6 @@
           "titreVo": "A Woman's Secret",
           "realisateurs": "Nicholas Ray",
           "annee": 1948,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -954,22 +1103,20 @@
               "idSeance": 30784,
               "ordre": 1,
               "idEvenement": 19463,
-              "titreEvenement": "A Woman's Secret",
-              "dateHeure": "2019-08-31T19:30:00",
+              "dateHeure": "2019-08-31T19:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ]
             },
             {
-              "idSeance": 30866,
+              "idSeance": 31804,
               "ordre": 1,
               "idEvenement": 19463,
-              "titreEvenement": "A Woman's Secret",
-              "dateHeure": "2019-09-14T17:00:00",
+              "dateHeure": "2019-09-05T19:30:00",
               "idSalle": [
-                "HL",
-                "Henri Langlois"
+                "GF",
+                "Georges Franju"
               ]
             }
           ]
@@ -980,7 +1127,6 @@
           "titreVo": "Party Girl",
           "realisateurs": "Nicholas Ray",
           "annee": 1960,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -1007,10 +1153,20 @@
               ]
             },
             {
-              "idSeance": 30946,
+              "idSeance": 30844,
               "ordre": 1,
               "idEvenement": 19461,
-              "dateHeure": "2019-09-27T19:00:00",
+              "dateHeure": "2019-09-11T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 32010,
+              "ordre": 1,
+              "idEvenement": 19461,
+              "dateHeure": "2019-09-28T15:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1025,7 +1181,6 @@
           "titreVo": "In a Lonely Place",
           "realisateurs": "Nicholas Ray",
           "annee": 1950,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -1046,17 +1201,27 @@
               "idSeance": 30788,
               "ordre": 1,
               "idEvenement": 19468,
-              "dateHeure": "2019-09-01T17:00:00",
+              "dateHeure": "2019-09-01T17:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
               ]
             },
             {
+              "idSeance": 30839,
+              "ordre": 1,
+              "idEvenement": 19468,
+              "dateHeure": "2019-09-09T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
               "idSeance": 30867,
               "ordre": 1,
               "idEvenement": 19468,
-              "dateHeure": "2019-09-14T19:00:00",
+              "dateHeure": "2019-09-14T19:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1070,7 +1235,6 @@
           "titreVo": "",
           "realisateurs": "Nicholas Ray",
           "annee": 1980,
-          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -1090,7 +1254,7 @@
               "idSeance": 30849,
               "ordre": 1,
               "idEvenement": 19477,
-              "dateHeure": "2019-09-11T21:30:00",
+              "dateHeure": "2019-09-11T19:15:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -1100,10 +1264,50 @@
               "idSeance": 30923,
               "ordre": 1,
               "idEvenement": 19477,
-              "dateHeure": "2019-09-22T21:30:00",
+              "dateHeure": "2019-09-22T21:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 1,
+      "items": [
+        {
+          "titre": "Film + Discussion avec Bernard Eisenschitz",
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "« J'aime _Les Amants de la nuit_ parce que toutes les erreurs sont de moi. » (Nicholas Ray)"
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative de la Cinémathèque française."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Bernard Eisenschitz est traducteur et historien du cinéma. Auteur de nombreux ouvrages, il a écrit, entre autres, _Fritz Lang au travail_ (éditions Cahiers du cinéma, 2011) et _Roman américain : Les Vies de Nicholas Ray_ (éditions Christian Bourgois, 1990)."
+            },
+            {
+              "typeTexte": 114,
+              "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+            }
+          ],
+          "duree": 45,
+          "seance": [
+            {
+              "idSeance": 30860,
+              "ordre": 2,
+              "idEvenement": 20631,
+              "dateHeure": "2019-09-13T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]

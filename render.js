@@ -75,6 +75,7 @@ try {
         cycleFullCode[1]
       }.json`
     );
+    console.log("*DEF*");
     // isDef = true;
   } catch (e) {
     try {

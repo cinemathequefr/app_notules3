@@ -12,6 +12,10 @@
     "textes": [
       {
         "typeTexte": 9,
+        "texte": "Restauration 2K par Friedrich Wilhelm Murnau Stiftung. Ressortie salles par Tamasa."
+      },
+      {
+        "typeTexte": 9,
         "texte": "En Crimée, un jeune bolchevik est amoureux de Jeanne Ney, fille d'un diplomate français au service de l'Ancien Régime. Lors de son arrestation, le père de Jeanne est tué. La jeune femme se réfugie chez son oncle à Paris. Le jeune homme vient en France retrouver son aimée."
       }
     ],
@@ -120,6 +124,10 @@
       {
         "typeTexte": 9,
         "texte": "Un jeune avocat aime sa femme et lui offre un luxe de grand bourgeois, qu'il identifie au bonheur. Surchargé de travail, il n'a pas de temps à lui consacrer et la pense heureuse. Mais elle s'ennuie et se laisse séduire par un artiste rêveur."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration numérique menée par le Filmmuseum de Münich avec le concours du Filmarchiv Austria."
       }
     ],
     "generique": [
@@ -186,7 +194,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Un film restauré et numérisé d'après les négatifs originaux nitrates par Les Films du Panthéon en collaboration avec Les Films du Jeudi. Avec le soutien du CNC et de la Cinémathèque Française. Remerciements Martin Koerber Murnau stifftung. Moyens techniques Hiventy."
+        "texte": "Un film restauré et numérisé d'après les négatifs originaux nitrates par Les Films du Panthéon en collaboration avec Les Films du Jeudi. Avec le soutien du CNC et de la Cinémathèque Française. Remerciements à Martin Koerber et à la Friedrich-Wilhelm-Murnau-Stiftung. Moyens techniques Hiventy. Ressorties salles Tamasa."
       }
     ],
     "generique": [
@@ -219,28 +227,6 @@
     "adaptation": "D'après le roman _Shanghai, Chambard et Cie_ d'Oscar-Paul Gilbert."
   },
   {
-    "titre": "Dreigroschenoper",
-    "art": "Die",
-    "titreVo": "",
-    "idFilm": 40714,
-    "ageMinimal": null,
-    "realisateurs": "Georg Wilhelm Pabst",
-    "annee": 1930,
-    "pays": "Allemagne-États-Unis-France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Dans un quartier de Londres en proie aux guerres des gangs, une rivalité s'installe entre le gangster Mackie Messer et le roi des mendiants Jeremiah Peachum, après que la fille de ce dernier décide d'épouser Mackie Messer."
-      }
-    ],
-    "generique": [
-      "Rudolf Forster",
-      "Carola Neher",
-      "Valeska Gert"
-    ],
-    "adaptation": "D'après la pièce _l'Opéra de quat'sous_ de Bertolt Brecht et Kurt Weill.  \nD'après la pièce _l'Opéra des gueux_ de John Gay."
-  },
-  {
     "titre": "Du haut en bas",
     "titreVo": "",
     "idFilm": 50471,
@@ -252,6 +238,10 @@
       {
         "typeTexte": 9,
         "texte": "Dans une cour d'immeuble, le quotidien de plusieurs personnages, tous différents les uns des autres, avec les aléas de leurs vies."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré en 2015 par la Deutsche Kinemathek en collaboration avec la Cinémathèque Suisse et la Cinémathèque royale de Belgique à partir d'une copie nitrate."
       }
     ],
     "generique": [
@@ -259,28 +249,6 @@
       "Margo Lion",
       "Michel Simon",
       "Mauricet"
-    ]
-  },
-  {
-    "titre": "Enfer blanc = L'Enfer blanc de Liz Palu = Prisonniers de la montagne",
-    "art": "L'",
-    "titreVo": "Weisse Hölle vom Piz Palü",
-    "artVo": "Die",
-    "idFilm": 40757,
-    "ageMinimal": 0,
-    "realisateurs": "Arnold Fanck, Georg Wilhelm Pabst",
-    "annee": 1929,
-    "pays": "Allemagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Le Docteur Krafft perd sa femme lors d'une expédition dans les montagnes au cours de leur lune de miel. Dix ans plus tard, un jeune couple part en expédition avec le docteur Krafft. Ce dernier est persuadé que sa femme est toujours vivante."
-      }
-    ],
-    "generique": [
-      "Leni Riefenstahl",
-      "Ernst Petersen",
-      "Gustav Diessl"
     ]
   },
   {
@@ -371,15 +339,19 @@
     "adaptation": "D'après le roman _Girls in distress_ de Peter Quinn."
   },
   {
-    "titre": "Journal d'une fille perdue = Trois pages d'un journal",
+    "titre": "Journal d'une fille perdue",
     "art": "Le",
     "titreVo": "Tagebuch einer Verlorenen",
     "idFilm": 40728,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Georg Wilhelm Pabst",
     "annee": 1929,
     "pays": "Allemagne",
     "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ressortie salles par Tamasa."
+      },
       {
         "typeTexte": 9,
         "texte": "Une jeune femme s'enfuit de la maison de redressement où elle est enfermée, se réfugie dans une maison close, puis épouse un riche aristocrate."
@@ -390,6 +362,57 @@
       "Sybille Schmitz"
     ],
     "adaptation": "D'après le roman _Tagebuch einer Verlorenen_ de Margarete Böhme."
+  },
+  {
+    "titre": "L'Enfer blanc",
+    "titreVo": "Weisse Hölle vom Piz Palü",
+    "artVo": "Die",
+    "idFilm": 40757,
+    "ageMinimal": 0,
+    "realisateurs": "Arnold Fanck, Georg Wilhelm Pabst",
+    "annee": 1929,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le Docteur Krafft perd sa femme lors d'une expédition dans les montagnes au cours de leur lune de miel. Dix ans plus tard, un jeune couple part en expédition avec le docteur Krafft. Ce dernier est persuadé que sa femme est toujours vivante."
+      }
+    ],
+    "generique": [
+      "Leni Riefenstahl",
+      "Ernst Petersen",
+      "Gustav Diessl"
+    ]
+  },
+  {
+    "titre": "L'Opéra de quatre sous",
+    "titreVo": "Dreigroschenoper",
+    "artVo": "Die",
+    "idFilm": 40714,
+    "ageMinimal": 0,
+    "realisateurs": "Georg Wilhelm Pabst",
+    "annee": 1930,
+    "pays": "Allemagne-États-Unis-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Version allemande."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Dans un quartier de Londres en proie aux guerres des gangs, une rivalité s'installe entre le gangster Mackie Messer et le roi des mendiants Jeremiah Peachum, après que la fille de ce dernier décide d'épouser Mackie Messer."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Ressortie salles par Tamasa."
+      }
+    ],
+    "generique": [
+      "Rudolf Forster",
+      "Carola Neher",
+      "Valeska Gert"
+    ],
+    "adaptation": "D'après la pièce _l'Opéra de quat'sous_ de Bertolt Brecht et Kurt Weill.  \nD'après la pièce _l'Opéra des gueux_ de John Gay."
   },
   {
     "titre": "Loulou",
@@ -404,6 +427,10 @@
       {
         "typeTexte": 9,
         "texte": "Loulou, femme fatale, parvient à épouser le Docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version restaurée en 2009 par la Deutsche Kinemathek (Berlin) et la George Eastman House (Rochester) aux laboratoires Haghefilm. Numérisation par la Deutsche Kinemathek. Ressortie salles Tamasa."
       }
     ],
     "generique": [
@@ -415,10 +442,10 @@
     "adaptation": "D'après les pièces _Die Büchse der Pandora_ et _Erdgeist_ de Frank Wedekind."
   },
   {
-    "titre": "Mademoiselle Docteur = Salonique, nid d'espions",
-    "titreVo": "",
+    "titre": "Mademoiselle Docteur",
+    "titreVo": "Mademoiselle Docteur = Salonique, nid d'espions",
     "idFilm": 50473,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Georg Wilhelm Pabst",
     "annee": 1936,
     "pays": "France",
@@ -480,11 +507,11 @@
     "adaptation": "D'après la nouvelle  _Die romantische Reise des Herrn Carl Maria von Weber_ de Hans Watzlik."
   },
   {
-    "titre": "Mystères d'une âme = Le Cas du professeur Matthias",
+    "titre": "Mystères de l'âme",
     "art": "Les",
     "titreVo": "Geheimnisse einer Seele",
     "idFilm": 40708,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Georg Wilhelm Pabst",
     "annee": 1926,
     "pays": "Allemagne",
@@ -513,6 +540,10 @@
       {
         "typeTexte": 9,
         "texte": "Dans Soho, un quartier de Londres, le gangster Mackie épouse Polly Peachum. Lorsque le père de Polly, le roi des mendiants Peachum apprend la nouvelle, une rivalité s'installe entre les deux hommes."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version française."
       }
     ],
     "generique": [
@@ -595,6 +626,10 @@
     "textes": [
       {
         "typeTexte": 9,
+        "texte": "Film restauré par la Deutsche Kinemathek à partir d'un négatif de 1931 et d'un négatif de 1964, en coopération avec le British Film Institute. Ressortie salles par Tamasa."
+      },
+      {
+        "typeTexte": 9,
         "texte": "Quatre fantassins allemands se trouvent sur le front français à quelques mois de la fin de la Première Guerre mondiale."
       }
     ],
@@ -619,6 +654,10 @@
       {
         "typeTexte": 9,
         "texte": "Dans la Vienne des années 1920 en proie à l'inflation, le destin de deux jeunes femmes abusées par la tenancière cynique d'une maison de rendez-vous."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie restaurée teintée issue des collections du Filmmuseum de Münich."
       }
     ],
     "generique": [
@@ -659,6 +698,10 @@
     "annee": 1931,
     "pays": "France-Allemagne",
     "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Film restauré par la Deutsche Kinemathek avec le concours du British Film Institute et du CNC. Ressortie salles par Tamasa."
+      },
       {
         "typeTexte": 9,
         "texte": "Des mineurs français victimes d'un coup de grisou sont sauvés par des collègues allemands."

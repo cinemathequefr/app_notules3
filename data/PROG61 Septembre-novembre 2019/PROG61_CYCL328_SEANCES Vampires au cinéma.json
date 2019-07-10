@@ -16,14 +16,38 @@
         "idFilm": 39961,
         "ordre": 1,
         "idSeance": 31018,
-        "idCopie": 1038,
-        "duree": 72,
-        "version": "INT. ALL.",
-        "format": "35 mm",
+        "idCopie": 19234,
+        "duree": 94,
+        "version": "INT. FR.",
+        "format": "DCP",
         "valide": 0
       }
     ],
     "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 2020,
+    "typeEvenement": 13,
+    "idEvenement": 20012,
+    "idSeance": 31025,
+    "dateHeure": "2019-10-10T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Du sang pour Dracula",
+    "items": [
+      {
+        "idFilm": 59536,
+        "ordre": 1,
+        "idSeance": 31025,
+        "idCopie": 19093,
+        "duree": 90,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 2076,
@@ -114,7 +138,7 @@
         "duree": 82,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Jacques Sirgent"
@@ -130,6 +154,7 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Comtesse (La)",
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 110886,
@@ -140,6 +165,24 @@
         "version": "VOSTF",
         "format": "DCP",
         "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2076,
+    "typeEvenement": 14,
+    "idEvenement": 20667,
+    "idSeance": 31797,
+    "dateHeure": "2019-10-12T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Film + Dialogue avec Julie Delpy (sous réserve)",
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -218,33 +261,9 @@
   {
     "idCategorie": 2021,
     "typeEvenement": 13,
-    "idEvenement": 19736,
-    "idSeance": 31039,
-    "dateHeure": "2019-10-13T17:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "titreEvenement": "Dracula",
-    "items": [
-      {
-        "idFilm": 57748,
-        "ordre": 1,
-        "idSeance": 31039,
-        "idCopie": 10518,
-        "duree": 140,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCategorie": 2021,
-    "typeEvenement": 13,
     "idEvenement": 19735,
     "idSeance": 31040,
-    "dateHeure": "2019-10-13T20:45:00",
+    "dateHeure": "2019-10-13T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -264,24 +283,24 @@
     ]
   },
   {
-    "idCategorie": 2020,
+    "idCategorie": 2021,
     "typeEvenement": 13,
-    "idEvenement": 20012,
-    "idSeance": 31949,
-    "dateHeure": "2019-10-14T15:00:00",
+    "idEvenement": 19736,
+    "idSeance": 31039,
+    "dateHeure": "2019-10-13T20:15:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
-    "titreEvenement": "Du sang pour Dracula",
+    "titreEvenement": "Dracula",
     "items": [
       {
-        "idFilm": 59536,
+        "idFilm": 57748,
         "ordre": 1,
-        "idSeance": 31949,
-        "idCopie": 19093,
-        "duree": 90,
-        "version": "VF",
+        "idSeance": 31039,
+        "idCopie": 10518,
+        "duree": 140,
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -377,7 +396,7 @@
         "idSeance": 31975,
         "idCopie": 19154,
         "duree": 87,
-        "version": "",
+        "version": "VF",
         "format": "35 mm",
         "valide": 0
       }
@@ -452,39 +471,11 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Film + discussion",
+    "titreEvenement": "Film + Discussion",
     "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 60560,
         "ordre": 2
-      },
-      {
-        "ordre": 3
-      }
-    ]
-  },
-  {
-    "idCategorie": 1535,
-    "typeEvenement": 13,
-    "idEvenement": 19700,
-    "idSeance": 31824,
-    "dateHeure": "2019-10-18T19:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "titreEvenement": "Spermula",
-    "items": [
-      {
-        "idFilm": 56863,
-        "ordre": 1,
-        "idSeance": 31824,
-        "idCopie": 17111,
-        "duree": 103,
-        "version": "VF",
-        "format": "Numérique",
-        "valide": 0
       }
     ]
   },
@@ -493,7 +484,7 @@
     "typeEvenement": 13,
     "idEvenement": 19702,
     "idSeance": 31974,
-    "dateHeure": "2019-10-18T21:30:00",
+    "dateHeure": "2019-10-18T22:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -516,8 +507,8 @@
     "idCategorie": 1535,
     "typeEvenement": 13,
     "idEvenement": 19701,
-    "idSeance": 31094,
-    "dateHeure": "2019-10-20T19:30:00",
+    "idSeance": 31999,
+    "dateHeure": "2019-10-19T22:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -527,11 +518,11 @@
       {
         "idFilm": 36659,
         "ordre": 1,
-        "idSeance": 31094,
-        "idCopie": 17734,
+        "idSeance": 31999,
+        "idCopie": 18083,
         "duree": 97,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -540,8 +531,8 @@
     "idCategorie": 1535,
     "typeEvenement": 13,
     "idEvenement": 19704,
-    "idSeance": 31837,
-    "dateHeure": "2019-10-20T21:45:00",
+    "idSeance": 32001,
+    "dateHeure": "2019-10-20T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -551,11 +542,35 @@
       {
         "idFilm": 60083,
         "ordre": 1,
-        "idSeance": 31837,
+        "idSeance": 32001,
         "idCopie": 14478,
         "duree": 81,
         "version": "VOSTF",
         "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1535,
+    "typeEvenement": 13,
+    "idEvenement": 19700,
+    "idSeance": 32000,
+    "dateHeure": "2019-10-20T21:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Spermula",
+    "items": [
+      {
+        "idFilm": 56863,
+        "ordre": 1,
+        "idSeance": 32000,
+        "idCopie": 17111,
+        "duree": 103,
+        "version": "VF",
+        "format": "Numérique",
         "valide": 0
       }
     ]
@@ -735,8 +750,8 @@
     "idSeance": 31117,
     "dateHeure": "2019-10-25T17:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "titreEvenement": "Dracula, pages tirées du journal d'une vierge",
     "items": [
@@ -766,7 +781,13 @@
     "items": [
       {
         "idFilm": 45480,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 31856,
+        "idCopie": 18945,
+        "duree": 85,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   },
@@ -814,6 +835,30 @@
         "duree": 113,
         "version": "VOSTF",
         "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2020,
+    "typeEvenement": 13,
+    "idEvenement": 20549,
+    "idSeance": 31128,
+    "dateHeure": "2019-10-26T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Une messe pour Dracula",
+    "items": [
+      {
+        "idFilm": 36680,
+        "ordre": 1,
+        "idSeance": 31128,
+        "idCopie": 19247,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -1003,7 +1048,7 @@
     "typeEvenement": 13,
     "idEvenement": 19699,
     "idSeance": 31941,
-    "dateHeure": "2019-11-07T21:45:00",
+    "dateHeure": "2019-11-07T22:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1142,7 +1187,13 @@
     "items": [
       {
         "idFilm": 51375,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 31290,
+        "idCopie": 19153,
+        "duree": 87,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   },

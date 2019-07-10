@@ -40,6 +40,15 @@
       }]
     },
     {
+      "idCycleProg": 152,
+      "titreCycle": "Parlons cinéma avec Arnaud Desplechin",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2041],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 192,
       "titreCycle": "Ciné-club Jean Douchet",
       "sousCycles": [{
@@ -74,7 +83,7 @@
         {
           "titre": "Vampires d'auteurs",
           "cats": [1535],
-          "tri": 1
+          "tri": 3
         },
         {
           "titre": "Cinéma bis",
@@ -84,17 +93,17 @@
         {
           "titre": "Nuit Blade",
           "cats": [2032],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Nuit Halloween",
           "cats": [2062],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Rencontres et conférences",
           "cats": [2076],
-          "tri": 1
+          "tri": 4
         }
       ]
     },
@@ -135,23 +144,36 @@
       "idCycleProg": 351,
       "titreCycle": "Guy Debord",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1590],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1590],
+          "tri": 4
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2072],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 365,
       "titreCycle": "Arnaud Desplechin",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1645],
-        "tri": 1
-      }, {
-        "titre": "Carte blanche à Arnaud Desplechin",
-        "cats": [2033],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1645],
+          "tri": 1
+        },
+        {
+          "titre": "Soirée de clôture",
+          "cats": [2033],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2065],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 392,
@@ -172,7 +194,7 @@
       "sousCycles": [{
         "titre": "Les films",
         "cats": [1762],
-        "tri": 1
+        "tri": 4
       }]
     },
     {
@@ -185,7 +207,7 @@
         },
         {
           "titre": "Films collectifs",
-          "cats": [2036],
+          "cats": [2036, 2042],
           "tri": 1
         },
         {
@@ -248,10 +270,16 @@
       "idCycleProg": 447,
       "titreCycle": "Jean-Pierre Kalfon",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2029],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [2029],
+          "tri": 2
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2067],
+          "tri": 4
+        }
+      ]
     }
   ]
 }

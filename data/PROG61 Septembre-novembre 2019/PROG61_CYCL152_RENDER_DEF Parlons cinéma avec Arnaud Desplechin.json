@@ -1,0 +1,131 @@
+{
+  "header": {
+    "idCycleProg": 152,
+    "titreCycle": "Parlons cinéma avec Arnaud Desplechin",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          2041
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 61
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 30124,
+          "titre": "Crimes et délits",
+          "titreVo": "Crimes and Misdemeanors",
+          "realisateurs": "Woody Allen",
+          "annee": 1988,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un ophtalmologue et un documentariste se remémorent tous les crimes et délits qu'ils ont pu commettre dans leur vie."
+            }
+          ],
+          "generique": [
+            "Woody Allen",
+            "Anjelica Huston",
+            "Martin Landau",
+            "Mia Farrow",
+            "Claire Bloom"
+          ],
+          "duree": 104,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30900,
+              "ordre": 1,
+              "idEvenement": 20649,
+              "dateHeure": "2019-09-19T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 46122,
+          "titre": "Faux coupable",
+          "art": "Le",
+          "titreVo": "Wrong Man",
+          "artVo": "The",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1956,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Manny Ballestero mène une vie paisible avec sa femme et ses deux fils jusqu'au jour où, se rendant à sa compagnie d'assurance, il est formellement reconnu comme l'auteur du hold-up dont la firme a été victime quelques mois auparavant."
+            }
+          ],
+          "adaptation": "D'après _The True Story of Christopher Emmanuel Balestrero_ de Maxwell Anderson.",
+          "generique": [
+            "Henry Fonda",
+            "Vera Miles",
+            "Anthony Quayle",
+            "Harold J. Stone"
+          ],
+          "duree": 105,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30814,
+              "ordre": 1,
+              "idEvenement": 20080,
+              "dateHeure": "2019-09-05T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 46320,
+          "titre": "Gens de Dublin",
+          "titreVo": "Dead",
+          "artVo": "The",
+          "realisateurs": "John Huston",
+          "annee": 1987,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dublin, janvier 1904. Comme tous les ans, les sœurs Morkan et leur nièce Mary reçoivent leurs proches et amis pour célébrer l'Épiphanie."
+            }
+          ],
+          "adaptation": "D'après la nouvelle _Gens de Dublin_ de James Joyce.",
+          "generique": [
+            "Anjelica Huston",
+            "Donal McCann",
+            "Dan O'Herlihy"
+          ],
+          "duree": 83,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30857,
+              "ordre": 1,
+              "idEvenement": 20648,
+              "dateHeure": "2019-09-12T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

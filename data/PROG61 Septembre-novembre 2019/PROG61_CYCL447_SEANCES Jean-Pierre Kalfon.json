@@ -21,7 +21,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Jean-Pierre Kalfon et Marc'O"
   },
   {
     "idCategorie": 2029,
@@ -69,7 +70,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Claude Lelouch"
   },
   {
     "idCategorie": 2029,
@@ -93,7 +95,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Martine Pascal"
   },
   {
     "idCategorie": 2029,
@@ -106,6 +109,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Vallée (La)",
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 51228,
@@ -116,6 +120,24 @@
         "version": "",
         "format": "DCP",
         "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2067,
+    "typeEvenement": 14,
+    "idEvenement": 20632,
+    "idSeance": 31853,
+    "dateHeure": "2019-09-14T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Jean-Pierre Kalfon raconté par lui-même...",
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -141,7 +163,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Jean-Pierre Kalfon"
   },
   {
     "idCategorie": 2029,
@@ -218,18 +241,28 @@
   {
     "idCategorie": 2029,
     "typeEvenement": 13,
-    "idEvenement": 20083,
+    "idEvenement": 20668,
     "idSeance": 31920,
     "dateHeure": "2019-09-15T20:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Paul",
+    "titreEvenement": "Panthéon Discount / Paul",
     "items": [
       {
-        "idFilm": 50127,
+        "idFilm": 142416,
         "ordre": 1,
+        "idSeance": 31920,
+        "idCopie": 19219,
+        "duree": 15,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 50127,
+        "ordre": 2,
         "idSeance": 31920,
         "idCopie": 11082,
         "duree": 93,
