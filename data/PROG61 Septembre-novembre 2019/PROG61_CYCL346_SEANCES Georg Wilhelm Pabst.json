@@ -9,6 +9,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "typeSeance": 44,
     "titreEvenement": "Journal d'une fille perdue (Le)",
     "items": [
       {
@@ -21,7 +22,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective. Accompagnement musical par Neil Brand"
   },
   {
     "idCategorie": 1585,
@@ -50,50 +52,52 @@
   {
     "idCategorie": 1585,
     "typeEvenement": 13,
-    "idEvenement": 16617,
-    "idSeance": 31858,
+    "idEvenement": 16630,
+    "idSeance": 32042,
     "dateHeure": "2019-11-01T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Enfer blanc de Liz Palu  (L')",
+    "titreEvenement": "Mystères d'une âme (Les)",
+    "items": [
+      {
+        "idFilm": 40708,
+        "ordre": 1,
+        "idSeance": 32042,
+        "idCopie": 14980,
+        "duree": 63,
+        "version": "STF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ],
+    "mention": "Accompagnement musical par Jean-François Zygel"
+  },
+  {
+    "idCategorie": 1585,
+    "typeEvenement": 13,
+    "idEvenement": 16617,
+    "idSeance": 32051,
+    "dateHeure": "2019-11-01T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Enfer blanc du Piz Palü (L')",
     "items": [
       {
         "idFilm": 40757,
         "ordre": 1,
-        "idSeance": 31858,
+        "idSeance": 32051,
         "idCopie": 15029,
         "duree": 133,
         "version": "STF",
         "format": "35 mm",
         "valide": 0
       }
-    ]
-  },
-  {
-    "idCategorie": 1585,
-    "typeEvenement": 13,
-    "idEvenement": 16639,
-    "idSeance": 31164,
-    "dateHeure": "2019-11-01T21:45:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
     ],
-    "titreEvenement": "Scandale autour d'Eva",
-    "items": [
-      {
-        "idFilm": 40755,
-        "ordre": 1,
-        "idSeance": 31164,
-        "idCopie": 15034,
-        "duree": 91,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
+    "mention": "Accompagnement musical par Jean-François Zygel"
   },
   {
     "idCategorie": 1585,
@@ -117,31 +121,33 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Accompagnement musical par Neil Brand"
   },
   {
     "idCategorie": 1585,
     "typeEvenement": 13,
-    "idEvenement": 16630,
-    "idSeance": 31170,
+    "idEvenement": 16641,
+    "idSeance": 32044,
     "dateHeure": "2019-11-02T17:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Mystères d'une âme (Les)",
+    "titreEvenement": "Trésor (Le)",
     "items": [
       {
-        "idFilm": 40708,
+        "idFilm": 54400,
         "ordre": 1,
-        "idSeance": 31170,
-        "idCopie": 14980,
-        "duree": 63,
+        "idSeance": 32044,
+        "idCopie": 15037,
+        "duree": 65,
         "version": "STF",
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Accompagnement musical par Jean-François Zygel"
   },
   {
     "idCategorie": 1585,
@@ -161,7 +167,6 @@
         "idSeance": 31171,
         "idCopie": 14910,
         "duree": 104,
-        "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
       }
@@ -218,9 +223,34 @@
   {
     "idCategorie": 1585,
     "typeEvenement": 13,
+    "idEvenement": 16611,
+    "idSeance": 32046,
+    "dateHeure": "2019-11-03T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Crise",
+    "items": [
+      {
+        "idFilm": 40692,
+        "ordre": 1,
+        "idSeance": 32046,
+        "idCopie": 15039,
+        "duree": 96,
+        "version": "STF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Accompagnement musical par Jean-François Zygel"
+  },
+  {
+    "idCategorie": 1585,
+    "typeEvenement": 13,
     "idEvenement": 16640,
     "idSeance": 31180,
-    "dateHeure": "2019-11-03T19:30:00",
+    "dateHeure": "2019-11-03T19:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -244,7 +274,7 @@
     "typeEvenement": 13,
     "idEvenement": 16614,
     "idSeance": 31868,
-    "dateHeure": "2019-11-03T21:45:00",
+    "dateHeure": "2019-11-03T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -266,22 +296,22 @@
   {
     "idCategorie": 1585,
     "typeEvenement": 13,
-    "idEvenement": 16641,
-    "idSeance": 31182,
+    "idEvenement": 16639,
+    "idSeance": 32052,
     "dateHeure": "2019-11-04T14:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Trésor (Le)",
+    "titreEvenement": "Scandale autour d'Eva",
     "items": [
       {
-        "idFilm": 54400,
+        "idFilm": 40755,
         "ordre": 1,
-        "idSeance": 31182,
-        "idCopie": 15037,
-        "duree": 65,
-        "version": "STF",
+        "idSeance": 32052,
+        "idCopie": 15034,
+        "duree": 91,
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -321,7 +351,7 @@
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Mademoiselle Docteur ",
+    "titreEvenement": "Salonique, nid d’espions",
     "items": [
       {
         "idFilm": 50473,
@@ -364,7 +394,7 @@
     "typeEvenement": 13,
     "idEvenement": 16634,
     "idSeance": 31910,
-    "dateHeure": "2019-11-07T16:30:00",
+    "dateHeure": "2019-11-07T16:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -386,33 +416,9 @@
   {
     "idCategorie": 1585,
     "typeEvenement": 13,
-    "idEvenement": 16607,
-    "idSeance": 31200,
-    "dateHeure": "2019-11-07T19:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "titreEvenement": "Atlantide (L')",
-    "items": [
-      {
-        "idFilm": 50469,
-        "ordre": 1,
-        "idSeance": 31200,
-        "idCopie": 15496,
-        "duree": 89,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 1585,
-    "typeEvenement": 13,
     "idEvenement": 16621,
     "idSeance": 31866,
-    "dateHeure": "2019-11-07T21:00:00",
+    "dateHeure": "2019-11-07T21:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -458,9 +464,33 @@
   {
     "idCategorie": 1585,
     "typeEvenement": 13,
+    "idEvenement": 16607,
+    "idSeance": 31200,
+    "dateHeure": "2019-11-08T21:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Atlantide (L')",
+    "items": [
+      {
+        "idFilm": 50469,
+        "ordre": 1,
+        "idSeance": 31200,
+        "idCopie": 15496,
+        "duree": 89,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1585,
+    "typeEvenement": 13,
     "idEvenement": 16616,
     "idSeance": 31207,
-    "dateHeure": "2019-11-08T21:30:00",
+    "dateHeure": "2019-11-08T22:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -705,7 +735,7 @@
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Mademoiselle Docteur ",
+    "titreEvenement": "Salonique, nid d’espions",
     "items": [
       {
         "idFilm": 50473,
@@ -945,7 +975,7 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Cose da pazzi",
+    "titreEvenement": "Affaires de fou",
     "items": [
       {
         "idFilm": 96085,
@@ -1178,24 +1208,24 @@
   {
     "idCategorie": 1585,
     "typeEvenement": 13,
-    "idEvenement": 16630,
-    "idSeance": 31293,
+    "idEvenement": 16638,
+    "idSeance": 32048,
     "dateHeure": "2019-11-22T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Mystères d'une âme (Les)",
+    "titreEvenement": "Rue sans joie (La)",
     "items": [
       {
-        "idFilm": 40708,
+        "idFilm": 45672,
         "ordre": 1,
-        "idSeance": 31293,
-        "idCopie": 14980,
-        "duree": 63,
+        "idSeance": 32048,
+        "idCopie": 15036,
+        "duree": 150,
         "version": "STF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -1250,23 +1280,23 @@
   {
     "idCategorie": 1585,
     "typeEvenement": 13,
-    "idEvenement": 16611,
-    "idSeance": 31300,
+    "idEvenement": 16630,
+    "idSeance": 32047,
     "dateHeure": "2019-11-23T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Crise",
+    "titreEvenement": "Mystères d'une âme (Les)",
     "items": [
       {
-        "idFilm": 40692,
+        "idFilm": 40708,
         "ordre": 1,
-        "idSeance": 31300,
-        "idCopie": 15039,
-        "duree": 96,
+        "idSeance": 32047,
+        "idCopie": 14980,
+        "duree": 63,
         "version": "STF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -1276,12 +1306,12 @@
     "typeEvenement": 13,
     "idEvenement": 16610,
     "idSeance": 31955,
-    "dateHeure": "2019-11-23T22:00:00",
+    "dateHeure": "2019-11-23T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Cose da pazzi",
+    "titreEvenement": "Affaires de fou",
     "items": [
       {
         "idFilm": 96085,

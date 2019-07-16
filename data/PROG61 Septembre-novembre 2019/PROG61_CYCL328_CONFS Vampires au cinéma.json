@@ -33,7 +33,7 @@
   {
     "idCategorie": 2076,
     "idEvenement": 20643,
-    "titre": "Film + Discussion",
+    "titre": "Film + Discussion avec Diane Arnaud",
     "duree": 45,
     "idTypeConference": 16,
     "typeConference": "Dialogue",
@@ -93,7 +93,7 @@
       },
       {
         "typeTexte": 8,
-        "texte": "À la suite de la projection de _La Comtesse_ de Julie Delpy (voir P. ), dialogue avec la réalisatrice, compositrice et actrice de ce film consacré à Élisabeth Báthory, comtesse hongroise du XVIème siècle et restée dans l'Histoire sous le nom de « la dame sanglante ». « J'avais envie de raconter l'histoire d'une déchéance totale. (...) Je me souviens de cette phrase dans _Comme il vous plaira_, de Shakespeare : « Et d'heure en heure, on mûrit, on mûrit. Et d'heure en heure, on pourrit, on pourrit ! ». » Julie Delpy, 2010"
+        "texte": "À la suite de la projection de _La Comtesse_ de Julie Delpy (voir P. ), dialogue avec la réalisatrice, compositrice et actrice de ce film consacré à Élisabeth Báthory, comtesse hongroise du XVIe siècle, restée dans l'Histoire sous le nom de « la dame sanglante ». « J'avais envie de raconter l'histoire d'une déchéance totale. (...) Je me souviens de cette phrase dans _Comme il vous plaira_, de Shakespeare : « Et d'heure en heure, on mûrit, on mûrit. Et d'heure en heure, on pourrit, on pourrit ! ». » Julie Delpy, 2010"
       }
     ],
     "intervenants": [

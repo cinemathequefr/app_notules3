@@ -4,7 +4,7 @@
     "typeEvenement": 13,
     "idEvenement": 20673,
     "idSeance": 31414,
-    "dateHeure": "2019-09-30T20:00:00",
+    "dateHeure": "2019-09-30T20:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -21,28 +21,29 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Alejandro Jodorowsky"
   },
   {
     "idCategorie": 2022,
     "typeEvenement": 13,
-    "idEvenement": 19770,
-    "idSeance": 30977,
-    "dateHeure": "2019-10-02T19:30:00",
+    "idEvenement": 19773,
+    "idSeance": 32067,
+    "dateHeure": "2019-10-03T16:30:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
-    "titreEvenement": "Fando y lis",
+    "titreEvenement": "Danza de la realidad (La)",
     "items": [
       {
-        "idFilm": 56888,
+        "idFilm": 120100,
         "ordre": 1,
-        "idSeance": 30977,
-        "idCopie": 18904,
-        "duree": 0,
+        "idSeance": 32067,
+        "idCopie": 18903,
+        "duree": 130,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 1
       }
     ]
@@ -52,7 +53,7 @@
     "typeEvenement": 13,
     "idEvenement": 19769,
     "idSeance": 31843,
-    "dateHeure": "2019-10-04T19:30:00",
+    "dateHeure": "2019-10-04T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -69,29 +70,40 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Alejandro Jodorowsky"
   },
   {
     "idCategorie": 2022,
     "typeEvenement": 13,
-    "idEvenement": 19772,
-    "idSeance": 30998,
-    "dateHeure": "2019-10-05T15:00:00",
+    "idEvenement": 20737,
+    "idSeance": 30977,
+    "dateHeure": "2019-10-04T22:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
-    "titreEvenement": "Tusk",
+    "titreEvenement": "Cravate (La) / Fando et Lis",
     "items": [
       {
-        "idFilm": 49070,
+        "idFilm": 142510,
         "ordre": 1,
-        "idSeance": 30998,
-        "idCopie": 10767,
-        "duree": 120,
+        "idSeance": 30977,
+        "idCopie": 19294,
+        "duree": 20,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 1
+      },
+      {
+        "idFilm": 56888,
+        "ordre": 2,
+        "idSeance": 30977,
+        "idCopie": 18904,
+        "duree": 0,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -117,7 +129,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Alejandro Jodorowsky"
   },
   {
     "idCategorie": 2022,
@@ -208,7 +221,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Alejandro Jodorowsky"
   },
   {
     "idCategorie": 2022,

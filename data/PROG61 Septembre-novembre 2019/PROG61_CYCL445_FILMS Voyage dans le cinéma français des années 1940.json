@@ -1,0 +1,686 @@
+[
+  {
+    "titre": "Anges du péché",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 47119,
+    "ageMinimal": null,
+    "realisateurs": "Robert Bresson",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme quitte sa famille bourgeoise pour rejoindre le couvent des dominicaines de Béthanie."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Dialogues de Jean Giraudoux."
+      }
+    ],
+    "generique": [
+      "Renée Faure",
+      "Jany Holt",
+      "Sylvie"
+    ]
+  },
+  {
+    "titre": "Bagarres",
+    "titreVo": "",
+    "idFilm": 47166,
+    "ageMinimal": null,
+    "realisateurs": "Henri Calef",
+    "annee": 1948,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une servante de ferme se donne par calcul au riche fermier Rabasse. Trahie par son amant, elle donne son amour au bel Antoine."
+      }
+    ],
+    "generique": [
+      "Maria Casarès",
+      "Roger Pigaut",
+      "Orane Demazis"
+    ]
+  },
+  {
+    "titre": "Bonsoir mesdames, bonsoir messieurs",
+    "titreVo": "",
+    "idFilm": 51372,
+    "ageMinimal": null,
+    "realisateurs": "Roland Tual",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un speaker s'éprend d'une danseuse. Un jeune ménage sur le point de se séparer retrouve par la radio une raison de s'aimer. Au début des années 1930, Robert Desnos porte à la radio le roman _La Complainte de Fantômas_. Il s'inspire de cette expérience pour écrire le scénario du film."
+      }
+    ],
+    "generique": [
+      "Gaby Sylvia",
+      "François Périer",
+      "Jacques Jansen"
+    ]
+  },
+  {
+    "titre": "Boule de Suif",
+    "titreVo": "",
+    "idFilm": 47595,
+    "ageMinimal": null,
+    "realisateurs": "Christian-Jaque",
+    "annee": 1945,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1870\\. Rouen es occupé par les Prussiens. La diligence de Dièpe est composée de bourgeois, d'aristocrates, de religieuses, d'un républicain et d'une prostituée, Elisabeth Rousset dite « Boule de suif ». Cette dernière accepte les avances d'un sinistre officier prussien pour sauver ses compagnons de route."
+      }
+    ],
+    "generique": [
+      "Micheline Presle",
+      "Louis Salou",
+      "Alfred Adam"
+    ],
+    "adaptation": "D'après les nouvelles _Boule de Suif_ et _Mademoiselle Fifi_ de Guy de Maupassant."
+  },
+  {
+    "titre": "Café du Cadran",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 48757,
+    "ageMinimal": null,
+    "realisateurs": "Jean Gehret",
+    "annee": 1946,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un couple de jeunes provinciaux découvre Paris et ses bistrots parisiens."
+      }
+    ],
+    "generique": [
+      "Bernard Blier",
+      "Blanchette Brunoy",
+      "Aimé Clariond"
+    ]
+  },
+  {
+    "titre": "Cage aux rossignols",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 48197,
+    "ageMinimal": null,
+    "realisateurs": "Jean Dréville",
+    "annee": 1944,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Clément Mathieu, sans situation et amoureux par surcroît, obtient avec la complicité d'un ami de faire publier dans un quotidien le récit de son passage comme professeur dans une maison de correction."
+      }
+    ],
+    "generique": [
+      "Noël-Noël",
+      "Micheline Francey",
+      "Marcelle Praince"
+    ]
+  },
+  {
+    "titre": "Carmen",
+    "titreVo": "",
+    "idFilm": 43777,
+    "ageMinimal": 0,
+    "realisateurs": "Christian-Jaque",
+    "annee": 1942,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Séville, 1820. Don José, brigadier de dragons, tombe amoureux fou de la belle gitane Carmen."
+      }
+    ],
+    "generique": [
+      "Viviane Romance",
+      "Jean Marais",
+      "Lucien Coëdel"
+    ],
+    "adaptation": "D'après l'opéra _Carmen_ de Henri Meilhac et Ludovic Halévy.  \nD'après la nouvelle _Carmen_ de Prosper Mérimée."
+  },
+  {
+    "titre": "Chouans",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 47187,
+    "ageMinimal": null,
+    "realisateurs": "Henri Calef",
+    "annee": 1946,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le marquis de Montauran a été désigné pour commander les Chouans dont les deux premières révoltes ont été brisées. Une aristocrate, Marie-Nathalie de Verneuil, est envoyée par Joseph Fouché pour le séduire et le capturer."
+      }
+    ],
+    "generique": [
+      "Jean Marais",
+      "Madeleine Robinson",
+      "Madeleine Lebeau"
+    ],
+    "adaptation": "D'après le roman _Les Chouans_ de Honoré de Balzac."
+  },
+  {
+    "titre": "Clochemerle",
+    "titreVo": "",
+    "idFilm": 47525,
+    "ageMinimal": null,
+    "realisateurs": "Pierre Chenal",
+    "annee": 1947,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Clochemerle-en-Beaujolais est à peine plus grand qu'un village. On y vit heureux. Et pourtant, il semble y avoir un abîme entre ceux qui, le dimanche, fréquentent l'église et ceux qui constituent tous les jours la clientèle de l'auberge locale."
+      }
+    ],
+    "generique": [
+      "Maximilienne",
+      "Saturnin Fabre",
+      "Simone Michels"
+    ]
+  },
+  {
+    "titre": "Corbeau",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 47751,
+    "ageMinimal": null,
+    "realisateurs": "Henri-Georges Clouzot",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un médecin dans un petit village est accusé d'adultère et de pratique illégale de l'avortement par un corbeau. Les lettres se multiplient et tous les habitants sont touchés par ces rumeurs."
+      }
+    ],
+    "generique": [
+      "Pierre Fresnay",
+      "Ginette Leclerc",
+      "Pierre Larquey"
+    ]
+  },
+  {
+    "titre": "D'homme à hommes",
+    "titreVo": "",
+    "idFilm": 47600,
+    "ageMinimal": null,
+    "realisateurs": "Christian-Jaque",
+    "annee": 1948,
+    "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire de Henri Dunant, ancien soldat suisse et créateur de la Croix-Rouge. Il reçut le Prix Nobel en 1901."
+      }
+    ],
+    "generique": [
+      "Jean-Louis Barrault",
+      "Bernard Blier",
+      "Hélène Perdrière"
+    ]
+  },
+  {
+    "titre": "Diable boiteux",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 49092,
+    "ageMinimal": null,
+    "realisateurs": "Sacha Guitry",
+    "annee": 1948,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Portrait à la Guitry de Charles-Maurice de Talleyrand-Périgord, appelé Talleyrand. Toute sa vie, il sera proche du pouvoir, occupant des postes importants dans la plupart des régimes qui se succèdent à la tête de la France."
+      }
+    ],
+    "generique": [
+      "Sacha Guitry",
+      "Emile Drain",
+      "Lana Marconi"
+    ]
+  },
+  {
+    "titre": "Diable souffle",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 49001,
+    "ageMinimal": null,
+    "realisateurs": "Edmond T. Gréville",
+    "annee": 1947,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Laurent amène sur son île la belle Louvaine. Mais l'île a aussi accueilli un ancien républicain espagnol qui s'y est caché. Alors que l'île est isolée, Louvaine a une crise d'appendicite. Diego,médecin, l'opère. Ils tombent amoureux et fuiront l'île."
+      }
+    ],
+    "generique": [
+      "Charles Vanel",
+      "Héléna Bossis",
+      "Jean Chevrier"
+    ]
+  },
+  {
+    "titre": "Dorothée cherche l'amour",
+    "titreVo": "",
+    "idFilm": 49002,
+    "ageMinimal": null,
+    "realisateurs": "Edmond T. Gréville",
+    "annee": 1945,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pour avoir le droit d'aller au paradis, un vieux milliardaire égoïste, qui vient de mourir, doit faire le bonheur de quelqu'un. Il guidera une jeune fille, Dorothée, dans les méandres de l'amour."
+      }
+    ],
+    "generique": [
+      "Claude Dauphin",
+      "Suzy Carrier",
+      "Henri Guisol"
+    ]
+  },
+  {
+    "titre": "Fantômas",
+    "titreVo": "",
+    "idFilm": 51164,
+    "ageMinimal": null,
+    "realisateurs": "Jean Sacha",
+    "annee": 1946,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le diabolique Fantômas tue le Maire de Paris afin d'empêcher l'union de sa fille Hélène avec le journaliste Fandor. Il lance ensuite un ultimatum au Ministre de l'Intérieur en exigeant un milliard en or, sinon un million de Parisiens mourront. Le commissaire Juve se lance à la poursuite du criminel."
+      }
+    ],
+    "generique": [
+      "Marcel Herrand",
+      "André Le Gall",
+      "Alexandre Rignault"
+    ]
+  },
+  {
+    "titre": "Farrebique",
+    "titreVo": "",
+    "idFilm": 51024,
+    "ageMinimal": null,
+    "realisateurs": "Georges Rouquier",
+    "annee": 1944,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Documentaire qui se déroule dans la province française du Rouergue où la vie d'une famille de paysans est filmée au rythme des quatre saisons."
+      }
+    ]
+  },
+  {
+    "titre": "Fausse identité",
+    "titreVo": "",
+    "idFilm": 34792,
+    "ageMinimal": null,
+    "realisateurs": "André Chotin",
+    "annee": 1947,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme doit se faire opérer. Elle échange son identité avec sa meilleure amie car elle ne possède pas d'assurance maladie. Lorsqu'elle décède sur la table d'opération sous l'identité de son amie, cette dernière décide de mener l'enquête sur cette mort mystérieuse."
+      }
+    ],
+    "generique": [
+      "Louise Carletti",
+      "Georges Rollin",
+      "Franck Villard"
+    ]
+  },
+  {
+    "titre": "Ferme du pendu",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 48200,
+    "ageMinimal": null,
+    "realisateurs": "Jean Dréville",
+    "annee": 1945,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un important fermier interdit le mariage à ses frères et sœurs cadets, afin d'éviter le partage des terres. L'un d'eux se suicidera."
+      }
+    ],
+    "generique": [
+      "Charles Vanel",
+      "Lucienne Laurence",
+      "Alfred Adam"
+    ]
+  },
+  {
+    "titre": "Frères Bouquinquant",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 47574,
+    "ageMinimal": null,
+    "realisateurs": "Louis Daquin",
+    "annee": 1947,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une femme épouse un homme violent et tombe amoureuse de son frère, plus doux."
+      }
+    ],
+    "generique": [
+      "Madeleine Robinson",
+      "Albert Préjean",
+      "Roger Pigaut",
+      "Juliette Greco"
+    ]
+  },
+  {
+    "titre": "La Malibran",
+    "titreVo": "",
+    "idFilm": 49102,
+    "ageMinimal": null,
+    "realisateurs": "Sacha Guitry",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Biographie de la célèbre cantatrice célébrée par Musset. _Jean Cocteau fait une apparition en Alfred de Musset._"
+      }
+    ],
+    "generique": [
+      "Geori Boué",
+      "Sacha Guitry",
+      "Suzy Prim",
+      "Jean Cocteau"
+    ]
+  },
+  {
+    "titre": "Lunegarde",
+    "titreVo": "",
+    "idFilm": 46378,
+    "ageMinimal": null,
+    "realisateurs": "Marc Allégret",
+    "annee": 1944,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Armance, comtesse de Lunegarde, a jadis quitté son mari pour courir le monde. Le comte a élevé sa fille Elisabeth avec la plus extrême rigueur. Celle-ci est prête à tout pour retrouver sa mère."
+      }
+    ],
+    "generique": [
+      "Gaby Morlay",
+      "Gisèle Pascal",
+      "Jean Tissier",
+      "Saturnin Fabre"
+    ]
+  },
+  {
+    "titre": "Maris de Léontine",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 32895,
+    "ageMinimal": null,
+    "realisateurs": "René Le Hénaff",
+    "annee": 1947,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La baronne Léontine de la Jambière a eu un passe tumultueux. Ayant divorcée de son premier mari, Adolphe qu'elle trompait, elle trompe encore le second, Edouard de la Jambiere. Le commissaire qui doit constater le flagrant délit n'est autre qu'Adolphe. Celui-ci finit par faire revenir l'ordre dans le foyer."
+      }
+    ],
+    "generique": [
+      "Jacqueline Gauthier",
+      "Pierre Jourdan",
+      "Gil Roland"
+    ]
+  },
+  {
+    "titre": "Nuit de Sybille",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 50539,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Paul Paulin",
+    "annee": 1946,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux cambrioleurs pénètrent dans une maison déjà occupée par une femme, installée clandestinement un peu plus tôt. Elles leurs demandent de jouer le rôle de leurs parents pour accueillir son amant."
+      }
+    ],
+    "generique": [
+      "Paulette Élambert",
+      "Lucien Baroux",
+      "Pierre Larquey"
+    ]
+  },
+  {
+    "titre": "Panique",
+    "titreVo": "",
+    "idFilm": 48348,
+    "ageMinimal": 0,
+    "realisateurs": "Julien Duvivier",
+    "annee": 1946,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un crime est commis, et l'étrange Monsieur Hire est aussitôt soupçonné, par la police et par ses voisins."
+      }
+    ],
+    "generique": [
+      "Michel Simon",
+      "Viviane Romance",
+      "Paul Bernard"
+    ],
+    "adaptation": "D'après le roman _Les Fiançailles de Monsieur Hire_ de Georges Simenon."
+  },
+  {
+    "titre": "Parents terribles",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 47712,
+    "ageMinimal": null,
+    "realisateurs": "Jean Cocteau",
+    "annee": 1948,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Michel est amoureux de Madeleine et veut l'épouser, mais ses parents s'opposent à son mariage."
+      }
+    ],
+    "generique": [
+      "Jean Marais",
+      "Josette Day",
+      "Yvonne de Bray"
+    ],
+    "adaptation": "D'après la pièce _Les Parents terribles_ de Jean Cocteau."
+  },
+  {
+    "titre": "Parfum de la dame en noir",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 47576,
+    "ageMinimal": null,
+    "realisateurs": "Louis Daquin",
+    "annee": 1949,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans le château familial, la dame en noir vit dans l'angoisse de voir un jour le retour de son mari, le fou criminel Larsan."
+      }
+    ],
+    "generique": [
+      "Serge Reggiani",
+      "Hélène Perdrière",
+      "Marcel Herrand"
+    ]
+  },
+  {
+    "titre": "Père tranquille",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 47693,
+    "ageMinimal": null,
+    "realisateurs": "René Clément",
+    "annee": 1946,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sous l'Occupation, un assureur de province se voit reprocher par ses enfants son attitude passive devant l'occupant."
+      }
+    ],
+    "generique": [
+      "Noël-Noël",
+      "Nadine Alari",
+      "Marcel Dieudonné"
+    ]
+  },
+  {
+    "titre": "Premier bal",
+    "titreVo": "",
+    "idFilm": 47638,
+    "ageMinimal": null,
+    "realisateurs": "Christian-Jaque",
+    "annee": 1941,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux sœurs, Danielle et Nicole, élevées par un père distrait, aiment un jeune docteur. C'est Danielle qui l'épouse mais ils se séparent. Nicole reprend espoir mais vivra finalement avec un jeune vétérinaire."
+      }
+    ],
+    "generique": [
+      "Fernand Ledoux",
+      "Marie Déa",
+      "Raymond Rouleau"
+    ]
+  },
+  {
+    "titre": "Retour à la vie : Le Retour de tante Emma",
+    "titreVo": "",
+    "idFilm": 47414,
+    "ageMinimal": null,
+    "realisateurs": "André Cayatte",
+    "annee": 1948,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le retour à la vie dans la société pour des prisonniers et déportés."
+      }
+    ],
+    "generique": [
+      "Bernard Blier",
+      "Jane Marken",
+      "Lucien Nat"
+    ]
+  },
+  {
+    "titre": "Silence de la mer",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 50148,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Pierre Melville",
+    "annee": 1947,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pendant l'Occupation, un officier allemand, amoureux de la culture française, est logé chez un homme et sa nièce qui lui opposent un mutisme farouche."
+      }
+    ],
+    "generique": [
+      "Howard Vernon",
+      "Nicole Stéphane",
+      "Jean-Marie Robain"
+    ],
+    "adaptation": "D'après le roman _Le Silence de la mer_ de Vercors."
+  },
+  {
+    "titre": "Tornavara",
+    "titreVo": "",
+    "idFilm": 48243,
+    "ageMinimal": null,
+    "realisateurs": "Jean Dréville",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Amours compliquées et tumultueuses dans le Grand Nord où Sigurd fou d'amour pour sa femme Florence, croit trouver de l'or. Le fils de Sigurd et un ami de celui-ci brouillent les cartes et provoquent la jalousie et la colère de l'ingénieur."
+      }
+    ],
+    "generique": [
+      "Mila Parely",
+      "Pierre Renoir",
+      "Jean Chevrier"
+    ]
+  },
+  {
+    "titre": "Trafiquants de la mer",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 52214,
+    "ageMinimal": null,
+    "realisateurs": "Willy Rozier",
+    "annee": 1947,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Histoire de trafic de drogues sur des yachts en Méditerranée. Il y a un suspect que tout désigne comme coupable mais qui est assassiné. Boris, le tueur de l'histoire cumule cette fonction avec la charge de notaire."
+      }
+    ],
+    "generique": [
+      "Pierre Renoir",
+      "Elina Labourdette",
+      "Jacques Dumesnil"
+    ]
+  },
+  {
+    "titre": "Vautrin",
+    "titreVo": "",
+    "idFilm": 46915,
+    "ageMinimal": null,
+    "realisateurs": "Pierre Billon",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Vautrin, dit Trompe-la-Mort, s'est évadé du bagne et se dirige vers Paris sous les traits d'un prêtre espagnol. En route, il rencontre le jeune Lucien, pleurant sur sa pauvreté. Vautrin le prend à sa charge et, en quelques semaines, fait de lui le dandy le plus admiré de la capitale."
+      }
+    ],
+    "generique": [
+      "Michel Simon",
+      "Madeleine Sologne",
+      "Georges Marchal"
+    ]
+  }
+]

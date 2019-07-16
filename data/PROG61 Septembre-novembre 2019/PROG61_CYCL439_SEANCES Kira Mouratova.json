@@ -79,7 +79,7 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "syndrome asthénique (Le)",
+    "titreEvenement": "Syndrome asthénique (Le)",
     "items": [
       {
         "idFilm": 41148,
@@ -96,22 +96,22 @@
   {
     "idCategorie": 2013,
     "typeEvenement": 13,
-    "idEvenement": 19778,
-    "idSeance": 30951,
+    "idEvenement": 19670,
+    "idSeance": 32058,
     "dateHeure": "2019-09-28T14:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Notre pain honnête",
+    "titreEvenement": "Motifs tchékhoviens",
     "items": [
       {
-        "idFilm": 141916,
+        "idFilm": 119920,
         "ordre": 1,
-        "idSeance": 30951,
-        "idCopie": 18892,
-        "duree": 98,
-        "version": "STF",
+        "idSeance": 32058,
+        "idCopie": 18777,
+        "duree": 120,
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -163,7 +163,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Françoise Navailh"
   },
   {
     "idCategorie": 2013,
@@ -208,7 +209,7 @@
         "idCopie": 18869,
         "duree": 155,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -244,8 +245,8 @@
     "idSeance": 31810,
     "dateHeure": "2019-10-02T19:00:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "titreEvenement": "Petites passions (Les)",
     "items": [
@@ -268,8 +269,8 @@
     "idSeance": 32004,
     "dateHeure": "2019-10-02T21:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "titreEvenement": "Longs adieux (Les)",
     "items": [
@@ -290,7 +291,7 @@
     "typeEvenement": 13,
     "idEvenement": 19653,
     "idSeance": 30985,
-    "dateHeure": "2019-10-03T19:30:00",
+    "dateHeure": "2019-10-03T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -315,7 +316,7 @@
     "typeEvenement": 13,
     "idEvenement": 19662,
     "idSeance": 31811,
-    "dateHeure": "2019-10-03T22:00:00",
+    "dateHeure": "2019-10-03T21:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -353,7 +354,7 @@
         "idCopie": 18881,
         "duree": 124,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -377,10 +378,11 @@
         "idCopie": 18896,
         "duree": 153,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Macha Ovtchinnikova"
   },
   {
     "idCategorie": 2013,
@@ -409,29 +411,19 @@
   {
     "idCategorie": 2038,
     "typeEvenement": 13,
-    "idEvenement": 19776,
-    "idSeance": 31847,
+    "idEvenement": 20745,
+    "idSeance": 32066,
     "dateHeure": "2019-10-06T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Pluie de printemps / Au bord du ravin abrupt",
+    "titreEvenement": "Au bord du ravin abrupt",
     "items": [
       {
-        "idFilm": 141914,
-        "ordre": 1,
-        "idSeance": 31847,
-        "idCopie": 18891,
-        "duree": 27,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 141915,
-        "ordre": 2,
-        "idSeance": 31847,
+        "ordre": 1,
+        "idSeance": 32066,
         "idCopie": 18890,
         "duree": 45,
         "version": "VOSTF",
@@ -467,30 +459,6 @@
   {
     "idCategorie": 2013,
     "typeEvenement": 13,
-    "idEvenement": 19778,
-    "idSeance": 31022,
-    "dateHeure": "2019-10-09T21:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "titreEvenement": "Notre pain honnête",
-    "items": [
-      {
-        "idFilm": 141916,
-        "ordre": 1,
-        "idSeance": 31022,
-        "idCopie": 18892,
-        "duree": 98,
-        "version": "STF",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCategorie": 2013,
-    "typeEvenement": 13,
     "idEvenement": 19649,
     "idSeance": 31819,
     "dateHeure": "2019-10-10T20:30:00",
@@ -517,12 +485,12 @@
     "typeEvenement": 13,
     "idEvenement": 19652,
     "idSeance": 31034,
-    "dateHeure": "2019-10-11T19:30:00",
+    "dateHeure": "2019-10-11T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "syndrome asthénique (Le)",
+    "titreEvenement": "Syndrome asthénique (Le)",
     "items": [
       {
         "idFilm": 41148,
@@ -534,34 +502,25 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Eugénie Zvonkine"
   },
   {
     "idCategorie": 2038,
     "typeEvenement": 13,
-    "idEvenement": 19776,
-    "idSeance": 31848,
+    "idEvenement": 20745,
+    "idSeance": 32065,
     "dateHeure": "2019-10-12T16:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Pluie de printemps / Au bord du ravin abrupt",
+    "titreEvenement": "Au bord du ravin abrupt",
     "items": [
       {
-        "idFilm": 141914,
-        "ordre": 1,
-        "idSeance": 31848,
-        "idCopie": 18891,
-        "duree": 27,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 141915,
-        "ordre": 2,
-        "idSeance": 31848,
+        "ordre": 1,
+        "idSeance": 32065,
         "idCopie": 18890,
         "duree": 45,
         "version": "VOSTF",
@@ -623,7 +582,7 @@
     "typeEvenement": 13,
     "idEvenement": 19664,
     "idSeance": 31818,
-    "dateHeure": "2019-10-13T18:00:00",
+    "dateHeure": "2019-10-13T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -647,7 +606,7 @@
     "typeEvenement": 13,
     "idEvenement": 19673,
     "idSeance": 31815,
-    "dateHeure": "2019-10-13T20:15:00",
+    "dateHeure": "2019-10-13T21:15:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -757,7 +716,7 @@
         "idCopie": 18896,
         "duree": 153,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -781,7 +740,7 @@
         "idCopie": 18881,
         "duree": 124,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -808,14 +767,15 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Eugénie Zvonkine"
   },
   {
     "idCategorie": 2013,
     "typeEvenement": 13,
     "idEvenement": 19668,
     "idSeance": 31079,
-    "dateHeure": "2019-10-20T19:00:00",
+    "dateHeure": "2019-10-20T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -829,9 +789,10 @@
         "idCopie": 18869,
         "duree": 155,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Eugénie Zvonkine"
   }
 ]

@@ -1,0 +1,70 @@
+[
+  {
+    "idCategorie": 2058,
+    "typeEvenement": 13,
+    "idEvenement": 20018,
+    "idSeance": 31882,
+    "dateHeure": "2019-10-18T18:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Animal d'acier (L') / Paris-Liège",
+    "items": [
+      {
+        "idFilm": 99574,
+        "ordre": 1,
+        "idSeance": 31882,
+        "idCopie": 535,
+        "duree": 75,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 115961,
+        "ordre": 2,
+        "idSeance": 31882,
+        "idCopie": 18973,
+        "duree": 13,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2058,
+    "typeEvenement": 13,
+    "idEvenement": 20026,
+    "idSeance": 31883,
+    "dateHeure": "2019-10-18T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Rails / Tall Target (The)",
+    "items": [
+      {
+        "idFilm": 142094,
+        "ordre": 1,
+        "idSeance": 31883,
+        "idCopie": 18974,
+        "duree": 6,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 33619,
+        "ordre": 2,
+        "idSeance": 31883,
+        "idCopie": 16693,
+        "duree": 78,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  }
+]

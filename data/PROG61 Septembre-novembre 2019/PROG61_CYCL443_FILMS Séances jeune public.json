@@ -1,0 +1,414 @@
+[
+  {
+    "titre": "Au pays des têtes",
+    "titreVo": "Land of the Head",
+    "idFilm": 128542,
+    "ageMinimal": null,
+    "realisateurs": "Claude Barras, Cédric Louis",
+    "annee": 2009,
+    "pays": "Canada-Suisse"
+  },
+  {
+    "titre": "Batman",
+    "titreVo": "",
+    "idFilm": 31042,
+    "ageMinimal": null,
+    "realisateurs": "Tim Burton",
+    "annee": 1988,
+    "pays": "États-Unis-Grande-Bretagne",
+    "generique": [
+      "Michael Keaton",
+      "Jack Nicholson",
+      "Kim Basinger"
+    ]
+  },
+  {
+    "titre": "Belle et la bête",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 47711,
+    "ageMinimal": 6,
+    "realisateurs": "Jean Cocteau",
+    "annee": 1945,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Belle se retrouve prisonnière d'un château où règne une horrible Bête. Effrayée dans un premier temps, Belle découvre que la bête possède un cœur en or et un autre visage..."
+      }
+    ],
+    "generique": [
+      "Josette Day",
+      "Jean Marais",
+      "Marcel André"
+    ],
+    "adaptation": "D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont."
+  },
+  {
+    "titre": "Belle et le clochard",
+    "art": "La",
+    "titreVo": "Lady and the Tramp",
+    "artVo": "The",
+    "idFilm": 45201,
+    "ageMinimal": null,
+    "realisateurs": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Belle est une petite chienne domestique, choyée dans la maison de ses maîtres. Sa rencontre avec celui qu'on appelle le Clochard va lui révéler un aspect inattendu de la vie des chiens."
+      }
+    ]
+  },
+  {
+    "titre": "Bisclavret",
+    "titreVo": "",
+    "idFilm": 120496,
+    "ageMinimal": 8,
+    "realisateurs": "Emilie Mercier",
+    "annee": 2012,
+    "pays": "France"
+  },
+  {
+    "titre": "Charlot boxeur",
+    "titreVo": "Champion",
+    "artVo": "The",
+    "idFilm": 31274,
+    "ageMinimal": 6,
+    "realisateurs": "Charles Chaplin",
+    "annee": 1915,
+    "pays": "États-Unis",
+    "generique": [
+      "Charles Chaplin",
+      "Edna Purviance"
+    ]
+  },
+  {
+    "titre": "Course à la saucisse",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 106227,
+    "ageMinimal": null,
+    "realisateurs": "Alice Guy",
+    "annee": 1907,
+    "pays": "France"
+  },
+  {
+    "titre": "Cul de bouteille",
+    "titreVo": "",
+    "idFilm": 120500,
+    "ageMinimal": 8,
+    "realisateurs": "Jean-Claude Rozec",
+    "annee": 2012,
+    "pays": "France"
+  },
+  {
+    "titre": "Etrange Noël de Mr Jack",
+    "art": "L'",
+    "titreVo": "Nightmare before Christmas",
+    "artVo": "The",
+    "idFilm": 57312,
+    "ageMinimal": 7,
+    "realisateurs": "Henry Selick",
+    "annee": 1991,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Halloween-ville est peuplée des plus horribles créatures qui soient, qui ont, cette année, décidé de fêter Noël à leur façon... Tandis que les jouets se transforment en horribles grigris, Jack Skelington retrouve le sourire sur son traineau tiré par des squelettes de rennes. Venez déguisés en monstres pour fêter Halloween !"
+      }
+    ],
+    "generique": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O'Hara"
+    ]
+  },
+  {
+    "titre": "Extraordinaire voyage de Marona",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 142357,
+    "ageMinimal": null,
+    "realisateurs": "Anca Damian",
+    "annee": 2018,
+    "pays": "France-Roumanie-Belgique",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "La vie trépidante d'une petite chienne, racontée par elle-même. Chaque rencontre de Marona est empreinte d'un univers visuel très fort. Pour ce film tendre et plein d'aventures, la réalisatrice a su s'entourer de dessinateurs-illustrateurs aux styles étincelants : Gina Thorstensen, Sarah Mazzetti et Brecht Evens."
+      }
+    ]
+  },
+  {
+    "titre": "Famille Addams",
+    "art": "La",
+    "titreVo": "Addams Family",
+    "artVo": "The",
+    "idFilm": 36599,
+    "ageMinimal": null,
+    "realisateurs": "Barry Sonnenfeld",
+    "annee": 1991,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Quelle étrange famille, ces Addams ! On les croirait tout droit sortis d'un film d'horreur, mais quand on apprend à les connaître, ils ont tous un très grand cœur. Il ne faut pas se fier aux apparences !"
+      }
+    ]
+  },
+  {
+    "titre": "Frankenweenie",
+    "titreVo": "",
+    "idFilm": 115761,
+    "ageMinimal": null,
+    "realisateurs": "Tim Burton",
+    "annee": 2011,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Gremlins",
+    "titreVo": "",
+    "idFilm": 36381,
+    "ageMinimal": 8,
+    "realisateurs": "Joe Dante",
+    "annee": 1983,
+    "pays": "États-Unis",
+    "generique": [
+      "Zach Galligan",
+      "Phoebe Cates",
+      "Hoyt Axton"
+    ]
+  },
+  {
+    "titre": "Homme qui rétrécit",
+    "art": "L'",
+    "titreVo": "Incredible Shrinking Man",
+    "artVo": "The",
+    "idFilm": 29869,
+    "ageMinimal": 8,
+    "realisateurs": "Jack Arnold",
+    "annee": 1956,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "En vacances sur un bateau de plaisance, Scott Carey traverse un mystérieux brouillard. Quelques mois plus tard, il s'aperçoit qu'il a rapetissé de quelques centimètres... A l'occasion de la parution du livre 100 Grands films pour les Petits, rencontre avec les auteurs Lydia et Nicolas Boukhrief qui ont choisi ce grand film aux effets spéciaux saisissants pour faire découvrir le cinéma aux jeunes spectateurs."
+      }
+    ],
+    "generique": [
+      "Randy Stuart",
+      "Grant Williams",
+      "April Kent"
+    ],
+    "adaptation": "D'après la nouvelle _The Incredible shrinking man_ de Richard Matheson."
+  },
+  {
+    "titre": "Hôtel Transylvanie",
+    "titreVo": "Hotel Transylvania",
+    "idFilm": 118626,
+    "ageMinimal": null,
+    "realisateurs": "Genndy Tartakovsky",
+    "annee": 2012,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Tous les monstres sont invités à célébrer les 118 ans de la fille du comte Dracula dans son célèbre hôtel Transylvanie, garanti sans humain... En est-on si sûrs ?"
+      }
+    ]
+  },
+  {
+    "titre": "Kali, le petit vampire",
+    "titreVo": "",
+    "idFilm": 120505,
+    "ageMinimal": 10,
+    "realisateurs": "Regina Pessoa",
+    "annee": 2012,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Et si ce qui nous faisait peur était juste une question de point de vue ? Changer de lunettes, garder les enfants de sa voisine, se sentir différents des autres sans oser leur parler... Un programme de films courts pour s'approcher tout près de ses peurs et en rire !"
+      }
+    ]
+  },
+  {
+    "titre": "Max et les maximonstres",
+    "titreVo": "Where the Wild Things Are",
+    "idFilm": 110108,
+    "ageMinimal": null,
+    "realisateurs": "Spike Jonze",
+    "annee": 2006,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Max renferme au fond de lui toute une panoplie de (maxi)monstres. Il s'échappera sur une île secrète peuplée de monstres velus et griffus qui ont chacun une personnalité très prononcée. Avec eux, Max va apprendre à mieux connaître ses sentiments et ses émotions."
+      }
+    ],
+    "adaptation": "D'après le livre _Max et les Maximonstres_ de Maurice Sendak."
+  },
+  {
+    "titre": "Monstres et Cie",
+    "titreVo": "Monsters, Inc.",
+    "idFilm": 77799,
+    "ageMinimal": 4,
+    "realisateurs": "Pete Docter, David Silverman, Lee Unkrich",
+    "annee": 2001,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Ils font tous plus peur les uns que les autres. Leur métier consiste d'ailleurs à terrifier les enfants pour les faire crier. Mais eux de quoi ont-ils peur?"
+      }
+    ],
+    "generique": [
+      "Jacques Frantz",
+      "Eric Métayer",
+      "Lola Krellenstein"
+    ]
+  },
+  {
+    "titre": "Noces funèbres",
+    "art": "Les",
+    "titreVo": "Corpse Bride",
+    "idFilm": 97638,
+    "ageMinimal": null,
+    "realisateurs": "Tim Burton, Mike Johnson",
+    "annee": 2004,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "C'est par erreur que Victor épouse une mariée déjà morte, qui l'entraîne dans l'au-delà. Surprise, ce nouveau monde est bien vivant, plein de couleurs et de joie... Pendant ce temps, sa véritable fiancée l'attend toujours dans le monde des vivants."
+      }
+    ]
+  },
+  {
+    "titre": "Petit vampire",
+    "art": "Le",
+    "titreVo": "Kleine Vampir",
+    "artVo": "Der",
+    "idFilm": 71210,
+    "ageMinimal": null,
+    "realisateurs": "Uli Edel",
+    "annee": 1999,
+    "pays": "Allemagne-Pays-Bas-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Vous croyez aux vampires, vous ? Tony n'y croyait pas non plus. Mais c'était avant de quitter les Etats-Unis pour s'installer en Ecosse et faire la connaissance de Rodolph qui devient pourtant son meilleur ami."
+      }
+    ]
+  },
+  {
+    "titre": "Renne blanc",
+    "art": "Le",
+    "titreVo": "Valkoinen peura",
+    "idFilm": 38491,
+    "ageMinimal": 10,
+    "realisateurs": "Erik Blomberg",
+    "annee": 1952,
+    "pays": "Finlande",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Il se passe des choses étranges dans les steppes enneigées de Laponie : les chasseurs de évoquent un renne blanc, un peu magique, qu'ils tentent d'attraper, en vain. Il faut dire que ce renne n'est pas un animal comme les autres..."
+      }
+    ],
+    "generique": [
+      "Mirjami Kuosmanen",
+      "Kalervo Nissilä",
+      "Arvo Lehesmaa"
+    ]
+  },
+  {
+    "titre": "Saint-Festin",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 128540,
+    "ageMinimal": null,
+    "realisateurs": "Anne-Laure Daffis, Léo Marchand",
+    "annee": 2008,
+    "pays": "France"
+  },
+  {
+    "titre": "Shrek",
+    "titreVo": "",
+    "idFilm": 74401,
+    "ageMinimal": null,
+    "realisateurs": "Andrew Adamson, Vicky Jenson",
+    "annee": 2000,
+    "pays": "États-Unis",
+    "adaptation": "D'après l'album _Shrek !_ de William Steig."
+  },
+  {
+    "titre": "Spook Sport",
+    "titreVo": "",
+    "idFilm": 106109,
+    "ageMinimal": null,
+    "realisateurs": "Norman McLaren",
+    "annee": 1940,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Un monstre à Paris",
+    "titreVo": "",
+    "idFilm": 114325,
+    "ageMinimal": 7,
+    "realisateurs": "Bibo Bergeron",
+    "annee": 2010,
+    "pays": "France-Belgique"
+  },
+  {
+    "titre": "Une vie de chien",
+    "titreVo": "A Dog's Life",
+    "idFilm": 31213,
+    "ageMinimal": 6,
+    "realisateurs": "Charles Chaplin",
+    "annee": 1918,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Deux films où charlot partage la vedette avec un chien! Dans l'adversité, avoir un bon copain, c'est toujours utile!"
+      }
+    ],
+    "generique": [
+      "Charles Chaplin",
+      "Edna Purviance"
+    ]
+  },
+  {
+    "titre": "Voyage au centre de la terre",
+    "titreVo": "Journey to the Center of the Earth",
+    "idFilm": 33293,
+    "ageMinimal": null,
+    "realisateurs": "Henry Levin",
+    "annee": 1959,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Plus on s'enfonce dans le ventre de la terre et plus on fait d'étranges rencontres, des monstres préhistoriques, une île engloutie... Mais comment revenir à la surface ?"
+      }
+    ]
+  },
+  {
+    "titre": "Zombillenium",
+    "titreVo": "",
+    "idFilm": 137256,
+    "ageMinimal": null,
+    "realisateurs": "Arthur de Pins, Alexis Ducord",
+    "annee": 2016,
+    "pays": "France-Belgique",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Zombies et Vampires rivalisent pour devenir les stars d'un parc d'attraction à sensations fortes. Mais le parc renferme un secret qu'Hector, contrôleur des normes de sécurité, est bien décidé à percer. Mais où a-t-il mis les pieds? Séance présentée par les auteurs : Arthur de Pins et Alexis Ducord"
+      }
+    ]
+  }
+]

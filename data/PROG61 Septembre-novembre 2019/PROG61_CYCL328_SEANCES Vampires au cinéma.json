@@ -1,55 +1,5 @@
 [
   {
-    "idCategorie": 2021,
-    "typeEvenement": 13,
-    "idEvenement": 19743,
-    "idSeance": 31018,
-    "dateHeure": "2019-10-09T20:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "typeSeance": 44,
-    "titreEvenement": "Nosferatu le vampire",
-    "items": [
-      {
-        "idFilm": 39961,
-        "ordre": 1,
-        "idSeance": 31018,
-        "idCopie": 19234,
-        "duree": 94,
-        "version": "INT. FR.",
-        "format": "DCP",
-        "valide": 0
-      }
-    ],
-    "mention": "Ouverture de la rétrospective"
-  },
-  {
-    "idCategorie": 2020,
-    "typeEvenement": 13,
-    "idEvenement": 20012,
-    "idSeance": 31025,
-    "dateHeure": "2019-10-10T17:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "titreEvenement": "Du sang pour Dracula",
-    "items": [
-      {
-        "idFilm": 59536,
-        "ordre": 1,
-        "idSeance": 31025,
-        "idCopie": 19093,
-        "duree": 90,
-        "version": "VF",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
     "idCategorie": 2076,
     "typeEvenement": 14,
     "idEvenement": 20642,
@@ -86,9 +36,9 @@
         "idSeance": 31066,
         "idCopie": 18963,
         "duree": 93,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Elina Löwensohn"
@@ -160,10 +110,10 @@
         "idFilm": 110886,
         "ordre": 1,
         "idSeance": 31797,
-        "idCopie": 18855,
+        "idCopie": 18861,
         "duree": 94,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -253,8 +203,8 @@
         "idCopie": 18947,
         "duree": 107,
         "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 0
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -316,7 +266,7 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Vampir",
+    "titreEvenement": "Cuadecuc, vampir",
     "items": [
       {
         "idFilm": 43667,
@@ -331,20 +281,30 @@
     ]
   },
   {
-    "idCategorie": 2021,
+    "idCategorie": 1535,
     "typeEvenement": 13,
-    "idEvenement": 19739,
+    "idEvenement": 20762,
     "idSeance": 31943,
     "dateHeure": "2019-10-14T19:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Nuits de Dracula (Les)",
+    "titreEvenement": "Niemand / Nuits de Dracula (Les)",
     "items": [
       {
-        "idFilm": 87102,
+        "idFilm": 142092,
         "ordre": 1,
+        "idSeance": 31943,
+        "idCopie": 18966,
+        "duree": 6,
+        "version": "VO",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 87102,
+        "ordre": 2,
         "idSeance": 31943,
         "idCopie": 7587,
         "duree": 95,
@@ -405,34 +365,24 @@
   {
     "idCategorie": 1535,
     "typeEvenement": 13,
-    "idEvenement": 20015,
+    "idEvenement": 20761,
     "idSeance": 31942,
     "dateHeure": "2019-10-17T16:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Niemand / Only Lovers Left Alive",
+    "titreEvenement": "Only Lovers Left Alive",
     "items": [
       {
-        "idFilm": 142092,
-        "ordre": 1,
-        "idSeance": 31942,
-        "idCopie": 18966,
-        "duree": 6,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 119997,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 31942,
         "idCopie": 18948,
         "duree": 122,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -457,7 +407,7 @@
         "duree": 120,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -471,11 +421,59 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Film + Discussion",
+    "titreEvenement": "Film + Discussion avec Diane Arnaud",
     "typeAssoc": 118,
     "items": [
       {
         "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 2097,
+    "typeEvenement": 13,
+    "idEvenement": 20721,
+    "idSeance": 31077,
+    "dateHeure": "2019-10-18T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Proies du vampire (Les)",
+    "items": [
+      {
+        "idFilm": 43918,
+        "ordre": 1,
+        "idSeance": 31077,
+        "idCopie": 19271,
+        "duree": 95,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2097,
+    "typeEvenement": 13,
+    "idEvenement": 20722,
+    "idSeance": 31078,
+    "dateHeure": "2019-10-18T22:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Santo et le trésor de Dracula",
+    "items": [
+      {
+        "idFilm": 87310,
+        "ordre": 1,
+        "idSeance": 31078,
+        "idCopie": 19279,
+        "duree": 82,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   },
@@ -530,9 +528,33 @@
   {
     "idCategorie": 1535,
     "typeEvenement": 13,
-    "idEvenement": 19704,
-    "idSeance": 32001,
+    "idEvenement": 19705,
+    "idSeance": 32055,
     "dateHeure": "2019-10-20T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Irma Vep",
+    "items": [
+      {
+        "idFilm": 55633,
+        "ordre": 1,
+        "idSeance": 32055,
+        "idCopie": 5133,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 1535,
+    "typeEvenement": 13,
+    "idEvenement": 19704,
+    "idSeance": 32057,
+    "dateHeure": "2019-10-20T21:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -542,7 +564,7 @@
       {
         "idFilm": 60083,
         "ordre": 1,
-        "idSeance": 32001,
+        "idSeance": 32057,
         "idCopie": 14478,
         "duree": 81,
         "version": "VOSTF",
@@ -552,14 +574,38 @@
     ]
   },
   {
+    "idCategorie": 2021,
+    "typeEvenement": 13,
+    "idEvenement": 19742,
+    "idSeance": 32056,
+    "dateHeure": "2019-10-21T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Dracula",
+    "items": [
+      {
+        "idFilm": 117114,
+        "ordre": 1,
+        "idSeance": 32056,
+        "idCopie": 690,
+        "duree": 104,
+        "version": "VO",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
     "idCategorie": 1535,
     "typeEvenement": 13,
     "idEvenement": 19700,
     "idSeance": 32000,
-    "dateHeure": "2019-10-20T21:30:00",
+    "dateHeure": "2019-10-21T19:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "JE",
+      "Jean Epstein"
     ],
     "titreEvenement": "Spermula",
     "items": [
@@ -578,43 +624,19 @@
   {
     "idCategorie": 1535,
     "typeEvenement": 13,
-    "idEvenement": 19705,
-    "idSeance": 31098,
-    "dateHeure": "2019-10-21T19:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Irma Vep",
-    "items": [
-      {
-        "idFilm": 55633,
-        "ordre": 1,
-        "idSeance": 31098,
-        "idCopie": 5133,
-        "duree": 99,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCategorie": 1535,
-    "typeEvenement": 13,
     "idEvenement": 20046,
-    "idSeance": 31095,
+    "idSeance": 32002,
     "dateHeure": "2019-10-21T21:15:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "titreEvenement": "A Girl Walks Home Alone at Night",
     "items": [
       {
         "idFilm": 125659,
         "ordre": 1,
-        "idSeance": 31095,
+        "idSeance": 32002,
         "idCopie": 19150,
         "duree": 99,
         "version": "VOSTF",
@@ -681,13 +703,13 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Vampyr ou l'étrange aventure de David Gray",
+    "titreEvenement": "Vampyr",
     "items": [
       {
         "idFilm": 48251,
         "ordre": 1,
         "idSeance": 31947,
-        "idCopie": 9852,
+        "idCopie": 9862,
         "duree": 72,
         "version": "VOSTF",
         "format": "DCP",
@@ -715,7 +737,7 @@
         "duree": 110,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -737,7 +759,7 @@
         "idSeance": 31927,
         "idCopie": 13096,
         "duree": 95,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -768,7 +790,7 @@
     ]
   },
   {
-    "idCategorie": 1535,
+    "idCategorie": 2089,
     "typeEvenement": 13,
     "idEvenement": 19712,
     "idSeance": 31856,
@@ -792,7 +814,7 @@
     ]
   },
   {
-    "idCategorie": 1535,
+    "idCategorie": 2089,
     "typeEvenement": 13,
     "idEvenement": 19643,
     "idSeance": 31857,
@@ -835,30 +857,30 @@
         "duree": 113,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
   {
-    "idCategorie": 2020,
+    "idCategorie": 1535,
     "typeEvenement": 13,
-    "idEvenement": 20549,
-    "idSeance": 31128,
-    "dateHeure": "2019-10-26T19:00:00",
+    "idEvenement": 20654,
+    "idSeance": 31129,
+    "dateHeure": "2019-10-26T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Une messe pour Dracula",
+    "titreEvenement": "Histoire de ma mort",
     "items": [
       {
-        "idFilm": 36680,
+        "idFilm": 120677,
         "ordre": 1,
-        "idSeance": 31128,
-        "idCopie": 19247,
-        "duree": 95,
+        "idSeance": 31129,
+        "idCopie": 5040,
+        "duree": 148,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -968,7 +990,7 @@
         "ordre": 1,
         "idSeance": 31133,
         "idCopie": 8397,
-        "duree": 0,
+        "duree": 58,
         "version": "INT. FR.",
         "format": "DCP",
         "valide": 0
@@ -977,10 +999,10 @@
         "idFilm": 99084,
         "ordre": 2,
         "idSeance": 31133,
-        "idCopie": 3394,
+        "idCopie": 19340,
         "duree": 52,
         "version": "INT. FR.",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -1020,7 +1042,79 @@
     ]
   },
   {
-    "idCategorie": 2020,
+    "idCategorie": 2062,
+    "typeEvenement": 13,
+    "idEvenement": 20660,
+    "idSeance": 32080,
+    "dateHeure": "2019-10-31T00:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Une nuit en enfer",
+    "items": [
+      {
+        "idFilm": 45648,
+        "ordre": 1,
+        "idSeance": 32080,
+        "idCopie": 19310,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2062,
+    "typeEvenement": 13,
+    "idEvenement": 20659,
+    "idSeance": 32072,
+    "dateHeure": "2019-10-31T02:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Territoire des morts (Le)",
+    "items": [
+      {
+        "idFilm": 97020,
+        "ordre": 1,
+        "idSeance": 32072,
+        "idCopie": 11757,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2062,
+    "typeEvenement": 13,
+    "idEvenement": 20662,
+    "idSeance": 31967,
+    "dateHeure": "2019-10-31T22:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Hurlements",
+    "items": [
+      {
+        "idFilm": 31390,
+        "ordre": 1,
+        "idSeance": 31967,
+        "idCopie": 10738,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2090,
     "typeEvenement": 13,
     "idEvenement": 19713,
     "idSeance": 31161,
@@ -1037,6 +1131,30 @@
         "idSeance": 31161,
         "idCopie": 5148,
         "duree": 82,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2090,
+    "typeEvenement": 13,
+    "idEvenement": 20657,
+    "idSeance": 31162,
+    "dateHeure": "2019-11-01T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Massacre des vampires (Le)",
+    "items": [
+      {
+        "idFilm": 142414,
+        "ordre": 1,
+        "idSeance": 31162,
+        "idCopie": 19246,
+        "duree": 90,
         "version": "VF",
         "format": "35 mm",
         "valide": 0
@@ -1078,7 +1196,7 @@
     ]
   },
   {
-    "idCategorie": 2020,
+    "idCategorie": 2095,
     "typeEvenement": 13,
     "idEvenement": 19641,
     "idSeance": 31204,
@@ -1102,7 +1220,7 @@
     ]
   },
   {
-    "idCategorie": 2020,
+    "idCategorie": 2095,
     "typeEvenement": 13,
     "idEvenement": 19720,
     "idSeance": 31205,
@@ -1126,7 +1244,7 @@
     ]
   },
   {
-    "idCategorie": 2020,
+    "idCategorie": 2094,
     "typeEvenement": 13,
     "idEvenement": 19718,
     "idSeance": 31249,
@@ -1150,7 +1268,7 @@
     ]
   },
   {
-    "idCategorie": 2020,
+    "idCategorie": 2094,
     "typeEvenement": 13,
     "idEvenement": 19719,
     "idSeance": 31250,
@@ -1174,44 +1292,50 @@
     ]
   },
   {
-    "idCategorie": 1535,
+    "idCategorie": 2093,
     "typeEvenement": 13,
-    "idEvenement": 20044,
-    "idSeance": 31290,
+    "idEvenement": 19717,
+    "idSeance": 32015,
     "dateHeure": "2019-11-22T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Et mourir de plaisir",
+    "titreEvenement": "Vampyres",
     "items": [
       {
-        "idFilm": 51375,
+        "idFilm": 69720,
         "ordre": 1,
-        "idSeance": 31290,
-        "idCopie": 19153,
-        "duree": 87,
-        "version": "",
+        "idSeance": 32015,
+        "idCopie": 18953,
+        "duree": 81,
+        "version": "VF",
         "format": "35 mm",
         "valide": 0
       }
     ]
   },
   {
-    "idCategorie": 2020,
+    "idCategorie": 2093,
     "typeEvenement": 13,
-    "idEvenement": 19722,
-    "idSeance": 31291,
+    "idEvenement": 20656,
+    "idSeance": 32016,
     "dateHeure": "2019-11-22T22:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Vampire Lovers (The)",
+    "titreEvenement": "Gran amor del Conde Dracula (El)",
     "items": [
       {
-        "idFilm": 55255,
-        "ordre": 1
+        "idFilm": 43247,
+        "ordre": 1,
+        "idSeance": 32016,
+        "idCopie": 19244,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   }

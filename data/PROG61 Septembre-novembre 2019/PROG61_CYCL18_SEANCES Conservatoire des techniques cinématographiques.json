@@ -1,0 +1,32 @@
+[
+  {
+    "idCategorie": 1856,
+    "typeEvenement": 14,
+    "idEvenement": 20644,
+    "idSeance": 30987,
+    "dateHeure": "2019-10-04T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Les sons immersifs, du Magnascope au Split Surround",
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 2035,
+    "typeEvenement": 14,
+    "idEvenement": 20039,
+    "idSeance": 31206,
+    "dateHeure": "2019-11-08T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "La cinématographie des nuages, le physicien et météorologue japonais Masanao Abe",
+    "items": [
+      {}
+    ]
+  }
+]

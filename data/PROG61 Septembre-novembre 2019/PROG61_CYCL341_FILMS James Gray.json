@@ -11,7 +11,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "1921\\. Ewa et sa sœur Magda quittent leur Pologne natale pour New York. Arrivées à Ellis Island, Magda, atteinte de tuberculose, est placée en quarantaine. Ewa, seule et désemparée, tombe dans les filets de Bruno, un souteneur sans scrupules. Pour sauver sa sœur, elle est prête à tous les sacrifices et se livre, résignée, à la prostitution."
+        "texte": "1921\\. Ewa et sa sœur Magda quittent leur Pologne natale pour New York. À leur arrivée, Magda, tuberculeuse, est placée en quarantaine. Seule et désemparée, Ewa tombe sous la coupe d'un souteneur sans scrupules. Pour sauver sa sœur, elle est prête à tous les sacrifices et se livre, résignée, à la prostitution."
       }
     ],
     "generique": [
@@ -31,7 +31,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Joshua Shapira est un tueur à gages sans état d'âme. Jusqu'au jour où un commanditaire exige l'exécution d'un contrat à Brighton Beach, dans le quartier de Little Odessa, où Joshua a passé son enfance."
+        "texte": "Joshua Shapira est un tueur à gages sans état d'âme. Mais un jour, un commanditaire exige l'exécution d'un contrat à Brighton Beach, dans le quartier de Little Odessa, où Joshua a passé son enfance."
       }
     ],
     "generique": [
@@ -46,14 +46,14 @@
     "art": "The",
     "titreVo": "",
     "idFilm": 134352,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Gray",
     "annee": 2015,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'histoire vraie de Percival Harrison Fawcett, un des plus grands explorateurs du XXe siècle."
+        "texte": "L'histoire vraie de Percival Harrison Fawcett, l'un des plus grands explorateurs du XXe siècle, tiraillé entre son amour pour sa famille et son obsession pour l'Amazonie."
       }
     ],
     "generique": [
@@ -74,11 +74,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "New York, fin des années 80. Bobby est le jeune patron d'une boite de nuit branchée appartenant aux Russes. Avec l'explosion du trafic de drogue, la mafia russe étend son influence sur le monde de la nuit. Pour continuer son ascension, Bobby doit cacher ses liens avec sa famille. Seule sa petite amie, Amada est au courant."
+        "texte": "Brooklyn, fin des années 80. Bobby, qui gère une discothèque branchée, doit composer avec la mafia russe et ses trafics de drogue. Pour continuer son ascension, il doit dissimuler à la fois son activité et ses liens familiaux, car son père et son frère travaillent pour les Stups."
       }
     ],
     "generique": [
       "Joaquin Phoenix",
+      "Mark Wahlberg",
       "Eva Mendes"
     ]
   },
@@ -92,12 +93,18 @@
     "pays": "États-Unis",
     "textes": [
       {
+        "typeTexte": 8,
+        "texte": "« J'avais envie de faire un film dans lequel toutes les émotions sont valides : il n'y a pas de distance entre le film et vous. (...) C'est très difficile de faire un film dans lequel quelqu'un dit : « I love you » et le pense. (...) Pour moi, l'art c'est ça : un engagement émotionnel total. » James Gray, 2008"
+      },
+      {
         "typeTexte": 9,
-        "texte": "New York. Leonard hésite entre suivre son destin et épouser Sandra,la femme que ses parents lui ont choisi ou se rebeller et écouter ses sentiments pour sa nouvelle voisine, Michelle, belle et volage, dont il est tombé éperdument amoureux."
+        "texte": "Leonard doit épouser la femme que ses parents lui destinent, et s'en accommode sans problème, jusqu'à sa rencontre avec sa nouvelle voisine, dont il tombe éperdument amoureux."
       }
     ],
     "generique": [
       "Joaquin Phoenix",
+      "Joaquin Phoenix",
+      "Gwyneth Paltrow",
       "Gwyneth Paltrow"
     ]
   },
@@ -113,11 +120,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un jeune homme sort de prison et tente de rester dans le droit chemin. Mais il trempe dans les affaires douteuses de l'entreprise familiale, l'Electric Rail Corporation, organisée autour de son oncle..."
+        "texte": "À sa sortie de prison, Leo tente de rester dans le droit chemin. Mais il doit travailler pour l'entreprise familiale, gérée par son oncle, qui trempe dans des affaires douteuses."
       }
     ],
     "generique": [
       "Mark Wahlberg",
+      "Joaquin Phoenix",
       "Charlize Theron",
       "James Caan"
     ]

@@ -9,10 +9,30 @@
     "pays": "Italie"
   },
   {
+    "titre": "Adieu Moscou",
+    "titreVo": "Mosca addio",
+    "idFilm": 66656,
+    "ageMinimal": 0,
+    "realisateurs": "Mauro Bolognini",
+    "annee": 1986,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ida Nudel, juive russe interdite d'exil en Israël, est arrêtée en 1978 lors d'une manifestation et envoyée en Sibérie dans un camp de travaux forcés pour hommes."
+      }
+    ],
+    "generique": [
+      "Liv Ullmann",
+      "Daniel Olbrychski",
+      "Aurore Clément"
+    ]
+  },
+  {
     "titre": "Agostino",
     "titreVo": "",
     "idFilm": 72626,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1962,
     "pays": "Italie",
@@ -42,7 +62,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En 1955, dans un quartier populaire de Rome, une bande de jeunes Italiens vit des aventures amoureuses."
+        "texte": "Les aventures amoureuses d'une bande de jeunes gens, dans un quartier populaire de la Rome des années 1950."
       }
     ],
     "generique": [
@@ -62,7 +82,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans l'Italie des années 20, Arabella tente d'extorquer de l'argent à différents personnages pour venir en aide à sa mère, menacée d'expulsion."
+        "texte": "Dans l'Italie en crise des années 1920, Arabella tente d'extorquer de l'argent à plusieurs personnes pour venir en aide à sa mère, menacée d'expulsion."
       }
     ],
     "generique": [
@@ -77,14 +97,14 @@
     "titreVo": "Bell'Antonio",
     "artVo": "Il",
     "idFilm": 42068,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1959,
     "pays": "Italie-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Après un long séjour à Rome, Antonio revient dans sa ville natale, où son charme lui vaut rapidement une réputation de séducteur. Antonio épouse Barbara, dont il est tombé éperdument amoureux, mais il cache un lourd secret."
+        "texte": "De retour dans sa ville natale après un long séjour à Rome, le séduisant Antonio épouse la pure Barbara, dont il est éperdument amoureux. Mais il cache un lourd secret."
       }
     ],
     "generique": [
@@ -95,49 +115,52 @@
     ]
   },
   {
-    "titre": "Black Journal = Mémoires diaboliques",
+    "titre": "Black Journal",
     "titreVo": "Gran bollito",
     "idFilm": 75906,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1977,
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une femme assassine sauvagement ses amies et les transforme en savon. Son méfait accompli, elle reprend calmement le cours de sa vie."
+        "texte": "Pendant la Seconde Guerre mondiale, une femme assassine sauvagement ses amies et les transforme en savon, avant de reprendre le cours de sa vie. D'après un fait divers : l'affaire Leonarda Cianciulli, la « saponificatrice de Correggio »."
       }
     ],
     "generique": [
-      "Laura Antonelli",
       "Shelley Winters",
-      "Max von Sydow"
+      "Max von Sydow",
+      "Mario Scaccia",
+      "Renato Pozzetto"
     ]
   },
   {
-    "titre": "Bubu",
-    "titreVo": "",
+    "titre": "Bubù de Montparnasse",
+    "titreVo": "Bubu",
     "idFilm": 39050,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1970,
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Par paresse et dans l'espoir de gagner ainsi plus d'argent, Bubù renonce à son métier de boulanger et convainc sa compagne Berta de se prostituer."
+        "texte": "Par paresse et dans l'espoir de gagner plus, Bubù renonce à son métier de boulanger et convainc sa compagne Berta de se prostituer."
       }
     ],
     "generique": [
-      "Ottavia Piccolo"
+      "Ottavia Piccolo",
+      "Massimo Ranieri",
+      "Antonio Falsi"
     ]
   },
   {
-    "titre": "Ca s'est passé à Rome",
+    "titre": "Ça s'est passé à Rome",
     "titreVo": "Giornata balorda",
     "artVo": "La",
     "idFilm": 41950,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1960,
     "pays": "Italie-France",
@@ -153,21 +176,6 @@
       "Paolo Stoppa"
     ],
     "adaptation": "D'après les nouvelles _Racconti romani_ et _Nuovi racconti romani_ d'Alberto Moravia."
-  },
-  {
-    "titre": "Capriccio all'italiana",
-    "titreVo": "",
-    "idFilm": 60124,
-    "ageMinimal": null,
-    "realisateurs": "Steno, Mauro Bolognini, Pier Paolo Pasolini, [etc.]",
-    "annee": 1967,
-    "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "la gelosa : Bolognini met en scène une jalouse maladive. perché : L'histoire d'une épouse horripilante."
-      }
-    ]
   },
   {
     "titre": "Capriccio all'italiana : La gelosa",
@@ -200,39 +208,38 @@
     ]
   },
   {
-    "titre": "Cavalieri della regina",
-    "art": "I",
-    "titreVo": "",
-    "idFilm": 56337,
-    "ageMinimal": null,
-    "realisateurs": "Joseph Lerner, Mauro Bolognini",
-    "annee": 1954,
+    "titre": "Caprice à l'italienne",
+    "titreVo": "Capriccio all'italiana",
+    "idFilm": 60124,
+    "ageMinimal": 0,
+    "realisateurs": "Steno, Mauro Bolognini, Pier Paolo Pasolini, [etc.]",
+    "annee": 1967,
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les trois mousquetaires servent les desseins de Marie de Médicis et sauvent l'infante d'Espagne."
+        "texte": "Film à sketches : un regard souvent acerbe sur la société italienne des années 60."
       }
     ],
     "generique": [
-      "Jeff Stone",
-      "Paul Campbell",
-      "Sebastian Cabot"
-    ],
-    "adaptation": "D'après le roman _Les Trois mousquetaires_ d'Alexandre Dumas."
+      "Silvana Mangano",
+      "Ugo D'alessio",
+      "Dante Maggio",
+      "Renzo Marignano"
+    ]
   },
   {
     "titre": "Ce merveilleux automne",
     "titreVo": "Un bellissimo novembre",
     "idFilm": 42108,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1968,
     "pays": "Italie-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Durant des vacances à la maison familiale en Sicile, Nino, un adolescent, s'éprend de sa tante Cettina."
+        "texte": "Au cours de vacances dans la maison familiale en Sicile, Nino, un adolescent, s'éprend de sa tante Cettina."
       }
     ],
     "generique": [
@@ -243,11 +250,12 @@
     "adaptation": "D'après le roman _Un bellissimo novembre_ d'Ercole Patti."
   },
   {
-    "titre": "Certosa di Parma TV",
+    "titre": "Chartreuse de Parme",
     "art": "La",
-    "titreVo": "",
+    "titreVo": "Certosa di Parma TV",
+    "artVo": "La",
     "idFilm": 120324,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1982,
     "pays": "Italie-France-RFA",
@@ -256,6 +264,12 @@
         "typeTexte": 9,
         "texte": "À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour."
       }
+    ],
+    "generique": [
+      "Marthe Keller",
+      "Marthe Keller",
+      "Gian Maria Volonté",
+      "Gian Maria Volonté"
     ]
   },
   {
@@ -270,13 +284,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La jeune et innocente Mademoiselle de Maupin est contrainte de fuir la maison de son oncle. Déguisée en abbé, elle prend la route du couvent. Prise pour un homme, elle est arrêtée par une troupe du roi qui décide de l'enrôler contre son gré."
+        "texte": "La jeune et innocente mademoiselle de Maupin, contrainte de fuir la maison de son oncle, se déguisé en abbé et prend la route du couvent. Prise pour un homme, elle est arrêtée par une troupe du roi qui décide de l'enrôler contre son gré."
       }
     ],
     "generique": [
       "Catherine Spaak",
       "Robert Hossein",
-      "Tomas Milian"
+      "Tomas Milian",
+      "Ottavia Piccolo"
     ],
     "adaptation": "D'après le roman _Mademoiselle de Maupin_ de Théophile Gautier."
   },
@@ -291,7 +306,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Au cours d'une manifestation qui dégénère violemment, Fabio blesse mortellement un policier, mais c'est un de ses camarades qui est inculpé à sa place. Fabio va tout mettre en œuvre pour innocenter son ami."
+        "texte": "Lors d'une manifestation qui dégénère violemment, Fabio blesse mortellement un policier, mais l'un de ses camarades est inculpé à sa place. Fabio va tout mettre en œuvre pour innocenter son ami."
       }
     ],
     "generique": [
@@ -306,14 +321,14 @@
     "titreVo": "Corruzione",
     "artVo": "La",
     "idFilm": 42071,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1963,
     "pays": "Italie-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Stefano, timide et sensible, aspire à devenir moine. Son père, qui le destine à une tout autre carrière, l'emmène en croisière avec une jeune femme pour le détourner de cette voie."
+        "texte": "Stefano, timide et sensible, veut entrer dans les ordres. Mais son père le destine à une tout autre carrière et, pour le détourner de sa vocation, l'emmène en croisière avec une jeune femme."
       }
     ],
     "generique": [
@@ -323,39 +338,68 @@
     ]
   },
   {
+    "titre": "D'Artagnan, chevalier de la reine",
+    "titreVo": "Cavalieri della regina",
+    "artVo": "I",
+    "idFilm": 56337,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph Lerner, Mauro Bolognini",
+    "annee": 1954,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les trois mousquetaires servent les desseins de Marie de Médicis et sauvent l'infante d'Espagne."
+      }
+    ],
+    "generique": [
+      "Jeff Stone",
+      "Paul Campbell",
+      "Sebastian Cabot",
+      "Domenico Modugno"
+    ],
+    "adaptation": "D'après le roman _Les Trois mousquetaires_ d'Alexandre Dumas."
+  },
+  {
     "titre": "Dame aux camélias",
     "art": "La",
     "titreVo": "",
     "idFilm": 46956,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1980,
     "pays": "France-Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Marguerite Gautier, récemment montée à Paris, devient prostituée, puis courtisane."
+        "texte": "L'amour d'Armand Duval pour Marguerite Gautier, prostituée et courtisane, atteinte de tuberculose."
       }
     ],
     "generique": [
       "Isabelle Huppert",
       "Gian Maria Volonté",
-      "Bruno Ganz"
+      "Bruno Ganz",
+      "Fabrizio Bentivoglio"
     ]
   },
   {
     "titre": "Débrouillez-vous !",
     "titreVo": "Arrangiatevi !",
     "idFilm": 70413,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1959,
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À Rome, après la Seconde Guerre Mondiale, deux familles sont contraintes à cohabiter dans un appartement. Lorsque les conditions s'améliorent, le patriarche de l'une des deux familles se lance à la recherche d'un logement convenable."
+        "texte": "Dans la Rome de l'après-guerre, deux familles sont contraintes de cohabiter dans un appartement. Lorsque les conditions de vie s'améliorent, l'un des deux patriarches se lance à la recherche d'un logement convenable."
       }
+    ],
+    "generique": [
+      "Totò",
+      "Peppino De Filippo",
+      "Laura Adani"
     ]
   },
   {
@@ -364,14 +408,14 @@
     "titreVo": "Notte brava",
     "artVo": "La",
     "idFilm": 45024,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1959,
     "pays": "Italie-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À Rome, deux jeunes marginaux volent une voiture et sa cargaison avant de fuir vers la banlieue en compagnie de deux prostituées."
+        "texte": "À Rome, deux jeunes voyous volent une voiture et fuient vers la banlieue en compagnie de deux prostituées pour une nuit de bagarres et de beuveries."
       }
     ],
     "generique": [
@@ -394,7 +438,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À Bologne, après trois ans de séparation, le comte Bonmartini et Linda Murri se remettent en couple pour le bien-être de leurs enfants, mais la jeune femme conserve une profonde aversion envers le comte."
+        "texte": "Après une longue séparation, le comte Bonmartini et sa femme Linda se remettent en couple pour le bien-être de leurs enfants. Mais la jeune femme conserve une profonde aversion envers son époux, que l'on retrouve bientôt assassiné."
       }
     ],
     "generique": [
@@ -414,7 +458,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À Rome, quatre agents de la circulation zélés se heurtent à la désapprobation et au mépris de la population à leur encontre."
+        "texte": "À Rome, quatre agents de la circulation zélés se heurtent à la désapprobation et au mépris de la population."
       }
     ],
     "generique": [
@@ -429,14 +473,14 @@
     "titreVo": "Eredità Ferramonti",
     "artVo": "L'",
     "idFilm": 42091,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1975,
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À Rome, en 1880, Gregorio Ferramonti, qui a fait fortune dans la boulangerie, méprise et rejette ses trois enfants, Mario, Pippo et Teta, qu'il accuse de ne pas l'aimer et de n'en vouloir qu'à son argent."
+        "texte": "Rome, 1880. Le riche Gregorio Ferramonti méprise et rejette ses trois enfants, Mario, Pippo et Teta, qu'il accuse de ne pas l'aimer et de convoiter son argent."
       }
     ],
     "generique": [
@@ -457,7 +501,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Quatre amis mènent une vie d'insouciance. Un jour, l'un d'eux décide de se marier, ce qui pousse un autre à faire de même. La vie va finalement les séparer, et lorsqu'ils se retrouvent plus tard, ils réalisent qu'ils n'ont plus rien à partager."
+        "texte": "Quatre amis inséparables mènent une vie insouciante, jusqu'au mariage de l'un d'entre eux, qui marque le début de leur éloignement. Plus tard, ils tentent de se retrouver."
       }
     ],
     "generique": [
@@ -471,14 +515,14 @@
     "titre": "Liberté mon amour",
     "titreVo": "Libera amore mio",
     "idFilm": 60132,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1973,
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans l'Italie des années 30, tandis que sa famille est contrainte de s'exiler en province, Liberia s'oppose fermement au fascisme, ce qui lui vaut de devenir la cible d'un dignitaire du régime."
+        "texte": "Rome, 1930. Alors que sa famille s'est exilée en province, Liberia, restée en ville, s'oppose fermement au fascisme, et devient la cible d'un dignitaire du régime."
       }
     ],
     "generique": [
@@ -488,17 +532,17 @@
     ]
   },
   {
-    "titre": "Marisa la Coquette",
+    "titre": "Marisa la coquette",
     "titreVo": "Marisa la civetta",
     "idFilm": 90659,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1957,
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Portrait de Marisa, jeune vendeuse de glaces, belle et coquette, qui fait chavirer le cœur des garçons."
+        "texte": "La jeune Marisa, belle et coquette vendeuse de glaces à la gare, fait chavirer les cœurs et papillonne entre les hommes."
       }
     ],
     "generique": [
@@ -513,14 +557,14 @@
     "titreVo": "Viaccia",
     "artVo": "La",
     "idFilm": 42063,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1960,
     "pays": "Italie-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le jeune Amerigo quitte sa campagne natale pour la ville, où il travaille chez son oncle. Tombé follement amoureux de la prostituée Bianca, il met tout en œuvre pour subvenir à ses besoins, allant même jusqu'à voler son oncle."
+        "texte": "Le jeune Amerigo quitte son village pour venir travailler avec son oncle à Florence, où il tombe amoureux d'une prostituée. Pour se rapprocher d'elle, il va jusqu'au vol et à la dépravation."
       }
     ],
     "generique": [
@@ -534,7 +578,7 @@
     "titre": "Metello",
     "titreVo": "",
     "idFilm": 42103,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1969,
     "pays": "Italie",
@@ -545,6 +589,7 @@
       }
     ],
     "generique": [
+      "Massimo Ranieri",
       "Ottavia Piccolo",
       "Lucia Bosè"
     ]
@@ -561,8 +606,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "I mei cari : Un homme malade passe un long moment à l'hôpital. Au lieu de le réconforter, ses proches lui reprochent de ne pas assumer ses responsabilités de père de famille. Luciana: En accompagnant sa femme à l'aéroport, Giovanni rencontre Luciana, dont le mari part également en avion."
+        "texte": "Film à sketches en cinq segments sur les relations houleuses entre mari et femme. Mauro Bolognini réalise les épisodes _I Miei cari_ et _Luciana_."
       }
+    ],
+    "generique": [
+      "Alberto Sordi",
+      "Silvana Mangano",
+      "Elena Nicolai",
+      "Elena Fabrizi"
     ]
   },
   {
@@ -598,26 +649,6 @@
     ]
   },
   {
-    "titre": "Mosca addio",
-    "titreVo": "",
-    "idFilm": 66656,
-    "ageMinimal": null,
-    "realisateurs": "Mauro Bolognini",
-    "annee": 1986,
-    "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Ida Nudel, juive russe interdite d'exil en Israël, est arrêtée en 1978 lors d'une manifestation avant d'être envoyée dans un camp masculin de travaux forcés en Sibérie."
-      }
-    ],
-    "generique": [
-      "Liv Ullmann",
-      "Daniel Olbrychski",
-      "Aurore Clément"
-    ]
-  },
-  {
     "titre": "Ogresses",
     "art": "Les",
     "titreVo": "Fate",
@@ -630,8 +661,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'Ogresse Héléna: En rendant visite à un ami, Luigi s'éprend de sa femme Elena, avec qui il débute une relation."
+        "texte": "Sexy comédie en quatre parties."
       }
+    ],
+    "generique": [
+      "Monica Vitti",
+      "Claudia Cardinale",
+      "Raquel Welch",
+      "Capucine"
     ]
   },
   {
@@ -662,12 +699,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un dentiste, incorrigible coureur de jupons, retrouve son ex-femme mais ne parvient pas à la séduire à nouveau."
+        "texte": "Film à sketches en trois épisodes sur le thème des vacances."
       }
     ],
     "generique": [
       "Ugo Tognazzi",
-      "Stefania Sandrelli"
+      "Stefania Sandrelli",
+      "Paolo Villaggio"
     ]
   },
   {
@@ -682,8 +720,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Segment Nuits romaines"
+        "texte": "Film à sketches : la prostitution à travers les âges."
       }
+    ],
+    "generique": [
+      "Michèle Mercier",
+      "Elsa Martinelli",
+      "Raquel Welch"
     ]
   },
   {
@@ -709,8 +752,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Segment Monseigneur Cupidon : Un monsignore vénitien se rend à une conférence à Rome en compagnie de son neveu Vincenzo, un beau jeune homme timide. Dans l'hôtel où ils logent, Béatrice, la femme du propriétaire, s'entiche de ce garçon et fait tout pour le séduire."
+        "texte": "Quatre histoires du _Décaméron_ de Boccace transposées dans l'Italie des années 1960."
       }
+    ],
+    "generique": [
+      "Virna Lisi",
+      "Gina Lollobrigida",
+      "Monica Vitti",
+      "Elke Sommer"
     ]
   },
   {
@@ -734,7 +783,7 @@
     "titre": "Quand la chair succombe",
     "titreVo": "Senilita",
     "idFilm": 42106,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1961,
     "pays": "Italie-France",
@@ -790,22 +839,6 @@
     ]
   },
   {
-    "titre": "Tre volti",
-    "art": "I",
-    "titreVo": "",
-    "idFilm": 60128,
-    "ageMinimal": null,
-    "realisateurs": "Michelangelo Antonioni, Mauro Bolognini, Franco Indovina",
-    "annee": 1964,
-    "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Gli amanti celebri : Linda est mariée à Robert, un écrivain, jusqu'au jour où elle retrouve son ancien amant Rodolphe, qui lui suggère de divorcer pour vivre avec lui."
-      }
-    ]
-  },
-  {
     "titre": "Tre volti : Gli amanti celebri",
     "art": "I",
     "titreVo": "",
@@ -817,8 +850,30 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Linda est mariée à Robert, un écrivain, jusqu'au jour où elle retrouve son ancien amant Rodolphe, qui lui suggère de divorcer pour vivre avec lui."
+        "texte": "Linda, mariée à un écrivain, retrouve un jour son ancien amant, qui lui suggère de divorcer pour vivre avec lui."
       }
+    ]
+  },
+  {
+    "titre": "Trois visages",
+    "art": "Les",
+    "titreVo": "Tre volti",
+    "artVo": "I",
+    "idFilm": 60128,
+    "ageMinimal": 0,
+    "realisateurs": "Michelangelo Antonioni, Mauro Bolognini, Franco Indovina",
+    "annee": 1964,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Film en trois parties. Bolognini a réalisé le segment _Gli Amanti celebri_ : Linda, mariée à un écrivain, retrouve un jour son ancien amant, qui lui suggère de divorcer pour vivre avec lui."
+      }
+    ],
+    "generique": [
+      "Soraya",
+      "Richard Harris",
+      "Esmeralda Ruspoli"
     ]
   },
   {
@@ -832,33 +887,36 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un artiste comique qui peine à rencontrer le succès fait la connaissance de Caterina, qu'il épouse. Mais peu à peu, sa voix formidable permet à Caterina de devenir une chanteuse à succès."
+        "texte": "Gardenio, un artiste comique qui peine à rencontrer le succès, épouse la jeune Caterina. Mais c'est elle qui devient célèbre grâce à sa voix magnifique."
       }
     ],
     "generique": [
       "Alberto Sordi",
-      "Sophia Loren"
+      "Sophia Loren",
+      "Carlo Dapporto"
     ]
   },
   {
-    "titre": "Vena d'oro",
+    "titre": "Veine d'or",
     "art": "La",
-    "titreVo": "",
+    "titreVo": "Vena d'oro",
+    "artVo": "La",
     "idFilm": 92504,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1955,
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Corrado vit avec sa mère, Teresa, veuve et qui le couve encore comme un enfant. Le jeune homme s'ennuie et fait la rencontre de Manfredi, un ingénieur à qui il fait rencontrer sa mère."
+        "texte": "Corrado vit avec sa mère, veuve, qui le couve encore comme un enfant. Il lui présente un jour Manfredi, un ingénieur qu'il vient de rencontrer."
       }
     ],
     "generique": [
       "Marta Toren",
       "Richard Basehart",
-      "Mario Girotti"
+      "Mario Girotti",
+      "Titina De Filippo"
     ]
   },
   {
@@ -874,11 +932,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A Venise, au XVIe siècle, alors que le peuple célèbre la fin de la « Peste Noire », deux femmes, Valeria et Angela, rivalisent de charme et de séduction afin de conquérir le jeune Jules."
+        "texte": "À Venise, au XVIe siècle, alors que l'on célèbre la fin de la peste noire, deux femmes, Valeria et Angela, rivalisent de charme et de séduction pour conquérir le jeune Jules."
       }
     ],
     "generique": [
-      "Laura Antonelli"
+      "Laura Antonelli",
+      "Monica Guerritore",
+      "Jason Connery"
     ]
   },
   {
@@ -892,7 +952,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans l'Italie des années 30, le professeur Bonaccorsi, psychiatre réputé, mène des recherches sur la folie dans l'asile toscan où il travaille comme médecin. Une nouvelle venue, le docteur Anna Bersani, s'oppose très vite à ses théories."
+        "texte": "Dans la Toscane des années 1930, le professeur Bonaccorsi, psychiatre réputé, mène des recherches sur la folie dans l'asile où il travaille. Une nouvelle venue, le docteur Anna Bersani, s'oppose très vite à ses théories."
       }
     ],
     "generique": [
@@ -907,17 +967,18 @@
     "art": "La",
     "titreVo": "",
     "idFilm": 72592,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Mauro Bolognini",
     "annee": 1991,
     "pays": "Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Stefan et Alina se marient. Mais Alina a une exigence, elle veut avoir un amant. Son époux n'impose qu'une condition : qu'elle lui rapporte tous les détails de leur relation. Bientôt, les rôles s'inversent, et l'amant devient exigeant et obsédé..."
+        "texte": "À peine mariée avec Stefan, Alina exige de pouvoir prendre un amant. Son époux accepte, à la seule condition qu'elle lui rapporte chaque détail de cette liaison."
       }
     ],
     "generique": [
+      "Joanna Pacula",
       "Tchéky Karyo",
       "Julian Sands",
       "Jeanne Valérie"

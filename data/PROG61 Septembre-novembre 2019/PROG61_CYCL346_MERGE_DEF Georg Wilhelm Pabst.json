@@ -38,7 +38,7 @@
         {
           "idSeance": 31955,
           "ordre": 1,
-          "dateHeure": "2019-11-23T22:00:00",
+          "dateHeure": "2019-11-23T21:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -139,7 +139,7 @@
         {
           "idSeance": 31200,
           "ordre": 1,
-          "dateHeure": "2019-11-07T19:00:00",
+          "dateHeure": "2019-11-08T21:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -333,13 +333,14 @@
           ]
         },
         {
-          "idSeance": 31869,
+          "idSeance": 32046,
           "ordre": 1,
-          "dateHeure": "2019-11-09T21:00:00",
+          "dateHeure": "2019-11-03T17:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
+          "mention": "Accompagnement musical par Jean-François Zygel",
           "idCategorie": 1585,
           "idEvenement": 16611,
           "typeEvenement": 13,
@@ -364,12 +365,12 @@
           ]
         },
         {
-          "idSeance": 31300,
+          "idSeance": 31869,
           "ordre": 1,
-          "dateHeure": "2019-11-23T19:30:00",
+          "dateHeure": "2019-11-09T21:00:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 1585,
           "idEvenement": 16611,
@@ -527,7 +528,7 @@
         {
           "idSeance": 31868,
           "ordre": 1,
-          "dateHeure": "2019-11-03T21:45:00",
+          "dateHeure": "2019-11-03T21:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -660,6 +661,10 @@
             {
               "typeTexte": 9,
               "texte": "Dans un quartier de Londres en proie aux guerres de gangs, une rivalité s'installe entre le roi des mendiants et le gangster que sa fille veut épouser."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Version allemande du film. Voir aussi _Opéra de quat'sous (L')_"
             }
           ]
         },
@@ -694,13 +699,17 @@
             {
               "typeTexte": 9,
               "texte": "Dans un quartier de Londres en proie aux guerres de gangs, une rivalité s'installe entre le roi des mendiants et le gangster que sa fille veut épouser."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Version allemande du film. Voir aussi _Opéra de quat'sous (L')_"
             }
           ]
         },
         {
           "idSeance": 31207,
           "ordre": 1,
-          "dateHeure": "2019-11-08T21:30:00",
+          "dateHeure": "2019-11-08T22:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -730,13 +739,14 @@
           ]
         },
         {
-          "idSeance": 31858,
+          "idSeance": 32051,
           "ordre": 1,
-          "dateHeure": "2019-11-01T19:00:00",
+          "dateHeure": "2019-11-01T21:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
+          "mention": "Accompagnement musical par Jean-François Zygel",
           "idCategorie": 1585,
           "idEvenement": 16617,
           "typeEvenement": 13,
@@ -907,7 +917,7 @@
         {
           "idSeance": 31866,
           "ordre": 1,
-          "dateHeure": "2019-11-07T21:00:00",
+          "dateHeure": "2019-11-07T21:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -1010,6 +1020,7 @@
             "HL",
             "Henri Langlois"
           ],
+          "mention": "Ouverture de la rétrospective. Accompagnement musical par Neil Brand",
           "idCategorie": 1585,
           "idEvenement": 16624,
           "typeEvenement": 13,
@@ -1202,13 +1213,14 @@
           ]
         },
         {
-          "idSeance": 31170,
+          "idSeance": 32042,
           "ordre": 1,
-          "dateHeure": "2019-11-02T17:30:00",
+          "dateHeure": "2019-11-01T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
+          "mention": "Accompagnement musical par Jean-François Zygel",
           "idCategorie": 1585,
           "idEvenement": 16630,
           "typeEvenement": 13,
@@ -1238,9 +1250,9 @@
           ]
         },
         {
-          "idSeance": 31293,
+          "idSeance": 32047,
           "ordre": 1,
-          "dateHeure": "2019-11-22T21:00:00",
+          "dateHeure": "2019-11-23T19:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1291,7 +1303,6 @@
           "realisateurs": "Georg Wilhelm Pabst",
           "annee": 1930,
           "duree": 104,
-          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Albert Préjean",
@@ -1304,6 +1315,10 @@
             {
               "typeTexte": 9,
               "texte": "Dans un quartier de Londres en proie aux guerres de gangs, une rivalité s'installe entre le chef des mendiants et le gangster que sa fille veut épouser."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Version française du film. Voir aussi _Dreigroschenoper (Die)_"
             }
           ]
         },
@@ -1338,13 +1353,17 @@
             {
               "typeTexte": 9,
               "texte": "Dans un quartier de Londres en proie aux guerres de gangs, une rivalité s'installe entre le chef des mendiants et le gangster que sa fille veut épouser."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Version française du film. Voir aussi _Dreigroschenoper (Die)_"
             }
           ]
         },
         {
           "idSeance": 31910,
           "ordre": 1,
-          "dateHeure": "2019-11-07T16:30:00",
+          "dateHeure": "2019-11-07T16:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1611,6 +1630,45 @@
             "HL",
             "Henri Langlois"
           ],
+          "mention": "Accompagnement musical par Neil Brand",
+          "idCategorie": 1585,
+          "idEvenement": 16638,
+          "typeEvenement": 13,
+          "idFilm": 45672,
+          "art": "La",
+          "titre": "Rue sans joie",
+          "artVo": "Die",
+          "titreVo": "Freudlose Gasse",
+          "realisateurs": "Georg Wilhelm Pabst",
+          "annee": 1925,
+          "duree": 150,
+          "version": "STF",
+          "format": "35 mm",
+          "generique": [
+            "Asta Nielsen",
+            "Greta Garbo",
+            "Werner Krauss"
+          ],
+          "adaptation": "D'après le roman _Die Freudlose Gasse_ de Hugo Bettauer.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans la Vienne des années 20 en proie à l'inflation, le destin de deux jeunes femmes exploitées par la tenancière cynique d'une maison de rendez-vous."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "« Asta Nielsen, Greta Garbo, deux femmes, deux visages que personne ne peut plus oublier. L'un est l'aboutissement de toute une tradition qui marque profondément l'avenir du cinéma. L'autre est le reflet d'un art d'une pureté extrême qui illumina l'art cinématographique mondial. Le visage d'Asta Nielsen est toute intelligence, toute science, et son masque blafard est inséparable du souvenir de Cesare le somnambule. » (Henri Langlois)"
+            }
+          ]
+        },
+        {
+          "idSeance": 32048,
+          "ordre": 1,
+          "dateHeure": "2019-11-22T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
           "idCategorie": 1585,
           "idEvenement": 16638,
           "typeEvenement": 13,
@@ -1714,9 +1772,9 @@
           ]
         },
         {
-          "idSeance": 31164,
+          "idSeance": 32052,
           "ordre": 1,
-          "dateHeure": "2019-11-01T21:45:00",
+          "dateHeure": "2019-11-04T14:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1780,7 +1838,7 @@
         {
           "idSeance": 31180,
           "ordre": 1,
-          "dateHeure": "2019-11-03T19:30:00",
+          "dateHeure": "2019-11-03T19:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1842,13 +1900,14 @@
           ]
         },
         {
-          "idSeance": 31182,
+          "idSeance": 32044,
           "ordre": 1,
-          "dateHeure": "2019-11-04T14:30:00",
+          "dateHeure": "2019-11-02T17:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
+          "mention": "Accompagnement musical par Jean-François Zygel",
           "idCategorie": 1585,
           "idEvenement": 16641,
           "typeEvenement": 13,

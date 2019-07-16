@@ -19,11 +19,18 @@
         "tri": 1
       },
       {
+        "titre": "Série TV",
+        "cats": [
+          2104
+        ],
+        "tri": 4
+      },
+      {
         "titre": "Rencontres et conférences",
         "cats": [
           2074
         ],
-        "tri": 1
+        "tri": 4
       }
     ],
     "idProg": 61
@@ -177,13 +184,13 @@
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 32030,
+              "idSeance": 32053,
               "ordre": 1,
               "idEvenement": 19509,
-              "dateHeure": "2019-11-08T19:30:00",
+              "dateHeure": "2019-11-15T14:30:00",
               "idSalle": [
-                "JE",
-                "Jean Epstein"
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]
@@ -266,6 +273,16 @@
               "ordre": 1,
               "idEvenement": 19527,
               "dateHeure": "2019-11-11T19:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 32060,
+              "ordre": 1,
+              "idEvenement": 19527,
+              "dateHeure": "2019-11-13T21:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -379,6 +396,9 @@
             "Paolo Turco",
             "Gabriele Ferzetti"
           ],
+          "duree": 92,
+          "format": "35 mm",
+          "version": "VF",
           "seance": [
             {
               "idSeance": 31211,
@@ -398,39 +418,6 @@
               "idSalle": [
                 "HL",
                 "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idFilm": 120324,
-          "titre": "Chartreuse de Parme",
-          "art": "La",
-          "titreVo": "Certosa di Parma",
-          "artVo": "La",
-          "realisateurs": "Mauro Bolognini",
-          "annee": 1982,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour."
-            }
-          ],
-          "adaptation": "D'après le roman _La Chartreuse de Parme_ de Stendhal.",
-          "generique": [
-            "Marthe Keller",
-            "Gian Maria Volonté",
-            "Andrea Occhipinti"
-          ],
-          "seance": [
-            {
-              "idSeance": 31236,
-              "ordre": 1,
-              "idEvenement": 19520,
-              "dateHeure": "2019-11-13T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
               ]
             }
           ]
@@ -789,16 +776,16 @@
           ],
           "duree": 92,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 31192,
+              "idSeance": 32064,
               "ordre": 1,
               "idEvenement": 19529,
-              "dateHeure": "2019-11-06T19:30:00",
+              "dateHeure": "2019-11-07T17:00:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]
@@ -906,13 +893,13 @@
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 32034,
+              "idSeance": 32063,
               "ordre": 1,
               "idEvenement": 19532,
-              "dateHeure": "2019-11-08T21:45:00",
+              "dateHeure": "2019-11-06T19:30:00",
               "idSalle": [
-                "JE",
-                "Jean Epstein"
+                "GF",
+                "Georges Franju"
               ]
             },
             {
@@ -952,7 +939,7 @@
               "idSeance": 31193,
               "ordre": 1,
               "idEvenement": 19533,
-              "dateHeure": "2019-11-06T21:30:00",
+              "dateHeure": "2019-11-06T21:45:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -1113,7 +1100,7 @@
           ],
           "duree": 91,
           "format": "35 mm",
-          "version": "VOSTF",
+          "version": "VO",
           "seance": [
             {
               "idSeance": 31160,
@@ -1204,7 +1191,7 @@
           ],
           "duree": 102,
           "format": "35 mm",
-          "version": "VOSTA",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 31992,
@@ -1394,7 +1381,7 @@
           "generique": [
             "Monica Vitti",
             "Claudia Cardinale",
-            "Rquel Welch",
+            "Raquel Welch",
             "Capucine"
           ],
           "duree": 114,
@@ -1457,7 +1444,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Film à skecthes : la prostitution à travers les âges."
+              "texte": "Film à sketches : la prostitution à travers les âges."
             }
           ],
           "generique": [
@@ -1498,7 +1485,7 @@
           ],
           "generique": [
             "Virna Lisi",
-            "Moica Vitti",
+            "Monica Vitti",
             "Elke Sommer",
             "Gina Lollobrigida"
           ],
@@ -1591,30 +1578,116 @@
       ]
     },
     {
-      "titreSousCycle": "Rencontres et conférences",
-      "tri": 1,
+      "titreSousCycle": "Série TV",
+      "tri": 4,
       "items": [
         {
-          "titre": "Mauro Bolognini, au-delà du style",
-          "textes": [
+          "idCategorie": 2104,
+          "idEvenement": 19520,
+          "films": [
             {
-              "typeTexte": 8,
-              "texte": "Faisant souvent figure de cinéaste de second plan, Mauro Bolognini est au contraire un des grands artistes de son époque. Auteur de plus de quarante films, il a réalisé des œuvres relevant de différents genres et a donné sans doute le meilleur de lui-même dans des adaptations de textes littéraires auxquels il apportait une élégance formelle unique, sachant tirer parti des décors naturels offerts par les grandes villes italiennes."
-            },
-            {
-              "typeTexte": 156,
-              "texte": "Historien du cinéma et critique, Jean A. Gili est spécialiste du cinéma transalpin. Il a consacré des ouvrages, entres autres, à Luigi Comencini, Ettore Scola, Federico Fellini et Nanni Moretti. En 2011, il a publié, aux éditions de La Martinière, _Le Cinéma italien_."
-            },
-            {
-              "typeTexte": 114,
-              "texte": "Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €)."
+              "idFilm": 120324,
+              "titre": "Chartreuse de Parme",
+              "art": "La",
+              "titreVo": "Certosa di Parma",
+              "artVo": "La",
+              "realisateurs": "Mauro Bolognini",
+              "annee": 1982,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour."
+                }
+              ],
+              "adaptation": "D'après le roman _La Chartreuse de Parme_ de Stendhal.",
+              "generique": [
+                "Marthe Keller",
+                "Gian Maria Volonté",
+                "Andrea Occhipinti"
+              ],
+              "duree": 180,
+              "format": "Numérique",
+              "version": "VOSTF",
+              "ordre": 1
             }
           ],
-          "duree": 90,
           "seance": [
             {
-              "idSeance": 31244,
-              "idEvenement": 20639,
+              "dateHeure": "2019-11-07T18:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2104,
+          "idEvenement": 20743,
+          "films": [
+            {
+              "idFilm": 120324,
+              "titre": "Chartreuse de Parme",
+              "art": "La",
+              "titreVo": "Certosa di Parma",
+              "artVo": "La",
+              "realisateurs": "Mauro Bolognini",
+              "annee": 1982,
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour."
+                }
+              ],
+              "adaptation": "D'après le roman _La Chartreuse de Parme_ de Stendhal.",
+              "generique": [
+                "Marthe Keller",
+                "Gian Maria Volonté",
+                "Andrea Occhipinti"
+              ],
+              "duree": 180,
+              "format": "Numérique",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-11-08T18:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idCategorie": 2074,
+          "idEvenement": 20639,
+          "films": [
+            {
+              "titre": "Mauro Bolognini, au-delà du style",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "Faisant souvent figure de cinéaste de second plan, Mauro Bolognini est au contraire un des grands artistes de son époque. Auteur de plus de quarante films, il a réalisé des œuvres relevant de différents genres et a donné sans doute le meilleur de lui-même dans des adaptations de textes littéraires auxquels il apportait une élégance formelle unique, sachant tirer parti des décors naturels offerts par les grandes villes italiennes."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Historien du cinéma et critique, Jean A. Gili est spécialiste du cinéma transalpin. Il a consacré des ouvrages, entres autres, à Luigi Comencini, Ettore Scola, Federico Fellini et Nanni Moretti. En 2011, il a publié _Le Cinéma italien_ (éditions de La Martinière)."
+                }
+              ],
+              "duree": 90
+            }
+          ],
+          "seance": [
+            {
               "dateHeure": "2019-11-14T19:00:00",
               "idSalle": [
                 "GF",

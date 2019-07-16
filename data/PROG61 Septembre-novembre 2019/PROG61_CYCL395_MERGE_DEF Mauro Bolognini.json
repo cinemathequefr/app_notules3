@@ -166,12 +166,12 @@
           ]
         },
         {
-          "idSeance": 32030,
+          "idSeance": 32053,
           "ordre": 1,
-          "dateHeure": "2019-11-08T19:30:00",
+          "dateHeure": "2019-11-15T14:30:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "HL",
+            "Henri Langlois"
           ],
           "idCategorie": 1763,
           "idEvenement": 19509,
@@ -303,6 +303,42 @@
           ]
         },
         {
+          "idSeance": 32060,
+          "ordre": 1,
+          "dateHeure": "2019-11-13T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 1763,
+          "idEvenement": 19527,
+          "typeEvenement": 13,
+          "idFilm": 75906,
+          "titre": "Black Journal",
+          "titreVo": "Gran bollito",
+          "realisateurs": "Mauro Bolognini",
+          "annee": 1977,
+          "duree": 115,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Shelley Winters",
+            "Max von Sydow",
+            "Mario Scaccia",
+            "Renato Pozzetto"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pendant la Seconde Guerre mondiale, une femme assassine sauvagement ses amies et les transforme en savon, avant de reprendre le cours de sa vie."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "D'après un fait divers : l'affaire Leonarda Cianciulli, la « saponificatrice de Correggio »."
+            }
+          ]
+        },
+        {
           "idSeance": 31218,
           "ordre": 1,
           "dateHeure": "2019-11-10T17:15:00",
@@ -380,6 +416,9 @@
           "titreVo": "Un bellissimo novembre",
           "realisateurs": "Mauro Bolognini",
           "annee": 1972,
+          "duree": 92,
+          "version": "VF",
+          "format": "35 mm",
           "generique": [
             "Gina Lollobrigida",
             "Paolo Turco",
@@ -409,6 +448,9 @@
           "titreVo": "Un bellissimo novembre",
           "realisateurs": "Mauro Bolognini",
           "annee": 1972,
+          "duree": 92,
+          "version": "VF",
+          "format": "35 mm",
           "generique": [
             "Gina Lollobrigida",
             "Paolo Turco",
@@ -419,37 +461,6 @@
             {
               "typeTexte": 9,
               "texte": "Au cours de vacances dans la maison familiale en Sicile, Nino, un adolescent, s'éprend de sa tante Cettina."
-            }
-          ]
-        },
-        {
-          "idSeance": 31236,
-          "ordre": 1,
-          "dateHeure": "2019-11-13T21:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 1763,
-          "idEvenement": 19520,
-          "typeEvenement": 13,
-          "idFilm": 120324,
-          "art": "La",
-          "titre": "Chartreuse de Parme",
-          "artVo": "La",
-          "titreVo": "Certosa di Parma",
-          "realisateurs": "Mauro Bolognini",
-          "annee": 1982,
-          "generique": [
-            "Marthe Keller",
-            "Gian Maria Volonté",
-            "Andrea Occhipinti"
-          ],
-          "adaptation": "D'après le roman _La Chartreuse de Parme_ de Stendhal.",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour."
             }
           ]
         },
@@ -896,12 +907,12 @@
           ]
         },
         {
-          "idSeance": 31192,
+          "idSeance": 32064,
           "ordre": 1,
-          "dateHeure": "2019-11-06T19:30:00",
+          "dateHeure": "2019-11-07T17:00:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "idCategorie": 1763,
           "idEvenement": 19529,
@@ -912,7 +923,7 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1956,
           "duree": 92,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Alberto Sordi",
@@ -1027,12 +1038,12 @@
           ]
         },
         {
-          "idSeance": 32034,
+          "idSeance": 32063,
           "ordre": 1,
-          "dateHeure": "2019-11-08T21:45:00",
+          "dateHeure": "2019-11-06T19:30:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
           "idCategorie": 1763,
           "idEvenement": 19532,
@@ -1091,7 +1102,7 @@
         {
           "idSeance": 31193,
           "ordre": 1,
-          "dateHeure": "2019-11-06T21:30:00",
+          "dateHeure": "2019-11-06T21:45:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1334,7 +1345,7 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1953,
           "duree": 91,
-          "version": "VOSTF",
+          "version": "VO",
           "format": "35 mm",
           "generique": [
             "Alberto Sordi",
@@ -1365,7 +1376,7 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1953,
           "duree": 91,
-          "version": "VOSTF",
+          "version": "VO",
           "format": "35 mm",
           "generique": [
             "Alberto Sordi",
@@ -1564,7 +1575,7 @@
           "realisateurs": "Mauro Bolognini",
           "annee": 1985,
           "duree": 102,
-          "version": "VOSTA",
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Laura Antonelli",
@@ -1743,7 +1754,7 @@
           "generique": [
             "Monica Vitti",
             "Claudia Cardinale",
-            "Rquel Welch",
+            "Raquel Welch",
             "Capucine"
           ],
           "textes": [
@@ -1814,7 +1825,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Film à skecthes : la prostitution à travers les âges."
+              "texte": "Film à sketches : la prostitution à travers les âges."
             }
           ]
         },
@@ -1841,7 +1852,7 @@
           "format": "35 mm",
           "generique": [
             "Virna Lisi",
-            "Moica Vitti",
+            "Monica Vitti",
             "Elke Sommer",
             "Gina Lollobrigida"
           ],
@@ -1921,8 +1932,82 @@
       ]
     },
     {
+      "titreSousCycle": "Série TV",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32061,
+          "ordre": 1,
+          "dateHeure": "2019-11-07T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2104,
+          "idEvenement": 19520,
+          "typeEvenement": 13,
+          "idFilm": 120324,
+          "art": "La",
+          "titre": "Chartreuse de Parme",
+          "artVo": "La",
+          "titreVo": "Certosa di Parma",
+          "realisateurs": "Mauro Bolognini",
+          "annee": 1982,
+          "duree": 180,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "generique": [
+            "Marthe Keller",
+            "Gian Maria Volonté",
+            "Andrea Occhipinti"
+          ],
+          "adaptation": "D'après le roman _La Chartreuse de Parme_ de Stendhal.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour."
+            }
+          ]
+        },
+        {
+          "idSeance": 32062,
+          "ordre": 1,
+          "dateHeure": "2019-11-08T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2104,
+          "idEvenement": 20743,
+          "typeEvenement": 13,
+          "idFilm": 120324,
+          "art": "La",
+          "titre": "Chartreuse de Parme",
+          "artVo": "La",
+          "titreVo": "Certosa di Parma",
+          "realisateurs": "Mauro Bolognini",
+          "annee": 1982,
+          "duree": 180,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "generique": [
+            "Marthe Keller",
+            "Gian Maria Volonté",
+            "Andrea Occhipinti"
+          ],
+          "adaptation": "D'après le roman _La Chartreuse de Parme_ de Stendhal.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Milan, en 1796, alors que Bonaparte et ses troupes entrent dans la ville, le jeune Fabrice Del Dongo découvre à la fois la guerre et l'amour."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titreSousCycle": "Rencontres et conférences",
-      "tri": 1,
+      "tri": 4,
       "items": [
         {
           "idSeance": 31244,
@@ -1948,11 +2033,7 @@
             },
             {
               "typeTexte": 156,
-              "texte": "Historien du cinéma et critique, Jean A. Gili est spécialiste du cinéma transalpin. Il a consacré des ouvrages, entres autres, à Luigi Comencini, Ettore Scola, Federico Fellini et Nanni Moretti. En 2011, il a publié, aux éditions de La Martinière, _Le Cinéma italien_."
-            },
-            {
-              "typeTexte": 114,
-              "texte": "Tarifs conférence : PT 5 €, TR 4 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 9.5 € (au lieu de 12 €)."
+              "texte": "Historien du cinéma et critique, Jean A. Gili est spécialiste du cinéma transalpin. Il a consacré des ouvrages, entres autres, à Luigi Comencini, Ettore Scola, Federico Fellini et Nanni Moretti. En 2011, il a publié _Le Cinéma italien_ (éditions de La Martinière)."
             }
           ],
           "intervenants": [

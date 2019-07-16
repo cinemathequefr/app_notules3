@@ -1,0 +1,83 @@
+[
+  {
+    "titre": "Loups entre eux",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 48781,
+    "ageMinimal": null,
+    "realisateurs": "José Giovanni",
+    "annee": 1985,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un matin, sur une route italienne, le général Lee W. Simon, détenteur de secrets de la défense de l'O.T.A.N., est enlevé par des terroristes. Une équipe est alors envoyée à son secours."
+      }
+    ],
+    "generique": [
+      "Claude Brasseur",
+      "Bernard-Pierre Donnadieu",
+      "Gérard Darmon"
+    ]
+  },
+  {
+    "titre": "Panique en plein ciel",
+    "titreVo": "Mayday at 40 000 Feet",
+    "idFilm": 29632,
+    "ageMinimal": null,
+    "realisateurs": "Robert Butler",
+    "annee": 1976,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le copilote et l'ingénieur d'un avion à réaction luttent pour garder l'avion en vol jusqu'à ce qu'il puisse atteindre un aérodrome ouvert, après qu'un tueur à bord de l'avion a tiré une arme à feu sur un moteur et sur un des pilotes de l'avion."
+      }
+    ],
+    "generique": [
+      "Ray Milland",
+      "David Janssen"
+    ]
+  },
+  {
+    "titre": "Septième cible",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 54675,
+    "ageMinimal": null,
+    "realisateurs": "Claude Pinoteau",
+    "annee": 1984,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bastien Grimaldi, écrivain réputé, est agressé un soir dans la rue sans raisons. Les coups de téléphone répétés, les lettres anonymes s'accumulent. Grimaldi mène sa propre enquête pour comprendre qui est à l'origine de ces menaces."
+      }
+    ],
+    "generique": [
+      "Lino Ventura",
+      "Lea Massari",
+      "Jean Poiret"
+    ]
+  },
+  {
+    "titre": "Turbulences à 30 000 pieds",
+    "titreVo": "Turbulence",
+    "idFilm": 61481,
+    "ageMinimal": null,
+    "realisateurs": "Robert Butler",
+    "annee": 1996,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le vol 47 de la Transcontinental Airlines s'apprête à décoller. Cependant l'avion transporte deux prisonniers, Stubbs, un braqueur et Weaver, un tueur en série, escortés par des agents fédéraux. Le vol de routine de Teri va vite se transformer en cauchemar quand Stubbs, en tentant une prise d'otages, parvient à éliminer les agents fédéraux."
+      }
+    ],
+    "generique": [
+      "Ray Liotta",
+      "Lauren Holly",
+      "Hector Elizondo"
+    ]
+  }
+]

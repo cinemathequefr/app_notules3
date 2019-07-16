@@ -11,7 +11,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Andreï, un accordeur de piano qui peine à subvenir aux besoins de sa compagne Lina, gagne la confiance de deux riches veuves, Luba et Anna Sergeevna, afin de les escroquer."
+        "texte": "Andreï, un accordeur de piano qui peine à subvenir aux besoins de sa compagne, gagne la confiance de deux riches veuves, afin de les escroquer."
       }
     ],
     "generique": [
@@ -32,7 +32,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Quand Grigori arrive au cabinet où sa mère est soignée par le docteur Rita, ce dernier l'informe qu'elle est décédée durant la nuit."
+        "texte": "Quand Grigori arrive au cabinet où sa mère est soignée par le docteur Rita, il apprend qu'elle est décédée durant la nuit."
       }
     ],
     "generique": [
@@ -43,7 +43,7 @@
   },
   {
     "titre": "Au bord du ravin abrupt",
-    "titreVo": "U krutogo yara",
+    "titreVo": "Ou kroutogo iara",
     "idFilm": 141915,
     "ageMinimal": null,
     "realisateurs": "Alexandre Mouratov, Kira Mouratova",
@@ -52,7 +52,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Senia, un villageois appréciant la chasse et le calme de la nature, est chargé d'abattre une famille de loups rodant dans la forêt et menaçant le kolkhoze. Mais sa traque ne s'avère pas aisée et un conflit intérieur va rapidement agiter le chasseur."
+        "texte": "Un villageois, amoureux de la nature, est chargé d'abattre les loups qui menacent son kolkhoze. Mais la traque se révèle difficile pour le chasseur en proie à un conflit intérieur."
       }
     ],
     "generique": [
@@ -71,7 +71,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Valentina est responsable du logement dans une petite ville. Confrontée à l'impatience des postulants pour un logement et à la corruption des constructeurs, elle a un amant, Maxime, qui est surtout soucieux de sa propre liberté. Elle découvre que sa femme de ménage, plus jeune qu'elle, est aussi la maitresse de Maxime..."
+        "texte": "Valentina, responsable du logement dans une petite ville, confrontée à l'impatience des locataires postulants et à la corruption des constructeurs, découvre que son amant la trompe avec la jeune femme de ménage."
       }
     ],
     "generique": [
@@ -91,7 +91,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Maria est arrêtée et emprisonnée pour le meurtre d'Aleksandr. Filipp, son époux, ne croit pas que sa femme en soit capable et cherche à prouver son innocence, tandis que des souvenirs du passé reviennent à la mémoire de Maria."
+        "texte": "Maria est arrêtée et emprisonnée pour meurtre, mais son époux ne la croit pas coupable et cherche à prouver son innocence."
       }
     ],
     "generique": [
@@ -105,14 +105,14 @@
     "titre": "Citoyens de deuxième classe",
     "titreVo": "Vtorostepennye lyudi",
     "idFilm": 141921,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Kira Mouratova",
     "annee": 2000,
     "pays": "Ukraine",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un médecin qui a veillé toute la nuit auprès d'un patient mourant est amené à faire la connaissance de la jeune Véra. Cette rencontre va changer le cours de sa journée et bouleverser sa vie."
+        "texte": "Un médecin, après avoir veillé toute une nuit un patient mourant, fait la connaissance de la jeune Vera. Cette rencontre va changer le cours de sa journée et bouleverser sa vie."
       }
     ],
     "generique": [
@@ -132,7 +132,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un spectacle est joué malgré le suicide d'un acteur ainsi que les rivalités et règlements de compte au sein de la troupe. Parallèlement, Andreï vit seul avec sa fille. Lorsque cette dernière invite une amie le soir du Nouvel An, il cherche à assouvir ses fantasmes."
+        "texte": "Deux histoires parallèles : un acteur meurt sur les planches, mais la troupe, entre rivalité et règlements de comptes, décide de terminer la représentation. Le séducteur Andreï vit seul avec sa fille. Lorsque un jour celle-ci invite une amie, il en fait l'objet de ses fantasmes."
       }
     ],
     "generique": [
@@ -142,26 +142,8 @@
     ]
   },
   {
-    "titre": "Docteur",
-    "titreVo": "Doctor",
-    "idFilm": 142014,
-    "ageMinimal": 0,
-    "realisateurs": "Vladimir Bortko",
-    "annee": 1974,
-    "pays": "URSS",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Film de fin d'étude."
-      }
-    ],
-    "generique": [
-      "Kira Mouratova"
-    ]
-  },
-  {
     "titre": "En découvrant le vaste monde",
-    "titreVo": "Poznavaya belyy svet",
+    "titreVo": "Poznavaia belyi svet",
     "idFilm": 141918,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
@@ -170,7 +152,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La relation qu'entretiennent Nikolaï et Luba est complexe et agitée. Tous deux peinent en effet à s'accorder sur la nature exacte de leur liaison. Lorsque Luba fait la rencontre de Mikhaïl, un triangle amoureux se forme."
+        "texte": "Nikolaï et Luba, engagés dans une relation agitée, peinent à définir la nature exacte de leur liaison. Lorsque Luba fait la rencontre de Mikhaïl, un triangle amoureux se forme."
       }
     ],
     "generique": [
@@ -191,7 +173,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le film s'inspire d'une histoire vraie survenue à Kira Mouratova, quand un étudiant du même cours qu'elle a commencé à lui raconter comme il se sentait déchiré entre sa femme et sa maîtresse, qu'il aimait toutes les deux sincèrement."
+        "texte": "Un étudiant est déchiré entre sa femme et sa maîtresse, qu'il aime toutes deux sincèrement."
       }
     ],
     "generique": [
@@ -211,7 +193,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Igor enregistre un message audiovisuel pour son ancien amour émigré aux États-Unis. Peu inspiré, il en vient à discuter avec Lena, à qui il sous-loue son appartement, et qui lui doit deux mois de loyer..."
+        "texte": "Igor enregistre un message filmé pour son ancien amour émigré aux États-Unis. Peu inspiré, il en vient à discuter avec Lena, à qui il sous-loue son appartement, et qui lui doit deux mois de loyer."
       }
     ],
     "generique": [
@@ -223,7 +205,7 @@
   {
     "titre": "Longs adieux",
     "art": "Les",
-    "titreVo": "Dolgie provody",
+    "titreVo": "Dolguie provody",
     "idFilm": 40327,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
@@ -232,7 +214,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Evguenia élève seule son fils qui, devenu adolescent, décide de partir vivre avec son père. Elle fera tout pour le retenir."
+        "texte": "Evguenia, qui élève seule son fils adolescent, fait tout pour le retenir lorsqu'il décide de partir vivre avec son père."
       }
     ],
     "generique": [
@@ -252,7 +234,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À la mort de leur mère, Nikita et Aliona, demi-frère et sœur, se lancent ensemble à la recherche de leur père respectif. Mais, seuls dans la grande ville, la veille de Noël, leur quête va progressivement tourner au drame."
+        "texte": "À la mort de leur mère, Nikita et Aliona, demi-frère et sœur, se lancent ensemble à la recherche de leurs pères respectifs. Mais ils sont seuls dans la grande ville à la veille de Noël, et leur quête tourne au drame."
       }
     ],
     "generique": [
@@ -264,7 +246,7 @@
   {
     "titre": "Milicien amoureux",
     "art": "Le",
-    "titreVo": "Chuvstvitelnyy militsioner",
+    "titreVo": "Tchouvstvitelnyi militsioner",
     "idFilm": 55128,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
@@ -273,7 +255,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le milicien Tolia découvre un bébé abandonné dans un champ. Peu à peu, il s'attache à l'enfant et espère pouvoir l'adopter."
+        "texte": "Tolia, un milicien, découvre dans un champ un bébé abandonné à qui il s'attache peu à peu, au point de vouloir l'adopter."
       }
     ],
     "generique": [
@@ -286,14 +268,14 @@
     "titre": "Motifs tchékhoviens",
     "titreVo": "Chekhovskie motivy",
     "idFilm": 119920,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Kira Mouratova",
     "annee": 2001,
     "pays": "Ukraine",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Lorsque le fils ainé d'une famille de fermiers annonce qu'il souhaite s'installer en ville et demande de l'argent à son père, l'équilibre fragile du foyer cède sa place à des déchainements et des affrontements familiaux."
+        "texte": "Lorsque le fils aîné d'une famille de fermiers annonce qu'il souhaite s'installer en ville et demande de l'argent à son père, l'équilibre fragile du foyer fait place à des affrontements familiaux."
       }
     ],
     "generique": [
@@ -306,7 +288,7 @@
   },
   {
     "titre": "Notre pain honnête",
-    "titreVo": "Nash chestnyy khleb",
+    "titreVo": "Nach tchestnyi khleb",
     "idFilm": 141916,
     "ageMinimal": null,
     "realisateurs": "Alexandre Mouratov, Kira Mouratova",
@@ -315,7 +297,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Makar, un responsable de kolkhoze, doit faire face a l'indifférence de la direction du parti qui a décidé de l'envoyer à la retraite. La mauvaise gestion et l'exploitation négligée du sol semblent mener le kolkhoze à un appauvrissement collectif."
+        "texte": "Makar, responsable d'un kolkhoze, est confronté à l'indifférence du Parti, qui a décidé de l'envoyer à la retraite. Or une mauvaise gestion, combinée à l'exploitation négligée du sol, semble mener la communauté à sa perte."
       }
     ],
     "generique": [
@@ -324,7 +306,7 @@
   },
   {
     "titre": "Parmi les pierres grises",
-    "titreVo": "Sredi seryh kamnej",
+    "titreVo": "Sredi serykh kamneï",
     "idFilm": 75042,
     "ageMinimal": null,
     "realisateurs": "Kira Mouratova",
@@ -333,7 +315,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un juge récemment veuf est obsédé par les souvenirs de sa femme et sa vie actuelle ne lui procure que dépit et irritation. Son fils Vasia aspire à s'affranchir de la maison parentale. Valiok et Marousia, enfants de pauvres gens, deviennent ses amis."
+        "texte": "Un juge, ayant récemment perdu sa femme, navigue entre dépit et irritation, obsédé par ses souvenirs. Pendant ce temps son fils, qui aspire à quitter la maison familiale, rencontre de nouveaux amis."
       }
     ],
     "generique": [
@@ -354,7 +336,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Lilia et Violetta s'intéressent à la course, et deux jockeys veulent conquérir les jeunes filles. Intrigues amoureuses et sportives vont s'entremêler."
+        "texte": "Passionnées de courses de chevaux, Lilia et Violetta sont courtisées par deux jockeys. Intrigues amoureuses et sportives vont s'entremêler."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film sous réserve."
       }
     ],
     "generique": [
@@ -376,6 +362,11 @@
         "typeTexte": 9,
         "texte": "Dans un train de banlieue, Kolia rencontre la jeune Katia. Ils font connaissance et commencent à se fréquenter, mais leur idylle va bientôt tourner court."
       }
+    ],
+    "generique": [
+      "Oleg Tabakov",
+      "Valentina Khmara",
+      "Kira Mouratova"
     ]
   },
   {
@@ -390,7 +381,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Tania, peintre de rue, est abordée par Sacha, un ami de son ex-mari Boris. Ce dernier a confié à son compagnon le soin d'offrir à Tania une importante somme d'argent, ce qui fait le bonheur de la jeune artiste."
+        "texte": "Tania, peintre de rue, rencontre Sacha, qui lui offre pour son plus grand bonheur une importante somme d'argent de la part de Boris, son ex-mari."
       }
     ],
     "generique": [
@@ -411,7 +402,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une mère de famille veuve et un instituteur brisé par les problèmes personnels et professionnels se voient plongés dans une profonde dépression, et réagissent de façons très différentes à la pression qu'exerce sur eux la société."
+        "texte": "Une mère de famille, veuve, et un instituteur brisé par la vie, tous deux en pleine dépression, réagissent de façons très différentes à la pression qu'exerce sur eux la société."
       }
     ],
     "generique": [
@@ -431,34 +422,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'histoire glaçante de Tikhomirov qui ne supporte plus sa voisine envahissante, le récit d'une infirmière aigrie par son passé, et la confrontation cruelle et impitoyable entre une fillette et un vieillard."
+        "texte": "L'histoire glaçante de Tikhomirov qui ne supporte plus sa voisine envahissante, la vie d'une infirmière aigrie par son passé, et la confrontation impitoyable entre une fillette et un vieillard."
       }
     ],
     "generique": [
       "Serguei Makovetsky",
       "Leonid Kouchnir",
       "Jan Daniel"
-    ]
-  },
-  {
-    "titre": "Une tournée dangereuse",
-    "titreVo": "Opasnye gastroli",
-    "idFilm": 114534,
-    "ageMinimal": 0,
-    "realisateurs": "Georgi Yungvald-Khilkevich",
-    "annee": 1969,
-    "pays": "URSS",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Afin de diffuser les tracts de propagande russe dans le pays, des militants bolchéviques infiltrent une troupe de théâtre d'Odessa en se faisant passer pour des comédiens."
-      }
-    ],
-    "generique": [
-      "Nikolay Grinko",
-      "Vladimir Vysotskiy",
-      "Yefim Kopelyan",
-      "Kira Mouratova"
     ]
   }
 ]

@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Sur les rails",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 31882,
+          "ordre": 1,
+          "dateHeure": "2019-10-18T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2058,
+          "idEvenement": 20018,
+          "typeEvenement": 13,
+          "idFilm": 99574,
+          "art": "L'",
+          "titre": "Animal d'acier",
+          "artVo": "Das",
+          "titreVo": "Stahltier",
+          "realisateurs": "Willy Zielke",
+          "annee": 1935,
+          "duree": 75,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Aribert Mog",
+            "Sophia Hagen"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans une ville d'Allemagne, une usine tourne à plein régime. L'ingénieur Klaassen part à la rencontre de l'équipe de triage à qui il raconte l'histoire, parfois tragique, des inventeurs du chemin de fer."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Ce film de commande du Reich pour le centenaire des chemins de fer allemands fut refusé par la Reichsbahn, au prétexte qu'on y faisait une part trop belle aux chemins de fers anglais et français. Mais c'est probablement son parti pris esthétique qui le fit interdire, ainsi que le manque d'envie de Zielke d'en faire un film de propagande. Le film est ressorti en 1954 dans une version tronquée (42 min). La Cinémathèque française a miraculeusement récupéré dans ses collections une copie complète, qu'elle a sauvegardée en 1993."
+            }
+          ]
+        },
+        {
+          "idSeance": 31883,
+          "ordre": 2,
+          "dateHeure": "2019-10-18T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2058,
+          "idEvenement": 20026,
+          "typeEvenement": 13,
+          "idFilm": 33619,
+          "art": "La",
+          "titre": "Grand attentat",
+          "artVo": "The",
+          "titreVo": "Tall Target",
+          "realisateurs": "Anthony Mann",
+          "annee": 1951,
+          "duree": 78,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Dick Powell",
+            "Paula Raymond",
+            "Adolphe Menjou"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans le train qui conduit le président Lincoln de New York à Washington, l'inspecteur Kennedy apprend qu'un attentat se prépare en gare de Baltimore. Il décide d'empêcher seul cet acte de terrorisme."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "La copie 35 mm projetée est un tirage de la Warner Bros. offert à la Cinémathèque française."
+            }
+          ]
+        },
+        {
+          "idSeance": 31882,
+          "ordre": 2,
+          "dateHeure": "2019-10-18T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2058,
+          "idEvenement": 20018,
+          "typeEvenement": 13,
+          "idFilm": 115961,
+          "titre": "Paris-Liège",
+          "titreVo": "",
+          "realisateurs": "Anonyme",
+          "annee": 1928,
+          "duree": 13,
+          "version": "",
+          "format": "35 mm",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un trajet Paris-Liège exécuté en quatre heures sans arrêt par un train des Compagnies du Nord."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Copie sauvegardée en 2005."
+            }
+          ]
+        },
+        {
+          "idSeance": 31883,
+          "ordre": 1,
+          "dateHeure": "2019-10-18T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2058,
+          "idEvenement": 20026,
+          "typeEvenement": 13,
+          "idFilm": 142094,
+          "titre": "Rails",
+          "titreVo": "",
+          "realisateurs": "Manuel Otéro",
+          "annee": 1980,
+          "duree": 6,
+          "version": "",
+          "format": "35 mm",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Court métrage d'animation qui raconte sur le mode humoristique la vie de deux rails de chemin de fer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {}
+}

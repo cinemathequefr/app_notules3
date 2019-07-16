@@ -1,17 +1,37 @@
 [
   {
-    "titre": "Danza de la realidad",
+    "titre": "Cravate",
     "art": "La",
     "titreVo": "",
-    "annee": 2013,
-    "idFilm": 120100,
+    "idFilm": 142510,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
+    "annee": 1957,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le film est un exercice d'autobiographie imaginaire. Né au Chili en 1929, dans la petite ville de Tocopilla, où le film a été tourné, Alejandro Jodorowsky fut confronté à une éducation très dure et violente, au sein d'une famille déracinée. Bien que les faits et les personnages soient réels, la fiction dépasse la réalité dans un univers poétique où le réalisateur réinvente sa famille."
+        "texte": "Un jeune homme tente de séduire une femme qui est attirée par son corps mais qui repousse son visage. Désespéré, le jeune homme passe devant un magasin où l'on change les têtes ; il décide donc de changer de tête."
+      }
+    ],
+    "generique": [
+      "Denise Brossot",
+      "Rolande Polya"
+    ]
+  },
+  {
+    "titre": "Danza de la realidad",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 120100,
+    "ageMinimal": null,
+    "realisateurs": "Alejandro Jodorowsky",
+    "annee": 2012,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Avec cet exercice d'autobiographie imaginaire, Alejandro Jodorowsky raconte son enfance dans la petite ville de Tocopilla au Chili, et réinvente sa famille dans un univers poétique où la fiction dépasse la réalité."
       }
     ],
     "generique": [
@@ -20,12 +40,12 @@
     ]
   },
   {
-    "titre": "Fando y lis",
-    "titreVo": "",
-    "annee": 1968,
+    "titre": "Fando et Lis",
+    "titreVo": "Fando y lis",
     "idFilm": 56888,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alejandro Jodorowsky",
+    "annee": 1968,
     "pays": "Mexique",
     "textes": [
       {
@@ -41,10 +61,10 @@
   {
     "titre": "Jodorowsky's Dune",
     "titreVo": "",
-    "annee": 2016,
     "idFilm": 120081,
     "ageMinimal": null,
     "realisateurs": "Franck Pavich",
+    "annee": 2012,
     "pays": "France",
     "textes": [
       {
@@ -58,30 +78,40 @@
     "art": "La",
     "titreVo": "Holy Mountain",
     "artVo": "The",
-    "annee": 1973,
     "idFilm": 60690,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
+    "annee": 1973,
     "pays": "États-Unis-Mexique",
     "textes": [
       {
+        "typeTexte": 8,
+        "texte": "« J'avais toujours pensé que _La Montagne sacrée_ allait être vu dans le futur, et j'étais convaincu que personne ne pourrait le comprendre à l'époque. » Alejandro Jodorowsky, 2009"
+      },
+      {
         "typeTexte": 9,
-        "texte": "Un voleur, invité dans la tour d'un alchimiste, rencontre un groupe de sept personnages qui représentent sept planètes. Malgré leur puissance, tous redoutent la mort, qui n'épargne personne. Aussi, le petit groupe se met-il en quête du secret de l'immortalité, un secret qui serait jalousement gardé par les neuf sages de la Montagne sacrée..."
+        "texte": "Invité dans la tour d'un alchimiste, un voleur rencontre sept personnages, représentant sept planètes. Malgré leur puissance, tous redoutent la mort, aussi se mettent-ils en quête du secret de l'immortalité, jalousement gardé par les neuf sages de la Montagne sacrée."
       }
+    ],
+    "generique": [
+      "Alejandro Jodorowsky",
+      "Alejandro Jodorowsky",
+      "Horacio Salinas",
+      "Horacio Salinas"
     ]
   },
   {
     "titre": "Poesía sin fin",
     "titreVo": "",
-    "annee": 2016,
     "idFilm": 131749,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
+    "annee": 2015,
     "pays": "Chili-Japon-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans l'effervescence de la capitale chilienne Santiago, pendant les années 1940 et 50, « Alejandrito » Jodorowsky, âgé d'une vingtaine d'années, décide de devenir poète contre la volonté de sa famille."
+        "texte": "Dans l'effervescence de la capitale chilienne Santiago, pendant les années 40 et 50, le jeune « Alejandrito » Jodorowsky décide de devenir poète, contre la volonté de sa famille. Ce film est la suite de _La Danza de la realidad,_ sorti en 2013."
       }
     ],
     "generique": [
@@ -90,37 +120,53 @@
     ]
   },
   {
+    "titre": "Psychomagie, un art pour guérir",
+    "titreVo": "",
+    "idFilm": 142423,
+    "ageMinimal": null,
+    "realisateurs": "Alejandro Jodorowsky",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Si chacun d'entre nous a un héritage génétique, il possède aussi un héritage psychologique qui se transmet de génération en génération. Alejandro Jodorowsky, cinéaste et artiste multidisciplinaire convaincu que l'art n'a de sens profond que s'il guérit et libère les consciences, a créé la Psychomagie. Au moyen d'actes théâtraux et poétiques s'adressant directement à l'inconscient, cette thérapie permet de libérer des blocages."
+      }
+    ]
+  },
+  {
     "titre": "Santa sangre",
     "titreVo": "",
-    "annee": 1993,
     "idFilm": 44011,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
+    "annee": 1989,
     "pays": "Italie-Mexique",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Suite à un drame familial, Fenix, petit mime d'un cirque de Mexico, est enfermé dans un hôpital psychiatrique. Huit ans plus tard, il retrouve sa mère. Le cirque n'existant plus, ils errent dans la ville, représentant une pantomime qui se prolonge tragiquement dans leur vie quotidienne."
+        "texte": "Traumatisé par un drame familial – son père a coupé les bras de sa mère – le jeune Fenix, mime d'un petit cirque, est enfermé en hôpital psychiatrique. Des années plus tard, il s'évade et retrouve sa mère, qui va l'utiliser pour accomplir sa vengeance."
       }
     ],
     "generique": [
       "Blanca Guerra",
-      "Axel Jodorowsky"
+      "Axel Jodorowsky",
+      "Guy Stockwell"
     ]
   },
   {
     "titre": "Topo",
     "art": "El",
     "titreVo": "",
-    "annee": 1971,
     "idFilm": 43971,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
+    "annee": 1971,
     "pays": "Mexique",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "El Topo, un mystérieux pistolero, sillonne le désert accompagné de son fils de huit ans. Sa route le conduit à sauver Mara, la maîtresse du Colonel, qui le met alors au défi de triompher des quatre Maîtres qui règnent sur la région."
+        "texte": "El Topo, un mystérieux pistolero qui sillonne le désert avec son jeune fils, sauve un jour la belle Mara. Elle le met alors au défi de triompher des quatre Maîtres qui règnent sur la région."
       }
     ],
     "generique": [
@@ -130,34 +176,19 @@
     ]
   },
   {
-    "titre": "Tusk",
-    "titreVo": "",
-    "annee": 1980,
-    "idFilm": 49070,
-    "ageMinimal": null,
-    "realisateurs": "Alejandro Jodorowsky",
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Le destin d'Elise, une jeune orpheline vivant en Inde et d'un éléphanteau né le même jour qu'elle."
-      }
-    ]
-  },
-  {
     "titre": "Voleur d'arc-en-ciel",
     "art": "Le",
     "titreVo": "Rainbow Thief",
     "artVo": "The",
-    "annee": 1994,
     "idFilm": 59096,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
+    "annee": 1991,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Meleagre, prince héritier fortuné, octogénaire excentrique, est obligé de se réfugier dans les égouts de la ville pour échapper à sa famille qui veut le faire interner pour toucher son argent. Dima, un clochard, lui sert de serviteur mais convoite également la fortune à venir."
+        "texte": "Le prince Meleagre, octogénaire excentrique et fortuné, se réfugie dans les égouts de la ville pour échapper à sa famille, qui veut le faire interner pour toucher son argent. Dima, un clochard, lui sert de serviteur mais convoite également sa fortune. Nouveau montage inédit réalisé par Alejandro Jodorowsky."
       }
     ],
     "generique": [

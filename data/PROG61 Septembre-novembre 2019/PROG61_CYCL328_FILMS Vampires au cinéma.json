@@ -10,7 +10,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans la ville étrange de Bad City, lieu de tous les vices où suintent la mort et la solitude, les habitants n'imaginent pas qu'un vampire les surveille. Mais quand l'amour entre en jeu, la passion rouge sang éclate..."
+        "texte": "En Iran, dans l'étrange ville de Bad City, lieu de tous les vices où suintent la mort et la solitude, les habitants n'imaginent pas qu'ils sont surveillés par un vampire."
       }
     ],
     "generique": [
@@ -31,7 +31,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A New York, une étudiante en philosophie est mordue par une femme-vampire."
+        "texte": "À New York, une étudiante en philosophie est mordue par une femme vampire."
       }
     ],
     "generique": [
@@ -52,7 +52,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans une petite ville du Middle West, Caleb, fils de fermier parti rejoindre des amis dans un bar, rencontre une jeune et jolie étrangère, qui le mord juste avant le lever du jour. Il va se joindre au groupe de vampires de la jeune fille."
+        "texte": "Caleb, jeune fermier du Middle West, rencontre dans un bar une jolie étrangère, qui le mord juste avant le lever du jour. Il va se joindre au groupe de vampires de la jeune fille."
       }
     ],
     "generique": [
@@ -74,7 +74,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le professeur Abronsius et son assistant Alfred sont des chasseurs de vampires. Au fil de leurs aventures, ces derniers vont se retrouver au beau milieu d'un château où l'on prépare le bal annuel des vampires."
+        "texte": "Le professeur Abronsius et son assistant Alfred, chasseurs de vampires, se retrouvent dans un château où se prépare le bal annuel de ces créatures de la nuit."
       }
     ],
     "generique": [
@@ -94,7 +94,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un prince africain transformé en vampire par le comte Dracula en 1780 et enfermé dans un cercueil est réveillé en 1972 et sévit dans les rues de Los Angeles."
+        "texte": "Un prince africain, transformé en vampire par le comte Dracula en 1780, et enfermé dans un cercueil, se réveille en 1972 et sévit dans les rues de Los Angeles."
       }
     ],
     "generique": [
@@ -107,14 +107,14 @@
     "titre": "Blade",
     "titreVo": "",
     "idFilm": 63854,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Stephen Norrington",
     "annee": 1997,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Blade, mi-homme mi-vampire, veut traquer les vampires qui ont tué sa mère. Hybride du Bien et du Mal, il possède toutes leurs forces et aucune de leurs faiblesses et est donc prêt à combattre Deacon Frost, le vampire le plus puissant du monde."
+        "texte": "Mi-homme, mi-vampire, Blade traque les créatures qui ont mortellement mordu sa mère, et combat Deacon Frost, le vampire le plus puissant du monde."
       }
     ],
     "generique": [
@@ -127,14 +127,14 @@
     "titre": "Blade II",
     "titreVo": "",
     "idFilm": 78469,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Guillermo del Toro",
     "annee": 2001,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Blade veut tuer à tout prix les vampires avec l'aide de ses amis et ainsi venger la mort de sa mère. Mais une nouvelle menace devient la priorité des vampires et des humains: une nouvelle race de suceurs de sang fait son apparition. Les vampires et les humains vont devoir unir leur force pour combattre cette nouvelle génération."
+        "texte": "Pour éliminer les Reapers, une race supérieure de suceurs de sang, un groupe de vampires et d'humains sont contraints d'unir leurs forces, guidés par Blade."
       }
     ],
     "generique": [
@@ -148,14 +148,14 @@
     "titre": "Blade : Trinity",
     "titreVo": "",
     "idFilm": 94547,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "David S. Goyer",
     "annee": 2003,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A la suite d'une machination des vampires et de montage vidéo, Blade est piégé et devient ainsi l'ennemi numéro un des Etats-Unis."
+        "texte": "Blade, piégé par une machination des vampires, est devenu l'ennemi numéro un aux États-Unis."
       }
     ],
     "generique": [
@@ -170,63 +170,20 @@
     "art": "Le",
     "titreVo": "Dracula = Horror of Dracula",
     "idFilm": 45668,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Terence Fisher",
     "annee": 1958,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Jonathan Harker se rend dans les Carpates chez le Comte Dracula qui l'a engagé comme bibliothécaire. Il est mordu par une femme-vampire."
+        "texte": "Jonathan Harker se rend dans les Carpates chez le comte Dracula, qui l'a engagé comme bibliothécaire. Mordu par une femme vampire, il va être aidé par son ami Van Helsing."
       }
     ],
     "generique": [
       "Peter Cushing",
       "Christopher Lee",
       "Michael Gough"
-    ]
-  },
-  {
-    "titre": "Charlots contre Dracula",
-    "art": "Les",
-    "titreVo": "",
-    "idFilm": 48005,
-    "ageMinimal": null,
-    "realisateurs": "Jean-Pierre Desagnat",
-    "annee": 1980,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Dracula junior donne une mission au détective Gaston Lepope. Le but ? Retrouver une femme qui ressemble à sa mère et qui pourra, ainsi, donner à Dracula junior l'élixir qui lui donnera à nouveau tout ses pouvoirs. Cette femme travaille au marché avec Phil,Jean et Gérard."
-      }
-    ],
-    "generique": [
-      "Gérard Rinaldi",
-      "Jean Sarrus",
-      "Gérard Filipelli"
-    ]
-  },
-  {
-    "titre": "Cicatrices de Dracula",
-    "art": "Les",
-    "titreVo": "Scars of Dracula",
-    "artVo": "The",
-    "idFilm": 58787,
-    "ageMinimal": null,
-    "realisateurs": "Roy Ward Baker",
-    "annee": 1970,
-    "pays": "Grande-Bretagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Lorsqu'une jeune fille est retrouvée morte dans la campagne, les villageois mettent le feu au château du Comte Dracula qu'ils tiennent pour responsable de ce méfait."
-      }
-    ],
-    "generique": [
-      "Christopher Lee",
-      "Dennis Waterman",
-      "Jenny Hanley"
     ]
   },
   {
@@ -242,11 +199,11 @@
     "textes": [
       {
         "typeTexte": 8,
-        "texte": "À la suite de la projection de _La Comtesse_ de Julie Delpy (voir P. ), dialogue avec la réalisatrice, compositrice et actrice de ce film consacré à Élisabeth Báthory, comtesse hongroise du XVIème siècle et restée dans l'Histoire sous le nom de « la dame sanglante ». « J'avais envie de raconter l'histoire d'une déchéance totale. (...) Je me souviens de cette phrase dans _Comme il vous plaira_, de Shakespeare : « Et d'heure en heure, on mûrit, on mûrit. Et d'heure en heure, on pourrit, on pourrit ! ». » Julie Delpy, 2010"
+        "texte": "À la suite de la projection de _La Comtesse_ de Julie Delpy (voir P. ), dialogue avec la réalisatrice, compositrice et actrice de ce film consacré à Élisabeth Báthory, comtesse hongroise du XVIe siècle, restée dans l'Histoire sous le nom de « la dame sanglante ». « J'avais envie de raconter l'histoire d'une déchéance totale. (...) Je me souviens de cette phrase dans _Comme il vous plaira_, de Shakespeare : « Et d'heure en heure, on mûrit, on mûrit. Et d'heure en heure, on pourrit, on pourrit ! ». » Julie Delpy, 2010"
       },
       {
         "typeTexte": 9,
-        "texte": "A la mort de son mari, la comtesse Elizabeth Bathory se trouve à la tête d'un vaste domaine et d'une immense fortune. Elle tombe éperdument amoureuse d'un jeune homme, mais celui-ci l'abandonne. Sombrant progressivement dans la folie, Elizabeth se persuade que le sang de jeunes vierges lui procure jeunesse et beauté. Débute alors une série d'actes sanglants et diaboliques."
+        "texte": "À la mort de son mari, la comtesse Erzsébet Báthory se retrouve à la tête d'une immense fortune. Elle tombe éperdument amoureuse d'un jeune homme, mais quand il l'abandonne, elle sombre dans la folie et se persuade que le sang de jeunes vierges lui rendra jeunesse et beauté."
       }
     ],
     "generique": [
@@ -267,7 +224,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un alchimiste enferme, au 14ème siècle, le secret de l'éternité dans un boîtier. Six siècles après, un antiquaire est sur le pont de découvrir cette force inconnue."
+        "texte": "Au XIVe siècle, un alchimiste enferme le secret de l'éternité dans un boîtier. Six cents ans plus tard, un antiquaire est sur le pont de découvrir cette force inconnue."
       }
     ],
     "generique": [
@@ -282,14 +239,14 @@
     "titreVo": "Cripta e l'incubo",
     "artVo": "La",
     "idFilm": 59103,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Thomas, pseudonyme de Camillo Mastrocinque Miller",
     "annee": 1963,
     "pays": "Italie-Espagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La fille du Comte Von Karnstein, qui vit dans le vieux manoir familial, subit de terribles cauchemars. Est elle la réincarnation de son ancêtre, Sheena la sorcière, condamnée au bûcher Rowena, la gouvernante, va mettre à profit ses connaissances en magie noire."
+        "texte": "La fille du comte Von Karnstein est la proie de terribles cauchemars : elle serait la réincarnation de son ancêtre, la sorcière Sheena. Or la gouvernante de la maison, Rowena, adepte de magie noire, cherche à faire revenir la créature. Film réalisé par Camillo Mastrocinque sous le pseudonyme de Thomas Miller."
       }
     ],
     "generique": [
@@ -301,17 +258,36 @@
     "adaptation": "D'après le roman _Carmilla_ de Sheridan Le Fanu."
   },
   {
+    "titre": "Cuadecuc, vampir",
+    "titreVo": "Cuadecuc",
+    "idFilm": 43667,
+    "ageMinimal": 0,
+    "realisateurs": "Pere Portabella, Joan Brossa",
+    "annee": 1970,
+    "pays": "Espagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mi-documentaire, mi-reportage expérimental réalisé sur le tournage du film _Les Nuits de Dracula_ de Jesús Franco. « Ce film est une tentative de réflexion sur le langage cinématographique. » (Pere Portabella)"
+      }
+    ],
+    "generique": [
+      "Christopher Lee",
+      "Jesus Franco"
+    ]
+  },
+  {
     "titre": "Dark Shadows",
     "titreVo": "",
     "idFilm": 115762,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Tim Burton",
     "annee": 2011,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Barnabas Collins, emprisonné par une sorcière, est un vampire. Libéré accidentellement, il retourne chez lui où ses descendants lointains ont besoin de son aide."
+        "texte": "Le vampire Barnabas Collins, emprisonné par une sorcière, est libéré accidentellement deux siècles plus tard. Lorsqu'il rentre chez lui, il retrouve un château délabré et des descendants qu'il va devoir soutenir."
       }
     ],
     "generique": [
@@ -321,6 +297,24 @@
       "Eva Green"
     ],
     "adaptation": "D'après la série télévisée _Dark Shadows_ de Dan Curtis."
+  },
+  {
+    "titre": "Dellamorte dell'amore",
+    "titreVo": "",
+    "idFilm": 60523,
+    "ageMinimal": null,
+    "realisateurs": "Michele Soavi",
+    "annee": 1994,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans une petite ville italienne, un gardien de cimetière et son acolyte découvrent que les morts enterrés dans le cimetière reviennent à la vie."
+      }
+    ],
+    "generique": [
+      "Rupert Everett"
+    ]
   },
   {
     "titre": "Dernier homme",
@@ -334,7 +328,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A Beyrouth, on découvre chaque jour des nouvelles victimes d'un probable tueur en série, qui vide ses victimes de leur sang. Un médecin d'une quarantaine d'années présente des symptômes troublants."
+        "texte": "À Beyrouth, alors qu'on découvre chaque jour les nouvelles victimes, exsangues, d'un probable tueur en série, un jeune médecin présente de troublants symptômes."
       }
     ],
     "generique": [
@@ -342,31 +336,10 @@
     ]
   },
   {
-    "titre": "Deux orphelines vampires",
-    "art": "Les",
-    "titreVo": "",
-    "idFilm": 38622,
-    "ageMinimal": null,
-    "realisateurs": "Jean Rollin",
-    "annee": 1995,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Henriette et Louise, deux jumelles aveugles, sont beaucoup appréciées par les religieuses de leur orphelinat. Mais elles cachent un lourd secret: elles ne sont pas aveugles et ont la capacité de voir la nuit pour tuer des animaux et se nourrir de leur sang. Elles sont en réalité des vampires."
-      }
-    ],
-    "generique": [
-      "Isabelle Teboul",
-      "Alexandra Pic",
-      "Natalie Perrey"
-    ]
-  },
-  {
     "titre": "Dracula",
     "titreVo": "",
     "idFilm": 29919,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "John Badham",
     "annee": 1978,
     "pays": "États-Unis",
@@ -387,14 +360,14 @@
     "titre": "Dracula",
     "titreVo": "",
     "idFilm": 30928,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Tod Browning",
     "annee": 1931,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Renfield se rend pour affaires au château du comte Dracula. Durant la nuit, il est mordu au cou par trois femmes et emmené par le comte, en état d'hypnose, à bord d'un voilier en direction de l'Angleterre."
+        "texte": "Renfield se rend pour affaires au château du comte Dracula. Durant la nuit, il est mordu au cou par trois femmes et, en état d'hypnose, emmené à bord d'un voilier en direction de l'Angleterre."
       }
     ],
     "generique": [
@@ -408,14 +381,14 @@
     "titre": "Dracula",
     "titreVo": "Bram Stoker's Dracula",
     "idFilm": 57748,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Francis Ford Coppola",
     "annee": 1992,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dracula se rend à Londres pour séduire Mina, en qui il reconnaît sa bien-aimée morte suicidée en 1462. Il s'attaque à la fidèle amie de Mina, que son fiancé cherche à sauver des griffes du vampire."
+        "texte": "Dracula cherche à séduire Mina, en qui il reconnaît sa bien-aimée morte plusieurs siècles auparavant, et s'attaque à Lucy, la fidèle amie de la jeune femme. Mais le fiancé de Lucy tente de la sauver, aidé par Van Helsing."
       }
     ],
     "generique": [
@@ -430,14 +403,14 @@
     "titre": "Dracula",
     "titreVo": "",
     "idFilm": 117114,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "George Melford",
     "annee": 1931,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Durant la nuit de Walpurgis, Renfield se rend au château en ruines du comte Dracula afin de finaliser la vente d'une abbaye londonienne. Il est alors hypnotisé et embarqué avec le comte sur un voilier en route pour l'Angleterre. Le comte y rencontre le Dr Seward à la tête d'un hôpital psychiatrique, et sa fille, Eva. Version espagnole du film de Tod Browning, tournée simultanément."
+        "texte": "Durant la nuit de Walpurgis, Renfield se rend au château du comte Dracula afin de finaliser la vente d'une abbaye londonienne. Il est alors hypnotisé et embarqué sur un voilier en route pour l'Angleterre. Les deux hommes vont y rencontrer le docteur Seward et sa fille, Eva. Destinée au public hispanophone, cette version a été tournée de nuit dans les décors utilisés le jour pour le tournage du film de Tod Browning."
       }
     ],
     "generique": [
@@ -457,7 +430,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Transylvanie, 1893. Le comte Dracula découvre une photo de Mina avec son époux Jonathan Harker, et reconnait en Mina la réincarnation de l'amour de sa vie, décédée 400 ans plus tôt. Il les fait venir dans son château en engageant Jonathan comme bibliothécaire."
+        "texte": "En 3D"
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Transylvanie, 1893. Le comte Dracula découvre une photo de Mina avec son époux Jonathan Harker, et reconnaît en la jeune femme la réincarnation de l'amour de sa vie, décédée 400 ans plus tôt. Il décide alors de faire venir le couple dans son château."
       }
     ],
     "generique": [
@@ -478,7 +455,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les descendants des Von Hessling, qui tuèrent Dracula en 1850, retrouvent le vampire dans une église de Londres en 1972, après qu'il ait été réveillé par une invocation du Diable commise par une bande de jeunes lors d'une messe noire."
+        "texte": "Les descendants des Van Helsing, qui tuèrent Dracula en 1850, retrouvent le vampire dans une église de Londres en 1972 : il vient d'être réveillé par une bande de jeunes qui a invoqué le diable lors d'une messe noire."
       }
     ],
     "generique": [
@@ -487,37 +464,17 @@
     ]
   },
   {
-    "titre": "Dracula et les femmes",
-    "titreVo": "Dracula Has Risen from the Grave",
-    "idFilm": 42229,
-    "ageMinimal": null,
-    "realisateurs": "Freddie Francis",
-    "annee": 1968,
-    "pays": "Grande-Bretagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Dans un petit village de Bavière, le vampire Dracula ressuscite grâce au sang d'un prêtre et multiplie les victimes."
-      }
-    ],
-    "generique": [
-      "Christopher Lee",
-      "Rupert Davies",
-      "Veronica Carlson"
-    ]
-  },
-  {
     "titre": "Dracula et ses femmes vampires",
     "titreVo": "Dracula",
     "idFilm": 35066,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Dan Curtis",
     "annee": 1973,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dracula poursuit une femme qui ressemble à sa femme décédée il y a longtemps."
+        "texte": "Dracula poursuit une jeune femme qui ressemble à son épouse décédée quelques siècles plus tôt."
       }
     ],
     "generique": [
@@ -529,14 +486,14 @@
     "titre": "Dracula, pages tirées du journal d'une vierge",
     "titreVo": "Dracula, Pages from a Virgin's Diary",
     "idFilm": 87317,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Guy Maddin",
     "annee": 2002,
     "pays": "Canada",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Adaptation pour le cinéma d'un ballet de Gustav Malher, ce film combine à la fois une danse sensuelle, des scènes mimées et des intertitres qui rappellent le cinéma muet. Il est interprété par les danseurs du Royal Winnipeg Ballet."
+        "texte": "Dracula, qui a perdu son épouse il y a de cela plusieurs siècles, s'entiche d'une jeune femme qui lui ressemble étrangement. Adaptation pour le cinéma d'un ballet de Gustav Malher, ce film combine à la fois danse sensuelle, scènes mimées et des intertitres qui rappellent le cinéma muet. Il est interprété par les danseurs du Royal Winnipeg Ballet."
       }
     ],
     "generique": [
@@ -557,48 +514,18 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un couple fait un voyage en Transylvanie. A la nuit tombée, ils décident de faire une halte et dorment dans un grand manoir. Au petit matin, un voyageur est retrouvé égorgé."
+        "texte": "Deux couples qui visitent la Transylvanie font halte dans un étrange château à la nuit tombée. Au petit matin, l'un des voyageurs est retrouvé égorgé."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Deux couples qui visitent la Transylvanie font halte dans un étrange château à la nuit tombée. Au petit matin, l'un des voyageurs est retrouvé égorgé."
       }
     ],
     "generique": [
       "Christopher Lee",
+      "Christopher Lee",
       "Barbara Shelley",
-      "Andrew Keir"
-    ]
-  },
-  {
-    "titre": "Dracula prisonnier de Frankenstein",
-    "titreVo": "Dracula contra el doctor Frankenstein",
-    "idFilm": 65961,
-    "ageMinimal": null,
-    "realisateurs": "Jesus Franco",
-    "annee": 1971,
-    "pays": "Espagne-France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Le docteur Seward part à la recherche de Dracula pour mettre fin aux crimes commis dans la région."
-      }
-    ],
-    "generique": [
-      "Howard Vernon",
-      "Dennis Price",
-      "Alberto Dalbés"
-    ]
-  },
-  {
-    "titre": "Dracula, vampire sexuel",
-    "titreVo": "Guess What Happened to Count Dracula ?",
-    "idFilm": 142013,
-    "ageMinimal": null,
-    "realisateurs": "Laurence Merrick",
-    "annee": 1970,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Au XXe siècle, à Hollywood, le Comte Adrian est propriétaire d'un night-club branché au décor gothique. Il convoite une belle rouquine qui a un fiancé."
-      }
+      "Barbara Shelley"
     ]
   },
   {
@@ -606,14 +533,14 @@
     "titreVo": "Satanic Rites of Dracula : Dracula Is Alive",
     "artVo": "The",
     "idFilm": 39336,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alan Gibson",
     "annee": 1973,
     "pays": "Canada",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Londres, 1974. La police est convaincue qu'un nouveau cas de vampirisme apparait et fait appel au spécialiste en la matière: van Helsink qui se retrouve à nouveau sur les traces du comte Dracula."
+        "texte": "Londres, 1974. Convaincue d'un nouveau cas de vampirisme, la police fait appel au spécialiste Van Helsing, qui se retrouve à nouveau sur les traces du comte Dracula."
       }
     ],
     "generique": [
@@ -622,51 +549,10 @@
     ]
   },
   {
-    "titre": "Dracula's Daughter",
-    "titreVo": "",
-    "idFilm": 32674,
-    "ageMinimal": null,
-    "realisateurs": "Lambert H. Hillyer",
-    "annee": 1936,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Après qu'il a été tué par le professeur Van Helsing, le corps de Dracula est volé par une mystérieuse jeune femme."
-      }
-    ],
-    "generique": [
-      "Otto Kruger",
-      "Gloria Holden",
-      "Marguerite Churchill"
-    ]
-  },
-  {
-    "titre": "Du sang pour Dracula",
-    "titreVo": "Dracula cerca sangue di vergine e mori di sete !",
-    "idFilm": 59536,
-    "ageMinimal": null,
-    "realisateurs": "Paul Morrissey",
-    "annee": 1973,
-    "pays": "Italie-France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Le dernier descendant de Dracula est en train de mourir. Pour survivre, il doit boire du sang de jeunes femmes vierges et décide donc de partir en Italie."
-      }
-    ],
-    "generique": [
-      "Joe Dallesandro",
-      "Udo Kier",
-      "Vittorio De Sica",
-      "Roman Polanski"
-    ]
-  },
-  {
     "titre": "Entretien avec un vampire",
     "titreVo": "Interview with the Vampire",
     "idFilm": 60560,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Neil Jordan",
     "annee": 1993,
     "pays": "États-Unis",
@@ -677,7 +563,7 @@
       },
       {
         "typeTexte": 9,
-        "texte": "Entretien entre un journaliste curieux et un vampire âgé de deux cent ans. Le journaliste l'enregistre et décide de pénétrer dans son monde mystérieux et secret."
+        "texte": "Au XXe siècle, un journaliste enregistre le témoignage de Louis de Pointe du Lac, un vampire âgé de deux cents ans, qui lui raconte sa rencontre avec Lestat de Lioncourt et leurs vies d'immortels."
       }
     ],
     "generique": [
@@ -692,14 +578,14 @@
     "titre": "Et mourir de plaisir",
     "titreVo": "",
     "idFilm": 51375,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Roger Vadim",
     "annee": 1959,
     "pays": "France-Italie",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans une magnifique villa de la campagne romaine vivent les derniers descendants de la famille des Karnstein. Leopoldo doit bientôt épouser la belle Georgia Monteverdi. Mais peu avant la cérémonie Carmilla, sa cousine secrètement amoureuse de lui, meurt étrangement, le cœur transpercé d'un pieu."
+        "texte": "Dans une magnifique villa de la campagne romaine vivent les derniers descendants de la famille Karnstein. Leopoldo doit bientôt épouser la belle Georgia Monteverdi. Mais peu avant la cérémonie, sa cousine Carmilla, secrètement amoureuse de lui, meurt étrangement, le cœur transpercé d'un pieu."
       }
     ],
     "generique": [
@@ -709,55 +595,18 @@
     ]
   },
   {
-    "titre": "Fille de Dracula",
-    "art": "La",
-    "titreVo": "Filha de Dracula",
-    "artVo": "A",
-    "idFilm": 65989,
-    "ageMinimal": null,
-    "realisateurs": "Jess Franco",
-    "annee": 1971,
-    "pays": "Portugal-France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Une jeune femme se rend au chevet de sa grand-mère mourante. Cette dernière lui annonce la malédiction familiale: ce sont tous des vampires. Peu de temps après, la jeune femme va habiter chez son oncle et son cousin et se rend compte, petit à petit, qu'elle aussi est maudite."
-      }
-    ],
-    "generique": [
-      "Anne Libert",
-      "Britt Nichols",
-      "Jesus Franco"
-    ]
-  },
-  {
-    "titre": "Frisson des vampires",
-    "art": "Le",
-    "titreVo": "",
-    "idFilm": 54027,
-    "ageMinimal": null,
-    "realisateurs": "Jean Rollin",
-    "annee": 1970,
-    "pays": "France",
-    "generique": [
-      "Sandra Julien",
-      "Jean-Marie Durand",
-      "Jacques Robiolles"
-    ]
-  },
-  {
     "titre": "Gran amor del Conde Dracula",
     "art": "El",
     "titreVo": "",
     "idFilm": 43247,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Javier Aguirre",
     "annee": 1972,
     "pays": "Espagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Quatre femmes passent la nuit dans un vieux sanatorium désert sur une montagne. Elles tombent à tour de rôle dans les mains maléfiques d'un médecin qui les force à sucer le sang des autres et à fouetter les vierges innocentes du village afin qu'ils puissent lécher les coupes suintantes propre."
+        "texte": "Un groupe de voyageurs s'arrête au château de Dracula. Parmi eux, la jeune Karen, qui tombe amoureuse du comte."
       }
     ],
     "generique": [
@@ -777,7 +626,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Après sa rencontre avec un nouveau serviteur qui assistera aux derniers jours de sa vie, Casanova quitte son château suisse pour une terre de l'Europe septentrionale. Là, il est confronté à l'existence du vampire."
+        "texte": "Casanova, arrivé à la fin de sa vie, quitte son château suisse pour une terre de l'Europe septentrionale. Là, il est confronté à l'existence du vampire et à son pouvoir éternel."
       }
     ],
     "generique": [
@@ -791,7 +640,7 @@
     "titreVo": "Howling",
     "artVo": "The",
     "idFilm": 31390,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Joe Dante",
     "annee": 1980,
     "pays": "États-Unis",
@@ -802,9 +651,10 @@
       }
     ],
     "generique": [
+      "Dee Wallace",
       "Patrick Macnee",
       "John Carradine",
-      "Dee Wallace"
+      "Dennis Dugan"
     ],
     "adaptation": "D'après le roman _The Howling_ de Gary Brandner."
   },
@@ -819,29 +669,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un réalisateur, René Vidal, entreprend de tourner une nouvelle version du film _Les Vampires_, réalisé par Louis Feuillade en 1915. Il veut donner le rôle d'Irma Vep à Maggie Cheung, une actrice Hongkongaise. Le tournage devient vite catastrophique."
+        "texte": "Le réalisateur René Vidal entreprend de tourner une nouvelle version du film _Les Vampires_, réalisé par Louis Feuillade en 1915, et donne le rôle d'Irma Vep à Maggie Cheung, une actrice hongkongaise. Le tournage vire rapidement à la catastrophe."
       }
     ],
     "generique": [
       "Maggie Cheung",
       "Jean-Pierre Léaud",
-      "Nathalie Richard"
-    ]
-  },
-  {
-    "titre": "Lac de Dracula",
-    "art": "Le",
-    "titreVo": "Noroi no yakata : Chi o sû me",
-    "idFilm": 112081,
-    "ageMinimal": null,
-    "realisateurs": "Michio Yamamoto",
-    "annee": 1971,
-    "pays": "Japon",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Le corps de la victime d'un meurtre est retrouvé près d'un lac. Le médecin, à qui est attribué cette enquête, a toutes les raisons de penser que le coupable est un vampire."
-      }
+      "Nathalie Richard",
+      "Bulle Ogier"
     ]
   },
   {
@@ -856,7 +691,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un couple séjourne à Ostende, dans un vaste hôtel désert en cette basse saison. Le couple rencontre la comtesse Bathory et sa protégée Ilona, qui vont exercer sur eux leur emprise."
+        "texte": "Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens."
       }
     ],
     "generique": [
@@ -877,7 +712,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Deux jeunes Américains en vacances s'égarent dans une région déserte de l'Angleterre. Ils sont attaqués par une bête étrange. Peu après, l'un d'entre eux se réveille dans un hôpital..."
+        "texte": "Blessé et seul survivant après l'agression d'un animal féroce qui a tué son ami Jack, David se retrouve à l'hôpital. Il se lie avec une jeune infirmière, qui le recueille chez elle."
       }
     ],
     "generique": [
@@ -892,20 +727,25 @@
     "titreVo": "Brides of Dracula",
     "artVo": "The",
     "idFilm": 45480,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Terence Fisher",
     "annee": 1960,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le docteur Van Helsink retourne en Transylvanie pour empêcher Dracula de séduire la douce, jeune et ravissante institutrice, Marianne."
+        "texte": "Le docteur Van Helsing, qui poursuit sa chasse aux vampires en Transylvanie, protège une jeune et ravissante institutrice des griffes du baron Meinster."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Le docteur Van Helsing, qui poursuit sa chasse aux vampires en Transylvanie, protège une jeune et ravissante institutrice des griffes du baron Meinster."
       }
     ],
     "generique": [
       "Peter Cushing",
+      "Peter Cushing",
       "Yvonne Monlaur",
-      "Freda Jackson"
+      "Yvonne Monlaur"
     ]
   },
   {
@@ -919,7 +759,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un jeune homme de dix-sept ans, obsédé par le sang, est persuadé d'être un vampire."
+        "texte": "Obsédé par le sang, le jeune Martin est persuadé d'être un vampire, descendant de Nosferatu."
       }
     ],
     "generique": [
@@ -942,22 +782,27 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans les environs de Vienne, un vampire élit domicile dans les sous-sols d'un vieux château occupé par Wolfgang et sa femme Louise. Il est séduit par celle-ci et tente alors d'en faire sa compagne de nuits éternelles..."
+        "texte": "Le soir de leurs noces, Wolfgang et Louise sont menacés par un vampire sanguinaire qui convoite la jeune épouse."
       }
+    ],
+    "generique": [
+      "Walter Brandi",
+      "Graziella Granata",
+      "Luigi Batzella"
     ]
   },
   {
     "titre": "Morse",
     "titreVo": "Låt den rätte komma in",
     "idFilm": 107022,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Tomas Alfredson",
     "annee": 2008,
     "pays": "Suède",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Oskar se pose beaucoup de questions par rapport à sa nouvelle amie, Eli: pourquoi se promène-t-elle en t-shirt les soirs glaciaux d'hiver ou bien même pourquoi le jour de son arrivée coïncide parfaitement avec de nombreuses disparitions et meurtres inquiétants: il découvre qu'Eli est en fait un vampire!"
+        "texte": "Délaissé et harcelé, le jeune Oskar trouve du réconfort auprès de sa nouvelle et très étrange amie Eli, qui lui donne la force de se venger."
       }
     ],
     "generique": [
@@ -978,11 +823,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A New-York, la fille du comte Dracula apprend la mort de son père. Elle décide de renouer des liens avec son frère, ce qui va laisser place à de nombreuses péripéties."
+        "texte": "Lorsque Nadja, la fille du comte Dracula, apprend la mort de son père, elle décide de se réconcilier avec son frère. Van Helsing, aidé de son neveu, cherche à les empêcher de sévir."
       }
     ],
     "generique": [
       "Peter Fonda",
+      "Elina Löwensohn",
+      "Martin Donovan",
       "David Lynch"
     ]
   },
@@ -1006,7 +853,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Au XIXème siècle, Jonathan Harker part dans les Carpates afin de vendre sa maison à Dracula."
+        "texte": "Au XIXe siècle, Jonathan Harker se rend dans les Carpates afin de vendre une maison au comte Dracula, bravant les avertissements des villageois. Remake du _Nosferatu_ de Murnau, réalisé en 1922."
       }
     ],
     "generique": [
@@ -1015,27 +862,6 @@
       "Bruno Ganz"
     ],
     "adaptation": "D'après le film _Nosferatu, le vampire_ de Friedrich Wilhelm Murnau.  \nD'après le roman _Dracula_ de Bram Stoker."
-  },
-  {
-    "titre": "Nosferatu le vampire",
-    "titreVo": "Nosferatu – Eine Symphonie des Grauens",
-    "idFilm": 39961,
-    "ageMinimal": null,
-    "realisateurs": "F.W. Murnau",
-    "annee": 1921,
-    "pays": "Allemagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "La nuit est le refuge des créatures les plus inquiétantes et parmi elles, Nosferatu, le vampire, règne en grand seigneur. Mais, si une fois, une fois seulement, il se laisse surprendre par l'arrivée du jour, alors il disparaîtra à tout jamais."
-      }
-    ],
-    "generique": [
-      "Max Schreck",
-      "Alexander Granach",
-      "Gustav von Wangenheim"
-    ],
-    "adaptation": "D'après le roman _Dracula_ de Bram Stoker."
   },
   {
     "titre": "Nuits de Dracula",
@@ -1050,7 +876,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Après avoir tué et usurpé l'identité d'un artiste tchèque installé dans les Balkans, Dracula s'envole vers les Etats-unis pour continuer sa quête et soif de sang."
+        "texte": "Le clerc de notaire Jonathan Harker se rend en Transylvanie pour rencontrer son client, le comte Dracula. Invité à rester au château pour la nuit, il accepte, mais se réveille au matin avec des traces de morsures sur le cou."
       }
     ],
     "generique": [
@@ -1070,7 +896,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Adam, musicien underground, et Eve, son amante, sont des vampires vivant entre Detroit et Tanger. L'arrivée de la petite sœur d'Eve va perturber leur existence."
+        "texte": "Adam, musicien underground, et Eve, son amante, sont des vampires qui vivent en solitaires entre Detroit et Tanger. L'arrivée de la petite sœur d'Eve va perturber leur existence."
       }
     ],
     "generique": [
@@ -1092,8 +918,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une troupe de danseuses investit un vieux théâtre abandonné pour les besoins des répétitions. Malgré les avertissements répétés du gardien des lieux, le directeur décide d'y rester. D'étranges phénomènes vont faire naître à nouveau la vieille malédiction qui plane sur le théâtre."
+        "texte": "Un directeur de théâtre et sa troupe répètent une pièce dans une ancienne salle abandonnée, occupée par un vampire. Lorsque celui-ci s'éveille, il découvre que l'une des comédiennes est la réincarnation de la femme qu'il a aimée autrefois."
       }
+    ],
+    "generique": [
+      "Marco Mariani",
+      "Giuseppe Addobbati",
+      "Barbara Hawards"
     ]
   },
   {
@@ -1109,7 +940,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Miriam, une femme vampire, vit à New York depuis trois cents ans, avec John. Celui-ci est soudainement frappé d'un processus accéléré de vieillissement. Sa compagne va tout tenter pour empêcher ce processus de dégradation."
+        "texte": "Miriam, une vampire âgée de trois mille ans, a offert l'immortalité à son compagnon. Mais il est frappé de vieillissement accéléré, et contacte la spécialiste Sarah Roberts pour enrayer le processus. Miriam tombe sous le charme de la jeune doctoresse."
       }
     ],
     "generique": [
@@ -1126,35 +957,41 @@
     "artVo": "El",
     "idFilm": 43918,
     "ageMinimal": null,
-    "realisateurs": "Fernando Mendez",
+    "realisateurs": "Fernando Méndez",
     "annee": 1957,
-    "pays": "Mexique"
-  },
-  {
-    "titre": "Retour de Dracula",
-    "art": "Le",
-    "titreVo": "Return of Dracula = The Fantastic Disappearing Man",
-    "artVo": "The",
-    "idFilm": 34512,
-    "ageMinimal": null,
-    "realisateurs": "Paul Landres",
-    "annee": 1958,
-    "pays": "États-Unis",
+    "pays": "Mexique",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Après avoir tué et usurpé l'identité d'un artiste tchèque installé dans les Balkans, Dracula s'envole vers les Etats-unis pour continuer sa quête et soif de sang."
+        "texte": "Une jeune Mexicaine, revenue dans sa famille pour des funérailles, entend des histoires troublantes : la ville serait infestée de vampires. Rapidement, elle soupçonne sa tante et un mystérieux voisin."
       }
+    ],
+    "generique": [
+      "Germán Robles",
+      "Abel Salazar",
+      "Ariadne Welter",
+      "Carmen Montejo"
     ]
   },
   {
-    "titre": "Santo défend le trésor de Dracula",
+    "titre": "Santo et le trésor de Dracula",
     "titreVo": "Santo en el tesoro de Drácula",
     "idFilm": 87310,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "René Cardona",
     "annee": 1968,
     "pays": "Mexique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "El Santo teste la machine à remonter le temps qu'il vient d'inventer, et se retrouve face à face avec le sinistre Dracula. Le vampire et le lutteur vont s'affronter pour le trésor du comte sanguinaire."
+      }
+    ],
+    "generique": [
+      "Santo",
+      "Aldo Monti",
+      "Noelia Noel"
+    ],
     "adaptation": "D'après le roman _Dracula_ de Bram Stoker."
   },
   {
@@ -1168,7 +1005,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Prônant une morale et une liberté nouvelles, une société secrète envoie dans notre monde un commando de femmes d'une grande beauté, afin de le conquérir en libérant les hommes de la virilité, source d'orgueil. Conte à la fois onirique et réaliste, ovni cinématographique profondément féministe, Spermula est un hymne fastueux à la création, à la femme et à l'amour. film interdit au moins de 16 ans"
+        "texte": "Prônant une morale et une liberté nouvelles, une société secrète envoie sur Terre un commando de femmes d'une grande beauté, afin de conquérir le monde en libérant les hommes de la virilité, principale source d'orgueil. Conte à la fois onirique et réaliste, ovni cinématographique profondément féministe, Spermula est un hymne fastueux à la création, à la femme et à l'amour. Restauré en HD par Hiventy, pour Sylvie Matton, avec le soutien du CNC. Film interdit au moins de 16 ans."
       },
       {
         "typeTexte": 99,
@@ -1193,12 +1030,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans un futur proche, quelques survivants, barricadés dans une ville bunker, résistent aux assauts organisés des zombies, qui désormais pensent et communiquent."
+        "texte": "Dans un futur proche, quelques survivants d'une apocalypse zombie vivent retranchés dans une ville bunker sécurisée et résistent aux assauts organisés des morts-vivants, qui désormais pensent et communiquent."
       }
     ],
     "generique": [
       "Simon Baker",
       "Asia Argento",
+      "John Leguizamo",
       "Dennis Hopper"
     ]
   },
@@ -1213,7 +1051,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un prêtre fait une expérience médicale ratée, succombe au vampirisme et devient vampire. Il tombe sous le charme de l'épouse de son ancien ami et a une violente attirance charnelle avec cette dernière."
+        "texte": "En Afrique, suite à une expérience médicale ratée, un prêtre se transforme en vampire. De retour chez lui en Corée, il croise la femme d'un ami d'enfance et succombe à son charme."
       }
     ],
     "generique": [
@@ -1226,14 +1064,14 @@
     "titre": "Un vampire à Brooklyn",
     "titreVo": "Vampire in Brooklyn",
     "idFilm": 59912,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Wes Craven",
     "annee": 1994,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'unique survivant d'une lignée de vampires exilée aux Caraïbes cherche à assurer sa descendance. Il part à New York à la recherche d'une femme vampire seule susceptible de le lui permettre."
+        "texte": "Maximilian, unique survivant d'une lignée de vampires exilée aux Caraïbes, cherche à assurer sa descendance et se rend à New York pour trouver l'âme sœur."
       }
     ],
     "generique": [
@@ -1244,60 +1082,24 @@
     ]
   },
   {
-    "titre": "Une messe pour Dracula",
-    "titreVo": "Taste the Blood of Dracula",
-    "idFilm": 36680,
-    "ageMinimal": null,
-    "realisateurs": "Peter Sasdy",
-    "annee": 1969,
-    "pays": "Grande-Bretagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Au XIXe siècle, des bourgeois ayant organisé une messe satanique ressuscitent le comte Dracula grâce aux services d'un homme qu'ils assassinent ensuite. Dracula va chercher vengeance pour le meurtre de son bienfaiteur."
-      }
-    ],
-    "generique": [
-      "Christopher Lee"
-    ]
-  },
-  {
     "titre": "Une nuit en enfer",
     "titreVo": "From Dusk Till Dawn",
     "idFilm": 45648,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Robert Rodriguez",
     "annee": 1995,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Deux criminels attendent l'arrivée de leur contact dans un bar après la prise d'otage d'une famille près de la frontière mexicaine."
+        "texte": "Deux criminels en cavale et leurs otages trouvent refuge dans un relais routier peuplé de vampires."
       }
     ],
     "generique": [
-      "John Saxon",
+      "Quentin Tarantino",
       "Harvey Keitel",
-      "George Clooney"
-    ]
-  },
-  {
-    "titre": "Vampir",
-    "titreVo": "Cuadecuc",
-    "idFilm": 43667,
-    "ageMinimal": null,
-    "realisateurs": "Pere Portabella, Joan Brossa",
-    "annee": 1970,
-    "pays": "Espagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "En 1970, le cinéaste Pere Portabella est invité sur le plateau de tournage du film _Les nuits de Dracula_. Il filme alors des moments de tournage dans cette atmosphère morbide et mystérieuse. « Ce film est une tentative de réflexion sur le langage cinématographique. » P. Portabella"
-      }
-    ],
-    "generique": [
-      "Christopher Lee",
-      "Jesus Franco"
+      "George Clooney",
+      "Juliette Lewis"
     ]
   },
   {
@@ -1312,44 +1114,28 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Ce document scientifique sur la chauve-souris du Brésil est aussi un film d'épouvante."
+        "texte": "Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Amérique du sud, possiblement à l'origine du _Nosferatu_ de F. W. Murnau."
       }
     ]
   },
   {
-    "titre": "Vampire Lovers",
-    "art": "The",
-    "titreVo": "",
-    "idFilm": 55255,
-    "ageMinimal": null,
-    "realisateurs": "Roy Ward Baker",
-    "annee": 1970,
-    "pays": "Grande-Bretagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Le baron von Hartog découvre que la famille Karnstein s'apprête à sortir de leurs caveaux pour devenir vampires. Il les tue tous sauf un: celui de Mircalla. Quelques années plus tard, une très belle jeune fille s'immisce dans la société afin de séduire des femmes, Mircalla."
-      }
-    ],
-    "generique": [
-      "Ingrid Pitt",
-      "Peter Cushing",
-      "Dawn Addams"
-    ]
-  },
-  {
-    "titre": "Vampire,... vous avez dit vampire ?",
+    "titre": "Vampire, vous avez dit vampire ?",
     "titreVo": "Fright night",
     "idFilm": 32808,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Tom Holland",
     "annee": 1985,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un adolescent passionné de films fantastiques surprend ses nouveaux voisins qui emménagent porter un cercueil. Il est convaincu d'avoir affaire à des vampires."
+        "texte": "Un adolescent, passionné de films fantastiques, surprend ses nouveaux voisins en train de porter un cercueil. Il est convaincu d'avoir affaire à des vampires."
       }
+    ],
+    "generique": [
+      "Chris Sarandon",
+      "William Ragsdale",
+      "Roddy McDowall"
     ]
   },
   {
@@ -1363,13 +1149,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A la tête de mercenaires, Jack Crow est chargé par le Vatican de traquer et exterminer les groupes de vampires. Valek, un puissant vampire ayant échappé à une de ces traques, se venge en massacrant à son tour les hommes de Jack Crow."
+        "texte": "À la tête d'une troupe de mercenaires, Jack Crow est chargé par le Vatican d'exterminer des nids de vampires. Parmi eux se trouve le puissant Valek, rescapé d'une des traques, qui cherche à se venger de Jack et de ses hommes."
       }
     ],
     "generique": [
       "James Woods",
       "Daniel Baldwin",
-      "Sheryl Lee"
+      "Sheryl Lee",
+      "Maximilian Schell"
     ]
   },
   {
@@ -1384,7 +1171,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête. _Production Gaumont_"
+        "texte": "Les Vampires se découvrent un adversaire redoutable en la personne de Moreno, habile cambrioleur."
       }
     ],
     "generique": [
@@ -1406,7 +1193,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête."
+        "texte": "Vénénos, le nouveau chef des Vampires, parvient à faire empoisonner le repas de fiançailles du journaliste Philippe Guérande. Tous les convives en réchappent de justesse, sauf le concierge. Neuvième épisode de la série."
       }
     ],
     "generique": [
@@ -1428,11 +1215,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Texte à saisir"
+        "texte": "Une célèbre danseuse promet à Philippe Guérande des révélations sur les Vampires, mais elle meurt au cours d'une représentation, empoisonnée par une bague."
       },
       {
-        "typeTexte": 99,
-        "texte": "Restauré en 2015 par Gaumont."
+        "typeTexte": 9,
+        "texte": "Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être."
       }
     ],
     "generique": [
@@ -1453,7 +1240,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Texte à saisir"
+        "texte": "Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être."
       }
     ],
     "generique": [
@@ -1474,11 +1261,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Texte à saisir"
+        "texte": "Une célèbre danseuse promet à Philippe Guérande des révélations sur les Vampires, mais elle meurt au cours d'une représentation, empoisonnée par une bague."
       },
       {
-        "typeTexte": 99,
-        "texte": "Restauré en 2015 par Gaumont."
+        "typeTexte": 9,
+        "texte": "Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être."
       }
     ],
     "generique": [
@@ -1500,7 +1287,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête."
+        "texte": "Irma a tué le Grand Vampire, mais un individu nommé Satanas débarque chez Moreno, et prétend être le Grand Maître des Vampires. Pour démontrer sa puissance, il cherche à détruire le cabaret qui sert de repère à la bande."
       }
     ],
     "generique": [
@@ -1522,7 +1309,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête. _Production Gaumont_"
+        "texte": "Les Vampires se découvrent un adversaire redoutable en la personne de Moreno, habile cambrioleur."
       }
     ],
     "generique": [
@@ -1544,7 +1331,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête."
+        "texte": "Vénénos, le nouveau chef des Vampires, parvient à faire empoisonner le repas de fiançailles du journaliste Philippe Guérande. Tous les convives en réchappent de justesse, sauf le concierge. Neuvième épisode de la série."
       }
     ],
     "generique": [
@@ -1566,7 +1353,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête. _Production Gaumont_"
+        "texte": "Les Vampires se découvrent un adversaire redoutable en la personne de Moreno, habile cambrioleur."
       }
     ],
     "generique": [
@@ -1588,7 +1375,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les Vampires, une bande de malfaiteurs, terrorisent les habitants de Paris. Le journaliste Philippe Guérande, aidé de son ami Mazamette, mène l'enquête."
+        "texte": "Irma a tué le Grand Vampire, mais un individu nommé Satanas débarque chez Moreno, et prétend être le Grand Maître des Vampires. Pour démontrer sa puissance, il cherche à détruire le cabaret qui sert de repère à la bande."
       }
     ],
     "generique": [
@@ -1599,8 +1386,8 @@
     ]
   },
   {
-    "titre": "Vampyr ou l'étrange aventure de David Gray",
-    "titreVo": "",
+    "titre": "Vampyr",
+    "titreVo": "Vampyr ou l'étrange aventure de David Gray",
     "idFilm": 48251,
     "ageMinimal": 0,
     "realisateurs": "Carl Theodor Dreyer",
@@ -1630,8 +1417,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un couple de femmes assassinées en plein ébat sexuel devient un couple de vampires insatiables."
+        "texte": "Deux femmes assassinées en pleins ébats sexuels se transforment en vampires insatiables."
       }
+    ],
+    "generique": [
+      "Marianne Morris",
+      "Anulka Dziubinska",
+      "Murray Brown"
     ]
   }
 ]

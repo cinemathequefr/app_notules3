@@ -75,7 +75,7 @@ try {
         cycleFullCode[1]
       }.json`
     );
-    console.log("*DEF*");
+    console.log("Info : utilise les données CONFS_DEF.");
     // isDef = true;
   } catch (e) {
     try {
@@ -84,6 +84,7 @@ try {
           cycleFullCode[1]
         }.json`
       );
+      console.log("Info : utilise les données CONFS (non _DEF).");
       // isDef = false;
     } catch (e) {
       console.log("Info : aucune donnée _CONFS n'a  été trouvée.");

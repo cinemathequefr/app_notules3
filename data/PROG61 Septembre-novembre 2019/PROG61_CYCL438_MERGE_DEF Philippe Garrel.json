@@ -20,7 +20,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel, Serge Bard, Patrick Deval",
           "annee": 1968,
-          "duree": 0,
+          "duree": 6,
           "version": "",
           "format": "35 mm",
           "textes": [
@@ -47,7 +47,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel, Serge Bard, Patrick Deval",
           "annee": 1968,
-          "duree": 0,
+          "duree": 6,
           "version": "",
           "format": "35 mm",
           "textes": [
@@ -65,6 +65,7 @@
             "HL",
             "Henri Langlois"
           ],
+          "mention": "Séance présentée par Jean-Claude Carrière (sous réserve) et Caroline Deruas",
           "idCategorie": 1993,
           "idEvenement": 19342,
           "typeEvenement": 13,
@@ -97,6 +98,7 @@
             "HL",
             "Henri Langlois"
           ],
+          "mention": "Séance présentée par Eric Caravaca",
           "idCategorie": 1993,
           "idEvenement": 19342,
           "typeEvenement": 13,
@@ -319,7 +321,7 @@
         {
           "idSeance": 30991,
           "ordre": 1,
-          "dateHeure": "2019-10-04T21:00:00",
+          "dateHeure": "2019-10-04T21:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -872,6 +874,68 @@
           ]
         },
         {
+          "idSeance": 30902,
+          "ordre": 1,
+          "dateHeure": "2019-09-20T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1993,
+          "idEvenement": 20741,
+          "typeEvenement": 13,
+          "idFilm": 102455,
+          "titre": "Home movie, autour du « Lit de la vierge »",
+          "titreVo": "",
+          "realisateurs": "Frédéric Pardo",
+          "annee": 1969,
+          "duree": 30,
+          "version": "",
+          "format": "Numérique",
+          "generique": [
+            "Tina Aumont",
+            "Philippe Garrel",
+            "Pierre Clémenti"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Frédéric Pardo, ami de Philippe Garrel et amant de Tina Aumont, filme les coulisses du tournage du _Lit de la vierge_."
+            }
+          ]
+        },
+        {
+          "idSeance": 31023,
+          "ordre": 1,
+          "dateHeure": "2019-10-10T21:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1993,
+          "idEvenement": 20741,
+          "typeEvenement": 13,
+          "idFilm": 102455,
+          "titre": "Home movie, autour du « Lit de la vierge »",
+          "titreVo": "",
+          "realisateurs": "Frédéric Pardo",
+          "annee": 1969,
+          "duree": 30,
+          "version": "",
+          "format": "Numérique",
+          "generique": [
+            "Tina Aumont",
+            "Philippe Garrel",
+            "Pierre Clémenti"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Frédéric Pardo, ami de Philippe Garrel et amant de Tina Aumont, filme les coulisses du tournage du _Lit de la vierge_."
+            }
+          ]
+        },
+        {
           "idSeance": 30983,
           "ordre": 1,
           "dateHeure": "2019-10-03T19:30:00",
@@ -888,7 +952,7 @@
           "realisateurs": "Philippe Garrel",
           "annee": 1990,
           "duree": 98,
-          "version": "",
+          "version": "VF",
           "format": "35 mm",
           "generique": [
             "Benoît Régent",
@@ -920,7 +984,7 @@
           "realisateurs": "Philippe Garrel",
           "annee": 1990,
           "duree": 98,
-          "version": "",
+          "version": "VF",
           "format": "35 mm",
           "generique": [
             "Benoît Régent",
@@ -1071,14 +1135,14 @@
         },
         {
           "idSeance": 30902,
-          "ordre": 1,
+          "ordre": 2,
           "dateHeure": "2019-09-20T17:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "idCategorie": 1993,
-          "idEvenement": 19365,
+          "idEvenement": 20741,
           "typeEvenement": 13,
           "idFilm": 48714,
           "art": "Le",
@@ -1104,14 +1168,14 @@
         },
         {
           "idSeance": 31023,
-          "ordre": 1,
+          "ordre": 2,
           "dateHeure": "2019-10-10T21:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "idCategorie": 1993,
-          "idEvenement": 19365,
+          "idEvenement": 20741,
           "typeEvenement": 13,
           "idFilm": 48714,
           "art": "Le",
@@ -1353,6 +1417,7 @@
             "HL",
             "Henri Langlois"
           ],
+          "mention": "Séance présentée par Clotilde Courau",
           "idCategorie": 1993,
           "idEvenement": 19369,
           "typeEvenement": 13,
@@ -1450,7 +1515,7 @@
         {
           "idSeance": 31068,
           "ordre": 1,
-          "dateHeure": "2019-10-17T16:30:00",
+          "dateHeure": "2019-10-17T16:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1485,7 +1550,7 @@
         {
           "idSeance": 31806,
           "ordre": 1,
-          "dateHeure": "2019-10-04T19:00:00",
+          "dateHeure": "2019-10-04T19:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1684,7 +1749,7 @@
         {
           "idSeance": 31842,
           "ordre": 1,
-          "dateHeure": "2019-09-26T16:30:00",
+          "dateHeure": "2019-09-26T16:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1811,6 +1876,64 @@
               "texte": "La rencontre amoureuse entre un homme et une femme, placée sous le signe de la mort."
             }
           ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 31785,
+          "ordre": 2,
+          "dateHeure": "2019-10-05T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 2068,
+          "idEvenement": 20633,
+          "typeEvenement": 14,
+          "idTypeConference": 15,
+          "typeConference": "Leçon de cinéma",
+          "titre": "Philippe Garrel par Philippe Garrel",
+          "duree": 60,
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "« La libido féminine est aussi puissante que la libido masculine. Pour moi, _L'Ombre des femmes_ est un film sur l'égalité de l'homme et de la femme, telle que peut la prendre en charge le cinéma. » (Philippe Garrel)"
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Frédéric Bonnaud est directeur général de la Cinémathèque française."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Philippe Azoury est journaliste et critique de cinéma. Avec Jean-Marc Lalanne, il a écrit sur Jean Cocteau et Fantômas. Il a publié un livre d'entretiens avec Adolpho Arrietta (Capricci, 2012). Il est aussi l'auteur d'essais sur Jim Jarmusch, Werner Schroeter, Jean Eustache et Philippe Garrel (_Philippe Garrel, en substance_, Capricci, 2013)."
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Philippe Garrel",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Frédéric Bonnaud",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            },
+            {
+              "nomComplet": "Philippe Azoury",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 3
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Frédéric Bonnaud et Philippe Azoury"
         }
       ]
     }

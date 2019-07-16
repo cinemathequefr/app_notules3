@@ -1,4 +1,5 @@
-[{
+[
+  {
     "idCategorie": 1763,
     "typeEvenement": 13,
     "idEvenement": 19534,
@@ -9,16 +10,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Mauvais chemin (Le)",
-    "items": [{
-      "idFilm": 42063,
-      "ordre": 1,
-      "idSeance": 31155,
-      "idCopie": 18985,
-      "duree": 100,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42063,
+        "ordre": 1,
+        "idSeance": 31155,
+        "idCopie": 18985,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -31,16 +34,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Une fille formidable",
-    "items": [{
-      "idFilm": 64750,
-      "ordre": 1,
-      "idSeance": 31160,
-      "idCopie": 18999,
-      "duree": 91,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 64750,
+        "ordre": 1,
+        "idSeance": 31160,
+        "idCopie": 19307,
+        "duree": 91,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -53,16 +58,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Jeunes maris (Les)",
-    "items": [{
-      "idFilm": 42092,
-      "ordre": 1,
-      "idSeance": 31167,
-      "idCopie": 18989,
-      "duree": 95,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 42092,
+        "ordre": 1,
+        "idSeance": 31167,
+        "idCopie": 18989,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -75,16 +82,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Garçons (Les)",
-    "items": [{
-      "idFilm": 45024,
-      "ordre": 1,
-      "idSeance": 31168,
-      "idCopie": 19287,
-      "duree": 95,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 45024,
+        "ordre": 1,
+        "idSeance": 31168,
+        "idCopie": 19287,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -97,16 +106,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Bel Antonio (Le)",
-    "items": [{
-      "idFilm": 42068,
-      "ordre": 1,
-      "idSeance": 31169,
-      "idCopie": 2522,
-      "duree": 105,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42068,
+        "ordre": 1,
+        "idSeance": 31169,
+        "idCopie": 2522,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -119,16 +130,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Quand la chair succombe",
-    "items": [{
-      "idFilm": 42106,
-      "ordre": 1,
-      "idSeance": 31176,
-      "idCopie": 19288,
-      "duree": 111,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42106,
+        "ordre": 1,
+        "idSeance": 31176,
+        "idCopie": 19288,
+        "duree": 111,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -141,16 +154,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Corruption (La)",
-    "items": [{
-      "idFilm": 42071,
-      "ordre": 1,
-      "idSeance": 31177,
-      "idCopie": 18983,
-      "duree": 80,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42071,
+        "ordre": 1,
+        "idSeance": 31177,
+        "idCopie": 18983,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 2036,
@@ -163,16 +178,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Poupées (Les)",
-    "items": [{
-      "idFilm": 42105,
-      "ordre": 1,
-      "idSeance": 31191,
-      "idCopie": 19004,
-      "duree": 110,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 42105,
+        "ordre": 1,
+        "idSeance": 31191,
+        "idCopie": 19004,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -185,60 +202,114 @@
       "Georges Franju"
     ],
     "titreEvenement": "Amoureux (Les)",
-    "items": [{
-      "idFilm": 42101,
-      "ordre": 1,
-      "idSeance": 31188,
-      "idCopie": 19282,
-      "duree": 90,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42101,
+        "ordre": 1,
+        "idSeance": 31188,
+        "idCopie": 19282,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
     "typeEvenement": 13,
-    "idEvenement": 19529,
-    "idSeance": 31192,
+    "idEvenement": 19532,
+    "idSeance": 32063,
     "dateHeure": "2019-11-06T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Guardia, guardia scelta, brigadiere e maresciallo",
-    "items": [{
-      "idFilm": 66904,
-      "ordre": 1,
-      "idSeance": 31192,
-      "idCopie": 19009,
-      "duree": 92,
-      "version": "VO",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "titreEvenement": "Liberté mon amour",
+    "items": [
+      {
+        "idFilm": 60132,
+        "ordre": 1,
+        "idSeance": 32063,
+        "idCopie": 19283,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
     "typeEvenement": 13,
     "idEvenement": 19533,
     "idSeance": 31193,
-    "dateHeure": "2019-11-06T21:30:00",
+    "dateHeure": "2019-11-06T21:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Marisa la civetta",
-    "items": [{
-      "idFilm": 90659,
-      "ordre": 1,
-      "idSeance": 31193,
-      "idCopie": 19285,
-      "duree": 87,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "titreEvenement": "Marisa la coquette",
+    "items": [
+      {
+        "idFilm": 90659,
+        "ordre": 1,
+        "idSeance": 31193,
+        "idCopie": 19285,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1763,
+    "typeEvenement": 13,
+    "idEvenement": 19529,
+    "idSeance": 32064,
+    "dateHeure": "2019-11-07T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Guardia, guardia scelta, brigadiere e maresciallo",
+    "items": [
+      {
+        "idFilm": 66904,
+        "ordre": 1,
+        "idSeance": 32064,
+        "idCopie": 19009,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2104,
+    "typeEvenement": 13,
+    "idEvenement": 19520,
+    "idSeance": 32061,
+    "dateHeure": "2019-11-07T18:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Chartreuse de Parme (La): parties 1, 2, 3",
+    "items": [
+      {
+        "idFilm": 120324,
+        "ordre": 1,
+        "idSeance": 32061,
+        "idCopie": 19304,
+        "duree": 180,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -251,16 +322,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Agostino",
-    "items": [{
-      "idFilm": 72626,
-      "ordre": 1,
-      "idSeance": 31878,
-      "idCopie": 19014,
-      "duree": 102,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 72626,
+        "ordre": 1,
+        "idSeance": 31878,
+        "idCopie": 19014,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -272,61 +345,43 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Vena d'oro (La)",
-    "items": [{
-      "idFilm": 92504,
-      "ordre": 1,
-      "idSeance": 31203,
-      "idCopie": 19270,
-      "duree": 86,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "titreEvenement": "Veine d'or (La)",
+    "items": [
+      {
+        "idFilm": 92504,
+        "ordre": 1,
+        "idSeance": 31203,
+        "idCopie": 19303,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
-    "idCategorie": 1763,
+    "idCategorie": 2104,
     "typeEvenement": 13,
-    "idEvenement": 19509,
-    "idSeance": 32030,
-    "dateHeure": "2019-11-08T19:30:00",
+    "idEvenement": 20743,
+    "idSeance": 32062,
+    "dateHeure": "2019-11-08T18:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Arabella",
-    "items": [{
-      "idFilm": 58592,
-      "ordre": 1,
-      "idSeance": 32030,
-      "idCopie": 18980,
-      "duree": 105,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
-  },
-  {
-    "idCategorie": 1763,
-    "typeEvenement": 13,
-    "idEvenement": 19532,
-    "idSeance": 32034,
-    "dateHeure": "2019-11-08T21:45:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "titreEvenement": "Libera amore mio",
-    "items": [{
-      "idFilm": 60132,
-      "ordre": 1,
-      "idSeance": 32034,
-      "idCopie": 19283,
-      "duree": 110,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "titreEvenement": "Chartreuse de Parme (La): parties 4, 5, 6",
+    "items": [
+      {
+        "idFilm": 120324,
+        "ordre": 1,
+        "idSeance": 32062,
+        "idCopie": 19304,
+        "duree": 180,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 2036,
@@ -338,17 +393,19 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Capriccio all'italiana",
-    "items": [{
-      "idFilm": 60124,
-      "ordre": 1,
-      "idSeance": 32035,
-      "idCopie": 19261,
-      "duree": 95,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "titreEvenement": "Caprice à l'italienne",
+    "items": [
+      {
+        "idFilm": 60124,
+        "ordre": 1,
+        "idSeance": 32035,
+        "idCopie": 19261,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -360,17 +417,19 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Chevalier de Maupin",
-    "items": [{
-      "idFilm": 42102,
-      "ordre": 1,
-      "idSeance": 31210,
-      "idCopie": 18991,
-      "duree": 95,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "titreEvenement": "Chevalier de Maupin (Le)",
+    "items": [
+      {
+        "idFilm": 42102,
+        "ordre": 1,
+        "idSeance": 31210,
+        "idCopie": 18991,
+        "duree": 95,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -383,10 +442,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Ce merveilleux automne",
-    "items": [{
-      "idFilm": 42108,
-      "ordre": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42108,
+        "ordre": 1,
+        "idSeance": 31211,
+        "idCopie": 10122,
+        "duree": 92,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -399,16 +466,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Metello",
-    "items": [{
-      "idFilm": 42103,
-      "ordre": 1,
-      "idSeance": 31212,
-      "idCopie": 18996,
-      "duree": 107,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 42103,
+        "ordre": 1,
+        "idSeance": 31212,
+        "idCopie": 18996,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -420,17 +489,19 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Bubu",
-    "items": [{
-      "idFilm": 39050,
-      "ordre": 1,
-      "idSeance": 31218,
-      "idCopie": 19281,
-      "duree": 100,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "titreEvenement": "Bubù de Montparnasse",
+    "items": [
+      {
+        "idFilm": 39050,
+        "ordre": 1,
+        "idSeance": 31218,
+        "idCopie": 19281,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -443,16 +514,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Grande bourgeoise (La)",
-    "items": [{
-      "idFilm": 41948,
-      "ordre": 1,
-      "idSeance": 31219,
-      "idCopie": 18988,
-      "duree": 120,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 41948,
+        "ordre": 1,
+        "idSeance": 31219,
+        "idCopie": 18988,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -465,16 +538,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Vertiges",
-    "items": [{
-      "idFilm": 56875,
-      "ordre": 1,
-      "idSeance": 31220,
-      "idCopie": 10120,
-      "duree": 97,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 56875,
+        "ordre": 1,
+        "idSeance": 31220,
+        "idCopie": 10120,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -487,16 +562,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Villa del Venerdi (La)",
-    "items": [{
-      "idFilm": 72592,
-      "ordre": 1,
-      "idSeance": 31972,
-      "idCopie": 19008,
-      "duree": 103,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 72592,
+        "ordre": 1,
+        "idSeance": 31972,
+        "idCopie": 19008,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -509,16 +586,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Chronique d'un homicide",
-    "items": [{
-      "idFilm": 82514,
-      "ordre": 1,
-      "idSeance": 31226,
-      "idCopie": 19010,
-      "duree": 103,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 82514,
+        "ordre": 1,
+        "idSeance": 31226,
+        "idCopie": 19010,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -530,17 +609,19 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Gran bollito",
-    "items": [{
-      "idFilm": 75906,
-      "ordre": 1,
-      "idSeance": 31991,
-      "idCopie": 19207,
-      "duree": 115,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 0
-    }]
+    "titreEvenement": "Black Journal",
+    "items": [
+      {
+        "idFilm": 75906,
+        "ordre": 1,
+        "idSeance": 31991,
+        "idCopie": 19207,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -552,17 +633,19 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Vena d'oro (La)",
-    "items": [{
-      "idFilm": 92504,
-      "ordre": 1,
-      "idSeance": 31228,
-      "idCopie": 19270,
-      "duree": 86,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "titreEvenement": "Veine d'or (La)",
+    "items": [
+      {
+        "idFilm": 92504,
+        "ordre": 1,
+        "idSeance": 31228,
+        "idCopie": 19303,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -575,16 +658,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Une fille formidable",
-    "items": [{
-      "idFilm": 64750,
-      "ordre": 1,
-      "idSeance": 32029,
-      "idCopie": 18999,
-      "duree": 91,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 64750,
+        "ordre": 1,
+        "idSeance": 32029,
+        "idCopie": 19307,
+        "duree": 91,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -597,32 +682,42 @@
       "Georges Franju"
     ],
     "titreEvenement": "Dame aux camélias (La)",
-    "items": [{
-      "idFilm": 46956,
-      "ordre": 1,
-      "idSeance": 31235,
-      "idCopie": 18992,
-      "duree": 120,
-      "version": "VFSTA",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 46956,
+        "ordre": 1,
+        "idSeance": 31235,
+        "idCopie": 18992,
+        "duree": 120,
+        "version": "VFSTA",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
     "typeEvenement": 13,
-    "idEvenement": 19520,
-    "idSeance": 31236,
+    "idEvenement": 19527,
+    "idSeance": 32060,
     "dateHeure": "2019-11-13T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Certosa di Parma  (La)",
-    "items": [{
-      "idFilm": 120324,
-      "ordre": 1
-    }]
+    "titreEvenement": "Black Journal",
+    "items": [
+      {
+        "idFilm": 75906,
+        "ordre": 1,
+        "idSeance": 32060,
+        "idCopie": 19207,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -634,17 +729,19 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Arrangiatevi !",
-    "items": [{
-      "idFilm": 70413,
-      "ordre": 1,
-      "idSeance": 31884,
-      "idCopie": 18981,
-      "duree": 105,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "titreEvenement": "Débrouillez-vous !",
+    "items": [
+      {
+        "idFilm": 70413,
+        "ordre": 1,
+        "idSeance": 31884,
+        "idCopie": 18981,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -657,16 +754,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Amoureux (Les)",
-    "items": [{
-      "idFilm": 42101,
-      "ordre": 1,
-      "idSeance": 31240,
-      "idCopie": 19282,
-      "duree": 90,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42101,
+        "ordre": 1,
+        "idSeance": 31240,
+        "idCopie": 19282,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 2074,
@@ -681,7 +780,9 @@
     "titreEvenement": "Mauro Bolognini, au-delà du style",
     "idSeanceAssoc": 31238,
     "typeAssoc": 117,
-    "items": [{}]
+    "items": [
+      {}
+    ]
   },
   {
     "idCategorie": 1763,
@@ -696,16 +797,42 @@
     "titreEvenement": "Quand la chair succombe",
     "idSeanceAssoc": 31244,
     "typeAssoc": 117,
-    "items": [{
-      "idFilm": 42106,
-      "ordre": 1,
-      "idSeance": 31238,
-      "idCopie": 19288,
-      "duree": 111,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42106,
+        "ordre": 1,
+        "idSeance": 31238,
+        "idCopie": 19288,
+        "duree": 111,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1763,
+    "typeEvenement": 13,
+    "idEvenement": 19509,
+    "idSeance": 32053,
+    "dateHeure": "2019-11-15T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Arabella",
+    "items": [
+      {
+        "idFilm": 58592,
+        "ordre": 1,
+        "idSeance": 32053,
+        "idCopie": 18980,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -717,17 +844,19 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Libera amore mio",
-    "items": [{
-      "idFilm": 60132,
-      "ordre": 1,
-      "idSeance": 31990,
-      "idCopie": 19283,
-      "duree": 110,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "titreEvenement": "Liberté mon amour",
+    "items": [
+      {
+        "idFilm": 60132,
+        "ordre": 1,
+        "idSeance": 31990,
+        "idCopie": 19283,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -740,16 +869,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Bel Antonio (Le)",
-    "items": [{
-      "idFilm": 42068,
-      "ordre": 1,
-      "idSeance": 31252,
-      "idCopie": 2522,
-      "duree": 105,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42068,
+        "ordre": 1,
+        "idSeance": 31252,
+        "idCopie": 2522,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -762,16 +893,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Jeunes maris (Les)",
-    "items": [{
-      "idFilm": 42092,
-      "ordre": 1,
-      "idSeance": 31253,
-      "idCopie": 18989,
-      "duree": 95,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 42092,
+        "ordre": 1,
+        "idSeance": 31253,
+        "idCopie": 18989,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -784,16 +917,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Garçons (Les)",
-    "items": [{
-      "idFilm": 45024,
-      "ordre": 1,
-      "idSeance": 31254,
-      "idCopie": 19287,
-      "duree": 95,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 45024,
+        "ordre": 1,
+        "idSeance": 31254,
+        "idCopie": 19287,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -806,16 +941,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Corruption (La)",
-    "items": [{
-      "idFilm": 42071,
-      "ordre": 1,
-      "idSeance": 31255,
-      "idCopie": 18983,
-      "duree": 80,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42071,
+        "ordre": 1,
+        "idSeance": 31255,
+        "idCopie": 18983,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -827,17 +964,19 @@
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Cavalieri della regina (I)",
-    "items": [{
-      "idFilm": 56337,
-      "ordre": 1,
-      "idSeance": 31970,
-      "idCopie": 19000,
-      "duree": 79,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "titreEvenement": "D’Artagnan, chevalier de la reine",
+    "items": [
+      {
+        "idFilm": 56337,
+        "ordre": 1,
+        "idSeance": 31970,
+        "idCopie": 19000,
+        "duree": 79,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -849,17 +988,19 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Chevalier de Maupin",
-    "items": [{
-      "idFilm": 42102,
-      "ordre": 1,
-      "idSeance": 31261,
-      "idCopie": 18991,
-      "duree": 95,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "titreEvenement": "Chevalier de Maupin (Le)",
+    "items": [
+      {
+        "idFilm": 42102,
+        "ordre": 1,
+        "idSeance": 31261,
+        "idCopie": 18991,
+        "duree": 95,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -872,10 +1013,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Ce merveilleux automne",
-    "items": [{
-      "idFilm": 42108,
-      "ordre": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42108,
+        "ordre": 1,
+        "idSeance": 31262,
+        "idCopie": 10122,
+        "duree": 92,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -887,17 +1036,19 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Ca s'est passé à Rome",
-    "items": [{
-      "idFilm": 41950,
-      "ordre": 1,
-      "idSeance": 31263,
-      "idCopie": 1928,
-      "duree": 89,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "titreEvenement": "Ça s'est passé à Rome",
+    "items": [
+      {
+        "idFilm": 41950,
+        "ordre": 1,
+        "idSeance": 31263,
+        "idCopie": 1928,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -910,16 +1061,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Vénitienne (La)",
-    "items": [{
-      "idFilm": 42109,
-      "ordre": 1,
-      "idSeance": 31992,
-      "idCopie": 19001,
-      "duree": 102,
-      "version": "VOSTA",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 42109,
+        "ordre": 1,
+        "idSeance": 31992,
+        "idCopie": 19001,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 2036,
@@ -932,16 +1085,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Plus vieux métier du monde (Le)",
-    "items": [{
-      "idFilm": 60118,
-      "ordre": 1,
-      "idSeance": 32017,
-      "idCopie": 19006,
-      "duree": 110,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 60118,
+        "ordre": 1,
+        "idSeance": 32017,
+        "idCopie": 19006,
+        "duree": 110,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -954,16 +1109,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Mauvais chemin (Le)",
-    "items": [{
-      "idFilm": 42063,
-      "ordre": 1,
-      "idSeance": 32036,
-      "idCopie": 18985,
-      "duree": 100,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42063,
+        "ordre": 1,
+        "idSeance": 32036,
+        "idCopie": 18985,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 2036,
@@ -976,16 +1133,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Mia signora (La)",
-    "items": [{
-      "idFilm": 105872,
-      "ordre": 1,
-      "idSeance": 32013,
-      "idCopie": 19016,
-      "duree": 102,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 105872,
+        "ordre": 1,
+        "idSeance": 32013,
+        "idCopie": 19016,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -997,17 +1156,19 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Ca s'est passé à Rome",
-    "items": [{
-      "idFilm": 41950,
-      "ordre": 1,
-      "idSeance": 31284,
-      "idCopie": 1928,
-      "duree": 89,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "titreEvenement": "Ça s'est passé à Rome",
+    "items": [
+      {
+        "idFilm": 41950,
+        "ordre": 1,
+        "idSeance": 31284,
+        "idCopie": 1928,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -1020,16 +1181,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Agostino",
-    "items": [{
-      "idFilm": 72626,
-      "ordre": 1,
-      "idSeance": 31285,
-      "idCopie": 19014,
-      "duree": 102,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 72626,
+        "ordre": 1,
+        "idSeance": 31285,
+        "idCopie": 19014,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -1041,17 +1204,19 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Mosca addio",
-    "items": [{
-      "idFilm": 66656,
-      "ordre": 1,
-      "idSeance": 31993,
-      "idCopie": 19012,
-      "duree": 102,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "titreEvenement": "Adieu Moscou",
+    "items": [
+      {
+        "idFilm": 66656,
+        "ordre": 1,
+        "idSeance": 31993,
+        "idCopie": 19012,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 2036,
@@ -1064,16 +1229,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Où es-tu allé en vacances ?",
-    "items": [{
-      "idFilm": 70065,
-      "ordre": 1,
-      "idSeance": 32018,
-      "idCopie": 10125,
-      "duree": 133,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 70065,
+        "ordre": 1,
+        "idSeance": 32018,
+        "idCopie": 10125,
+        "duree": 133,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 2036,
@@ -1085,17 +1252,19 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Tre volti (I)",
-    "items": [{
-      "idFilm": 60128,
-      "ordre": 1,
-      "idSeance": 31295,
-      "idCopie": 19260,
-      "duree": 115,
-      "version": "VOSTF",
-      "format": "Numérique",
-      "valide": 0
-    }]
+    "titreEvenement": "Trois visages (Les)",
+    "items": [
+      {
+        "idFilm": 60128,
+        "ordre": 1,
+        "idSeance": 31295,
+        "idCopie": 19260,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 2036,
@@ -1108,16 +1277,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Ogresses (Les)",
-    "items": [{
-      "idFilm": 56602,
-      "ordre": 1,
-      "idSeance": 31296,
-      "idCopie": 19005,
-      "duree": 114,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 56602,
+        "ordre": 1,
+        "idSeance": 31296,
+        "idCopie": 19005,
+        "duree": 114,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -1130,16 +1301,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Grande bourgeoise (La)",
-    "items": [{
-      "idFilm": 41948,
-      "ordre": 1,
-      "idSeance": 31923,
-      "idCopie": 18988,
-      "duree": 120,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 41948,
+        "ordre": 1,
+        "idSeance": 31923,
+        "idCopie": 18988,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -1152,16 +1325,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Héritage (L')",
-    "items": [{
-      "idFilm": 42091,
-      "ordre": 1,
-      "idSeance": 31298,
-      "idCopie": 18984,
-      "duree": 118,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42091,
+        "ordre": 1,
+        "idSeance": 31298,
+        "idCopie": 18984,
+        "duree": 118,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -1174,16 +1349,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Vertiges",
-    "items": [{
-      "idFilm": 56875,
-      "ordre": 1,
-      "idSeance": 31303,
-      "idCopie": 10120,
-      "duree": 97,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 56875,
+        "ordre": 1,
+        "idSeance": 31303,
+        "idCopie": 10120,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -1196,16 +1373,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Dame aux camélias (La)",
-    "items": [{
-      "idFilm": 46956,
-      "ordre": 1,
-      "idSeance": 31304,
-      "idCopie": 18992,
-      "duree": 120,
-      "version": "VFSTA",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 46956,
+        "ordre": 1,
+        "idSeance": 31304,
+        "idCopie": 18992,
+        "duree": 120,
+        "version": "VFSTA",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -1218,16 +1397,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Metello",
-    "items": [{
-      "idFilm": 42103,
-      "ordre": 1,
-      "idSeance": 31305,
-      "idCopie": 18996,
-      "duree": 107,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 42103,
+        "ordre": 1,
+        "idSeance": 31305,
+        "idCopie": 18996,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 1763,
@@ -1239,17 +1420,19 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Bubu",
-    "items": [{
-      "idFilm": 39050,
-      "ordre": 1,
-      "idSeance": 31924,
-      "idCopie": 19281,
-      "duree": 100,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "titreEvenement": "Bubù de Montparnasse",
+    "items": [
+      {
+        "idFilm": 39050,
+        "ordre": 1,
+        "idSeance": 31924,
+        "idCopie": 19281,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCategorie": 2036,
@@ -1262,15 +1445,17 @@
       "Georges Franju"
     ],
     "titreEvenement": "Sorcières (Les)",
-    "items": [{
-      "idFilm": 65391,
-      "ordre": 1,
-      "idSeance": 31311,
-      "idCopie": 12539,
-      "duree": 105,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 65391,
+        "ordre": 1,
+        "idSeance": 31311,
+        "idCopie": 12539,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   }
 ]
