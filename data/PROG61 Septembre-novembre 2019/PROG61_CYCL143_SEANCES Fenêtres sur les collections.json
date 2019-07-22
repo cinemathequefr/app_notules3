@@ -1,6 +1,6 @@
 [
   {
-    "idCategorie": 2058,
+    "idCategorie": 2107,
     "typeEvenement": 13,
     "idEvenement": 20018,
     "idSeance": 31882,
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "idCategorie": 2058,
+    "idCategorie": 2107,
     "typeEvenement": 13,
     "idEvenement": 20026,
     "idSeance": 31883,
@@ -62,6 +62,74 @@
         "idCopie": 16693,
         "duree": 78,
         "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2087,
+    "typeEvenement": 13,
+    "idEvenement": 20663,
+    "idSeance": 31996,
+    "dateHeure": "2019-11-01T18:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Chicago digest / Lumière et l'invention du cinématographe / Saint-Tropez, devoir de vacances",
+    "items": [
+      {
+        "idFilm": 50533,
+        "ordre": 1,
+        "idSeance": 31996,
+        "idCopie": 8130,
+        "duree": 28,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 50546,
+        "ordre": 2,
+        "idSeance": 31996,
+        "idCopie": 19212,
+        "duree": 23,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 76803,
+        "ordre": 3,
+        "idSeance": 31996,
+        "idCopie": 19213,
+        "duree": 24,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2087,
+    "typeEvenement": 13,
+    "idEvenement": 20666,
+    "idSeance": 31995,
+    "dateHeure": "2019-11-01T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Pantalaskas",
+    "items": [
+      {
+        "idFilm": 50547,
+        "ordre": 1,
+        "idSeance": 31995,
+        "idCopie": 19211,
+        "duree": 89,
+        "version": "",
         "format": "35 mm",
         "valide": 0
       }

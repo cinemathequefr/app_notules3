@@ -20,9 +20,11 @@
           "titreVo": "Crimes and Misdemeanors",
           "realisateurs": "Woody Allen",
           "annee": 1988,
+          "pays": "États-Unis",
           "duree": 104,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Woody Allen",
             "Anjelica Huston",
@@ -33,7 +35,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un ophtalmologue et un documentariste se remémorent tous les crimes et délits qu'ils ont pu commettre dans leur vie."
+              "texte": "Un ophtalmologiste new-yorkais est pressé par sa maîtresse de quitter sa femme, tandis qu’un réalisateur dans le besoin accepte la commande d'un film sur son insupportable beau-frère, un producteur à succès."
             }
           ]
         },
@@ -55,9 +57,11 @@
           "titreVo": "Wrong Man",
           "realisateurs": "Alfred Hitchcock",
           "annee": 1956,
+          "pays": "États-Unis",
           "duree": 105,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Henry Fonda",
             "Vera Miles",
@@ -68,7 +72,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Manny Ballestero mène une vie paisible avec sa femme et ses deux fils jusqu'au jour où, se rendant à sa compagnie d'assurance, il est formellement reconnu comme l'auteur du hold-up dont la firme a été victime quelques mois auparavant."
+              "texte": "Christopher « Manny » Balestrero, contrebassiste au Stork Club de New York, mène une vie paisible avec sa femme et ses deux fils. Mais un soir, il est arrêté par la police pour avoir été formellement reconnu comme l’auteur d’un hold-up dans son quartier."
             }
           ]
         },
@@ -89,9 +93,11 @@
           "titreVo": "Dead",
           "realisateurs": "John Huston",
           "annee": 1987,
+          "pays": "États-Unis-RFA-Grande-Bretagne",
           "duree": 83,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": 0,
           "generique": [
             "Anjelica Huston",
             "Donal McCann",

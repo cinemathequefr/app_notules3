@@ -28,6 +28,7 @@
               "titreVo": "",
               "realisateurs": "Carlo Mirabella-Davis",
               "annee": 2018,
+              "pays": "États-Unis-France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -42,6 +43,7 @@
               "duree": 94,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -66,6 +68,7 @@
               "titreVo": "",
               "realisateurs": "Saad Quereshi",
               "annee": 2018,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -80,6 +83,7 @@
               "duree": 76,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -104,6 +108,7 @@
               "titreVo": "",
               "realisateurs": "Delaney Buffett",
               "annee": 2017,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -113,6 +118,7 @@
               "duree": 13,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             },
             {
@@ -121,6 +127,7 @@
               "titreVo": "",
               "realisateurs": "Tim Tsai",
               "annee": 2018,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -130,6 +137,7 @@
               "duree": 65,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 2
             }
           ],
@@ -153,6 +161,7 @@
               "titreVo": "",
               "realisateurs": "Armando Lamberti",
               "annee": 2018,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -167,6 +176,7 @@
               "duree": 101,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -190,6 +200,7 @@
               "titreVo": "",
               "realisateurs": "Jessie Jeffrey Dunn Rovinelli",
               "annee": 2018,
+              "pays": "États-Unis-France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -204,6 +215,7 @@
               "duree": 82,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -227,6 +239,7 @@
               "titreVo": "",
               "realisateurs": "Matt Kliegman",
               "annee": 2018,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -236,6 +249,7 @@
               "duree": 92,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -259,6 +273,7 @@
               "titreVo": "",
               "realisateurs": "Amber McGinnis",
               "annee": 2018,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -273,6 +288,7 @@
               "duree": 97,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -296,6 +312,7 @@
               "titreVo": "",
               "realisateurs": "Richard Miron",
               "annee": 2018,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -310,6 +327,7 @@
               "duree": 92,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],

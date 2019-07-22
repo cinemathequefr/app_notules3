@@ -20,9 +20,11 @@
           "titreVo": "",
           "realisateurs": "Guy Debord",
           "annee": 1961,
+          "pays": "France",
           "duree": 17,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -46,9 +48,11 @@
           "titreVo": "",
           "realisateurs": "Brigitte Cornand",
           "annee": 1994,
+          "pays": "France",
           "duree": 60,
           "version": "",
           "format": "Numérique",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -76,13 +80,15 @@
           "titreVo": "",
           "realisateurs": "Guy Debord",
           "annee": 1952,
+          "pays": "France",
           "duree": 64,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Alternance de de séquences à écran noir silencieuses et de séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off."
+              "texte": "Alternance de séquences à écran noir silencieuses et de séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off."
             }
           ]
         },
@@ -103,9 +109,11 @@
           "titreVo": "",
           "realisateurs": "Guy Debord",
           "annee": 1978,
+          "pays": "France",
           "duree": 100,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -133,9 +141,11 @@
           "titreVo": "",
           "realisateurs": "Guy Debord",
           "annee": 1975,
+          "pays": "France",
           "duree": 22,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -160,9 +170,11 @@
           "titreVo": "",
           "realisateurs": "Guy Debord",
           "annee": 1973,
+          "pays": "France",
           "duree": 90,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -190,9 +202,11 @@
           "titreVo": "",
           "realisateurs": "Guy Debord",
           "annee": 1959,
+          "pays": "France",
           "duree": 18,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,

@@ -211,7 +211,7 @@
         "duree": 86,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -235,7 +235,7 @@
         "duree": 103,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -259,7 +259,7 @@
         "duree": 90,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -283,7 +283,7 @@
         "duree": 90,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -307,7 +307,7 @@
         "duree": 95,
         "version": "VF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -355,7 +355,7 @@
         "duree": 80,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -379,7 +379,7 @@
         "duree": 95,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -427,7 +427,7 @@
         "duree": 100,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -451,7 +451,7 @@
         "duree": 90,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -475,7 +475,7 @@
         "duree": 93,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -499,7 +499,7 @@
         "duree": 99,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -530,24 +530,24 @@
   {
     "idCategorie": 2027,
     "typeEvenement": 13,
-    "idEvenement": 20112,
-    "idSeance": 31108,
+    "idEvenement": 20114,
+    "idSeance": 32086,
     "dateHeure": "2019-10-23T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Trafiquants de la mer (Les)",
+    "titreEvenement": "Bagarres",
     "items": [
       {
-        "idFilm": 52214,
+        "idFilm": 47166,
         "ordre": 1,
-        "idSeance": 31108,
-        "idCopie": 19065,
-        "duree": 95,
-        "version": "",
-        "format": "16 mm",
-        "valide": 0
+        "idSeance": 32086,
+        "idCopie": 2652,
+        "duree": 92,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 1
       }
     ]
   },
@@ -595,7 +595,7 @@
         "duree": 90,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },

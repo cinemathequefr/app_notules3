@@ -32,6 +32,7 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1957,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -45,6 +46,7 @@
           "duree": 20,
           "format": "Vidéo",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30977,
@@ -66,6 +68,7 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 2012,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -79,6 +82,7 @@
           "duree": 130,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32067,
@@ -108,6 +112,7 @@
           "titreVo": "Fando y lis",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1968,
+          "pays": "Mexique",
           "textes": [
             {
               "typeTexte": 9,
@@ -121,6 +126,7 @@
           "duree": 0,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30977,
@@ -141,6 +147,7 @@
           "titreVo": "",
           "realisateurs": "Franck Pavich",
           "annee": 2012,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -150,6 +157,7 @@
           "duree": 83,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31009,
@@ -171,6 +179,7 @@
           "artVo": "The",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1973,
+          "pays": "États-Unis-Mexique",
           "textes": [
             {
               "typeTexte": 9,
@@ -185,6 +194,7 @@
           "duree": 114,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31002,
@@ -204,6 +214,7 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 2015,
+          "pays": "Chili-Japon-France",
           "textes": [
             {
               "typeTexte": 9,
@@ -221,6 +232,7 @@
           "duree": 130,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31012,
@@ -240,15 +252,17 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 2019,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Alejandro Jodorowsky, convaincu que l'art n'a de sens profond que s'il guérit et libère les consciences, a créé la psychomagie, un thérapie permettant de « libérer des blocages » au moyen d'actes théâtraux et poétiques s'adressant directement à l'inconscient."
+              "texte": "Alejandro Jodorowsky, convaincu que l'art n'a de sens profond que s'il guérit et libère les consciences, a créé la psychomagie, un thérapie permettant de « libérer des blocages au moyen d'actes théâtraux et poétiques s'adressant directement à l'inconscient »."
             }
           ],
           "duree": 100,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31414,
@@ -269,6 +283,7 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1989,
+          "pays": "Italie-Mexique",
           "textes": [
             {
               "typeTexte": 9,
@@ -283,6 +298,7 @@
           "duree": 123,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31825,
@@ -304,6 +320,7 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1971,
+          "pays": "Mexique",
           "textes": [
             {
               "typeTexte": 9,
@@ -318,6 +335,7 @@
           "duree": 125,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31843,
@@ -340,6 +358,7 @@
           "artVo": "The",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1991,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -358,6 +377,7 @@
           "duree": 75,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30999,

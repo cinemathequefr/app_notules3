@@ -50,6 +50,7 @@
               "titreVo": "Hotel Transylvania",
               "realisateurs": "Genndy Tartakovsky",
               "annee": 2012,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -85,6 +86,7 @@
               "artVo": "Der",
               "realisateurs": "Uli Edel",
               "annee": 1999,
+              "pays": "Allemagne-Pays-Bas-États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -126,6 +128,7 @@
               "titreVo": "",
               "realisateurs": "Jean Cocteau",
               "annee": 1945,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -166,6 +169,7 @@
               "titreVo": "Journey to the Center of the Earth",
               "realisateurs": "Henry Levin",
               "annee": 1959,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -206,6 +210,7 @@
               "artVo": "The",
               "realisateurs": "Barry Sonnenfeld",
               "annee": 1991,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -247,6 +252,7 @@
               "artVo": "The",
               "realisateurs": "Henry Selick, Tim Burton",
               "annee": 1991,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -286,6 +292,7 @@
               "titreVo": "Corpse Bride",
               "realisateurs": "Tim Burton, Mike Johnson",
               "annee": 2004,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -319,6 +326,7 @@
               "titreVo": "Where the Wild Things Are",
               "realisateurs": "Spike Jonze",
               "annee": 2006,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -353,6 +361,7 @@
               "titreVo": "",
               "realisateurs": "Regina Pessoa",
               "annee": 2012,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -375,6 +384,7 @@
               "titreVo": "Land of the Head",
               "realisateurs": "Claude Barras, Cédric Louis",
               "annee": 2009,
+              "pays": "Canada-Suisse",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -390,6 +400,7 @@
               "titreVo": "",
               "realisateurs": "Jean-Claude Rozec",
               "annee": 2012,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -409,6 +420,7 @@
               "titreVo": "",
               "realisateurs": "Anne-Laure Daffis, Léo Marchand",
               "annee": 2008,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -427,6 +439,7 @@
               "titreVo": "",
               "realisateurs": "Émilie Mercier",
               "annee": 2012,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -446,6 +459,7 @@
               "titreVo": "",
               "realisateurs": "Norman McLaren",
               "annee": 1940,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -479,6 +493,7 @@
               "titreVo": "",
               "realisateurs": "Arthur de Pins, Alexis Ducord",
               "annee": 2016,
+              "pays": "France-Belgique",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -518,6 +533,7 @@
               "titreVo": "Monsters, Inc.",
               "realisateurs": "Pete Docter, David Silverman, Lee Unkrich",
               "annee": 2001,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -552,6 +568,7 @@
               "titreVo": "Valkoinen peura",
               "realisateurs": "Erik Blomberg",
               "annee": 1952,
+              "pays": "Finlande",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -597,6 +614,7 @@
               "titreVo": "",
               "realisateurs": "Anca Damian",
               "annee": 2018,
+              "pays": "France-Roumanie-Belgique",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -635,6 +653,7 @@
               "titreVo": "A Dog's Life",
               "realisateurs": "Charles Chaplin",
               "annee": 1918,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -658,6 +677,7 @@
               "titreVo": "",
               "realisateurs": "Alice Guy",
               "annee": 1907,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -677,6 +697,7 @@
               "artVo": "The",
               "realisateurs": "Charles Chaplin",
               "annee": 1915,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -716,6 +737,7 @@
               "artVo": "The",
               "realisateurs": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
               "annee": 1955,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
@@ -757,6 +779,7 @@
               "artVo": "The",
               "realisateurs": "Jack Arnold",
               "annee": 1956,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,

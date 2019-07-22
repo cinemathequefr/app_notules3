@@ -12,30 +12,27 @@
       {
         "typeTexte": 9,
         "texte": "Une jeune femme quitte sa famille bourgeoise pour rejoindre le couvent des dominicaines de Béthanie."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Dialogues de Jean Giraudoux."
       }
     ],
     "generique": [
       "Renée Faure",
       "Jany Holt",
-      "Sylvie"
+      "Sylvie",
+      "Mila Parely"
     ]
   },
   {
     "titre": "Bagarres",
     "titreVo": "",
     "idFilm": 47166,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Henri Calef",
     "annee": 1948,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une servante de ferme se donne par calcul au riche fermier Rabasse. Trahie par son amant, elle donne son amour au bel Antoine."
+        "texte": "Une servante de ferme se donne par calcul au riche fermier Rabasse. Trahie par Jacques, celui qu'elle aime, elle offrira son amour au bel Antoine."
       }
     ],
     "generique": [
@@ -55,27 +52,27 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un speaker s'éprend d'une danseuse. Un jeune ménage sur le point de se séparer retrouve par la radio une raison de s'aimer. Au début des années 1930, Robert Desnos porte à la radio le roman _La Complainte de Fantômas_. Il s'inspire de cette expérience pour écrire le scénario du film."
+        "texte": "Un speaker s'éprend d'une danseuse, tandis qu'un jeune ménage sur le point de se séparer retrouve la flamme grâce à la radio. Au début des années 1930, Robert Desnos porte à la radio le roman _La Complainte de Fantômas_. Il s'inspire de cette expérience pour écrire le scénario du film."
       }
     ],
     "generique": [
       "Gaby Sylvia",
       "François Périer",
-      "Jacques Jansen"
+      "Julien Carette"
     ]
   },
   {
     "titre": "Boule de Suif",
     "titreVo": "",
     "idFilm": 47595,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Christian-Jaque",
     "annee": 1945,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "1870\\. Rouen es occupé par les Prussiens. La diligence de Dièpe est composée de bourgeois, d'aristocrates, de religieuses, d'un républicain et d'une prostituée, Elisabeth Rousset dite « Boule de suif ». Cette dernière accepte les avances d'un sinistre officier prussien pour sauver ses compagnons de route."
+        "texte": "1870\\. Dans Rouen occupée par les Prussiens, une diligence arrive de Dieppe avec à son bord des nobles, des religieuses et une prostituée. Surnommée « Boule de suif », celle-ci accepte les avances d'un sinistre officier ennemi pour sauver ses compagnons de route."
       }
     ],
     "generique": [
@@ -97,7 +94,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un couple de jeunes provinciaux découvre Paris et ses bistrots parisiens."
+        "texte": "Un couple de jeunes Auvergnats débarque à Paris et achète le Café du Cadran et son fonds de commerce pour s'y établir."
       }
     ],
     "generique": [
@@ -111,14 +108,14 @@
     "art": "La",
     "titreVo": "",
     "idFilm": 48197,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Jean Dréville",
     "annee": 1944,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Clément Mathieu, sans situation et amoureux par surcroît, obtient avec la complicité d'un ami de faire publier dans un quotidien le récit de son passage comme professeur dans une maison de correction."
+        "texte": "Sans travail, Clément Mathieu obtient, avec la complicité d'un ami, de faire publier dans un quotidien le récit de son passage comme professeur dans une maison de correction."
       }
     ],
     "generique": [
@@ -153,14 +150,14 @@
     "art": "Les",
     "titreVo": "",
     "idFilm": 47187,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Henri Calef",
     "annee": 1946,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le marquis de Montauran a été désigné pour commander les Chouans dont les deux premières révoltes ont été brisées. Une aristocrate, Marie-Nathalie de Verneuil, est envoyée par Joseph Fouché pour le séduire et le capturer."
+        "texte": "Le marquis de Montauran a été désigné pour commander les Chouans, dont les deux premières révoltes ont été brisées. Une aristocrate, Marie-Nathalie de Verneuil, est envoyée par Joseph Fouché pour le séduire et le capturer."
       }
     ],
     "generique": [
@@ -174,14 +171,14 @@
     "titre": "Clochemerle",
     "titreVo": "",
     "idFilm": 47525,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Pierre Chenal",
     "annee": 1947,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Clochemerle-en-Beaujolais est à peine plus grand qu'un village. On y vit heureux. Et pourtant, il semble y avoir un abîme entre ceux qui, le dimanche, fréquentent l'église et ceux qui constituent tous les jours la clientèle de l'auberge locale."
+        "texte": "Dans le petit village de Clochemerle-en-Beaujolais, les jours s'écoulent paisiblement, jusqu'au jour où Piéchut, le maire républicain radical, décide de faire construire une vespasienne juste en face de l'église."
       }
     ],
     "generique": [
@@ -202,7 +199,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un médecin dans un petit village est accusé d'adultère et de pratique illégale de l'avortement par un corbeau. Les lettres se multiplient et tous les habitants sont touchés par ces rumeurs."
+        "texte": "Le médecin d'un petit village est accusé d'adultère et de pratique illégale de l'avortement par un corbeau. Les lettres se multiplient et peu à peu tous les habitants sont touchés par des rumeurs."
       }
     ],
     "generique": [
@@ -222,7 +219,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'histoire de Henri Dunant, ancien soldat suisse et créateur de la Croix-Rouge. Il reçut le Prix Nobel en 1901."
+        "texte": "L'histoire d'Henri Dunant, ancien soldat suisse et fondateur de la Croix-Rouge, qui reçut le prix Nobel de la paix en 1901."
       }
     ],
     "generique": [
@@ -243,13 +240,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Portrait à la Guitry de Charles-Maurice de Talleyrand-Périgord, appelé Talleyrand. Toute sa vie, il sera proche du pouvoir, occupant des postes importants dans la plupart des régimes qui se succèdent à la tête de la France."
+        "texte": "Portrait de Charles-Maurice de Talleyrand-Périgord, plus communément appelé Talleyrand, qui toute sa vie occupa des postes proches du pouvoir, de l'Ancien Régime à la monarchie de Juillet."
       }
     ],
     "generique": [
       "Sacha Guitry",
-      "Emile Drain",
-      "Lana Marconi"
+      "Lana Marconi",
+      "Jeanne Fusier-Gir"
     ]
   },
   {
@@ -264,7 +261,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Laurent amène sur son île la belle Louvaine. Mais l'île a aussi accueilli un ancien républicain espagnol qui s'y est caché. Alors que l'île est isolée, Louvaine a une crise d'appendicite. Diego,médecin, l'opère. Ils tombent amoureux et fuiront l'île."
+        "texte": "Laurent, épris de la belle Louvaine, la ramène sur son île, où s'est aussi réfugié Diego, un ancien Républicain espagnol. Alors que l'endroit se retrouve coupé du monde, la jeune femme est opérée de l'appendicite par Diego, qui tombe amoureux d'elle."
       }
     ],
     "generique": [
@@ -284,27 +281,27 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Pour avoir le droit d'aller au paradis, un vieux milliardaire égoïste, qui vient de mourir, doit faire le bonheur de quelqu'un. Il guidera une jeune fille, Dorothée, dans les méandres de l'amour."
+        "texte": "Pour pouvoir gagner le paradis, un vieux milliardaire égoïste, qui vient de mourir, doit faire le bonheur de quelqu'un. Il va devoir guider une jeune fille dans les méandres de l'amour."
       }
     ],
     "generique": [
       "Claude Dauphin",
       "Suzy Carrier",
-      "Henri Guisol"
+      "Jules Berry"
     ]
   },
   {
     "titre": "Fantômas",
     "titreVo": "",
     "idFilm": 51164,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Jean Sacha",
     "annee": 1946,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le diabolique Fantômas tue le Maire de Paris afin d'empêcher l'union de sa fille Hélène avec le journaliste Fandor. Il lance ensuite un ultimatum au Ministre de l'Intérieur en exigeant un milliard en or, sinon un million de Parisiens mourront. Le commissaire Juve se lance à la poursuite du criminel."
+        "texte": "Le diabolique Fantômas tue le maire de Paris pour empêcher l'union de sa fille avec le journaliste Fandor. Et lorsqu'il lance un ultimatum, exigeant un milliard contre la vie d'un million de Parisiens, le commissaire Juve se lance à sa poursuite."
       }
     ],
     "generique": [
@@ -324,7 +321,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Documentaire qui se déroule dans la province française du Rouergue où la vie d'une famille de paysans est filmée au rythme des quatre saisons."
+        "texte": "À Farrebique, dans le Rouergue, la vie d'une famille de paysans, filmée au rythme des quatre saisons."
       }
     ]
   },
@@ -339,10 +336,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une jeune femme doit se faire opérer. Elle échange son identité avec sa meilleure amie car elle ne possède pas d'assurance maladie. Lorsqu'elle décède sur la table d'opération sous l'identité de son amie, cette dernière décide de mener l'enquête sur cette mort mystérieuse."
+        "texte": "La police enquête sur un accident de voiture, qui a coûté la vie à un piéton. Mais le mort portait le pardessus d'un autre homme, bientôt retrouvé assassiné."
       }
     ],
     "generique": [
+      "Raymond Bussières",
       "Louise Carletti",
       "Georges Rollin",
       "Franck Villard"
@@ -360,13 +358,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un important fermier interdit le mariage à ses frères et sœurs cadets, afin d'éviter le partage des terres. L'un d'eux se suicidera."
+        "texte": "Un puissant fermier interdit à ses frères et sœurs de se marier, afin d'éviter le morcellement de leurs terres. L'un d'eux ne supportera pas cette décision."
       }
     ],
     "generique": [
       "Charles Vanel",
       "Lucienne Laurence",
-      "Alfred Adam"
+      "Alfred Adam",
+      "Bourvil"
     ]
   },
   {
@@ -374,14 +373,14 @@
     "art": "Les",
     "titreVo": "",
     "idFilm": 47574,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Louis Daquin",
     "annee": 1947,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une femme épouse un homme violent et tombe amoureuse de son frère, plus doux."
+        "texte": "Une femme épouse un homme violent et tombe amoureuse de son frère, beaucoup plus doux."
       }
     ],
     "generique": [
@@ -402,7 +401,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Biographie de la célèbre cantatrice célébrée par Musset. _Jean Cocteau fait une apparition en Alfred de Musset._"
+        "texte": "Biographie de la célèbre cantatrice célébrée par Alfred de Musset."
       }
     ],
     "generique": [
@@ -416,14 +415,14 @@
     "titre": "Lunegarde",
     "titreVo": "",
     "idFilm": 46378,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Marc Allégret",
     "annee": 1944,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Armance, comtesse de Lunegarde, a jadis quitté son mari pour courir le monde. Le comte a élevé sa fille Elisabeth avec la plus extrême rigueur. Celle-ci est prête à tout pour retrouver sa mère."
+        "texte": "Armance, comtesse de Lunegarde, a jadis quitté son mari pour courir le monde. Pendant ce temps, le comte a élevé avec la plus extrême rigueur leur fille Élisabeth, qui est désormais prête à tout pour retrouver sa mère."
       }
     ],
     "generique": [
@@ -445,7 +444,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La baronne Léontine de la Jambière a eu un passe tumultueux. Ayant divorcée de son premier mari, Adolphe qu'elle trompait, elle trompe encore le second, Edouard de la Jambiere. Le commissaire qui doit constater le flagrant délit n'est autre qu'Adolphe. Celui-ci finit par faire revenir l'ordre dans le foyer."
+        "texte": "La baronne Léontine de La Jambière, déjà divorcée pour avoir commis l'adultère, trompe aussi son second mari. Or le commissaire mandaté pour un flagrant délit n'est autre que son premier époux."
       }
     ],
     "generique": [
@@ -466,12 +465,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Deux cambrioleurs pénètrent dans une maison déjà occupée par une femme, installée clandestinement un peu plus tôt. Elles leurs demandent de jouer le rôle de leurs parents pour accueillir son amant."
+        "texte": "Deux cambrioleurs pénètrent dans une maison où s'est installé clandestinement une jeune femme. En échange de son silence, elle leur demande de jouer le rôle de ses parents pour pouvoir accueillir son amant."
       }
     ],
     "generique": [
       "Paulette Élambert",
       "Lucien Baroux",
+      "Daniel Gélin",
       "Pierre Larquey"
     ]
   },
@@ -501,20 +501,21 @@
     "art": "Les",
     "titreVo": "",
     "idFilm": 47712,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Jean Cocteau",
     "annee": 1948,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Michel est amoureux de Madeleine et veut l'épouser, mais ses parents s'opposent à son mariage."
+        "texte": "Michel est amoureux de Madeleine et veut l'épouser, mais ses parents s'opposent au mariage."
       }
     ],
     "generique": [
       "Jean Marais",
       "Josette Day",
-      "Yvonne de Bray"
+      "Yvonne de Bray",
+      "Gabrielle Dorziat"
     ],
     "adaptation": "D'après la pièce _Les Parents terribles_ de Jean Cocteau."
   },
@@ -523,20 +524,21 @@
     "art": "Le",
     "titreVo": "",
     "idFilm": 47576,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Louis Daquin",
     "annee": 1949,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans le château familial, la dame en noir vit dans l'angoisse de voir un jour le retour de son mari, le fou criminel Larsan."
+        "texte": "Dans le château familial, Mathilde Stangerson vit dans l'angoisse de voir un jour revenir son ancien mari, le fou criminel Larsan."
       }
     ],
     "generique": [
       "Serge Reggiani",
       "Hélène Perdrière",
-      "Marcel Herrand"
+      "Marcel Herrand",
+      "Michel Piccoli"
     ]
   },
   {
@@ -551,12 +553,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Sous l'Occupation, un assureur de province se voit reprocher par ses enfants son attitude passive devant l'occupant."
+        "texte": "Sous l'Occupation, un assureur de province se voit reprocher par ses enfants sa passivité devant l'ennemi."
       }
     ],
     "generique": [
       "Noël-Noël",
       "Nadine Alari",
+      "Paul Frankeur",
       "Marcel Dieudonné"
     ]
   },
@@ -571,13 +574,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Deux sœurs, Danielle et Nicole, élevées par un père distrait, aiment un jeune docteur. C'est Danielle qui l'épouse mais ils se séparent. Nicole reprend espoir mais vivra finalement avec un jeune vétérinaire."
+        "texte": "Deux sœurs sont amoureuses d'un jeune médecin. Il épouse l'aînée, mais le couple se sépare bientôt et la cadette reprend espoir."
       }
     ],
     "generique": [
       "Fernand Ledoux",
       "Marie Déa",
-      "Raymond Rouleau"
+      "Raymond Rouleau",
+      "Gaby Sylvia"
     ]
   },
   {
@@ -605,14 +609,14 @@
     "art": "Le",
     "titreVo": "",
     "idFilm": 50148,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Jean-Pierre Melville",
     "annee": 1947,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Pendant l'Occupation, un officier allemand, amoureux de la culture française, est logé chez un homme et sa nièce qui lui opposent un mutisme farouche."
+        "texte": "Pendant l'Occupation, un officier allemand, amoureux de la culture française, est logé chez un homme et sa nièce, qui lui opposent un mutisme farouche."
       }
     ],
     "generique": [
@@ -626,14 +630,14 @@
     "titre": "Tornavara",
     "titreVo": "",
     "idFilm": 48243,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Jean Dréville",
     "annee": 1943,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Amours compliquées et tumultueuses dans le Grand Nord où Sigurd fou d'amour pour sa femme Florence, croit trouver de l'or. Le fils de Sigurd et un ami de celui-ci brouillent les cartes et provoquent la jalousie et la colère de l'ingénieur."
+        "texte": "Dans un village perdu de Laponie, Gérard vient à l'aide de son ami Anders, en conflit avec son père, un riche propriétaire de mines d'or."
       }
     ],
     "generique": [
@@ -643,38 +647,17 @@
     ]
   },
   {
-    "titre": "Trafiquants de la mer",
-    "art": "Les",
-    "titreVo": "",
-    "idFilm": 52214,
-    "ageMinimal": null,
-    "realisateurs": "Willy Rozier",
-    "annee": 1947,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Histoire de trafic de drogues sur des yachts en Méditerranée. Il y a un suspect que tout désigne comme coupable mais qui est assassiné. Boris, le tueur de l'histoire cumule cette fonction avec la charge de notaire."
-      }
-    ],
-    "generique": [
-      "Pierre Renoir",
-      "Elina Labourdette",
-      "Jacques Dumesnil"
-    ]
-  },
-  {
     "titre": "Vautrin",
     "titreVo": "",
     "idFilm": 46915,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Pierre Billon",
     "annee": 1943,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Vautrin, dit Trompe-la-Mort, s'est évadé du bagne et se dirige vers Paris sous les traits d'un prêtre espagnol. En route, il rencontre le jeune Lucien, pleurant sur sa pauvreté. Vautrin le prend à sa charge et, en quelques semaines, fait de lui le dandy le plus admiré de la capitale."
+        "texte": "Vautrin, dit Trompe-la-Mort, s'est évadé du bagne et se dirige vers Paris sous les traits d'un prêtre espagnol. Il rencontre en route le jeune Lucien. Vautrin le prend sous son aile et fait de lui le dandy le plus admiré de la capitale."
       }
     ],
     "generique": [

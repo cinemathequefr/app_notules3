@@ -21,9 +21,11 @@
           "titreVo": "",
           "realisateurs": "Robert Bresson",
           "annee": 1943,
+          "pays": "France",
           "duree": 97,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Renée Faure",
             "Jany Holt",
@@ -34,6 +36,40 @@
             {
               "typeTexte": 9,
               "texte": "Une jeune femme quitte sa famille bourgeoise pour rejoindre le couvent des dominicaines de Béthanie."
+            }
+          ]
+        },
+        {
+          "idSeance": 32086,
+          "ordre": 1,
+          "dateHeure": "2019-10-23T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2027,
+          "idEvenement": 20114,
+          "typeEvenement": 13,
+          "idFilm": 47166,
+          "titre": "Bagarres",
+          "titreVo": "",
+          "realisateurs": "Henri Calef",
+          "annee": 1948,
+          "pays": "France",
+          "duree": 92,
+          "version": "VO",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Maria Casarès",
+            "Roger Pigaut",
+            "Orane Demazis"
+          ],
+          "adaptation": "D'après le roman _Bagarres_ de Jean Proal.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une servante de ferme se donne par calcul au riche fermier Rabasse. Trahie par Jacques, celui qu'elle aime, elle offrira son amour au bel Antoine."
             }
           ]
         },
@@ -53,9 +89,11 @@
           "titreVo": "",
           "realisateurs": "Christian-Jaque",
           "annee": 1945,
+          "pays": "France",
           "duree": 103,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Micheline Presle",
             "Louis Salou",
@@ -86,9 +124,11 @@
           "titreVo": "",
           "realisateurs": "Jean Gehret",
           "annee": 1946,
+          "pays": "France",
           "duree": 80,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Bernard Blier",
             "Blanchette Brunoy",
@@ -118,9 +158,11 @@
           "titreVo": "",
           "realisateurs": "Jean Dréville",
           "annee": 1944,
+          "pays": "France",
           "duree": 92,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Noël-Noël",
             "Micheline Francey",
@@ -149,9 +191,11 @@
           "titreVo": "",
           "realisateurs": "Christian-Jaque",
           "annee": 1942,
+          "pays": "France-Italie",
           "duree": 124,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": 0,
           "generique": [
             "Viviane Romance",
             "Jean Marais",
@@ -182,9 +226,11 @@
           "titreVo": "",
           "realisateurs": "Henri Calef",
           "annee": 1946,
+          "pays": "France",
           "duree": 95,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Jean Marais",
             "Madeleine Robinson",
@@ -214,9 +260,11 @@
           "titreVo": "",
           "realisateurs": "Pierre Chenal",
           "annee": 1947,
+          "pays": "France",
           "duree": 92,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Maximilienne",
             "Saturnin Fabre",
@@ -247,9 +295,11 @@
           "titreVo": "",
           "realisateurs": "Henri-Georges Clouzot",
           "annee": 1943,
+          "pays": "France",
           "duree": 93,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Pierre Fresnay",
             "Ginette Leclerc",
@@ -278,9 +328,11 @@
           "titreVo": "",
           "realisateurs": "Christian-Jaque",
           "annee": 1948,
+          "pays": "France-Suisse",
           "duree": 96,
           "version": "",
           "format": "Numérique",
+          "ageMinimal": null,
           "generique": [
             "Jean-Louis Barrault",
             "Bernard Blier",
@@ -310,9 +362,11 @@
           "titreVo": "",
           "realisateurs": "Sacha Guitry",
           "annee": 1948,
+          "pays": "France",
           "duree": 130,
           "version": "VO",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Sacha Guitry",
             "Lana Marconi",
@@ -342,9 +396,11 @@
           "titreVo": "",
           "realisateurs": "Edmond T. Gréville",
           "annee": 1947,
+          "pays": "France",
           "duree": 95,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Charles Vanel",
             "Héléna Bossis",
@@ -373,9 +429,11 @@
           "titreVo": "",
           "realisateurs": "Edmond T. Gréville",
           "annee": 1945,
+          "pays": "France",
           "duree": 90,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Claude Dauphin",
             "Suzy Carrier",
@@ -404,9 +462,11 @@
           "titreVo": "",
           "realisateurs": "Jean Sacha",
           "annee": 1946,
+          "pays": "France",
           "duree": 95,
           "version": "VF",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Marcel Herrand",
             "André Le Gall",
@@ -436,9 +496,11 @@
           "titreVo": "",
           "realisateurs": "Georges Rouquier",
           "annee": 1944,
+          "pays": "France",
           "duree": 90,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -462,9 +524,11 @@
           "titreVo": "",
           "realisateurs": "André Chotin",
           "annee": 1947,
+          "pays": "France",
           "duree": 93,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Raymond Bussières",
             "Louise Carletti",
@@ -495,9 +559,11 @@
           "titreVo": "",
           "realisateurs": "Jean Dréville",
           "annee": 1945,
+          "pays": "France",
           "duree": 90,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Charles Vanel",
             "Claudine Dupuis",
@@ -528,9 +594,11 @@
           "titreVo": "",
           "realisateurs": "Louis Daquin",
           "annee": 1947,
+          "pays": "France",
           "duree": 99,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Madeleine Robinson",
             "Albert Préjean",
@@ -561,9 +629,11 @@
           "titreVo": "",
           "realisateurs": "Marc Allégret",
           "annee": 1944,
+          "pays": "France",
           "duree": 86,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Gaby Morlay",
             "Gisèle Pascal",
@@ -595,9 +665,11 @@
           "titreVo": "",
           "realisateurs": "René Le Hénaff",
           "annee": 1947,
+          "pays": "France",
           "duree": 90,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Jacqueline Gauthier",
             "Pierre Jourdan",
@@ -627,9 +699,11 @@
           "titreVo": "",
           "realisateurs": "Jean-Paul Paulin",
           "annee": 1946,
+          "pays": "France",
           "duree": 90,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Paulette Élambert",
             "Lucien Baroux",
@@ -659,9 +733,11 @@
           "titreVo": "",
           "realisateurs": "Julien Duvivier",
           "annee": 1946,
+          "pays": "France",
           "duree": 100,
           "version": "",
           "format": "DCP",
+          "ageMinimal": 0,
           "generique": [
             "Michel Simon",
             "Viviane Romance",
@@ -692,9 +768,11 @@
           "titreVo": "",
           "realisateurs": "Louis Daquin",
           "annee": 1949,
+          "pays": "France",
           "duree": 100,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Serge Reggiani",
             "Hélène Perdrière",
@@ -725,9 +803,11 @@
           "titreVo": "",
           "realisateurs": "Christian-Jaque",
           "annee": 1941,
+          "pays": "France",
           "duree": 100,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Fernand Ledoux",
             "Marie Déa",
@@ -758,9 +838,11 @@
           "titreVo": "",
           "realisateurs": "René Clément",
           "annee": 1946,
+          "pays": "France",
           "duree": 99,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Noël-Noël",
             "Nadine Alari",
@@ -791,9 +873,11 @@
           "titreVo": "",
           "realisateurs": "Jean-Pierre Melville",
           "annee": 1947,
+          "pays": "France",
           "duree": 86,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Howard Vernon",
             "Nicole Stéphane",
@@ -823,9 +907,11 @@
           "titreVo": "",
           "realisateurs": "Jean Dréville",
           "annee": 1943,
+          "pays": "France",
           "duree": 99,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Mila Parély",
             "Pierre Renoir",
@@ -835,38 +921,6 @@
             {
               "typeTexte": 9,
               "texte": "Dans un village perdu de Laponie, Gérard vient à l'aide de son ami Anders, en conflit avec son père, un riche propriétaire de mines d'or."
-            }
-          ]
-        },
-        {
-          "idSeance": 31108,
-          "ordre": 1,
-          "dateHeure": "2019-10-23T20:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "idCategorie": 2027,
-          "idEvenement": 20112,
-          "typeEvenement": 13,
-          "idFilm": 52214,
-          "art": "Les",
-          "titre": "Trafiquants de la mer",
-          "titreVo": "",
-          "realisateurs": "Willy Rozier",
-          "annee": 1947,
-          "duree": 95,
-          "version": "",
-          "format": "16 mm",
-          "generique": [
-            "Pierre Renoir",
-            "Élina Labourdette",
-            "Jacques Dumesnil"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Sur la Côte d'Azur, un notable et quelques complices se livrent à un trafic d'opium."
             }
           ]
         },
@@ -886,9 +940,11 @@
           "titreVo": "",
           "realisateurs": "Pierre Billon",
           "annee": 1943,
+          "pays": "France",
           "duree": 120,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Michel Simon",
             "Madeleine Sologne",

@@ -33,6 +33,7 @@
           "titreVo": "Nastroyshchik",
           "realisateurs": "Kira Mouratova",
           "annee": 2004,
+          "pays": "Russie-Ukraine",
           "textes": [
             {
               "typeTexte": 9,
@@ -47,6 +48,7 @@
           "duree": 155,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32008,
@@ -77,6 +79,7 @@
           "titreVo": "U krutogo yara",
           "realisateurs": "Alexandre Mouratov, Kira Mouratova",
           "annee": 1962,
+          "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
@@ -90,6 +93,7 @@
           "duree": 45,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32066,
@@ -119,6 +123,7 @@
           "titreVo": "Korotkie vstretchi",
           "realisateurs": "Kira Mouratova",
           "annee": 1967,
+          "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
@@ -133,6 +138,7 @@
           "duree": 92,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30932,
@@ -163,6 +169,7 @@
           "titreVo": "Peremena uchasti",
           "realisateurs": "Kira Mouratova",
           "annee": 1987,
+          "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
@@ -178,6 +185,7 @@
           "duree": 103,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30954,
@@ -208,6 +216,7 @@
           "titreVo": "Dva v odnom",
           "realisateurs": "Kira Mouratova",
           "annee": 2006,
+          "pays": "Ukraine-Russie",
           "textes": [
             {
               "typeTexte": 9,
@@ -222,6 +231,7 @@
           "duree": 124,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32009,
@@ -251,6 +261,7 @@
           "titreVo": "Poznavaya bely svet",
           "realisateurs": "Kira Mouratova",
           "annee": 1979,
+          "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
@@ -265,6 +276,7 @@
           "duree": 78,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30937,
@@ -296,6 +308,7 @@
           "titreVo": "Vechnoe vozvrashchenie",
           "realisateurs": "Kira Mouratova",
           "annee": 2012,
+          "pays": "Ukraine",
           "textes": [
             {
               "typeTexte": 9,
@@ -310,6 +323,7 @@
           "duree": 116,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31812,
@@ -341,6 +355,7 @@
           "titreVo": "Vtorostepennye lyudi",
           "realisateurs": "Kira Mouratova",
           "annee": 2000,
+          "pays": "Ukraine",
           "textes": [
             {
               "typeTexte": 9,
@@ -355,6 +370,7 @@
           "duree": 107,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31811,
@@ -385,6 +401,7 @@
           "titreVo": "Dolgie provody",
           "realisateurs": "Kira Mouratova",
           "annee": 1971,
+          "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
@@ -399,6 +416,7 @@
           "duree": 94,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30952,
@@ -428,6 +446,7 @@
           "titreVo": "Melodiya dlya sharmanki",
           "realisateurs": "Kira Mouratova",
           "annee": 2009,
+          "pays": "Ukraine",
           "textes": [
             {
               "typeTexte": 9,
@@ -442,6 +461,7 @@
           "duree": 153,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31001,
@@ -473,6 +493,7 @@
           "titreVo": "Chuvstvitelnyï militsioner",
           "realisateurs": "Kira Mouratova",
           "annee": 1992,
+          "pays": "Ukraine-France",
           "textes": [
             {
               "typeTexte": 9,
@@ -487,6 +508,7 @@
           "duree": 115,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30961,
@@ -516,6 +538,7 @@
           "titreVo": "Chekhovskie motivy",
           "realisateurs": "Kira Mouratova",
           "annee": 2001,
+          "pays": "Ukraine",
           "textes": [
             {
               "typeTexte": 9,
@@ -532,6 +555,7 @@
           "duree": 120,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32058,
@@ -561,6 +585,7 @@
           "titreVo": "Sredi seryh kamnej",
           "realisateurs": "Kira Mouratova",
           "annee": 1983,
+          "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
@@ -575,6 +600,7 @@
           "duree": 83,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30953,
@@ -605,6 +631,7 @@
           "titreVo": "Uvlecheniya",
           "realisateurs": "Kira Mouratova",
           "annee": 1993,
+          "pays": "Russie",
           "textes": [
             {
               "typeTexte": 9,
@@ -619,6 +646,7 @@
           "duree": 112,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31810,
@@ -649,6 +677,7 @@
           "titreVo": "Astenitchevski sindrom",
           "realisateurs": "Kira Mouratova",
           "annee": 1989,
+          "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
@@ -663,6 +692,7 @@
           "duree": 153,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31800,
@@ -693,6 +723,7 @@
           "titreVo": "Tri istorii",
           "realisateurs": "Kira Mouratova",
           "annee": 1996,
+          "pays": "Russie-Ukraine",
           "textes": [
             {
               "typeTexte": 9,
@@ -707,6 +738,7 @@
           "duree": 113,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30985,
@@ -750,7 +782,7 @@
                 },
                 {
                   "typeTexte": 156,
-                  "texte": "Eugénie Zvonkine est maître de conférences en cinéma à l'université Paris 8. Elle est l'auteur de _Kira Mouratova, un cinéma de la dissonance_ (L'Âge d'Homme, 2012) et d'un ouvrage sur un scénario interdit de Kira Mouratova : _Regardez attentivement les rêves : un scénario sans film_ (L'Harmattan, 2019). Elle travaille sur le cinéma soviétique et postsoviétique, a publié de nombreux articles sur ce sujet et a co-dirigé deux livres collectifs dont _Cinéma russe contemporain, (r)évolutions_ (Septentrion, 2017). Elle écrit également dans les _Cahiers du cinéma_."
+                  "texte": "Eugénie Zvonkine est maître de conférences en cinéma à l'université Paris 8. Elle est l'auteure de _Kira Mouratova, un cinéma de la dissonance_ (L'Âge d'Homme, 2012) et d'un ouvrage sur un scénario interdit de Kira Mouratova : _Regardez attentivement les rêves : un scénario sans film_ (L'Harmattan, 2019). Elle travaille sur le cinéma soviétique et postsoviétique, a publié de nombreux articles sur ce sujet et a co-dirigé deux livres collectifs dont _Cinéma russe contemporain, (r)évolutions_ (Septentrion, 2017). Elle écrit également dans les _Cahiers du cinéma_."
                 }
               ],
               "duree": 90

@@ -21,9 +21,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1990,
+          "pays": "France",
           "duree": 64,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Robert Kramer"
           ],
@@ -54,9 +56,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 2001,
+          "pays": "France",
           "duree": 110,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "generique": [
             "Ben",
             "Amélie Desrumeaux",
@@ -87,9 +91,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1991,
+          "pays": "France",
           "duree": 35,
           "version": "VOSTF",
           "format": "Numérique",
+          "ageMinimal": null,
           "generique": [
             "Paul McIsaac"
           ],
@@ -116,9 +122,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1985,
+          "pays": "France",
           "duree": 82,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Gérard Klein",
             "Agnès Soral",
@@ -149,9 +157,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1991,
+          "pays": "Portugal-France",
           "duree": 92,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Paul McIsaac",
             "Vincent Gallo",
@@ -182,9 +192,11 @@
           "titreVo": "Edge",
           "realisateurs": "Robert Kramer",
           "annee": 1968,
+          "pays": "États-Unis",
           "duree": 105,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Jack Rader",
             "Tom Griffin",
@@ -213,9 +225,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer, Peter Gessner",
           "annee": 1965,
+          "pays": "États-Unis",
           "duree": 30,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -240,9 +254,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1980,
+          "pays": "France",
           "duree": 95,
           "version": "VO",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Patrick Bauchau",
             "Juliet Berto",
@@ -271,9 +287,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer, Stephen Dwoskin",
           "annee": 1991,
+          "pays": "France-États-Unis",
           "duree": 123,
           "version": "VOSTF",
           "format": "Numérique",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -297,9 +315,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1969,
+          "pays": "États-Unis",
           "duree": 133,
           "version": "VOSTF",
           "format": "16 mm",
+          "ageMinimal": null,
           "generique": [
             "Tom Griffin",
             "Paul McIsaac",
@@ -330,9 +350,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1967,
+          "pays": "États-Unis",
           "duree": 63,
           "version": "VOSTF",
           "format": "16 mm",
+          "ageMinimal": null,
           "generique": [
             "Catherine Merrill",
             "William Devane"
@@ -360,9 +382,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1967,
+          "pays": "États-Unis",
           "duree": 63,
           "version": "VOSTF",
           "format": "16 mm",
+          "ageMinimal": null,
           "generique": [
             "Catherine Merrill",
             "William Devane"
@@ -391,9 +415,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1996,
+          "pays": "France",
           "duree": 70,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "generique": [
             "Jean-Quentin Châtelain",
             "Nina Alba",
@@ -423,9 +449,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1990,
+          "pays": "France",
           "duree": 60,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -450,9 +478,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer, John Douglas",
           "annee": 1975,
+          "pays": "États-Unis",
           "duree": 206,
           "version": "VOSTF",
           "format": "16 mm",
+          "ageMinimal": null,
           "generique": [
             "Grace Paley",
             "Mary Chapelle",
@@ -482,9 +512,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer, John Douglas",
           "annee": 1975,
+          "pays": "États-Unis",
           "duree": 206,
           "version": "VOSTF",
           "format": "16 mm",
+          "ageMinimal": null,
           "generique": [
             "Grace Paley",
             "Mary Chapelle",
@@ -514,9 +546,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1981,
+          "pays": "France",
           "duree": 42,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "generique": [
             "Chantal Birman",
             "Valérie Coquerel-Jeanneau",
@@ -546,9 +580,11 @@
           "titreVo": "Unser Nazi",
           "realisateurs": "Robert Kramer",
           "annee": 1984,
+          "pays": "France",
           "duree": 114,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "generique": [
             "Alfred Filbert",
             "Thomas Harlan"
@@ -576,9 +612,11 @@
           "titreVo": "",
           "realisateurs": "Newsreel",
           "annee": 1969,
+          "pays": "États-Unis",
           "duree": 40,
           "version": "VOSTF",
           "format": "16 mm",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -603,9 +641,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1983,
+          "pays": "France",
           "duree": 6,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -630,9 +670,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1994,
+          "pays": "France-États-Unis",
           "duree": 90,
           "version": "VOSTF",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -657,9 +699,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1991,
+          "pays": "France-Grande-Bretagne",
           "duree": 248,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Paul McIsaac"
           ],
@@ -686,9 +730,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1991,
+          "pays": "France-Grande-Bretagne",
           "duree": 248,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Paul McIsaac"
           ],
@@ -716,9 +762,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1998,
+          "pays": "France",
           "duree": 20,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -742,9 +790,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer, Philip Spinelli",
           "annee": 1975,
+          "pays": "États-Unis",
           "duree": 96,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -768,9 +818,11 @@
           "titreVo": "",
           "realisateurs": "Robert Machover, Norman Fruchter",
           "annee": 1966,
+          "pays": "États-Unis",
           "duree": 54,
           "version": "VOSTF",
           "format": "Numérique",
+          "ageMinimal": null,
           "textes": [
             {
               "type": 9,
@@ -794,9 +846,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1996,
+          "pays": "France-Suisse",
           "duree": 115,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Jacques Martial",
             "Laure Duthilleul",
@@ -826,9 +880,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1987,
+          "pays": "États-Unis",
           "duree": 114,
           "version": "VOSTF",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -853,9 +909,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1981,
+          "pays": "France",
           "duree": 62,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "generique": [
             "Laure Duthilleul",
             "William Cherino",
@@ -890,9 +948,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1998,
+          "pays": "France",
           "duree": 24,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -916,9 +976,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1997,
+          "pays": "France",
           "duree": 6,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -942,9 +1004,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1997,
+          "pays": "France-Suisse",
           "duree": 18,
           "version": "VOSTF",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -972,9 +1036,11 @@
           "titreVo": "",
           "realisateurs": "Dominique Dubosc, Robert Kramer, Guy Olivier",
           "annee": 1995,
+          "pays": "France",
           "duree": 18,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -999,9 +1065,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1993,
+          "pays": "France",
           "duree": 14,
           "version": "VOSTF",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -1025,9 +1093,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1991,
+          "pays": "France",
           "duree": 31,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -1051,9 +1121,11 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1986,
+          "pays": "France",
           "duree": 17,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "generique": [
             "Christine Amat",
             "Diane Bellego"
@@ -1089,9 +1161,11 @@
           "titreVo": "",
           "realisateurs": "Keja Kramer, Stephen Dwoskin",
           "annee": 2006,
+          "pays": "France",
           "duree": 47,
           "version": "VOSTF",
           "format": "Vidéo",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,

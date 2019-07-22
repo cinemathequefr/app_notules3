@@ -45,6 +45,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1981,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -59,6 +60,7 @@
           "duree": 62,
           "format": "Vidéo",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31872,
@@ -79,6 +81,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1990,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -95,6 +98,7 @@
           "duree": 64,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31251,
@@ -115,6 +119,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 2001,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -130,6 +135,7 @@
           "duree": 110,
           "format": "Vidéo",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31286,
@@ -149,6 +155,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1991,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -161,6 +168,7 @@
           "duree": 35,
           "format": "Numérique",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32028,
@@ -174,7 +182,7 @@
               "mention": "Séance présentée par Richard Copans"
             }
           ],
-          "precedeSuivi": "Film précédé de _Doc's Kingdom_ de Robert Kramer."
+          "precedeSuivi": "Film précédé de _Doc's Kingdom_ de Robert Kramer"
         },
         {
           "idFilm": 49501,
@@ -182,6 +190,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1985,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -197,6 +206,7 @@
           "duree": 82,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31243,
@@ -216,6 +226,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1991,
+          "pays": "Portugal-France",
           "textes": [
             {
               "typeTexte": 9,
@@ -231,6 +242,7 @@
           "duree": 92,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32028,
@@ -244,7 +256,7 @@
               "mention": "Séance présentée par Richard Copans"
             }
           ],
-          "precedeSuivi": "Film suivi de _Dear Doc_ de Robert Kramer."
+          "precedeSuivi": "Film suivi de _Dear Doc_ de Robert Kramer"
         },
         {
           "idFilm": 58827,
@@ -253,6 +265,7 @@
           "artVo": "The",
           "realisateurs": "Robert Kramer",
           "annee": 1968,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -267,6 +280,7 @@
           "duree": 105,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32027,
@@ -286,6 +300,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer, Peter Gessner",
           "annee": 1965,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -295,6 +310,7 @@
           "duree": 30,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32031,
@@ -307,7 +323,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi de _People's War_ de Newsreel."
+          "precedeSuivi": "Film suivi de _People's War_ de Newsreel"
         },
         {
           "idFilm": 33982,
@@ -315,6 +331,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1980,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -329,6 +346,7 @@
           "duree": 95,
           "format": "DCP",
           "version": "VO",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31189,
@@ -349,6 +367,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer, Stephen Dwoskin",
           "annee": 1991,
+          "pays": "France-États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -358,6 +377,7 @@
           "duree": 123,
           "format": "Numérique",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31280,
@@ -377,6 +397,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1969,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -391,6 +412,7 @@
           "duree": 133,
           "format": "16 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31223,
@@ -410,6 +432,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1967,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -423,6 +446,7 @@
           "duree": 63,
           "format": "16 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31195,
@@ -453,6 +477,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1996,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -467,6 +492,7 @@
           "duree": 70,
           "format": "Vidéo",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31879,
@@ -486,6 +512,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1990,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -495,6 +522,7 @@
           "duree": 60,
           "format": "Vidéo",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32021,
@@ -515,6 +543,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer, John Douglas",
           "annee": 1975,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -530,6 +559,7 @@
           "duree": 206,
           "format": "16 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31256,
@@ -560,6 +590,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1981,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -574,6 +605,7 @@
           "duree": 42,
           "format": "Vidéo",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31960,
@@ -586,7 +618,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film précédé de _La Peur_ de Robert Kramer."
+          "precedeSuivi": "Film précédé de _La Peur_ de Robert Kramer"
         },
         {
           "idFilm": 92754,
@@ -594,6 +626,7 @@
           "titreVo": "Unser Nazi",
           "realisateurs": "Robert Kramer",
           "annee": 1984,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -607,6 +640,7 @@
           "duree": 114,
           "format": "Vidéo",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32025,
@@ -627,6 +661,7 @@
           "titreVo": "",
           "realisateurs": "Newsreel",
           "annee": 1969,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -636,6 +671,7 @@
           "duree": 40,
           "format": "16 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32031,
@@ -648,7 +684,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film précédé de _FALN_ de Robert Kramer, Peter Gessner."
+          "precedeSuivi": "Film précédé de _FALN_ de Robert Kramer, Peter Gessner"
         },
         {
           "idFilm": 142091,
@@ -657,6 +693,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1983,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -666,6 +703,7 @@
           "duree": 6,
           "format": "Vidéo",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31960,
@@ -678,7 +716,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi de _Naissance_ de Robert Kramer."
+          "precedeSuivi": "Film suivi de _Naissance_ de Robert Kramer"
         },
         {
           "idFilm": 59674,
@@ -686,6 +724,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1994,
+          "pays": "France-États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -695,6 +734,7 @@
           "duree": 90,
           "format": "Vidéo",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31217,
@@ -708,7 +748,7 @@
               "mention": "Séance présentée par Bernard Eisenschitz"
             }
           ],
-          "precedeSuivi": "Film suivi de _Say Kom Sa_ de Robert Kramer."
+          "precedeSuivi": "Film suivi de _Say Kom Sa_ de Robert Kramer"
         },
         {
           "idFilm": 56969,
@@ -716,6 +756,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1991,
+          "pays": "France-Grande-Bretagne",
           "textes": [
             {
               "typeTexte": 9,
@@ -728,6 +769,7 @@
           "duree": 248,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31213,
@@ -758,6 +800,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1998,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -767,6 +810,7 @@
           "duree": 20,
           "format": "Vidéo",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31217,
@@ -780,7 +824,7 @@
               "mention": "Séance présentée par Bernard Eisenschitz"
             }
           ],
-          "precedeSuivi": "Film précédé de _Point de départ_ de Robert Kramer."
+          "precedeSuivi": "Film précédé de _Point de départ_ de Robert Kramer"
         },
         {
           "idFilm": 121940,
@@ -788,6 +832,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer, Philip Spinelli",
           "annee": 1975,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -797,6 +842,7 @@
           "duree": 96,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32024,
@@ -816,6 +862,7 @@
           "titreVo": "",
           "realisateurs": "Robert Machover, Norman Fruchter",
           "annee": 1966,
+          "pays": "États-Unis",
           "textes": [
             {
               "type": 9,
@@ -825,6 +872,7 @@
           "duree": 54,
           "format": "Numérique",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32032,
@@ -844,6 +892,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1996,
+          "pays": "France-Suisse",
           "textes": [
             {
               "typeTexte": 9,
@@ -858,6 +907,7 @@
           "duree": 115,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32033,
@@ -877,6 +927,7 @@
           "titreVo": "",
           "realisateurs": "Robert Kramer",
           "annee": 1987,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -886,6 +937,7 @@
           "duree": 114,
           "format": "Vidéo",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32023,
@@ -916,6 +968,7 @@
               "titreVo": "",
               "realisateurs": "Robert Kramer",
               "annee": 1998,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -925,6 +978,7 @@
               "duree": 24,
               "format": "Vidéo",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             },
             {
@@ -933,6 +987,7 @@
               "titreVo": "",
               "realisateurs": "Robert Kramer",
               "annee": 1991,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -942,6 +997,7 @@
               "duree": 31,
               "format": "Vidéo",
               "version": "",
+              "ageMinimal": null,
               "ordre": 2
             },
             {
@@ -950,6 +1006,7 @@
               "titreVo": "",
               "realisateurs": "Robert Kramer",
               "annee": 1986,
+              "pays": "France",
               "textes": [
                 {
                   "type": 9,
@@ -963,6 +1020,7 @@
               "duree": 17,
               "format": "Vidéo",
               "version": "",
+              "ageMinimal": null,
               "ordre": 3
             }
           ],
@@ -986,6 +1044,7 @@
               "titreVo": "",
               "realisateurs": "Robert Kramer",
               "annee": 1997,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -995,6 +1054,7 @@
               "duree": 6,
               "format": "Vidéo",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             },
             {
@@ -1003,6 +1063,7 @@
               "titreVo": "",
               "realisateurs": "Dominique Dubosc, Robert Kramer, Guy Olivier",
               "annee": 1995,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -1012,6 +1073,7 @@
               "duree": 18,
               "format": "Vidéo",
               "version": "",
+              "ageMinimal": null,
               "ordre": 2
             },
             {
@@ -1021,6 +1083,7 @@
               "titreVo": "",
               "realisateurs": "Robert Kramer",
               "annee": 1993,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -1030,6 +1093,7 @@
               "duree": 14,
               "format": "Vidéo",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 3
             },
             {
@@ -1038,6 +1102,7 @@
               "titreVo": "",
               "realisateurs": "Robert Kramer",
               "annee": 1997,
+              "pays": "France-Suisse",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -1051,6 +1116,7 @@
               "duree": 18,
               "format": "Vidéo",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 4
             }
           ],
@@ -1077,6 +1143,7 @@
           "titreVo": "",
           "realisateurs": "Keja Kramer, Stephen Dwoskin",
           "annee": 2006,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -1086,6 +1153,7 @@
           "duree": 47,
           "format": "Vidéo",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32019,

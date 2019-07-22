@@ -25,6 +25,7 @@
           "titreVo": "",
           "realisateurs": "Robert Bresson",
           "annee": 1943,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -40,6 +41,7 @@
           "duree": 97,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30758,
@@ -54,11 +56,48 @@
           ]
         },
         {
+          "idFilm": 47166,
+          "titre": "Bagarres",
+          "titreVo": "",
+          "realisateurs": "Henri Calef",
+          "annee": 1948,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une servante de ferme se donne par calcul au riche fermier Rabasse. Trahie par Jacques, celui qu'elle aime, elle offrira son amour au bel Antoine."
+            }
+          ],
+          "adaptation": "D'après le roman _Bagarres_ de Jean Proal.",
+          "generique": [
+            "Maria Casarès",
+            "Roger Pigaut",
+            "Orane Demazis"
+          ],
+          "duree": 92,
+          "format": "35 mm",
+          "version": "VO",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 32086,
+              "ordre": 1,
+              "idEvenement": 20114,
+              "dateHeure": "2019-10-23T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
           "idFilm": 47595,
           "titre": "Boule de Suif",
           "titreVo": "",
           "realisateurs": "Christian-Jaque",
           "annee": 1945,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -74,6 +113,7 @@
           "duree": 103,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30821,
@@ -94,6 +134,7 @@
           "titreVo": "",
           "realisateurs": "Jean Gehret",
           "annee": 1946,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -108,6 +149,7 @@
           "duree": 80,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30872,
@@ -128,6 +170,7 @@
           "titreVo": "",
           "realisateurs": "Jean Dréville",
           "annee": 1944,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -142,6 +185,7 @@
           "duree": 92,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30807,
@@ -161,6 +205,7 @@
           "titreVo": "",
           "realisateurs": "Christian-Jaque",
           "annee": 1942,
+          "pays": "France-Italie",
           "textes": [
             {
               "typeTexte": 9,
@@ -176,6 +221,7 @@
           "duree": 124,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30770,
@@ -196,6 +242,7 @@
           "titreVo": "",
           "realisateurs": "Henri Calef",
           "annee": 1946,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -211,6 +258,7 @@
           "duree": 95,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30864,
@@ -230,6 +278,7 @@
           "titreVo": "",
           "realisateurs": "Pierre Chenal",
           "annee": 1947,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -245,6 +294,7 @@
           "duree": 92,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31114,
@@ -265,6 +315,7 @@
           "titreVo": "",
           "realisateurs": "Henri-Georges Clouzot",
           "annee": 1943,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -279,6 +330,7 @@
           "duree": 93,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30762,
@@ -298,6 +350,7 @@
           "titreVo": "",
           "realisateurs": "Christian-Jaque",
           "annee": 1948,
+          "pays": "France-Suisse",
           "textes": [
             {
               "typeTexte": 9,
@@ -312,6 +365,7 @@
           "duree": 96,
           "format": "Numérique",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32059,
@@ -332,6 +386,7 @@
           "titreVo": "",
           "realisateurs": "Sacha Guitry",
           "annee": 1948,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -346,6 +401,7 @@
           "duree": 130,
           "format": "35 mm",
           "version": "VO",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31917,
@@ -366,6 +422,7 @@
           "titreVo": "",
           "realisateurs": "Edmond T. Gréville",
           "annee": 1947,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -380,6 +437,7 @@
           "duree": 95,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31916,
@@ -399,6 +457,7 @@
           "titreVo": "",
           "realisateurs": "Edmond T. Gréville",
           "annee": 1945,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -413,6 +472,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30850,
@@ -432,6 +492,7 @@
           "titreVo": "",
           "realisateurs": "Jean Sacha",
           "annee": 1946,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -447,6 +508,7 @@
           "duree": 95,
           "format": "35 mm",
           "version": "VF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30856,
@@ -466,6 +528,7 @@
           "titreVo": "",
           "realisateurs": "Georges Rouquier",
           "annee": 1944,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -475,6 +538,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30786,
@@ -494,6 +558,7 @@
           "titreVo": "",
           "realisateurs": "André Chotin",
           "annee": 1947,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -509,6 +574,7 @@
           "duree": 93,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30936,
@@ -529,6 +595,7 @@
           "titreVo": "",
           "realisateurs": "Jean Dréville",
           "annee": 1945,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -544,6 +611,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30829,
@@ -564,6 +632,7 @@
           "titreVo": "",
           "realisateurs": "Louis Daquin",
           "annee": 1947,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -580,6 +649,7 @@
           "duree": 99,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30942,
@@ -599,6 +669,7 @@
           "titreVo": "",
           "realisateurs": "Marc Allégret",
           "annee": 1944,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -615,6 +686,7 @@
           "duree": 86,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30813,
@@ -635,6 +707,7 @@
           "titreVo": "",
           "realisateurs": "René Le Hénaff",
           "annee": 1947,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -649,6 +722,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31122,
@@ -669,6 +743,7 @@
           "titreVo": "",
           "realisateurs": "Jean-Paul Paulin",
           "annee": 1946,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -684,6 +759,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30915,
@@ -703,6 +779,7 @@
           "titreVo": "",
           "realisateurs": "Julien Duvivier",
           "annee": 1946,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -718,6 +795,7 @@
           "duree": 100,
           "format": "DCP",
           "version": "",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30763,
@@ -738,6 +816,7 @@
           "titreVo": "",
           "realisateurs": "Louis Daquin",
           "annee": 1949,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -754,6 +833,7 @@
           "duree": 100,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31989,
@@ -774,6 +854,7 @@
           "titreVo": "",
           "realisateurs": "René Clément",
           "annee": 1946,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -789,6 +870,7 @@
           "duree": 99,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30899,
@@ -808,6 +890,7 @@
           "titreVo": "",
           "realisateurs": "Christian-Jaque",
           "annee": 1941,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -823,6 +906,7 @@
           "duree": 100,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32003,
@@ -843,6 +927,7 @@
           "titreVo": "",
           "realisateurs": "Jean-Pierre Melville",
           "annee": 1947,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -858,6 +943,7 @@
           "duree": 86,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31151,
@@ -877,6 +963,7 @@
           "titreVo": "",
           "realisateurs": "Jean Dréville",
           "annee": 1943,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -891,6 +978,7 @@
           "duree": 99,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31988,
@@ -905,45 +993,12 @@
           ]
         },
         {
-          "idFilm": 52214,
-          "titre": "Trafiquants de la mer",
-          "art": "Les",
-          "titreVo": "",
-          "realisateurs": "Willy Rozier",
-          "annee": 1947,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Sur la Côte d'Azur, un notable et quelques complices se livrent à un trafic d'opium."
-            }
-          ],
-          "generique": [
-            "Pierre Renoir",
-            "Élina Labourdette",
-            "Jacques Dumesnil"
-          ],
-          "duree": 95,
-          "format": "16 mm",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 31108,
-              "ordre": 1,
-              "idEvenement": 20112,
-              "dateHeure": "2019-10-23T20:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            }
-          ]
-        },
-        {
           "idFilm": 46915,
           "titre": "Vautrin",
           "titreVo": "",
           "realisateurs": "Pierre Billon",
           "annee": 1943,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -960,6 +1015,7 @@
           "duree": 120,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31892,

@@ -99,14 +99,30 @@
           "cats": [2079],
           "tri": 4
         },
+
         {
-          "titre": "Chrystèle Nicot / Lou Rambert Preiss",
+          "titre": "Elena López Riera",
+          "cats": [2085],
+          "tri": 4
+        },
+        {
+          "titre": "Chrystele Nicot / Lou Rambert Preiss",
           "cats": [2100],
+          "tri": 4
+        },
+        {
+          "titre": "Fondation Gan pour le cinéma : Fejria Deliba",
+          "cats": [2083],
           "tri": 4
         },
         {
           "titre": "Jean-Baptiste Del Amo",
           "cats": [2103],
+          "tri": 4
+        },
+        {
+          "titre": "Anne Alix",
+          "cats": [2111],
           "tri": 4
         }
       ]
@@ -115,10 +131,16 @@
       "idCycleProg": 143,
       "titreCycle": "Fenêtres sur les collections",
       "sousCycles": [{
-        "titre": "Sur les rails",
-        "cats": [2058],
-        "tri": 4
-      }]
+          "titre": "Sur les rails",
+          "cats": [2107],
+          "tri": 4
+        },
+        {
+          "titre": "Hommage à Paul Paviot",
+          "cats": [2087],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 152,
@@ -157,6 +179,11 @@
       "idCycleProg": 328,
       "titreCycle": "Vampires au cinéma",
       "sousCycles": [{
+          "titre": "Soirée d'ouverture",
+          "cats": [2108],
+          "tri": 4
+        },
+        {
           "titre": "Adaptations du « Dracula » de Bram Stoker",
           "cats": [2021],
           "tri": 1
@@ -164,7 +191,7 @@
         {
           "titre": "Vampires d'auteurs",
           "cats": [1535],
-          "tri": 3
+          "tri": 2
         },
         {
           "titre": "Cinéma bis",

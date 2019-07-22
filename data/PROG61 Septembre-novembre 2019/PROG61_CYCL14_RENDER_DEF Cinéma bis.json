@@ -36,6 +36,7 @@
               "titreVo": "",
               "realisateurs": "Claude Pinoteau",
               "annee": 1984,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -50,6 +51,7 @@
               "duree": 107,
               "format": "35 mm",
               "version": "VO",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -74,6 +76,7 @@
               "titreVo": "",
               "realisateurs": "José Giovanni",
               "annee": 1985,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -88,6 +91,7 @@
               "duree": 105,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -117,6 +121,7 @@
               "titreVo": "Mayday at 40,000 Feet!",
               "realisateurs": "Robert Butler",
               "annee": 1976,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -131,6 +136,7 @@
               "duree": 100,
               "format": "35 mm",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -154,6 +160,7 @@
               "titreVo": "Turbulence",
               "realisateurs": "Robert Butler",
               "annee": 1996,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -168,6 +175,7 @@
               "duree": 100,
               "format": "35 mm",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],

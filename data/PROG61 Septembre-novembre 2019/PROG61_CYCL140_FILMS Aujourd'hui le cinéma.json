@@ -94,6 +94,26 @@
     ]
   },
   {
+    "titre": "Au loin s'en vont les nuages",
+    "titreVo": "Kauas pilvet karkavat",
+    "idFilm": 60306,
+    "ageMinimal": null,
+    "realisateurs": "Aki Kaurismäki",
+    "annee": 1995,
+    "pays": "Finlande",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ilona et son mari Lauri, respectivement maître d'hôtel et conducteur de tramway, perdent tous deux leur emploi."
+      }
+    ],
+    "generique": [
+      "Kati Outinen",
+      "Kari Väänänen",
+      "Elina Salo"
+    ]
+  },
+  {
     "titre": "Avant que je m'en aille",
     "titreVo": "",
     "idFilm": 142426,
@@ -162,7 +182,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une femme, qui vit sa vie comme elle l'entend, loin des normes sociales, est la proie de petites gens envieuses, confites dans leur conformisme."
+        "texte": "Suzanne est heureuse, elle vit sa vie comme elle l'entend, en dehors des normes sociales, elle est la proie de petites gens envieuses."
       }
     ],
     "generique": [
@@ -262,6 +282,27 @@
     "generique": [
       "Nicholas Denton",
       "John Brumpton"
+    ]
+  },
+  {
+    "titre": "D'une pierre deux coups",
+    "titreVo": "",
+    "idFilm": 131237,
+    "ageMinimal": null,
+    "realisateurs": "Fejria Deliba",
+    "annee": 2015,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Zayane a 75 ans. Depuis son arrivée en France, elle n'a jamais dépassé les frontières de sa cité. Un jour elle reçoit une lettre lui annonçant le décès d'un homme qu'elle a connu, autrefois, en Algérie. Le temps d'une journée, elle part récupérer une boite que le défunt lui a légué."
+      }
+    ],
+    "generique": [
+      "Milouda Chaqiq",
+      "Brigitte Roüan",
+      "Claire Wauthion",
+      "Samir Guesmi"
     ]
   },
   {
@@ -385,6 +426,26 @@
     ]
   },
   {
+    "titre": "Il se passe quelque chose",
+    "titreVo": "",
+    "idFilm": 139747,
+    "ageMinimal": null,
+    "realisateurs": "Anne Alix",
+    "annee": 2017,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Avignon. Irma, qui ne trouve plus sa place dans le monde, croise sur sa route Dolorès, une femme libre et décomplexée missionnée pour rédiger un guide touristique gay-friendly sur un coin de Provence oublié. L'improbable duo se lance sur les routes."
+      }
+    ],
+    "generique": [
+      "Lola Dueñas",
+      "Bojena Horackova",
+      "Serge Geairain"
+    ]
+  },
+  {
     "titre": "Intentional Sweat",
     "titreVo": "",
     "idFilm": 142508,
@@ -421,6 +482,26 @@
     "generique": [
       "Serge Riaboukine",
       "Sébastien Morin"
+    ]
+  },
+  {
+    "titre": "Maison est noire",
+    "art": "La",
+    "titreVo": "Khaneh siah ast",
+    "idFilm": 99704,
+    "ageMinimal": null,
+    "realisateurs": "Forough Farrokhzad",
+    "annee": 1962,
+    "pays": "Iran",
+    "textes": [
+      {
+        "typeTexte": 99,
+        "texte": "« Forough Farrokhzad était un des plus grands poètes persans contemporains, c'était aussi une cinéaste. Elle avait réalisé _La maison est noire_, un court métrage sur les lépreux, Grand Prix à Oberhausen, et à part cela pratiquement inconnu en Europe, et qui est un chef-d'œuvre. » (Chris Marker)"
+      }
+    ],
+    "generique": [
+      "Forough Farrokhzad",
+      "Ebrahim Golestan"
     ]
   },
   {
@@ -523,6 +604,26 @@
     ]
   },
   {
+    "titre": "Petit chat est mort",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 88908,
+    "ageMinimal": null,
+    "realisateurs": "Fejria Deliba",
+    "annee": 1991,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans une HLM, Mona doit apprendre une scène de théâtre. Elle cherche auprès d'elle celui qui pourrait lui donner la réplique."
+      }
+    ],
+    "generique": [
+      "Linda Prevot Chaïb",
+      "Fatima Chatter"
+    ]
+  },
+  {
     "titre": "Ponette",
     "titreVo": "",
     "idFilm": 59024,
@@ -541,6 +642,42 @@
       "Delphine Schiltz",
       "Matiaz Bureau Caton",
       "Marie Trintignant"
+    ]
+  },
+  {
+    "titre": "Pueblo",
+    "titreVo": "",
+    "idFilm": 142464,
+    "ageMinimal": null,
+    "realisateurs": "Elena López Riera",
+    "annee": 2015,
+    "pays": "Suisse-Espagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après des années d'exil, Rafa retourne dans son village, au sud de l'Espagne, et se confronte à tous les fantômes laissés derrière lui."
+      }
+    ],
+    "generique": [
+      "José Serrano",
+      "Lucas Vázquez",
+      "Rafa Alberola"
+    ]
+  },
+  {
+    "titre": "Que desean",
+    "art": "Los",
+    "titreVo": "",
+    "idFilm": 142466,
+    "ageMinimal": null,
+    "realisateurs": "Elena López Riera",
+    "annee": 2018,
+    "pays": "Suisse-Espagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans le sud de l'Espagne, une course de pigeons colorés fondée non sur la rapidité mais sur le désir ; désigné vainqueur celui qui aura le mieux su approcher la femelle partie avant eux."
+      }
     ]
   },
   {
@@ -576,6 +713,22 @@
     "generique": [
       "Golshifteh Farahani",
       "Vincent Macaigne"
+    ]
+  },
+  {
+    "titre": "Rosière de Pessac",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 61800,
+    "ageMinimal": null,
+    "realisateurs": "Jean Eustache",
+    "annee": 1968,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Reportage sur une tradition en voie d'extinction : l'élection d'une rosière dans un petit village de Gironde au début du mois de juin 1968, qui distingue une jeune fille méritante et vertueuse."
+      }
     ]
   },
   {
@@ -696,6 +849,42 @@
     ]
   },
   {
+    "titre": "Vigia",
+    "titreVo": "",
+    "idFilm": 142521,
+    "ageMinimal": null,
+    "realisateurs": "João Victor Borges",
+    "annee": 2018,
+    "pays": "Brésil",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À l'aube, dans un grand supermarché, Magno observe de jeunes garçons portant des sacs à dos errant dans les allées, tandis que le temps semble s'être arrêté pour Bismarck, caissier # 11."
+      }
+    ]
+  },
+  {
+    "titre": "Visceras",
+    "art": "Las",
+    "titreVo": "",
+    "idFilm": 142467,
+    "ageMinimal": null,
+    "realisateurs": "Elena López Riera",
+    "annee": 2016,
+    "pays": "Espagne-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Rites anciens dans une Espagne hors du temps. Le sang, les traditions, la cohabitation entre la vie et la mort."
+      }
+    ],
+    "generique": [
+      "Irene Navarro Andujar",
+      "Clara Navarro Andujar",
+      "Jonatan Fernández Reyes"
+    ]
+  },
+  {
     "titre": "We are become death",
     "titreVo": "",
     "idFilm": 141028,
@@ -716,13 +905,13 @@
     "titreVo": "",
     "idFilm": 142509,
     "ageMinimal": null,
-    "realisateurs": "Lou Rambert Preiss",
+    "realisateurs": "Lou Rambert-Preiss",
     "annee": 2017,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Jonathan, adolescent solitaire, se costume secrètement en sa chanteuse virtuelle préférée. Lorsqu'il trouve un semblable sur Internet, il rêve d'une rencontre pour partager un peu d'humanité."
+        "texte": "Jonathan, adolescent solitaire, se costume secrètement en sa chanteuse virtuelle préférée. Lorsqu'il trouve un semblable sur Internet, il rêve d'une rencontre pour partager un peu d'humanité. Prix Technès 2019"
       }
     ],
     "generique": [

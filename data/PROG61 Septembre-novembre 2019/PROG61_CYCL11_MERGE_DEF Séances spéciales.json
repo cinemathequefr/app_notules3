@@ -20,14 +20,17 @@
           "titreVo": "",
           "realisateurs": "Jacqueline Audry",
           "annee": 1950,
+          "pays": "France",
           "duree": 95,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Edwige Feuillère",
             "Simone Simon",
             "Marie-Claire Olivia"
           ],
+          "adaptation": "D'après le roman _Olivia_ de Dorothy Bussy.",
           "textes": [
             {
               "typeTexte": 9,
@@ -57,9 +60,11 @@
           "titreVo": "",
           "realisateurs": "Nicolas Pariser",
           "annee": 2018,
+          "pays": "France",
           "duree": 103,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Anaïs Demoustier",
             "Antoine Reinartz",
@@ -88,9 +93,11 @@
           "titreVo": "",
           "realisateurs": "Kleber Mendonça Filho, Juliano Dornelles",
           "annee": 2018,
+          "pays": "Brésil-France",
           "duree": 132,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Barbara Colen",
             "Udo Kier",

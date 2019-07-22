@@ -22,7 +22,7 @@
         "valide": 1
       }
     ],
-    "mention": "Séance présentée par Jean-Pierre Kalfon et Marc'O"
+    "mention": "Séance présentée par Jean-Pierre Kalfon"
   },
   {
     "idCategorie": 2029,
@@ -44,7 +44,7 @@
         "duree": 105,
         "version": "",
         "format": "35 mm",
-        "valide": 1
+        "valide": 0
       }
     ]
   },
@@ -92,7 +92,7 @@
         "idCopie": 18975,
         "duree": 93,
         "version": "",
-        "format": "DCP",
+        "format": "Numérique",
         "valide": 1
       }
     ],

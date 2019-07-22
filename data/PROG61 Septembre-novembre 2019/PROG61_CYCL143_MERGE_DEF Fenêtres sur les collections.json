@@ -12,7 +12,7 @@
             "JE",
             "Jean Epstein"
           ],
-          "idCategorie": 2058,
+          "idCategorie": 2107,
           "idEvenement": 20018,
           "typeEvenement": 13,
           "idFilm": 99574,
@@ -22,9 +22,11 @@
           "titreVo": "Stahltier",
           "realisateurs": "Willy Zielke",
           "annee": 1935,
+          "pays": "Allemagne",
           "duree": 75,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Aribert Mog",
             "Sophia Hagen"
@@ -48,7 +50,7 @@
             "JE",
             "Jean Epstein"
           ],
-          "idCategorie": 2058,
+          "idCategorie": 2107,
           "idEvenement": 20026,
           "typeEvenement": 13,
           "idFilm": 33619,
@@ -58,9 +60,11 @@
           "titreVo": "Tall Target",
           "realisateurs": "Anthony Mann",
           "annee": 1951,
+          "pays": "États-Unis",
           "duree": 78,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Dick Powell",
             "Paula Raymond",
@@ -85,7 +89,7 @@
             "JE",
             "Jean Epstein"
           ],
-          "idCategorie": 2058,
+          "idCategorie": 2107,
           "idEvenement": 20018,
           "typeEvenement": 13,
           "idFilm": 115961,
@@ -93,9 +97,11 @@
           "titreVo": "",
           "realisateurs": "Anonyme",
           "annee": 1928,
+          "pays": "France",
           "duree": 13,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -115,7 +121,7 @@
             "JE",
             "Jean Epstein"
           ],
-          "idCategorie": 2058,
+          "idCategorie": 2107,
           "idEvenement": 20026,
           "typeEvenement": 13,
           "idFilm": 142094,
@@ -123,13 +129,151 @@
           "titreVo": "",
           "realisateurs": "Manuel Otéro",
           "annee": 1980,
+          "pays": "France",
           "duree": 6,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
               "texte": "Court métrage d'animation qui raconte sur le mode humoristique la vie de deux rails de chemin de fer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Hommage à Paul Paviot",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 31996,
+          "ordre": 1,
+          "dateHeure": "2019-11-01T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2087,
+          "idEvenement": 20663,
+          "typeEvenement": 13,
+          "idFilm": 50533,
+          "titre": "Chicago Digest",
+          "titreVo": "",
+          "realisateurs": "Paul Paviot",
+          "annee": 1951,
+          "pays": "France",
+          "duree": 28,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Daniel Gélin",
+            "Anne Campion",
+            "Michel Piccoli"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une réjouissante parodie des films de gangsters américains."
+            }
+          ]
+        },
+        {
+          "idSeance": 31996,
+          "ordre": 2,
+          "dateHeure": "2019-11-01T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2087,
+          "idEvenement": 20663,
+          "typeEvenement": 13,
+          "idFilm": 50546,
+          "titre": "Lumière",
+          "titreVo": "",
+          "realisateurs": "Paul Paviot",
+          "annee": 1953,
+          "pays": "France",
+          "duree": 23,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Abel Gance"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La naissance du cinéma commentée par Abel Gance sur une musique originale de Josef Kosma."
+            }
+          ]
+        },
+        {
+          "idSeance": 31995,
+          "ordre": 1,
+          "dateHeure": "2019-11-01T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2087,
+          "idEvenement": 20666,
+          "typeEvenement": 13,
+          "idFilm": 50547,
+          "titre": "Pantalaskas",
+          "titreVo": "",
+          "realisateurs": "Paul Paviot",
+          "annee": 1959,
+          "pays": "France",
+          "duree": 89,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Carl Studer",
+            "Anna-Maria Cassan",
+            "Julien Carette"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les tribulations tragi-comiques d'un immigré lituanien dans le Paris de la reconstruction."
+            }
+          ]
+        },
+        {
+          "idSeance": 31996,
+          "ordre": 3,
+          "dateHeure": "2019-11-01T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2087,
+          "idEvenement": 20663,
+          "typeEvenement": 13,
+          "idFilm": 76803,
+          "titre": "Saint-Tropez, devoir de vacances",
+          "titreVo": "",
+          "realisateurs": "Paul Paviot",
+          "annee": 1952,
+          "pays": "France",
+          "duree": 24,
+          "version": "VF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Michel Piccoli",
+            "Eléonore Hirt",
+            "Josée Doucet"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Documentaire sur la « faune » tropézienne du début des années 1950."
             }
           ]
         }

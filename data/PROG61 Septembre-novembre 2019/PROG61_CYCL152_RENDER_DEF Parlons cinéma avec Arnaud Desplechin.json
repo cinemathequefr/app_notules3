@@ -24,10 +24,11 @@
           "titreVo": "Crimes and Misdemeanors",
           "realisateurs": "Woody Allen",
           "annee": 1988,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un ophtalmologue et un documentariste se remémorent tous les crimes et délits qu'ils ont pu commettre dans leur vie."
+              "texte": "Un ophtalmologiste new-yorkais est pressé par sa maîtresse de quitter sa femme, tandis qu’un réalisateur dans le besoin accepte la commande d'un film sur son insupportable beau-frère, un producteur à succès."
             }
           ],
           "generique": [
@@ -40,6 +41,7 @@
           "duree": 104,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30900,
@@ -61,10 +63,11 @@
           "artVo": "The",
           "realisateurs": "Alfred Hitchcock",
           "annee": 1956,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Manny Ballestero mène une vie paisible avec sa femme et ses deux fils jusqu'au jour où, se rendant à sa compagnie d'assurance, il est formellement reconnu comme l'auteur du hold-up dont la firme a été victime quelques mois auparavant."
+              "texte": "Christopher « Manny » Balestrero, contrebassiste au Stork Club de New York, mène une vie paisible avec sa femme et ses deux fils. Mais un soir, il est arrêté par la police pour avoir été formellement reconnu comme l’auteur d’un hold-up dans son quartier."
             }
           ],
           "adaptation": "D'après _The True Story of Christopher Emmanuel Balestrero_ de Maxwell Anderson.",
@@ -77,6 +80,7 @@
           "duree": 105,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30814,
@@ -97,6 +101,7 @@
           "artVo": "The",
           "realisateurs": "John Huston",
           "annee": 1987,
+          "pays": "États-Unis-RFA-Grande-Bretagne",
           "textes": [
             {
               "typeTexte": 9,
@@ -112,6 +117,7 @@
           "duree": 83,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30857,

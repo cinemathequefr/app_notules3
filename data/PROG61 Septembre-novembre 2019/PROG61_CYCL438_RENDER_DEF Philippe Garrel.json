@@ -32,6 +32,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel, Serge Bard, Patrick Deval",
           "annee": 1968,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -41,6 +42,7 @@
           "duree": 6,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30910,
@@ -64,7 +66,7 @@
               "mention": "Séance présentée par Philippe Garrel"
             }
           ],
-          "precedeSuivi": "Film suivi de _Les Amants réguliers_ de Philippe Garrel."
+          "precedeSuivi": "Film suivi de _Les Amants réguliers_ de Philippe Garrel"
         },
         {
           "idFilm": 135987,
@@ -73,6 +75,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 2016,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -87,6 +90,7 @@
           "duree": 76,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30908,
@@ -119,6 +123,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 2004,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -133,6 +138,7 @@
           "duree": 184,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30910,
@@ -156,13 +162,14 @@
               "mention": "Séance présentée par Philippe Garrel"
             }
           ],
-          "precedeSuivi": "Film précédé d'_Actua 1_ de Philippe Garrel, Serge Bard, Patrick Deval."
+          "precedeSuivi": "Film précédé d'_Actua 1_ de Philippe Garrel, Serge Bard, Patrick Deval"
         },
         {
           "idFilm": 46129,
           "titre": "Athanor",
           "realisateurs": "Philippe Garrel",
           "annee": 1972,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -180,6 +187,7 @@
           "duree": 20,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31029,
@@ -202,7 +210,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi de _La Cicatrice intérieure_ de Philippe Garrel."
+          "precedeSuivi": "Film suivi de _La Cicatrice intérieure_ de Philippe Garrel"
         },
         {
           "idFilm": 48711,
@@ -211,6 +219,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1988,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -225,6 +234,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31794,
@@ -255,6 +265,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1975,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -270,6 +281,7 @@
           "duree": 72,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30991,
@@ -290,6 +302,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1978,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -309,6 +322,7 @@
           "duree": 51,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31035,
@@ -329,6 +343,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1970,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -344,6 +359,7 @@
           "duree": 60,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31029,
@@ -366,7 +382,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film précédé d'_Athanor_ de Philippe Garrel."
+          "precedeSuivi": "Film précédé d'_Athanor_ de Philippe Garrel"
         },
         {
           "idFilm": 60047,
@@ -375,6 +391,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1995,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -390,6 +407,7 @@
           "duree": 87,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30947,
@@ -410,6 +428,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1968,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -420,9 +439,14 @@
               "texte": "« Chez Garrel, la forme diptyque s'impose, autour d'une charnière vide, limite inatteignable ou coupure irrationnelle. Elle ne distribue pas seulement les attitudes, mais le blanc et le noir, le froid et le chaud, comme des conditions dont les attitudes dépendent ou les éléments dont les corps sont faits. » (Gilles Deleuze)"
             }
           ],
+          "generique": [
+            "Jean-Pierre Léaud",
+            "Zouzou"
+          ],
           "duree": 89,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30896,
@@ -452,6 +476,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1965,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -461,6 +486,7 @@
           "duree": 15,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31796,
@@ -473,7 +499,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi d'_Un ange passe_ de Philippe Garrel."
+          "precedeSuivi": "Film suivi d'_Un ange passe_ de Philippe Garrel"
         },
         {
           "idFilm": 48712,
@@ -481,6 +507,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1985,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -496,6 +523,7 @@
           "duree": 137,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30965,
@@ -526,6 +554,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1979,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -541,6 +570,7 @@
           "duree": 95,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30917,
@@ -571,6 +601,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1964,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -585,6 +616,7 @@
           "duree": 15,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30959,
@@ -607,7 +639,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi de _Marie pour mémoire_ de Philippe Garrel."
+          "precedeSuivi": "Film suivi de _Marie pour mémoire_ de Philippe Garrel"
         },
         {
           "idFilm": 104536,
@@ -616,6 +648,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 2007,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -630,6 +663,7 @@
           "duree": 105,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31788,
@@ -660,6 +694,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1974,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -682,6 +717,7 @@
           "duree": 82,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31042,
@@ -701,6 +737,7 @@
           "titreVo": "",
           "realisateurs": "Frédéric Pardo",
           "annee": 1969,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -715,6 +752,7 @@
           "duree": 30,
           "format": "Numérique",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30902,
@@ -737,7 +775,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi de _Le Lit de la vierge_ de Philippe Garrel."
+          "precedeSuivi": "Film suivi de _Le Lit de la vierge_ de Philippe Garrel"
         },
         {
           "idFilm": 121788,
@@ -746,6 +784,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 2013,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -760,6 +799,7 @@
           "duree": 77,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31787,
@@ -789,6 +829,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1990,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -804,6 +845,7 @@
           "duree": 98,
           "format": "35 mm",
           "version": "VF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30983,
@@ -833,6 +875,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1983,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -851,6 +894,7 @@
           "duree": 80,
           "format": "Numérique",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31795,
@@ -881,6 +925,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1969,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -896,6 +941,7 @@
           "duree": 99,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30902,
@@ -918,7 +964,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film précédé de _Home movie, autour du « Lit de la vierge »_ de Frédéric Pardo."
+          "precedeSuivi": "Film précédé de _Home movie, autour du « Lit de la vierge »_ de Frédéric Pardo"
         },
         {
           "idFilm": 54415,
@@ -926,6 +972,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1967,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -944,6 +991,7 @@
           "duree": 80,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30959,
@@ -966,7 +1014,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film précédé de _Les Enfants désaccordés_ de Philippe Garrel."
+          "precedeSuivi": "Film précédé de _Les Enfants désaccordés_ de Philippe Garrel"
         },
         {
           "idFilm": 43338,
@@ -975,6 +1023,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1987,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -990,6 +1039,7 @@
           "duree": 58,
           "format": "16 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31799,
@@ -1020,6 +1070,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1993,
+          "pays": "France-Suisse",
           "textes": [
             {
               "typeTexte": 9,
@@ -1039,6 +1090,7 @@
           "duree": 94,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31004,
@@ -1069,6 +1121,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 2014,
+          "pays": "France-Suisse",
           "textes": [
             {
               "typeTexte": 9,
@@ -1084,6 +1137,7 @@
           "duree": 73,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30898,
@@ -1114,6 +1168,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1984,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -1132,6 +1187,7 @@
           "duree": 100,
           "format": "Numérique",
           "version": "",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 31784,
@@ -1162,6 +1218,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1968,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -1180,6 +1237,7 @@
           "duree": 64,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31806,
@@ -1199,6 +1257,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 2001,
+          "pays": "France-Pays-Bas",
           "textes": [
             {
               "typeTexte": 9,
@@ -1213,6 +1272,7 @@
           "duree": 117,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31789,
@@ -1243,6 +1303,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 2019,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -1258,6 +1319,7 @@
           "duree": 100,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30889,
@@ -1278,6 +1340,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1974,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -1292,6 +1355,7 @@
           "duree": 82,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31796,
@@ -1304,7 +1368,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film précédé de _Droit de visite_ de Philippe Garrel."
+          "precedeSuivi": "Film précédé de _Droit de visite_ de Philippe Garrel"
         },
         {
           "idFilm": 113650,
@@ -1312,11 +1376,8 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 2010,
+          "pays": "France-Italie-Suisse",
           "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un été à Rome, les tourments d'un jeune peintre, le mystère d'une femme... Paul est comédien, avec son amie Elisabeth il rencontre Frédéric, un jeune peintre qui vit avec Angèle. Paul tombe amoureux d'Angèle, sous les yeux de son amie."
-            },
             {
               "typeTexte": 9,
               "texte": "À Rome, Paul, comédien en herbe, tombe amoureux d'Élisabeth, figurante sur un tournage. Ensemble, ils vont rencontrer Frédéric et Angèle, et assister au déclin de leur couple."
@@ -1331,6 +1392,7 @@
           "duree": 95,
           "format": "35 mm",
           "version": "VF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30903,
@@ -1361,6 +1423,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1998,
+          "pays": "France-Suisse-Italie",
           "textes": [
             {
               "typeTexte": 9,
@@ -1375,6 +1438,7 @@
           "duree": 95,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31790,
@@ -1404,6 +1468,7 @@
           "titreVo": "",
           "realisateurs": "Philippe Garrel",
           "annee": 1976,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -1418,6 +1483,7 @@
           "duree": 55,
           "format": "",
           "version": "",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 31005,

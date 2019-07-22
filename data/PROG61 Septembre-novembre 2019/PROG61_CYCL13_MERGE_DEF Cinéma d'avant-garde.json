@@ -21,9 +21,11 @@
           "titreVo": "",
           "realisateurs": "Frédéric Rolland",
           "annee": 2018,
+          "pays": "France",
           "duree": 34,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -52,9 +54,11 @@
           "titreVo": "",
           "realisateurs": "Marcel L'Herbier",
           "annee": 1967,
+          "pays": "France",
           "duree": 86,
           "version": "",
           "format": "16 mm",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -82,9 +86,11 @@
           "titreVo": "",
           "realisateurs": "Frédéric Rolland",
           "annee": 2017,
+          "pays": "France",
           "duree": 52,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -112,9 +118,11 @@
           "titreVo": "",
           "realisateurs": "Éric Rohmer",
           "annee": 1964,
+          "pays": "France",
           "duree": 24,
           "version": "",
           "format": "16 mm",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -138,9 +146,11 @@
           "titreVo": "",
           "realisateurs": "William Novik",
           "annee": 1948,
+          "pays": "France",
           "duree": 17,
           "version": "",
           "format": "16 mm",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -164,9 +174,11 @@
           "titreVo": "",
           "realisateurs": "Roger Leenhardt",
           "annee": 1946,
+          "pays": "France",
           "duree": 39,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -190,9 +202,11 @@
           "titreVo": "",
           "realisateurs": "François Reichenbach, Frédéric Rossif",
           "annee": 1968,
+          "pays": "France",
           "duree": 24,
           "version": "",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Jeanne Moreau",
             "Orson Welles",
@@ -222,9 +236,11 @@
           "titreVo": "",
           "realisateurs": "Jean Vidal",
           "annee": 1963,
+          "pays": "France",
           "duree": 30,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -253,9 +269,11 @@
           "titreVo": "",
           "realisateurs": "Georges Régnier",
           "annee": 1963,
+          "pays": "France",
           "duree": 21,
           "version": "",
           "format": "16 mm",
+          "ageMinimal": 0,
           "generique": [
             "Kamel Abdou",
             "Philippe Camus",

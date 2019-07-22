@@ -35,6 +35,7 @@
               "titreVo": "",
               "realisateurs": "Guy Debord",
               "annee": 1961,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -44,6 +45,7 @@
               "duree": 17,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             },
             {
@@ -52,6 +54,7 @@
               "titreVo": "",
               "realisateurs": "Guy Debord",
               "annee": 1975,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -61,6 +64,7 @@
               "duree": 22,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 2
             },
             {
@@ -69,6 +73,7 @@
               "titreVo": "",
               "realisateurs": "Guy Debord",
               "annee": 1959,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -78,6 +83,7 @@
               "duree": 18,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 3
             }
           ],
@@ -102,6 +108,7 @@
               "titreVo": "",
               "realisateurs": "Guy Debord",
               "annee": 1973,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -115,6 +122,7 @@
               "duree": 90,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -138,15 +146,17 @@
               "titreVo": "",
               "realisateurs": "Guy Debord",
               "annee": 1952,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Alternance de de séquences à écran noir silencieuses et de séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off."
+                  "texte": "Alternance de séquences à écran noir silencieuses et de séquences d'écran blanc, pendant lesquelles des phrases provenant du Code civil ou de romans sont distillées en voix off."
                 }
               ],
               "duree": 64,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -170,6 +180,7 @@
               "titreVo": "",
               "realisateurs": "Guy Debord",
               "annee": 1978,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -183,6 +194,7 @@
               "duree": 100,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -206,6 +218,7 @@
               "titreVo": "",
               "realisateurs": "Brigitte Cornand",
               "annee": 1994,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -219,6 +232,7 @@
               "duree": 60,
               "format": "Numérique",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],

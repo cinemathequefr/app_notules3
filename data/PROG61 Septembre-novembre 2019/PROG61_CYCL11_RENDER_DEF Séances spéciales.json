@@ -36,12 +36,14 @@
               "titreVo": "",
               "realisateurs": "Jacqueline Audry",
               "annee": 1950,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
                   "texte": "Dans une institution pour jeunes filles, l'arrivée d'une nouvelle venue, Olivia, vient bouleverser les sentiments d'une enseignante, mademoiselle Julie, et de la directrice de l'institution."
                 }
               ],
+              "adaptation": "D'après le roman _Olivia_ de Dorothy Bussy.",
               "generique": [
                 "Edwige Feuillère",
                 "Simone Simon",
@@ -50,6 +52,7 @@
               "duree": 95,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -79,6 +82,7 @@
               "titreVo": "",
               "realisateurs": "Nicolas Pariser",
               "annee": 2018,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -93,6 +97,7 @@
               "duree": 103,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -116,6 +121,7 @@
               "titreVo": "",
               "realisateurs": "Kleber Mendonça Filho, Juliano Dornelles",
               "annee": 2018,
+              "pays": "Brésil-France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -130,6 +136,7 @@
               "duree": 132,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],

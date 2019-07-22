@@ -377,6 +377,10 @@
       },
       {
         "typeTexte": 99,
+        "texte": "Accompagné musicalement par un trio : Contrebasse, guitare et batterie."
+      },
+      {
+        "typeTexte": 99,
         "texte": "Ressortie salles par Tamasa."
       }
     ],

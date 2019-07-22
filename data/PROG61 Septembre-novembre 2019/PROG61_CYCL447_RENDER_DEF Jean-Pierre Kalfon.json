@@ -36,6 +36,7 @@
               "titreVo": "",
               "realisateurs": "Jacques Rivette",
               "annee": 1967,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -49,6 +50,7 @@
               "duree": 252,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -74,6 +76,7 @@
               "titreVo": "",
               "realisateurs": "Philippe Fourastié",
               "annee": 1968,
+              "pays": "France-Italie",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -89,6 +92,7 @@
               "duree": 105,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -113,6 +117,7 @@
               "titreVo": "",
               "realisateurs": "Michel Cournot",
               "annee": 1967,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -125,8 +130,9 @@
                 "Bruno Cremer"
               ],
               "duree": 93,
-              "format": "DCP",
+              "format": "Numérique",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -152,6 +158,7 @@
               "titreVo": "",
               "realisateurs": "Marc'O",
               "annee": 1967,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -170,6 +177,7 @@
               "duree": 105,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -180,7 +188,7 @@
                 "HL",
                 "Henri Langlois"
               ],
-              "mention": "Séance présentée par Jean-Pierre Kalfon et Marc'O"
+              "mention": "Séance présentée par Jean-Pierre Kalfon"
             }
           ]
         },
@@ -194,6 +202,7 @@
               "titreVo": "",
               "realisateurs": "José Varela",
               "annee": 1966,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -207,6 +216,7 @@
               "duree": 95,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -231,6 +241,7 @@
               "titreVo": "",
               "realisateurs": "Romain Gary",
               "annee": 1967,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -251,6 +262,7 @@
               "duree": 95,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -274,6 +286,7 @@
               "titreVo": "",
               "realisateurs": "Stéphan Castang",
               "annee": 2016,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -286,6 +299,7 @@
               "duree": 15,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             },
             {
@@ -294,6 +308,7 @@
               "titreVo": "",
               "realisateurs": "Diourka Medveczky",
               "annee": 1968,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -308,6 +323,7 @@
               "duree": 93,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 2
             }
           ],
@@ -331,6 +347,7 @@
               "titreVo": "",
               "realisateurs": "Pierre Granier-Deferre",
               "annee": 1981,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -347,6 +364,7 @@
               "duree": 105,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": 0,
               "ordre": 1
             }
           ],
@@ -370,6 +388,7 @@
               "titreVo": "",
               "realisateurs": "Claude Lelouch",
               "annee": 1964,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -385,6 +404,7 @@
               "duree": 104,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -410,6 +430,7 @@
               "titreVo": "",
               "realisateurs": "Barbet Schroeder",
               "annee": 1971,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -428,6 +449,7 @@
               "duree": 106,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],

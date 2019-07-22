@@ -6,7 +6,14 @@
       {
         "titre": "Sur les rails",
         "cats": [
-          2058
+          2107
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Hommage à Paul Paviot",
+        "cats": [
+          2087
         ],
         "tri": 4
       }
@@ -19,7 +26,7 @@
       "tri": 4,
       "items": [
         {
-          "idCategorie": 2058,
+          "idCategorie": 2107,
           "idEvenement": 20018,
           "films": [
             {
@@ -30,6 +37,7 @@
               "artVo": "Das",
               "realisateurs": "Willy Zielke",
               "annee": 1935,
+              "pays": "Allemagne",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -47,6 +55,7 @@
               "duree": 75,
               "format": "35 mm",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             },
             {
@@ -55,6 +64,7 @@
               "titreVo": "",
               "realisateurs": "Anonyme",
               "annee": 1928,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -68,6 +78,7 @@
               "duree": 13,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 2
             }
           ],
@@ -82,7 +93,7 @@
           ]
         },
         {
-          "idCategorie": 2058,
+          "idCategorie": 2107,
           "idEvenement": 20026,
           "films": [
             {
@@ -91,6 +102,7 @@
               "titreVo": "",
               "realisateurs": "Manuel Otéro",
               "annee": 1980,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -100,6 +112,7 @@
               "duree": 6,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             },
             {
@@ -110,6 +123,7 @@
               "artVo": "The",
               "realisateurs": "Anthony Mann",
               "annee": 1951,
+              "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -128,12 +142,143 @@
               "duree": 78,
               "format": "35 mm",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 2
             }
           ],
           "seance": [
             {
               "dateHeure": "2019-10-18T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Hommage à Paul Paviot",
+      "tri": 4,
+      "items": [
+        {
+          "idCategorie": 2087,
+          "idEvenement": 20663,
+          "films": [
+            {
+              "idFilm": 50533,
+              "titre": "Chicago Digest",
+              "titreVo": "",
+              "realisateurs": "Paul Paviot",
+              "annee": 1951,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une réjouissante parodie des films de gangsters américains."
+                }
+              ],
+              "generique": [
+                "Daniel Gélin",
+                "Anne Campion",
+                "Michel Piccoli"
+              ],
+              "duree": 28,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 50546,
+              "titre": "Lumière",
+              "titreVo": "",
+              "realisateurs": "Paul Paviot",
+              "annee": 1953,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "La naissance du cinéma commentée par Abel Gance sur une musique originale de Josef Kosma."
+                }
+              ],
+              "generique": [
+                "Abel Gance"
+              ],
+              "duree": 23,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            },
+            {
+              "idFilm": 76803,
+              "titre": "Saint-Tropez, devoir de vacances",
+              "titreVo": "",
+              "realisateurs": "Paul Paviot",
+              "annee": 1952,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Documentaire sur la « faune » tropézienne du début des années 1950."
+                }
+              ],
+              "generique": [
+                "Michel Piccoli",
+                "Eléonore Hirt",
+                "Josée Doucet"
+              ],
+              "duree": 24,
+              "format": "35 mm",
+              "version": "VF",
+              "ageMinimal": null,
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-11-01T18:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2087,
+          "idEvenement": 20666,
+          "films": [
+            {
+              "idFilm": 50547,
+              "titre": "Pantalaskas",
+              "titreVo": "",
+              "realisateurs": "Paul Paviot",
+              "annee": 1959,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Les tribulations tragi-comiques d'un immigré lituanien dans le Paris de la reconstruction."
+                }
+              ],
+              "generique": [
+                "Carl Studer",
+                "Anna-Maria Cassan",
+                "Julien Carette"
+              ],
+              "duree": 89,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-11-01T20:30:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"

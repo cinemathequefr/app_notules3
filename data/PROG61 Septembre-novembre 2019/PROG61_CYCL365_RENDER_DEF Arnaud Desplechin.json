@@ -39,6 +39,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2007,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -53,6 +54,7 @@
           "duree": 65,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31925,
@@ -73,6 +75,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 1996,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -88,6 +91,7 @@
           "duree": 178,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30774,
@@ -108,6 +112,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2000,
+          "pays": "France-Grande-Bretagne",
           "textes": [
             {
               "typeTexte": 9,
@@ -123,6 +128,7 @@
           "duree": 157,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30822,
@@ -144,6 +150,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2017,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -158,6 +165,7 @@
           "duree": 135,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30794,
@@ -179,6 +187,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2014,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -192,6 +201,7 @@
           "duree": 90,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31926,
@@ -212,6 +222,7 @@
           "titreVo": "Jimmy P., Psychotherapy of a Plains Indian",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2013,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -227,6 +238,7 @@
           "duree": 120,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30793,
@@ -247,6 +259,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2004,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -263,6 +276,7 @@
           "duree": 118,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30787,
@@ -283,6 +297,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2004,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -297,6 +312,7 @@
           "duree": 151,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30760,
@@ -329,6 +345,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 1992,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -344,6 +361,7 @@
           "duree": 139,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30780,
@@ -364,6 +382,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2015,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -379,6 +398,7 @@
           "duree": 124,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31768,
@@ -399,6 +419,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2008,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -415,6 +436,7 @@
           "duree": 150,
           "format": "35 mm",
           "version": "",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30824,
@@ -436,6 +458,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 1991,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -450,6 +473,7 @@
           "duree": 54,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30779,
@@ -476,6 +500,7 @@
           "titreVo": "",
           "realisateurs": "Arnaud Desplechin",
           "annee": 2018,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -491,6 +516,7 @@
           "duree": 119,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30831,
@@ -510,6 +536,7 @@
           "titreVo": "",
           "realisateurs": "Claude Lanzmann",
           "annee": 2000,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -519,6 +546,7 @@
           "duree": 95,
           "format": "DCP",
           "version": "",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30832,

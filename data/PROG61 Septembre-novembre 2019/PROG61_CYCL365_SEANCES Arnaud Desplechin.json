@@ -23,7 +23,7 @@
         "valide": 0
       }
     ],
-    "mention": "Ouverture de la rétrospective"
+    "mention": "Ouverture de la rétrospective. Séance présentée par Arnaud Desplechin"
   },
   {
     "idCategorie": 1645,
@@ -73,7 +73,7 @@
         "valide": 1
       }
     ],
-    "mention": "Séance présentée par Michel Vuillermoz et Grégoire Hetzel"
+    "mention": "Séance présentée par Michel Vuillermoz (sous réserve) et Grégoire Hetzel"
   },
   {
     "idCategorie": 1645,
@@ -333,7 +333,7 @@
         "duree": 150,
         "version": "",
         "format": "35 mm",
-        "valide": 1
+        "valide": 0
       }
     ],
     "mention": "Séance présentée par Anne Consigny et Melvil Poupaud"
@@ -422,7 +422,7 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Film + Dialogue",
+    "titreEvenement": "Film + Dialogue avec Arnaud Desplechin",
     "typeAssoc": 118,
     "items": [
       {

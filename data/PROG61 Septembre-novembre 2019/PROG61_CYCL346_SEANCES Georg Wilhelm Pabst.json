@@ -23,7 +23,7 @@
         "valide": 1
       }
     ],
-    "mention": "Ouverture de la rétrospective. Accompagnement musical par Neil Brand"
+    "mention": "Ouverture de la rétrospective. Accompagnement musical par Karim Gherbi, Abdesslem Gherbi et Jean-Baptiste Laya"
   },
   {
     "idCategorie": 1585,
@@ -122,7 +122,7 @@
         "valide": 1
       }
     ],
-    "mention": "Accompagnement musical par Neil Brand"
+    "mention": "Accompagnement musical par Jacques Cambra"
   },
   {
     "idCategorie": 1585,
@@ -167,6 +167,7 @@
         "idSeance": 31171,
         "idCopie": 14910,
         "duree": 104,
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
       }
@@ -418,10 +419,10 @@
     "typeEvenement": 13,
     "idEvenement": 16621,
     "idSeance": 31866,
-    "dateHeure": "2019-11-07T21:30:00",
+    "dateHeure": "2019-11-07T19:00:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "HL",
+      "Henri Langlois"
     ],
     "titreEvenement": "Herrin von Atlantis (Die)",
     "items": [

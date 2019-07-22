@@ -1,6 +1,47 @@
 {
   "data": [
     {
+      "titreSousCycle": "Soirée d'ouverture",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 31018,
+          "ordre": 1,
+          "dateHeure": "2019-10-09T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "mention": "Ouverture de la rétrospective. Accompagnement musical par Jozef Van Wissem",
+          "idCategorie": 2108,
+          "idEvenement": 19743,
+          "typeEvenement": 13,
+          "idFilm": 39961,
+          "titre": "Nosferatu le vampire",
+          "titreVo": "Nosferatu, eine Symphonie des Grauens",
+          "realisateurs": "Friedrich Wilhelm Murnau",
+          "annee": 1921,
+          "pays": "Allemagne",
+          "duree": 94,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Max Schreck",
+            "Alexander Granach",
+            "Gustav von Wangenheim"
+          ],
+          "adaptation": "D'après le roman _Dracula_ de Bram Stoker.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Thomas Hutter, un jeune clerc de notaire, part pour la Transylvanie pour vendre une propriété au comte Orlok. Accueilli dans le sinistre château de son hôte, il ne tarde pas à découvrir sa véritable nature."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titreSousCycle": "Adaptations du « Dracula » de Bram Stoker",
       "tri": 1,
       "items": [
@@ -22,6 +63,7 @@
           "titreVo": "Horror of Dracula",
           "realisateurs": "Terence Fisher",
           "annee": 1958,
+          "pays": "Grande-Bretagne",
           "duree": 82,
           "version": "VOSTF",
           "format": "35 mm",
@@ -55,6 +97,7 @@
           "titreVo": "",
           "realisateurs": "John Badham",
           "annee": 1978,
+          "pays": "États-Unis",
           "duree": 112,
           "version": "VOSTF",
           "format": "DCP",
@@ -90,6 +133,7 @@
           "titreVo": "",
           "realisateurs": "Tod Browning",
           "annee": 1931,
+          "pays": "États-Unis",
           "duree": 75,
           "version": "VOSTF",
           "format": "35 mm",
@@ -124,6 +168,7 @@
           "titreVo": "Bram Stoker's Dracula",
           "realisateurs": "Francis Ford Coppola",
           "annee": 1992,
+          "pays": "États-Unis",
           "duree": 140,
           "version": "VOSTF",
           "format": "35 mm",
@@ -158,6 +203,7 @@
           "titreVo": "",
           "realisateurs": "George Melford",
           "annee": 1931,
+          "pays": "États-Unis",
           "duree": 104,
           "version": "VO",
           "format": "Numérique",
@@ -194,6 +240,7 @@
           "titreVo": "",
           "realisateurs": "Dario Argento",
           "annee": 2011,
+          "pays": "Italie-France-Espagne",
           "duree": 106,
           "version": "VOSTF",
           "format": "35 mm",
@@ -227,6 +274,7 @@
           "titreVo": "Dracula",
           "realisateurs": "Dan Curtis",
           "annee": 1973,
+          "pays": "Grande-Bretagne",
           "duree": 98,
           "version": "VF",
           "format": "35 mm",
@@ -261,6 +309,7 @@
           "titreVo": "Nosferatu, Phantom der Nacht",
           "realisateurs": "Werner Herzog",
           "annee": 1978,
+          "pays": "RFA-France",
           "duree": 107,
           "version": "VOSTF",
           "format": "DCP",
@@ -286,7 +335,7 @@
     },
     {
       "titreSousCycle": "Vampires d'auteurs",
-      "tri": 3,
+      "tri": 2,
       "items": [
         {
           "idSeance": 32002,
@@ -304,6 +353,7 @@
           "titreVo": "",
           "realisateurs": "Ana Lily Amirpour",
           "annee": 2014,
+          "pays": "États-Unis",
           "duree": 99,
           "version": "VOSTF",
           "format": "DCP",
@@ -337,6 +387,7 @@
           "titreVo": "",
           "realisateurs": "Abel Ferrara",
           "annee": 1995,
+          "pays": "États-Unis",
           "duree": 81,
           "version": "VOSTF",
           "format": "35 mm",
@@ -370,6 +421,7 @@
           "titreVo": "Near Dark",
           "realisateurs": "Kathryn Bigelow",
           "annee": 1987,
+          "pays": "États-Unis",
           "duree": 94,
           "version": "VOSTF",
           "format": "35 mm",
@@ -404,6 +456,7 @@
           "titreVo": "The Fearless Vampire Killers or Pardon Me, But Your Teeth Are in My Neck",
           "realisateurs": "Roman Polanski",
           "annee": 1966,
+          "pays": "États-Unis-Grande-Bretagne",
           "duree": 110,
           "version": "VOSTF",
           "format": "DCP",
@@ -439,6 +492,7 @@
           "titreVo": "Countess",
           "realisateurs": "Julie Delpy",
           "annee": 2008,
+          "pays": "Allemagne-France",
           "duree": 94,
           "version": "VOSTF",
           "format": "35 mm",
@@ -469,6 +523,7 @@
           "titre": "Cuadecuc, vampir",
           "realisateurs": "Pere Portabella",
           "annee": 1970,
+          "pays": "Espagne",
           "duree": 67,
           "version": "VOSTF",
           "format": "DCP",
@@ -504,6 +559,7 @@
           "titreVo": "",
           "realisateurs": "Tim Burton",
           "annee": 2011,
+          "pays": "États-Unis",
           "duree": 113,
           "version": "VOSTF",
           "format": "DCP",
@@ -539,6 +595,7 @@
           "titreVo": "",
           "realisateurs": "Ghassan Salhab",
           "annee": 2006,
+          "pays": "France-Liban",
           "duree": 102,
           "version": "VOSTF",
           "format": "35 mm",
@@ -569,6 +626,7 @@
           "titreVo": "Dracula, Pages from a Virgin's Diary",
           "realisateurs": "Guy Maddin",
           "annee": 2002,
+          "pays": "Canada",
           "duree": 74,
           "version": "VOSTF",
           "format": "35 mm",
@@ -607,6 +665,7 @@
           "titreVo": "Interview With the Vampire",
           "realisateurs": "Neil Jordan",
           "annee": 1993,
+          "pays": "États-Unis",
           "duree": 120,
           "version": "VOSTF",
           "format": "35 mm",
@@ -641,6 +700,7 @@
           "titreVo": "Història de la meva mort",
           "realisateurs": "Albert Serra",
           "annee": 2011,
+          "pays": "Espagne-France",
           "duree": 148,
           "version": "VOSTF",
           "format": "DCP",
@@ -673,6 +733,7 @@
           "titreVo": "",
           "realisateurs": "Olivier Assayas",
           "annee": 1996,
+          "pays": "France",
           "duree": 99,
           "version": "VOSTF",
           "format": "35 mm",
@@ -707,6 +768,7 @@
           "titreVo": "",
           "realisateurs": "Harry Kümel",
           "annee": 1971,
+          "pays": "Belgique-France-RFA-Italie",
           "duree": 87,
           "version": "VF",
           "format": "35 mm",
@@ -739,6 +801,7 @@
           "titreVo": "",
           "realisateurs": "George A. Romero",
           "annee": 1977,
+          "pays": "États-Unis",
           "duree": 95,
           "version": "VOSTF",
           "format": "35 mm",
@@ -772,6 +835,7 @@
           "titreVo": "Låt den rätte komma in",
           "realisateurs": "Tomas Alfredson",
           "annee": 2008,
+          "pays": "Suède",
           "duree": 114,
           "version": "VOSTF",
           "format": "35 mm",
@@ -808,6 +872,7 @@
           "titreVo": "",
           "realisateurs": "Michael Almereyda",
           "annee": 1994,
+          "pays": "États-Unis",
           "duree": 93,
           "version": "VOSTF",
           "format": "35 mm",
@@ -841,6 +906,7 @@
           "titreVo": "",
           "realisateurs": "Bertrand Mandico",
           "annee": 2018,
+          "pays": "France",
           "duree": 6,
           "version": "VO",
           "format": "Numérique",
@@ -870,6 +936,7 @@
           "titreVo": "Conde Dracula",
           "realisateurs": "Jesús Franco",
           "annee": 1969,
+          "pays": "Espagne-Italie-RFA-Grande-Bretagne-Liechtenstein",
           "duree": 95,
           "version": "VF",
           "format": "35 mm",
@@ -902,6 +969,7 @@
           "titreVo": "",
           "realisateurs": "Jim Jarmusch",
           "annee": 2012,
+          "pays": "Allemagne-Grande-Bretagne-France-Chypre",
           "duree": 122,
           "version": "VOSTF",
           "format": "DCP",
@@ -936,6 +1004,7 @@
           "titreVo": "Hunger",
           "realisateurs": "Tony Scott",
           "annee": 1982,
+          "pays": "Grande-Bretagne",
           "duree": 97,
           "version": "VOSTF",
           "format": "DCP",
@@ -969,6 +1038,7 @@
           "titreVo": "",
           "realisateurs": "Charles Matton",
           "annee": 1975,
+          "pays": "France",
           "duree": 103,
           "version": "VF",
           "format": "Numérique",
@@ -1005,6 +1075,7 @@
           "titreVo": "Bakjwi",
           "realisateurs": "Park Chan-wook",
           "annee": 2008,
+          "pays": "Corée",
           "duree": 134,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1038,6 +1109,7 @@
           "titreVo": "",
           "realisateurs": "Jean Painlevé",
           "annee": 1939,
+          "pays": "France",
           "duree": 10,
           "version": "",
           "format": "DCP",
@@ -1065,6 +1137,7 @@
           "titreVo": "",
           "realisateurs": "John Carpenter",
           "annee": 1997,
+          "pays": "États-Unis",
           "duree": 108,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1083,66 +1156,28 @@
           ]
         },
         {
-          "idSeance": 31134,
-          "ordre": 1,
-          "dateHeure": "2019-10-27T21:45:00",
+          "idSeance": 31131,
+          "ordre": 2,
+          "dateHeure": "2019-10-27T14:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "idCategorie": 1535,
-          "idEvenement": 19997,
+          "idEvenement": 19691,
           "typeEvenement": 13,
-          "idFilm": 99086,
+          "idFilm": 48546,
           "art": "Les",
-          "titre": "Vampires : L'Homme des poisons",
-          "titreVo": "",
-          "realisateurs": "Louis Feuillade",
-          "annee": 1916,
-          "duree": 60,
-          "version": "INT. FR.",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Édouard Mathé",
-            "Marcel Lévesque",
-            "Moriss",
-            "Musidora"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Vénénos, le nouveau chef des Vampires, parvient à faire empoisonner le repas de fiançailles du journaliste Philippe Guérande. Tous les convives en réchappent de justesse, sauf le concierge."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Neuvième épisode de la série."
-            }
-          ]
-        },
-        {
-          "idSeance": 31132,
-          "ordre": 1,
-          "dateHeure": "2019-10-27T16:15:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 1535,
-          "idEvenement": 19996,
-          "typeEvenement": 13,
-          "idFilm": 99082,
-          "art": "Les",
-          "titre": "Vampires : L'Évasion du mort",
+          "titre": "Vampires (épisode 01) : La Tête coupée",
           "titreVo": "",
           "realisateurs": "Louis Feuillade",
           "annee": 1915,
-          "duree": 45,
+          "pays": "France",
+          "duree": 40,
           "version": "INT. FR.",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
-            "Musidora",
             "Édouard Mathé",
             "Marcel Lévesque",
             "Jean Ayme"
@@ -1150,11 +1185,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Moreno fait croire à son suicide dans le bureau du juge, mais il se relève et parvient à s'enfuir. Pendant ce temps, Les Vampires tentent d'enlever une nouvelle fois le journaliste Philippe Guérande."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Cinquième épisode de la série."
+              "texte": "Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être."
             }
           ]
         },
@@ -1171,10 +1202,11 @@
           "typeEvenement": 13,
           "idFilm": 99079,
           "art": "Les",
-          "titre": "Vampires : La Bague qui tue",
+          "titre": "Vampires (épisode 02) : La Bague qui tue",
           "titreVo": "",
           "realisateurs": "Louis Feuillade",
           "annee": 1915,
+          "pays": "France",
           "duree": 17,
           "version": "INT. FR.",
           "format": "DCP",
@@ -1188,47 +1220,6 @@
             {
               "typeTexte": 9,
               "texte": "Une célèbre danseuse promet à Philippe Guérande des révélations sur les Vampires, mais elle meurt au cours d'une représentation, empoisonnée par une bague."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Deuxième épisode de la série."
-            }
-          ]
-        },
-        {
-          "idSeance": 31131,
-          "ordre": 2,
-          "dateHeure": "2019-10-27T14:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 1535,
-          "idEvenement": 19691,
-          "typeEvenement": 13,
-          "idFilm": 48546,
-          "art": "Les",
-          "titre": "Vampires : La Tête coupée",
-          "titreVo": "",
-          "realisateurs": "Louis Feuillade",
-          "annee": 1915,
-          "duree": 40,
-          "version": "INT. FR.",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Édouard Mathé",
-            "Marcel Lévesque",
-            "Jean Ayme"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Tandis que la bande des Vampires sévit dans Paris, un inspecteur est assassiné et sa tête disparaît. Guérande retrouve le membre chez un médecin, Nox, et découvre que le bon docteur n'est pas celui qu'il semble être."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Premier épisode de la série."
             }
           ]
         },
@@ -1245,10 +1236,11 @@
           "typeEvenement": 13,
           "idFilm": 99080,
           "art": "Les",
-          "titre": "Vampires : Le Cryptogramme rouge",
+          "titre": "Vampires (épisode 03) : Le Cryptogramme rouge",
           "titreVo": "",
           "realisateurs": "Louis Feuillade",
           "annee": 1915,
+          "pays": "France",
           "duree": 48,
           "version": "INT. FR.",
           "format": "DCP",
@@ -1263,48 +1255,6 @@
             {
               "typeTexte": 9,
               "texte": "Guérande tente de déchiffrer un cryptogramme inscrit dans un petit carnet trouvé sur le cadavre d'un membre des Vampires. Pendant ce temps, dans un cabaret où s'abrite la bande, se produit la chanteuse Irma Vep."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Troisième épisode de la série."
-            }
-          ]
-        },
-        {
-          "idSeance": 31133,
-          "ordre": 1,
-          "dateHeure": "2019-10-27T20:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 1535,
-          "idEvenement": 19692,
-          "typeEvenement": 13,
-          "idFilm": 99085,
-          "art": "Les",
-          "titre": "Vampires : Le Maître de la foudre",
-          "titreVo": "",
-          "realisateurs": "Louis Feuillade",
-          "annee": 1916,
-          "duree": 58,
-          "version": "INT. FR.",
-          "format": "DCP",
-          "ageMinimal": null,
-          "generique": [
-            "Édouard Mathé",
-            "Marcel Lévesque",
-            "Musidora",
-            "Louis Leubas"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Enfermée à la prison de Saint-Lazare, Irma Vep réussit à s'en évader. Mazamette découvre alors le repaire des Vampires dans le XVIII<sup>e</sup> arrondissement de Paris."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Huitième épisode de la série."
             }
           ]
         },
@@ -1321,10 +1271,11 @@
           "typeEvenement": 13,
           "idFilm": 99081,
           "art": "Les",
-          "titre": "Vampires : Le Spectre",
+          "titre": "Vampires (épisode 04) : Le Spectre",
           "titreVo": "",
           "realisateurs": "Louis Feuillade",
           "annee": 1915,
+          "pays": "France",
           "duree": 39,
           "version": "INT. FR.",
           "format": "35 mm",
@@ -1339,48 +1290,41 @@
             {
               "typeTexte": 9,
               "texte": "Les Vampires se découvrent un adversaire redoutable en la personne de Moreno, habile cambrioleur."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Quatrième épisode de la série."
             }
           ]
         },
         {
-          "idSeance": 31134,
-          "ordre": 2,
-          "dateHeure": "2019-10-27T21:45:00",
+          "idSeance": 31132,
+          "ordre": 1,
+          "dateHeure": "2019-10-27T16:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "idCategorie": 1535,
-          "idEvenement": 19997,
+          "idEvenement": 19996,
           "typeEvenement": 13,
-          "idFilm": 99087,
+          "idFilm": 99082,
           "art": "Les",
-          "titre": "Vampires : Les Noces sanglantes",
+          "titre": "Vampires (épisode 05) : L'Évasion du mort",
           "titreVo": "",
           "realisateurs": "Louis Feuillade",
-          "annee": 1916,
-          "duree": 66,
+          "annee": 1915,
+          "pays": "France",
+          "duree": 45,
           "version": "INT. FR.",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
+            "Musidora",
             "Édouard Mathé",
             "Marcel Lévesque",
-            "Musidora",
-            "Moriss"
+            "Jean Ayme"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Philippe Guérande s'est marié. Le couple a pris à son service Augustine, la veuve du concierge tué à leurs fiançailles, dont s'éprend Mazamette. Pendant ce temps, les Vampires s'apprêtent à célébrer les noces d'Irma Vep avec Vénénos."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Dixième épisode de la série."
+              "texte": "Moreno fait croire à son suicide dans le bureau du juge, mais il se relève et parvient à s'enfuir. Pendant ce temps, Les Vampires tentent d'enlever une nouvelle fois le journaliste Philippe Guérande."
             }
           ]
         },
@@ -1397,10 +1341,11 @@
           "typeEvenement": 13,
           "idFilm": 99083,
           "art": "Les",
-          "titre": "Vampires : Les Yeux qui fascinent",
+          "titre": "Vampires (épisode 06) : Les Yeux qui fascinent",
           "titreVo": "",
           "realisateurs": "Louis Feuillade",
           "annee": 1916,
+          "pays": "France",
           "duree": 71,
           "version": "INT. FR.",
           "format": "35 mm",
@@ -1415,10 +1360,6 @@
             {
               "typeTexte": 9,
               "texte": "Moreno enlève Irma Vep, dont il tombe amoureux, avant de l'hypnotiser pour qu'elle assassine le Grand Vampire."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Sixième épisode de la série."
             }
           ]
         },
@@ -1435,10 +1376,11 @@
           "typeEvenement": 13,
           "idFilm": 99084,
           "art": "Les",
-          "titre": "Vampires : Satanas",
+          "titre": "Vampires (épisode 07) : Satanas",
           "titreVo": "",
           "realisateurs": "Louis Feuillade",
           "annee": 1916,
+          "pays": "France",
           "duree": 52,
           "version": "INT. FR.",
           "format": "DCP",
@@ -1453,10 +1395,111 @@
             {
               "typeTexte": 9,
               "texte": "Irma a tué le Grand Vampire, mais un individu nommé Satanas débarque chez Moreno, et prétend être le Grand Maître des Vampires. Pour démontrer sa puissance, il cherche à détruire le cabaret qui sert de repère à la bande."
-            },
+            }
+          ]
+        },
+        {
+          "idSeance": 31133,
+          "ordre": 1,
+          "dateHeure": "2019-10-27T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19692,
+          "typeEvenement": 13,
+          "idFilm": 99085,
+          "art": "Les",
+          "titre": "Vampires (épisode 08) : Le Maître de la foudre",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1916,
+          "pays": "France",
+          "duree": 58,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Musidora",
+            "Louis Leubas"
+          ],
+          "textes": [
             {
-              "typeTexte": 99,
-              "texte": "Septième épisode de la série."
+              "typeTexte": 9,
+              "texte": "Enfermée à la prison de Saint-Lazare, Irma Vep réussit à s'en évader. Mazamette découvre alors le repaire des Vampires dans le XVIII<sup>e</sup> arrondissement de Paris."
+            }
+          ]
+        },
+        {
+          "idSeance": 31134,
+          "ordre": 1,
+          "dateHeure": "2019-10-27T21:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19997,
+          "typeEvenement": 13,
+          "idFilm": 99086,
+          "art": "Les",
+          "titre": "Vampires (épisode 09) : L'Homme des poisons",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1916,
+          "pays": "France",
+          "duree": 60,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Moriss",
+            "Musidora"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Vénénos, le nouveau chef des Vampires, parvient à faire empoisonner le repas de fiançailles du journaliste Philippe Guérande. Tous les convives en réchappent de justesse, sauf le concierge."
+            }
+          ]
+        },
+        {
+          "idSeance": 31134,
+          "ordre": 2,
+          "dateHeure": "2019-10-27T21:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 1535,
+          "idEvenement": 19997,
+          "typeEvenement": 13,
+          "idFilm": 99087,
+          "art": "Les",
+          "titre": "Vampires (épisode 10) : Les Noces sanglantes",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1916,
+          "pays": "France",
+          "duree": 66,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Édouard Mathé",
+            "Marcel Lévesque",
+            "Musidora",
+            "Moriss"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Philippe Guérande s'est marié. Le couple a pris à son service Augustine, la veuve du concierge tué à leurs fiançailles, dont s'éprend Mazamette. Pendant ce temps, les Vampires s'apprêtent à célébrer les noces d'Irma Vep avec Vénénos."
             }
           ]
         },
@@ -1476,6 +1519,7 @@
           "titreVo": "Vampyr: Der Traum des Allan Gray",
           "realisateurs": "Carl Theodor Dreyer",
           "annee": 1930,
+          "pays": "France-Allemagne",
           "duree": 72,
           "version": "VOSTF",
           "format": "DCP",
@@ -1515,6 +1559,7 @@
           "titreVo": "Blacula",
           "realisateurs": "William Crain",
           "annee": 1972,
+          "pays": "États-Unis",
           "duree": 92,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1549,6 +1594,7 @@
           "titreVo": "Cripta e l'incubo",
           "realisateurs": "Camillo Mastrocinque",
           "annee": 1963,
+          "pays": "Italie-Espagne",
           "duree": 82,
           "version": "VF",
           "format": "35 mm",
@@ -1586,6 +1632,7 @@
           "titreVo": "Dracula A. D. 72",
           "realisateurs": "Alan Gibson",
           "annee": 1972,
+          "pays": "Grande-Bretagne",
           "duree": 96,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1618,6 +1665,7 @@
           "titreVo": "Satanic Rites of Dracula: Dracula Is Alive",
           "realisateurs": "Alan Gibson",
           "annee": 1973,
+          "pays": "Canada",
           "duree": 87,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1649,6 +1697,7 @@
           "titreVo": "Dracula, Prince of Darkness",
           "realisateurs": "Terence Fisher",
           "annee": 1965,
+          "pays": "Grande-Bretagne",
           "duree": 90,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1682,6 +1731,7 @@
           "titreVo": "",
           "realisateurs": "Javier Aguirre",
           "annee": 1972,
+          "pays": "Espagne",
           "duree": 85,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1716,6 +1766,7 @@
           "titreVo": "Strage dei vampiri",
           "realisateurs": "Roberto Mauri",
           "annee": 1962,
+          "pays": "Italie",
           "duree": 90,
           "version": "VF",
           "format": "35 mm",
@@ -1750,6 +1801,7 @@
           "titreVo": "Brides of Dracula",
           "realisateurs": "Terence Fisher",
           "annee": 1960,
+          "pays": "Grande-Bretagne",
           "duree": 85,
           "version": "VO",
           "format": "35 mm",
@@ -1785,6 +1837,7 @@
           "titreVo": "Vampiro",
           "realisateurs": "Fernando Méndez",
           "annee": 1957,
+          "pays": "Mexique",
           "duree": 95,
           "version": "VF",
           "format": "35 mm",
@@ -1818,6 +1871,7 @@
           "titreVo": "Santo en El Tesoro de Drácula",
           "realisateurs": "René Cardona",
           "annee": 1968,
+          "pays": "Mexique",
           "duree": 82,
           "version": "VF",
           "format": "35 mm",
@@ -1850,6 +1904,7 @@
           "titreVo": "Vampire in Brooklyn",
           "realisateurs": "Wes Craven",
           "annee": 1994,
+          "pays": "États-Unis",
           "duree": 102,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1883,6 +1938,7 @@
           "titreVo": "",
           "realisateurs": "José Ramón Larraz",
           "annee": 1974,
+          "pays": "Grande-Bretagne",
           "duree": 81,
           "version": "VF",
           "format": "35 mm",
@@ -1922,6 +1978,7 @@
           "titreVo": "Howling",
           "realisateurs": "Joe Dante",
           "annee": 1980,
+          "pays": "États-Unis",
           "duree": 90,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1957,6 +2014,7 @@
           "titreVo": "Land of the Dead",
           "realisateurs": "George A. Romero",
           "annee": 2004,
+          "pays": "Canada-France-États-Unis",
           "duree": 93,
           "version": "VOSTF",
           "format": "35 mm",
@@ -1990,6 +2048,7 @@
           "titreVo": "From Dusk Till Dawn",
           "realisateurs": "Robert Rodriguez",
           "annee": 1995,
+          "pays": "États-Unis",
           "duree": 108,
           "version": "VOSTF",
           "format": "DCP",

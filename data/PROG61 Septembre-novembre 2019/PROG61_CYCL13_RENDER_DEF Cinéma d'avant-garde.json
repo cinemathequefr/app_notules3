@@ -29,6 +29,7 @@
               "titreVo": "",
               "realisateurs": "Frédéric Rolland",
               "annee": 2018,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -42,6 +43,7 @@
               "duree": 34,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             },
             {
@@ -50,6 +52,7 @@
               "titreVo": "",
               "realisateurs": "Frédéric Rolland",
               "annee": 2017,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -63,6 +66,7 @@
               "duree": 52,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 2
             }
           ],
@@ -87,6 +91,7 @@
               "titreVo": "",
               "realisateurs": "Marcel L'Herbier",
               "annee": 1967,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -100,6 +105,7 @@
               "duree": 86,
               "format": "16 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -123,6 +129,7 @@
               "titreVo": "",
               "realisateurs": "Roger Leenhardt",
               "annee": 1946,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -132,6 +139,7 @@
               "duree": 39,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             },
             {
@@ -140,6 +148,7 @@
               "titreVo": "",
               "realisateurs": "Éric Rohmer",
               "annee": 1964,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -149,6 +158,7 @@
               "duree": 24,
               "format": "16 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 2
             },
             {
@@ -157,6 +167,7 @@
               "titreVo": "",
               "realisateurs": "François Reichenbach, Frédéric Rossif",
               "annee": 1968,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -172,6 +183,7 @@
               "duree": 24,
               "format": "35 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 3
             }
           ],
@@ -195,6 +207,7 @@
               "titreVo": "",
               "realisateurs": "William Novik",
               "annee": 1948,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -204,6 +217,7 @@
               "duree": 17,
               "format": "16 mm",
               "version": "",
+              "ageMinimal": null,
               "ordre": 1
             },
             {
@@ -213,6 +227,7 @@
               "titreVo": "",
               "realisateurs": "Georges Régnier",
               "annee": 1963,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -228,6 +243,7 @@
               "duree": 21,
               "format": "16 mm",
               "version": "",
+              "ageMinimal": 0,
               "ordre": 2
             },
             {
@@ -236,6 +252,7 @@
               "titreVo": "",
               "realisateurs": "Jean Vidal",
               "annee": 1963,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -249,6 +266,7 @@
               "duree": 30,
               "format": "DCP",
               "version": "",
+              "ageMinimal": null,
               "ordre": 3
             }
           ],

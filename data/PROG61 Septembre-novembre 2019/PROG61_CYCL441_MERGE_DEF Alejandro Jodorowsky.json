@@ -21,9 +21,11 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1957,
+          "pays": "France",
           "duree": 20,
           "version": "",
           "format": "Vidéo",
+          "ageMinimal": null,
           "generique": [
             "Denise Brossot",
             "Rolande Polya"
@@ -52,9 +54,11 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 2012,
+          "pays": "France",
           "duree": 130,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Brontis Jodorowsky",
             "Pamela Flores"
@@ -83,9 +87,11 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 2012,
+          "pays": "France",
           "duree": 130,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Brontis Jodorowsky",
             "Pamela Flores"
@@ -113,9 +119,11 @@
           "titreVo": "Fando y lis",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1968,
+          "pays": "Mexique",
           "duree": 0,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": 0,
           "generique": [
             "Sergio Kleiner",
             "Diana Mariscal"
@@ -143,9 +151,11 @@
           "titreVo": "",
           "realisateurs": "Franck Pavich",
           "annee": 2012,
+          "pays": "France",
           "duree": 83,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -172,9 +182,11 @@
           "titreVo": "Holy Mountain",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1973,
+          "pays": "États-Unis-Mexique",
           "duree": 114,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Alejandro Jodorowsky",
             "Horacio Salinas",
@@ -203,9 +215,11 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 2015,
+          "pays": "Chili-Japon-France",
           "duree": 130,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Adan Jodorowsky",
             "Pamela Flores"
@@ -238,13 +252,15 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 2019,
+          "pays": "France",
           "duree": 100,
           "version": "",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Alejandro Jodorowsky, convaincu que l'art n'a de sens profond que s'il guérit et libère les consciences, a créé la psychomagie, un thérapie permettant de « libérer des blocages » au moyen d'actes théâtraux et poétiques s'adressant directement à l'inconscient."
+              "texte": "Alejandro Jodorowsky, convaincu que l'art n'a de sens profond que s'il guérit et libère les consciences, a créé la psychomagie, un thérapie permettant de « libérer des blocages au moyen d'actes théâtraux et poétiques s'adressant directement à l'inconscient »."
             }
           ]
         },
@@ -265,9 +281,11 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1989,
+          "pays": "Italie-Mexique",
           "duree": 123,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Blanca Guerra",
             "Axel Jodorowsky",
@@ -298,9 +316,11 @@
           "titreVo": "",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1971,
+          "pays": "Mexique",
           "duree": 125,
           "version": "VOSTF",
           "format": "35 mm",
+          "ageMinimal": null,
           "generique": [
             "Alejandro Jodorowsky",
             "Mara Lorenzio",
@@ -332,9 +352,11 @@
           "titreVo": "Rainbow Thief",
           "realisateurs": "Alejandro Jodorowsky",
           "annee": 1991,
+          "pays": "États-Unis",
           "duree": 75,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Peter O'Toole",
             "Omar Sharif",

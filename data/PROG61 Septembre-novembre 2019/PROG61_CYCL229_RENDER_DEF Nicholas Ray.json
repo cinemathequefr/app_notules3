@@ -15,7 +15,7 @@
         "cats": [
           2066
         ],
-        "tri": 1
+        "tri": 4
       }
     ],
     "idProg": 61
@@ -32,6 +32,7 @@
           "titreVo": "55 Days at Peking",
           "realisateurs": "Nicholas Ray",
           "annee": 1963,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -46,6 +47,7 @@
           "duree": 153,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30826,
@@ -75,6 +77,7 @@
           "titreVo": "Run for Cover",
           "realisateurs": "Nicholas Ray",
           "annee": 1955,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -90,6 +93,7 @@
           "duree": 93,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30806,
@@ -120,6 +124,7 @@
           "titreVo": "They Live by Night",
           "realisateurs": "Nicholas Ray",
           "annee": 1948,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -135,6 +140,7 @@
           "duree": 94,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30781,
@@ -164,6 +170,7 @@
           "titreVo": "Bitter Victory",
           "realisateurs": "Nicholas Ray",
           "annee": 1957,
+          "pays": "France",
           "textes": [
             {
               "typeTexte": 9,
@@ -179,6 +186,7 @@
           "duree": 102,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30840,
@@ -220,6 +228,7 @@
           "artVo": "Der",
           "realisateurs": "Wim Wenders",
           "annee": 1977,
+          "pays": "RFA-France",
           "textes": [
             {
               "typeTexte": 9,
@@ -235,6 +244,7 @@
           "duree": 123,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30773,
@@ -265,6 +275,7 @@
           "titreVo": "Hot Blood",
           "realisateurs": "Nicholas Ray",
           "annee": 1955,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -279,6 +290,7 @@
           "duree": 83,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30827,
@@ -308,6 +320,7 @@
           "titreVo": "",
           "realisateurs": "Nicholas Ray",
           "annee": 1985,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -324,6 +337,7 @@
           "duree": 94,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30797,
@@ -355,6 +369,7 @@
           "artVo": "The",
           "realisateurs": "Nicholas Ray",
           "annee": 1956,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -370,6 +385,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30837,
@@ -401,6 +417,7 @@
           "artVo": "The",
           "realisateurs": "Nicholas Ray",
           "annee": 1960,
+          "pays": "Italie-France-Grande-Bretagne-États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -417,6 +434,7 @@
           "duree": 110,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30848,
@@ -446,6 +464,7 @@
           "titreVo": "Bigger Than Life",
           "realisateurs": "Nicholas Ray",
           "annee": 1957,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -460,6 +479,7 @@
           "duree": 95,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 31803,
@@ -500,6 +520,7 @@
           "titreVo": "Flying Leathernecks",
           "realisateurs": "Nicholas Ray",
           "annee": 1950,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -514,6 +535,7 @@
           "duree": 102,
           "format": "16 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30798,
@@ -543,6 +565,7 @@
           "titreVo": "",
           "realisateurs": "Susan Ray",
           "annee": 2011,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -552,6 +575,7 @@
           "duree": 70,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30958,
@@ -572,6 +596,7 @@
           "titreVo": "Wind Across the Everglades",
           "realisateurs": "Nicholas Ray, Budd Schulberg",
           "annee": 1959,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -586,6 +611,7 @@
           "duree": 92,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31413,
@@ -617,6 +643,7 @@
           "titreVo": "Rebel Without a Cause",
           "realisateurs": "Nicholas Ray",
           "annee": 1956,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -632,6 +659,7 @@
           "duree": 111,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 31808,
@@ -671,6 +699,7 @@
           "titreVo": "",
           "realisateurs": "Nicholas Ray",
           "annee": 1954,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -686,6 +715,7 @@
           "duree": 26,
           "format": "Numérique",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30789,
@@ -708,7 +738,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi de _La Maison dans l'ombre_ de Nicholas Ray."
+          "precedeSuivi": "Film suivi de _La Maison dans l'ombre_ de Nicholas Ray"
         },
         {
           "idFilm": 35369,
@@ -718,6 +748,7 @@
           "artVo": "The",
           "realisateurs": "Nicholas Ray, Robert Parrish",
           "annee": 1953,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -732,6 +763,7 @@
           "duree": 113,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30790,
@@ -760,6 +792,7 @@
           "titre": "Johnny Guitar",
           "realisateurs": "Nicholas Ray",
           "annee": 1954,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -775,6 +808,7 @@
           "duree": 110,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30805,
@@ -805,6 +839,7 @@
           "titreVo": "On Dangerous Ground",
           "realisateurs": "Nicholas Ray",
           "annee": 1952,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -820,6 +855,7 @@
           "duree": 82,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30789,
@@ -842,7 +878,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film précédé de _High Green Wall_ de Nicholas Ray."
+          "precedeSuivi": "Film précédé de _High Green Wall_ de Nicholas Ray"
         },
         {
           "idFilm": 39308,
@@ -850,6 +886,7 @@
           "titreVo": "Lightning Over Water",
           "realisateurs": "Wim Wenders, Nicholas Ray",
           "annee": 1980,
+          "pays": "RFA",
           "textes": [
             {
               "typeTexte": 9,
@@ -859,6 +896,7 @@
           "duree": 91,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31412,
@@ -889,6 +927,7 @@
           "titreVo": "Macao",
           "realisateurs": "Josef von Sternberg",
           "annee": 1952,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -908,6 +947,7 @@
           "duree": 81,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30785,
@@ -937,6 +977,7 @@
           "titreVo": "Wet Dreams",
           "realisateurs": "Lasse Braun, Max Fischer, Oscar Gigard, Hans Kanters, Geert Koolman, Lee Kraft, Dusan Makavejev, Nicholas Ray, Jens Jørgen Thorsen, Heathcote Williams",
           "annee": 1974,
+          "pays": "Pays-Bas",
           "textes": [
             {
               "typeTexte": 9,
@@ -955,6 +996,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30922,
@@ -985,6 +1027,7 @@
           "titreVo": "King of Kings",
           "realisateurs": "Nicholas Ray",
           "annee": 1960,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -999,6 +1042,7 @@
           "duree": 160,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 31775,
@@ -1029,6 +1073,7 @@
           "titreVo": "Knock on Any Door",
           "realisateurs": "Nicholas Ray",
           "annee": 1949,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -1044,6 +1089,7 @@
           "duree": 100,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 31997,
@@ -1083,6 +1129,7 @@
           "titreVo": "A Woman's Secret",
           "realisateurs": "Nicholas Ray",
           "annee": 1948,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -1098,6 +1145,7 @@
           "duree": 84,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30784,
@@ -1127,6 +1175,7 @@
           "titreVo": "Party Girl",
           "realisateurs": "Nicholas Ray",
           "annee": 1960,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -1141,6 +1190,7 @@
           "duree": 99,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30841,
@@ -1181,6 +1231,7 @@
           "titreVo": "In a Lonely Place",
           "realisateurs": "Nicholas Ray",
           "annee": 1950,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -1196,6 +1247,7 @@
           "duree": 93,
           "format": "35 mm",
           "version": "VOSTF",
+          "ageMinimal": 0,
           "seance": [
             {
               "idSeance": 30788,
@@ -1235,6 +1287,7 @@
           "titreVo": "",
           "realisateurs": "Nicholas Ray",
           "annee": 1980,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
@@ -1249,6 +1302,7 @@
           "duree": 93,
           "format": "DCP",
           "version": "VOSTF",
+          "ageMinimal": null,
           "seance": [
             {
               "idSeance": 30849,
@@ -1276,34 +1330,38 @@
     },
     {
       "titreSousCycle": "Rencontres et conférences",
-      "tri": 1,
+      "tri": 4,
       "items": [
         {
-          "titre": "Film + Discussion avec Bernard Eisenschitz",
-          "textes": [
+          "idCategorie": 2066,
+          "idEvenement": 20631,
+          "films": [
             {
-              "typeTexte": 8,
-              "texte": "« J'aime _Les Amants de la nuit_ parce que toutes les erreurs sont de moi. » (Nicholas Ray)"
-            },
-            {
-              "typeTexte": 156,
-              "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative de la Cinémathèque française."
-            },
-            {
-              "typeTexte": 156,
-              "texte": "Bernard Eisenschitz est traducteur et historien du cinéma. Auteur de nombreux ouvrages, il a écrit, entre autres, _Fritz Lang au travail_ (éditions Cahiers du cinéma, 2011) et _Roman américain : Les Vies de Nicholas Ray_ (éditions Christian Bourgois, 1990)."
-            },
-            {
-              "typeTexte": 114,
-              "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+              "titre": "Film + Discussion avec Bernard Eisenschitz",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "« J'aime _Les Amants de la nuit_ parce que toutes les erreurs sont de moi. » (Nicholas Ray)"
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative de la Cinémathèque française."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Bernard Eisenschitz est traducteur et historien du cinéma. Auteur de nombreux ouvrages, il a écrit, entre autres, _Fritz Lang au travail_ (éditions Cahiers du cinéma, 2011) et _Roman américain : Les Vies de Nicholas Ray_ (éditions Christian Bourgois, 1990)."
+                },
+                {
+                  "typeTexte": 114,
+                  "texte": "Tarifs séance : PT 7 €, TR 5.5 €, Libre Pass accès libre."
+                }
+              ],
+              "duree": 45,
+              "ordre": 2
             }
           ],
-          "duree": 45,
           "seance": [
             {
-              "idSeance": 30860,
-              "ordre": 2,
-              "idEvenement": 20631,
               "dateHeure": "2019-09-13T19:00:00",
               "idSalle": [
                 "HL",

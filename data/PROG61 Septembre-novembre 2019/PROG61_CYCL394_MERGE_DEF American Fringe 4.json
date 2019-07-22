@@ -20,9 +20,11 @@
           "titreVo": "",
           "realisateurs": "Saad Quereshi",
           "annee": 2018,
+          "pays": "États-Unis",
           "duree": 76,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Spencer Bang",
             "Netta Green",
@@ -51,9 +53,11 @@
           "titreVo": "",
           "realisateurs": "Richard Miron",
           "annee": 2018,
+          "pays": "États-Unis",
           "duree": 92,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "William Brenner",
             "Gary Murphy",
@@ -82,9 +86,11 @@
           "titreVo": "",
           "realisateurs": "Armando Lamberti",
           "annee": 2018,
+          "pays": "États-Unis",
           "duree": 101,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Julia Bika",
             "Taylor Breit",
@@ -113,9 +119,11 @@
           "titreVo": "",
           "realisateurs": "Amber McGinnis",
           "annee": 2018,
+          "pays": "États-Unis",
           "duree": 97,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Rachael Harris",
             "Erik Griffin",
@@ -144,9 +152,11 @@
           "titreVo": "",
           "realisateurs": "Matt Kliegman",
           "annee": 2018,
+          "pays": "États-Unis",
           "duree": 92,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -170,9 +180,11 @@
           "titreVo": "",
           "realisateurs": "Tim Tsai",
           "annee": 2018,
+          "pays": "États-Unis",
           "duree": 65,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -196,9 +208,11 @@
           "titreVo": "",
           "realisateurs": "Jessie Jeffrey Dunn Rovinelli",
           "annee": 2018,
+          "pays": "États-Unis-France",
           "duree": 82,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Edem Dela-Seshie",
             "Thomas Love",
@@ -228,9 +242,11 @@
           "titreVo": "",
           "realisateurs": "Delaney Buffett",
           "annee": 2017,
+          "pays": "États-Unis",
           "duree": 13,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -255,9 +271,11 @@
           "titreVo": "",
           "realisateurs": "Carlo Mirabella-Davis",
           "annee": 2018,
+          "pays": "États-Unis-France",
           "duree": 94,
           "version": "VOSTF",
           "format": "DCP",
+          "ageMinimal": null,
           "generique": [
             "Haley Bennett",
             "Austin Stowell",

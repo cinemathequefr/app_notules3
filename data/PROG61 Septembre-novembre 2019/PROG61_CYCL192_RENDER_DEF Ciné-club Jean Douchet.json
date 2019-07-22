@@ -28,6 +28,7 @@
               "titreVo": "Vredens dag",
               "realisateurs": "Carl Theodor Dreyer",
               "annee": 1943,
+              "pays": "Danemark",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -43,6 +44,7 @@
               "duree": 95,
               "format": "35 mm",
               "version": "VOSTF",
+              "ageMinimal": 0,
               "ordre": 1
             }
           ],
@@ -67,6 +69,7 @@
               "titreVo": "",
               "realisateurs": "Philippe Garrel",
               "annee": 1990,
+              "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -82,6 +85,7 @@
               "duree": 98,
               "format": "35 mm",
               "version": "VF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -112,6 +116,7 @@
               "titreVo": "Westfront 1918",
               "realisateurs": "Georg Wilhelm Pabst",
               "annee": 1930,
+              "pays": "Allemagne",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -131,6 +136,7 @@
               "duree": 90,
               "format": "DCP",
               "version": "VOSTF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -162,6 +168,7 @@
               "titreVo": "",
               "realisateurs": "Laurent Achard",
               "annee": 2005,
+              "pays": "France-Belgique",
               "textes": [
                 {
                   "typeTexte": 9,
@@ -177,6 +184,7 @@
               "duree": 96,
               "format": "35 mm",
               "version": "VF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
