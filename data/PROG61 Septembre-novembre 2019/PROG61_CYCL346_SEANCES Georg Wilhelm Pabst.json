@@ -67,7 +67,7 @@
         "idSeance": 32042,
         "idCopie": 14980,
         "duree": 63,
-        "version": "STF",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 0
       }
@@ -92,7 +92,7 @@
         "idSeance": 32051,
         "idCopie": 15029,
         "duree": 133,
-        "version": "STF",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 0
       }
@@ -117,7 +117,7 @@
         "idSeance": 31166,
         "idCopie": 15036,
         "duree": 150,
-        "version": "STF",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 1
       }
@@ -142,7 +142,7 @@
         "idSeance": 32044,
         "idCopie": 15037,
         "duree": 65,
-        "version": "STF",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 0
       }
@@ -239,7 +239,7 @@
         "idSeance": 32046,
         "idCopie": 15039,
         "duree": 96,
-        "version": "STF",
+        "version": "INT. FR.",
         "format": "DCP",
         "valide": 0
       }
@@ -552,7 +552,7 @@
         "idSeance": 31216,
         "idCopie": 15037,
         "duree": 65,
-        "version": "STF",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 0
       }
@@ -576,7 +576,7 @@
         "idSeance": 31869,
         "idCopie": 15039,
         "duree": 96,
-        "version": "STF",
+        "version": "INT. FR.",
         "format": "DCP",
         "valide": 0
       }
@@ -1224,7 +1224,7 @@
         "idSeance": 32048,
         "idCopie": 15036,
         "duree": 150,
-        "version": "STF",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 1
       }
@@ -1296,7 +1296,7 @@
         "idSeance": 32047,
         "idCopie": 14980,
         "duree": 63,
-        "version": "STF",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 0
       }
