@@ -1,0 +1,125 @@
+[
+  {
+    "titre": "Chacun son cinéma : Maladresse = Irtebak",
+    "titreVo": "",
+    "idFilm": 102156,
+    "ageMinimal": null,
+    "realisateurs": "Elia Suleiman",
+    "annee": 2006,
+    "pays": "France"
+  },
+  {
+    "titre": "Chronique d'une disparition",
+    "titreVo": "Segell ikhtifa",
+    "idFilm": 29191,
+    "ageMinimal": null,
+    "realisateurs": "Elia Suleiman",
+    "annee": 1996,
+    "pays": "Israël-États-Unis-Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un réalisateur revient en Israël pour faire un film. Il entreprend d'observer la perte d'identité de la population arabe d'Israël et organise son récit en deux parties: « Nazareth, journal intime » et « Jérusalem, journal politique »."
+      }
+    ],
+    "generique": [
+      "Elia Suleiman",
+      "Ula Tabari"
+    ]
+  },
+  {
+    "titre": "Cyber Palestine",
+    "titreVo": "",
+    "idFilm": 75639,
+    "ageMinimal": null,
+    "realisateurs": "Elia Suleiman",
+    "annee": 1999,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Cyber Palestine est une parabole de notre temps, dans laquelle Marie et Joseph, devenus un couple de Palestiniens d'aujourd'hui, reviennent à Gaza où ils doivent vivre avec l'occupation israélienne. Commande de l'Autorité Nationale Palestinienne pour le Projet Bethléem 2000, destiné à célébrer l'entrée de Bethléem dans le nouveau millénaire."
+      }
+    ]
+  },
+  {
+    "titre": "Elia Suleiman, cinéaste palestinien ?",
+    "titreVo": "",
+    "idFilm": 116318,
+    "ageMinimal": null,
+    "realisateurs": "Laurent Billard",
+    "annee": 2006,
+    "pays": "France"
+  },
+  {
+    "titre": "Intervention divine",
+    "titreVo": "",
+    "idFilm": 79086,
+    "ageMinimal": null,
+    "realisateurs": "Elia Suleiman",
+    "annee": 2001,
+    "pays": "France-Maroc-Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Es, un Palestinien vivant à Jérusalem, est amoureux d'une Palestinienne de Ramallah. L'homme est partagé entre son amour et la nécessité de s'occuper de son père, très fragile. En raison de la situation politique, la femme ne peut aller plus loin que le checkpoint situé entre les deux villes. Les rendez-vous du couple ont donc lieu dans un parking désert près du checkpoint."
+      }
+    ],
+    "generique": [
+      "Elia Suleiman",
+      "Manal Khader",
+      "Nayef Fahoum Daher"
+    ]
+  },
+  {
+    "titre": "It Must Be Heaven",
+    "titreVo": "",
+    "idFilm": 141973,
+    "ageMinimal": null,
+    "realisateurs": "Elia Suleiman",
+    "annee": 2018,
+    "pays": "France-Qatar-Allemagne-Canada-Turquie-Palestine",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "ES fuit la Palestine à la recherche d'une nouvelle terre d'accueil, avant de réaliser que son pays d'origine le suit toujours comme une ombre. La promesse d'une vie nouvelle se transforme vite en comédie de l'absurde. Aussi loin qu'il voyage, de Paris à New York, quelque chose lui rappelle sa patrie."
+      }
+    ],
+    "generique": [
+      "Elia Suleiman",
+      "Tarik Kopty"
+    ]
+  },
+  {
+    "titre": "Sept jours à La Havane",
+    "titreVo": "",
+    "idFilm": 116220,
+    "ageMinimal": null,
+    "realisateurs": "Elia Suleiman, Laurent Cantet, Benicio Del Toro, [etc.]",
+    "annee": 2011,
+    "pays": "France-Espagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Instantané de la Havane d'aujourd'hui : un portrait contemporain d'une ville éclectique à travers un film composé de 7 chapitres réalisés par Benicio del Toro, Pablo Trapero, Julio Medem, Elia Suleiman, Gaspar Noé, Juan Carlos Tabío et Laurent Cantet."
+      }
+    ]
+  },
+  {
+    "titre": "Temps qu'il reste",
+    "art": "Le",
+    "titreVo": "Time That Remains",
+    "artVo": "The",
+    "idFilm": 108291,
+    "ageMinimal": null,
+    "realisateurs": "Elia Suleiman",
+    "annee": 2008,
+    "pays": "Grande-Bretagne-Italie-Belgique-France-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "_C'est un film en partie autobiographique, construit en quatre épisodes marquants de la vie d'une famille, ma famille, de 1948 au temps récent._ _Ce film est inspiré des carnets personnels de mon père, et commence lorsque celui-ci était un combattant résistant en 1948, et aussi des lettres de ma mère aux membres de sa famille qui furent forcés de quitter le pays._ Elia Suleiman"
+      }
+    ]
+  }
+]

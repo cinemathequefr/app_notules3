@@ -1,0 +1,108 @@
+{
+  "idProg": 65,
+  "titre": "Décembre 2019-février 2020",
+  "dateFrom": "",
+  "dateTo": "",
+  "cycles": [{
+      "idCycleProg": 13,
+      "titreCycle": "Cinéma d'avant-garde",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 14,
+      "titreCycle": "Cinéma bis",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 140,
+      "titreCycle": "Aujourd'hui le cinéma",
+      "sousCycles": []
+    }, {
+      "idCycleProg": 442,
+      "titreCycle": "Alfred Hitchcock",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2024],
+        "tri": 1
+      }, {
+        "titre": "Hitchcock et la télévision",
+        "cats": [2121],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 444,
+      "titreCycle": "Jean-Luc Godard",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2026],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 449,
+      "titreCycle": "Vittorio De Sica",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2057],
+        "tri": 1
+      }, {
+        "titre": "De Sica acteur",
+        "cats": [2043],
+        "tri": 1
+      }]
+    },
+
+    {
+      "idCycleProg": 450,
+      "titreCycle": "James Ivory",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 452,
+      "titreCycle": "Musidora",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2046],
+        "tri": 1
+      }, {
+        "titre": "Autour de Musidora",
+        "cats": [2115],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 453,
+      "titreCycle": "Elia Suleiman",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2047],
+        "tri": 1
+      }, {
+        "titre": "Rencontres et conférences",
+        "cats": [2134],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 464,
+      "titreCycle": "Jia Zhangke",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 467,
+      "titreCycle": "Séances Jeune public",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 469,
+      "titreCycle": "Cinéma français des années 1950",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 470,
+      "titreCycle": "Anne-Marie Miéville",
+      "sousCycles": []
+    }
+  ]
+}

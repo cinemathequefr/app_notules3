@@ -1,0 +1,594 @@
+[
+  {
+    "titre": "Autre victoire",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 99201,
+    "ageMinimal": null,
+    "realisateurs": "Gaston Ravel",
+    "annee": 1914,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate."
+      }
+    ],
+    "generique": [
+      "Musidora"
+    ]
+  },
+  {
+    "titre": "Berceau de Dieu",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 49855,
+    "ageMinimal": null,
+    "realisateurs": "Fred Leroy-Granville",
+    "annee": 1926,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXX"
+      }
+    ],
+    "generique": [
+      "Léon Mathot",
+      "Annette Benson",
+      "Joë Hamman"
+    ]
+  },
+  {
+    "titre": "Blancanieves",
+    "titreVo": "",
+    "idFilm": 118356,
+    "ageMinimal": null,
+    "realisateurs": "Pablo Berger",
+    "annee": 2011,
+    "pays": "Espagne-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Andalousie, 1920. Carmen est une belle jeune fille dont l'enfance est hantée par une belle-mère acariâtre. Fuyant un passé dont elle n'a plus mémoire, Carmen est adoptée par une troupe ambulante de 7 nains toreros qui lui donnent le surnom de « Blancanieves »."
+      }
+    ],
+    "generique": [
+      "Maribel Verdú",
+      "Daniel Giménez Cacho",
+      "Ángela Molina"
+    ]
+  },
+  {
+    "titre": "Céline et Julie vont en bateau",
+    "titreVo": "",
+    "idFilm": 50952,
+    "ageMinimal": null,
+    "realisateurs": "Jacques Rivette",
+    "annee": 1973,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une bibliothécaire et une prestidigitatrice inventent des jeux de rôles qui les projettent dans un monde parallèle."
+      }
+    ],
+    "generique": [
+      "Juliet Berto",
+      "Dominique Labourier",
+      "Bulle Ogier"
+    ]
+  },
+  {
+    "titre": "C'est pour les orphelins",
+    "titreVo": "",
+    "idFilm": 54947,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 2K d'un élément safety."
+      }
+    ],
+    "generique": [
+      "Léon Bernard",
+      "Marcel Lévesque",
+      "Musidora"
+    ]
+  },
+  {
+    "titre": "Chacals",
+    "titreVo": "",
+    "idFilm": 76147,
+    "ageMinimal": null,
+    "realisateurs": "André Hugon",
+    "annee": 1917,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dolorès Melrose, fille d'un riche anglais et d'une havanaise, est courtisée par un aventurier, Goldoya. Il est repoussé et après avoir acheté une concession se lance avec trois associés dans la prospection d'un gisement au cœur de la sierra cubaine. Dolorès, qui a épousé un célèbre chasseur de fauves va de nouveau croiser la route de l'entreprenant métis..."
+      }
+    ],
+    "generique": [
+      "Musidora",
+      "André Nox",
+      "Louis Paglieri"
+    ],
+    "adaptation": "D'après le roman _Chacals_ d'Arnold Day."
+  },
+  {
+    "titre": "Grand souffle",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 99251,
+    "ageMinimal": null,
+    "realisateurs": "Gaston Ravel",
+    "annee": 1915,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Fiction destinée à mettre en avant la vedette Musidora."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate."
+      }
+    ],
+    "generique": [
+      "Musidora",
+      "René Navarre",
+      "Édouard Mathé"
+    ]
+  },
+  {
+    "titre": "Jeunes filles d'hier et d'aujourd'hui",
+    "titreVo": "",
+    "idFilm": 78040,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1915,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate."
+      }
+    ],
+    "generique": [
+      "Musidora",
+      "Marthe Vinot"
+    ]
+  },
+  {
+    "titre": "Judex",
+    "titreVo": "",
+    "idFilm": 48528,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Episodes 6-12."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Judex, un mystérieux justicier, lutte contre un banquier sans scrupules."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Prologue et épisodes 1-5."
+      }
+    ],
+    "generique": [
+      "René Cresté",
+      "René Cresté",
+      "Yvette Andréyor",
+      "Yvette Andréyor"
+    ]
+  },
+  {
+    "titre": "Judex",
+    "titreVo": "",
+    "idFilm": 48555,
+    "ageMinimal": 0,
+    "realisateurs": "Georges Franju",
+    "annee": 1963,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Judex, un mystérieux justicier, lutte contre un banquier sans scrupules."
+      }
+    ],
+    "generique": [
+      "Channing Pollock",
+      "Francine Bergé",
+      "Edith Scob"
+    ]
+  },
+  {
+    "titre": "Lagourdette, gentleman cambrioleur",
+    "titreVo": "",
+    "idFilm": 63317,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré en 2012 par Gaumont chez L'Immagine Ritrovata (Bologne) à partir du scan 4K du négatif original nitrate."
+      }
+    ],
+    "generique": [
+      "Marcel Lévesque",
+      "Musidora",
+      "Paul Montel"
+    ]
+  },
+  {
+    "titre": "Mademoiselle Chiffon = Mam'zelle Chiffon",
+    "titreVo": "",
+    "idFilm": 76156,
+    "ageMinimal": null,
+    "realisateurs": "André Hugon",
+    "annee": 1918,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie de travail sans génériques et intertitres."
+      }
+    ],
+    "generique": [
+      "Musidora",
+      "Suzanne Munte",
+      "Kitty Hott"
+    ]
+  },
+  {
+    "titre": "Main noire",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 44694,
+    "ageMinimal": null,
+    "realisateurs": "Anonyme",
+    "annee": 1909,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film muet. Copie de travail, sans génériques et intertitres."
+      }
+    ]
+  },
+  {
+    "titre": "Mi-carême à Paris",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 142516,
+    "ageMinimal": null,
+    "realisateurs": "Anonyme",
+    "annee": 1926,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate."
+      }
+    ]
+  },
+  {
+    "titre": "Misères de l'aiguille",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 115465,
+    "ageMinimal": null,
+    "realisateurs": "Raphaël Clamour",
+    "annee": 1913,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film muet. Copie de travail, sans génériques et intertitres."
+      }
+    ],
+    "generique": [
+      "Musidora",
+      "Armand Guerra",
+      "Lina Clamour"
+    ]
+  },
+  {
+    "titre": "Musidora",
+    "titreVo": "",
+    "idFilm": 142515,
+    "ageMinimal": null,
+    "realisateurs": "Anonyme",
+    "annee": 1920,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXXX"
+      }
+    ]
+  },
+  {
+    "titre": "Musidora, la dixième muse",
+    "titreVo": "",
+    "idFilm": 122449,
+    "ageMinimal": null,
+    "realisateurs": "Patrick Cazals",
+    "annee": 2013,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Actrice révélée par les films de Louis Feuillade (_Les Vampires, Judex_), Musidora était d'abord une femme libre, aux talents exceptionnels, l'une des pionnières du cinéma."
+      }
+    ]
+  },
+  {
+    "titre": "Pied qui étreint",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 48579,
+    "ageMinimal": null,
+    "realisateurs": "Jacques Feyder",
+    "annee": 1916,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXX"
+      }
+    ],
+    "generique": [
+      "André Roanne",
+      "Kitty Hott",
+      "Musidora"
+    ]
+  },
+  {
+    "titre": "Pour Don Carlos",
+    "titreVo": "",
+    "idFilm": 49660,
+    "ageMinimal": null,
+    "realisateurs": "Jacques Lasseyne, Musidora",
+    "annee": 1921,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration 4K en 2019 par la Cinémathèque de Toulouse, Cinémathèque française et San Francisco Silent Film Festival, avec le soutien de la Filmoteca Basca, Museo del Carlismo, Amis de Pierre Benoit et les Amis de Musidora auprès des laboratoires Hiventy (grading) et l'Immagine Ritrovata (restauration numérique)."
+      }
+    ],
+    "generique": [
+      "Musidora",
+      "Stephen Weber",
+      "Abel Tarride"
+    ],
+    "adaptation": "D'après le roman _Pour Don Carlos_ de Pierre Benoit."
+  },
+  {
+    "titre": "Roman de la midinette",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 78128,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1914,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 2K d'un élément safety."
+      }
+    ],
+    "generique": [
+      "Musidora",
+      "Géo Flandre",
+      "Gabriel Signoret"
+    ]
+  },
+  {
+    "titre": "Severo Torelli",
+    "titreVo": "",
+    "idFilm": 48543,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1914,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration par Gaumont Pathé Archives sous réserve. Autrement copie 35MM de travail sans génériques et intertitres."
+      }
+    ],
+    "generique": [
+      "Fernand Herrmann",
+      "Renée Carl",
+      "Jehan Le Gall",
+      "Musidora"
+    ],
+    "adaptation": "D'après la pièce _Severo Torelli_ de François Coppée."
+  },
+  {
+    "titre": "Soleil et ombre",
+    "titreVo": "",
+    "idFilm": 50204,
+    "ageMinimal": null,
+    "realisateurs": "Jacques Lasseyne, Musidora",
+    "annee": 1922,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une servante d'auberge, Juana, est courtisée par Jarana, un torero qui se laisse ensuite séduire par une étrangère. Juana se confie alors à un antiquaire bossu qui l'aime désespérément."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré en 4K en 2019 par la Cinémathèque française et le San Francisco Film Festival auprès des laboratoires Hiventy (numérisation et colour-grading) et Fontibula (restauration image). Une fois le retour sur pellicule 35MM réalisé, le laboratoire tchèque Jan Ledecky a colorié directement le support."
+      }
+    ],
+    "generique": [
+      "Musidora",
+      "Antonio Canero",
+      "Simone Cynthia"
+    ],
+    "adaptation": "D'après la nouvelle _L'Espagnole_ de Maria Star."
+  },
+  {
+    "titre": "Tierra de los toros",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 60335,
+    "ageMinimal": null,
+    "realisateurs": "Musidora",
+    "annee": 1924,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par le CNC – Centre National de la Cinématographie."
+      }
+    ],
+    "generique": [
+      "Musidora",
+      "Antonio Canero"
+    ]
+  },
+  {
+    "titre": "Triple entente",
+    "titreVo": "",
+    "idFilm": 78282,
+    "ageMinimal": null,
+    "realisateurs": "Gaston Ravel",
+    "annee": 1915,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme découvre que son mari fréquente une chanteuse, qu'il a rencontrée lors d'une soirée. L'épouse trahie et son frère vont mettre au point un stratagème pour qu'elle puisse reconquérir son époux volage."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par le CNC – Centre National de la Cinématographie."
+      }
+    ],
+    "generique": [
+      "Marcel Lévesque",
+      "Musidora"
+    ]
+  },
+  {
+    "titre": "Vampires : Le Cryptogramme rouge",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 99080,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1915,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par Gaumont chez Éclair dans le cadre de de l'aide à la numérisation du CNC à partir du scan 4K du négatif original nitrate."
+      }
+    ],
+    "generique": [
+      "Édouard Mathé",
+      "Marcel Lévesque",
+      "Musidora",
+      "Jean Ayme"
+    ]
+  },
+  {
+    "titre": "Vicenta",
+    "titreVo": "",
+    "idFilm": 136624,
+    "ageMinimal": null,
+    "realisateurs": "Musidora",
+    "annee": 1919,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "XXX"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Fragment numérisé par la CF etc XXXX"
+      }
+    ],
+    "generique": [
+      "Musidora",
+      "Jean Guitry",
+      "Guiraud-Rivière"
+    ]
+  }
+]

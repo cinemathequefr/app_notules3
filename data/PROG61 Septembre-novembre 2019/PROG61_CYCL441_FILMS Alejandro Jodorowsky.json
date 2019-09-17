@@ -41,11 +41,11 @@
   },
   {
     "titre": "Fando et Lis",
-    "titreVo": "Fando y lis",
+    "titreVo": "Fando y Lis",
     "idFilm": 56888,
     "ageMinimal": 0,
     "realisateurs": "Alejandro Jodorowsky",
-    "annee": 1968,
+    "annee": 1967,
     "pays": "Mexique",
     "textes": [
       {
@@ -56,22 +56,8 @@
     "generique": [
       "Sergio Kleiner",
       "Diana Mariscal"
-    ]
-  },
-  {
-    "titre": "Jodorowsky's Dune",
-    "titreVo": "",
-    "idFilm": 120081,
-    "ageMinimal": null,
-    "realisateurs": "Franck Pavich",
-    "annee": 2012,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "L'histoire d'un film rêvé, jamais réalisé : l'adaptation ambitieuse de _Dune_ par Alejandro Jodorowsky en 1975."
-      }
-    ]
+    ],
+    "adaptation": "D'après la pièce de théâtre _Fando et Lis_ de Fernando Arrabal."
   },
   {
     "titre": "Montagne sacrée",
@@ -130,7 +116,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Si chacun d'entre nous a un héritage génétique, il possède aussi un héritage psychologique qui se transmet de génération en génération. Alejandro Jodorowsky, cinéaste et artiste multidisciplinaire convaincu que l'art n'a de sens profond que s'il guérit et libère les consciences, a créé la Psychomagie. Au moyen d'actes théâtraux et poétiques s'adressant directement à l'inconscient, cette thérapie permet de libérer des blocages."
+        "texte": "Alejandro Jodorowsky, convaincu que l'art n'a de sens profond que s'il guérit et libère les consciences, a créé la psychomagie, une thérapie permettant de « libérer des blocages au moyen d'actes théâtraux et poétiques s'adressant directement à l'inconscient »."
       }
     ]
   },
@@ -183,8 +169,8 @@
     "idFilm": 59096,
     "ageMinimal": null,
     "realisateurs": "Alejandro Jodorowsky",
-    "annee": 1991,
-    "pays": "États-Unis",
+    "annee": 1990,
+    "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,

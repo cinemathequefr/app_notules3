@@ -34,6 +34,8 @@ try {
 
   let films;
 
+  // TODO: gestion des exceptions (cas où le fichier _FILMS.json est absent)
+
   if (isDef === false) {
     films = await helpers.readFileAsJson(`${config.pathData.local}${progDirectoryName}/${cycleFullCode[0]}_FILMS ${cycleFullCode[1]}.json`);
   } else {
