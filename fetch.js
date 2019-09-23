@@ -10,6 +10,7 @@ const seances = require("./lib/query/seances.js");
 const films = require("./lib/query/films.js");
 const confs = require("./lib/query/confs.js");
 const texts = require("./lib/query/texts.js");
+
 const helpers = require("./lib/helpers.js");
 const {
   promisify
