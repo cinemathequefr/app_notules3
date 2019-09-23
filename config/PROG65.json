@@ -85,9 +85,33 @@
       }]
     },
     {
+      "idCycleProg": 461,
+      "titreCycle": "Léonide Moguy",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2055],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 464,
       "titreCycle": "Jia Zhangke",
-      "sousCycles": []
+      "sousCycles": [{
+          "titre": "Les films",
+          "cats": [2118, 2127],
+          "tri": 1
+        },
+        {
+          "titre": "Jia Zhangke producteur",
+          "cats": [2124],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2136],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 467,

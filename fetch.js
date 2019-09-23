@@ -9,6 +9,7 @@ const config = require("./lib/config.js");
 const seances = require("./lib/query/seances.js");
 const films = require("./lib/query/films.js");
 const confs = require("./lib/query/confs.js");
+const texts = require("./lib/query/texts.js");
 const helpers = require("./lib/helpers.js");
 const {
   promisify
@@ -21,10 +22,12 @@ try {
   let args = helpers.extractArgsValue(process.argv.slice(2).join(" "));
 
   var idProg = helpers.toNumOrNull(args.p[0]);
-  var idCycle = helpers.toNumOrNull(args.c[0]);
+  var idCycle = doTexts && !doFilms && !doSeances && !doConfs ? null : helpers.toNumOrNull(args.c[0]);
+
   var doFilms = !_.isUndefined(args.f);
   var doSeances = !_.isUndefined(args.s);
   var doConfs = !_.isUndefined(args.a); // Flag `a` comme "action culturelle"
+  var doTexts = !_.isUndefined(args.t); // Flag `t` comme "textes"
 
 
 } catch (e) {
@@ -36,6 +39,7 @@ try {
 (async function () {
   let progConfig = await helpers.fetchProgConfig(idProg);
   let cycleConfig = helpers.cycleConfig(progConfig, idCycle);
+
   let progDirectoryName = helpers.getFullCode.prog(progConfig).join(" "); // Nom du répertoire du programme
   let cycleFullCode = helpers.getFullCode.cycle(progConfig, idCycle);
 
@@ -74,6 +78,16 @@ try {
         "utf8"
       );
     }
+
+    // Texts (flag -t) : à l'échelle d'un programme uniquement (l'argument -c est ignoré)
+    if (doTexts) {
+      console.log(`Requête textes.`);
+      let t = await texts(db, progConfig);
+
+
+    }
+
+
 
     if (doSeances) {
       console.log(`Requête séances.`);
