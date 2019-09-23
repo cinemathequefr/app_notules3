@@ -9,6 +9,8 @@ const config = require("./lib/config.js");
 const seances = require("./lib/query/seances.js");
 const films = require("./lib/query/films.js");
 const confs = require("./lib/query/confs.js");
+const texts = require("./lib/query/texts.js");
+
 const helpers = require("./lib/helpers.js");
 const {
   promisify
@@ -25,6 +27,7 @@ try {
   var doFilms = !_.isUndefined(args.f);
   var doSeances = !_.isUndefined(args.s);
   var doConfs = !_.isUndefined(args.a); // Flag `a` comme "action culturelle"
+  var doTexts = !_.isUndefined(args.t); // Flag `a` comme "action culturelle"
 
 
 } catch (e) {
@@ -75,6 +78,24 @@ try {
       );
     }
 
+    // Textes (flag -t)
+    if (doTexts) {
+      console.log(`Requête textes.`);
+      let t = await texts(db, cycleConfig);
+      console.log(`Textes : ${_.map(t).length} items.`)
+
+      console.log(JSON.stringify(t, null, 2));
+
+      // await helpers.writeFileInFolder(
+      //   `${config.pathData.local}${progDirectoryName}`,
+      //   "",
+      //   `${cycleFullCode[0]}_TEXTS ${cycleFullCode[1]}.json`,
+      //   JSON.stringify(t, null, 2),
+      //   "utf8"
+      // );
+    }
+
+    // Séances (flaf -s)
     if (doSeances) {
       console.log(`Requête séances.`);
       let s = await seances(db, cycleConfig);
