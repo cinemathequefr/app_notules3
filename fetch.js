@@ -82,20 +82,17 @@ try {
     if (doTexts) {
       console.log(`Requête textes.`);
       let t = await texts(db, cycleConfig);
-      console.log(`Textes : ${_.map(t).length} items.`)
-
-      console.log(JSON.stringify(t, null, 2));
-
-      // await helpers.writeFileInFolder(
-      //   `${config.pathData.local}${progDirectoryName}`,
-      //   "",
-      //   `${cycleFullCode[0]}_TEXTS ${cycleFullCode[1]}.json`,
-      //   JSON.stringify(t, null, 2),
-      //   "utf8"
-      // );
+      console.log(`Textes : ${_(t).map(d => _(d).map().value()).flattenDeep().value().length} items.`)
+      await helpers.writeFileInFolder(
+        `${config.pathData.local}${progDirectoryName}`,
+        "",
+        `${cycleFullCode[0]}_TEXTS ${cycleFullCode[1]}.json`,
+        JSON.stringify(t, null, 2),
+        "utf8"
+      );
     }
 
-    // Séances (flaf -s)
+    // Séances (flag -s)
     if (doSeances) {
       console.log(`Requête séances.`);
       let s = await seances(db, cycleConfig);
