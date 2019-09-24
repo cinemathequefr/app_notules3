@@ -21,14 +21,21 @@
       "idCycleProg": 442,
       "titreCycle": "Alfred Hitchcock",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2024],
-        "tri": 1
-      }, {
-        "titre": "Hitchcock et la télévision",
-        "cats": [2121],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [2024],
+          "tri": 1
+        },
+        {
+          "titre": "Hitchcock et la télévision",
+          "cats": [2121],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2137],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 444,
@@ -52,11 +59,18 @@
         "tri": 1
       }]
     },
-
     {
       "idCycleProg": 450,
-      "titreCycle": "James Ivory",
-      "sousCycles": []
+      "titreCycle": "Merchant-Ivory",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2044],
+        "tri": 1
+      }, {
+        "titre": "Rencontres et conférences",
+        "cats": [2135],
+        "tri": 1
+      }]
     },
     {
       "idCycleProg": 452,
