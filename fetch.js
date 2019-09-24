@@ -23,12 +23,11 @@ try {
   let args = helpers.extractArgsValue(process.argv.slice(2).join(" "));
 
   var idProg = helpers.toNumOrNull(args.p[0]);
-  var idCycle = doTexts && !doFilms && !doSeances && !doConfs ? null : helpers.toNumOrNull(args.c[0]);
-
+  var idCycle = helpers.toNumOrNull(args.c[0]);
   var doFilms = !_.isUndefined(args.f);
   var doSeances = !_.isUndefined(args.s);
   var doConfs = !_.isUndefined(args.a); // Flag `a` comme "action culturelle"
-  var doTexts = !_.isUndefined(args.t); // Flag `t` comme "textes"
+  var doTexts = !_.isUndefined(args.t); // Flag `a` comme "action culturelle"
 
 
 } catch (e) {
@@ -40,7 +39,6 @@ try {
 (async function () {
   let progConfig = await helpers.fetchProgConfig(idProg);
   let cycleConfig = helpers.cycleConfig(progConfig, idCycle);
-
   let progDirectoryName = helpers.getFullCode.prog(progConfig).join(" "); // Nom du répertoire du programme
   let cycleFullCode = helpers.getFullCode.cycle(progConfig, idCycle);
 
@@ -80,16 +78,24 @@ try {
       );
     }
 
-    // Texts (flag -t) : à l'échelle d'un programme uniquement (l'argument -c est ignoré)
+    // Textes (flag -t)
     if (doTexts) {
       console.log(`Requête textes.`);
-      let t = await texts(db, progConfig);
+      let t = await texts(db, cycleConfig);
+      console.log(`Textes : ${_.map(t).length} items.`)
 
+      console.log(JSON.stringify(t, null, 2));
 
+      // await helpers.writeFileInFolder(
+      //   `${config.pathData.local}${progDirectoryName}`,
+      //   "",
+      //   `${cycleFullCode[0]}_TEXTS ${cycleFullCode[1]}.json`,
+      //   JSON.stringify(t, null, 2),
+      //   "utf8"
+      // );
     }
 
-
-
+    // Séances (flaf -s)
     if (doSeances) {
       console.log(`Requête séances.`);
       let s = await seances(db, cycleConfig);
