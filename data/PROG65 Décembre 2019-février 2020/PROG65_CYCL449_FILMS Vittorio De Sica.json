@@ -228,7 +228,9 @@
   },
   {
     "titre": "Grands magasins",
+    "art": "Les",
     "titreVo": "Grandi magazzini",
+    "artVo": "I",
     "idFilm": 66388,
     "ageMinimal": 0,
     "realisateurs": "Mario Camerini",

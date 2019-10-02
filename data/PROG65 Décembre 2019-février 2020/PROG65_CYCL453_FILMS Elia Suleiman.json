@@ -6,7 +6,13 @@
     "ageMinimal": null,
     "realisateurs": "Elia Suleiman",
     "annee": 2006,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un metteur en scène vient présenter dans un pays de l'Est, son film. Mais la projection de son film s'avère catastrophique. Film issu du long métrage collectif « Chacun son cinéma » pour célébrer le soixantième anniversaire du Festival de Cannes."
+      }
+    ]
   },
   {
     "titre": "Chronique d'une disparition",
@@ -26,30 +32,6 @@
       "Elia Suleiman",
       "Ula Tabari"
     ]
-  },
-  {
-    "titre": "Cyber Palestine",
-    "titreVo": "",
-    "idFilm": 75639,
-    "ageMinimal": null,
-    "realisateurs": "Elia Suleiman",
-    "annee": 1999,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Cyber Palestine est une parabole de notre temps, dans laquelle Marie et Joseph, devenus un couple de Palestiniens d'aujourd'hui, reviennent à Gaza où ils doivent vivre avec l'occupation israélienne. Commande de l'Autorité Nationale Palestinienne pour le Projet Bethléem 2000, destiné à célébrer l'entrée de Bethléem dans le nouveau millénaire."
-      }
-    ]
-  },
-  {
-    "titre": "Elia Suleiman, cinéaste palestinien ?",
-    "titreVo": "",
-    "idFilm": 116318,
-    "ageMinimal": null,
-    "realisateurs": "Laurent Billard",
-    "annee": 2006,
-    "pays": "France"
   },
   {
     "titre": "Intervention divine",
@@ -101,8 +83,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Instantané de la Havane d'aujourd'hui : un portrait contemporain d'une ville éclectique à travers un film composé de 7 chapitres réalisés par Benicio del Toro, Pablo Trapero, Julio Medem, Elia Suleiman, Gaspar Noé, Juan Carlos Tabío et Laurent Cantet."
+        "texte": "Elia Suleiman arrive à la Havane pour une entrevue avec le Président Castro. En attendant l'heure du rendez-vous, il déambule dans la ville. Court métrage issu du film collectif « 7 jours à la Havane »."
       }
+    ],
+    "generique": [
+      "Elia Suleiman"
     ]
   },
   {

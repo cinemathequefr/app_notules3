@@ -109,13 +109,7 @@
     "ageMinimal": null,
     "realisateurs": "Léonide Moguy",
     "annee": 1928,
-    "pays": "URSS",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Montage d'actualités cinématographiques qui relate quelques pages les plus dramatiques de l'histoire ukrainienne de 1917 à 1922."
-      }
-    ]
+    "pays": "URSS"
   },
   {
     "titre": "Donnez-moi ma chance",
@@ -212,10 +206,6 @@
       {
         "typeTexte": 9,
         "texte": "Au cours de la Seconde Guerre mondiale, à Damas un journaliste est au cœur de la lutte entre Nazi et Alliés pour obtenir le soutien Arabe."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Film sous réserve."
       }
     ],
     "generique": [

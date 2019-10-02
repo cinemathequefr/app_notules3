@@ -17,7 +17,8 @@
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
       "sousCycles": []
-    }, {
+    },
+    {
       "idCycleProg": 442,
       "titreCycle": "Alfred Hitchcock",
       "sousCycles": [{
@@ -38,65 +39,98 @@
       ]
     },
     {
+      "idCycleProg": 328,
+      "titreCycle": "Vampires au cinéma",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2117],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 444,
       "titreCycle": "Jean-Luc Godard",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2026],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [2026],
+          "tri": 4
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2139],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 449,
       "titreCycle": "Vittorio De Sica",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2057],
-        "tri": 1
-      }, {
-        "titre": "De Sica acteur",
-        "cats": [2043],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [2057],
+          "tri": 1
+        },
+        {
+          "titre": "De Sica acteur",
+          "cats": [2043],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2140],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 450,
       "titreCycle": "Merchant-Ivory",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2044],
-        "tri": 1
-      }, {
-        "titre": "Rencontres et conférences",
-        "cats": [2135],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [2044],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2135],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 452,
       "titreCycle": "Musidora",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2046],
-        "tri": 1
-      }, {
-        "titre": "Autour de Musidora",
-        "cats": [2115],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [2046],
+          "tri": 1
+        },
+        {
+          "titre": "Autour de Musidora",
+          "cats": [2115],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2138],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 453,
       "titreCycle": "Elia Suleiman",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2047],
-        "tri": 1
-      }, {
-        "titre": "Rencontres et conférences",
-        "cats": [2134],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [2047],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2134],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 461,
@@ -141,6 +175,15 @@
       "idCycleProg": 470,
       "titreCycle": "Anne-Marie Miéville",
       "sousCycles": []
+    },
+    {
+      "idCycleProg": 472,
+      "titreCycle": "Archi Vives",
+      "sousCycles": [{
+        "titre": "Films et conférences",
+        "cats": [2145, 2146],
+        "tri": 2
+      }]
     }
   ]
 }

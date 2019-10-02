@@ -1,0 +1,3887 @@
+[
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19984,
+    "idSeance": 32361,
+    "dateHeure": "2020-01-08T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeSeance": 44,
+    "titreEvenement": "Vivre sa vie / Vivre sa vie bande-annonce : Programme 1",
+    "items": [
+      {
+        "idFilm": 142852,
+        "ordre": 1,
+        "idSeance": 32361,
+        "idCopie": 19874,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48873,
+        "ordre": 2,
+        "idSeance": 32361,
+        "idCopie": 5411,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19944,
+    "idSeance": 32369,
+    "dateHeure": "2020-01-09T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Pierrot le fou bande-annonce / Pierrot le fou : Programme 13",
+    "items": [
+      {
+        "idFilm": 142861,
+        "ordre": 1,
+        "idSeance": 32369,
+        "idCopie": 19892,
+        "duree": 1,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48860,
+        "ordre": 2,
+        "idSeance": 32369,
+        "idCopie": 7614,
+        "duree": 111,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2139,
+    "typeEvenement": 14,
+    "idEvenement": 21010,
+    "idSeance": 32718,
+    "dateHeure": "2020-01-09T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Film+Discussion avec Alain Bergala",
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20223,
+    "idSeance": 32802,
+    "dateHeure": "2020-01-10T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Courts métrages : Programme 2",
+    "items": [
+      {
+        "idFilm": 48847,
+        "ordre": 1,
+        "idSeance": 32802,
+        "idCopie": 19359,
+        "duree": 20,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 79526,
+        "ordre": 2,
+        "idSeance": 32802,
+        "idCopie": 19395,
+        "duree": 10,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48868,
+        "ordre": 3,
+        "idSeance": 32802,
+        "idCopie": 3379,
+        "duree": 21,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 71753,
+        "ordre": 4,
+        "idSeance": 32802,
+        "idCopie": 3943,
+        "duree": 12,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 58762,
+        "ordre": 5,
+        "idSeance": 32802,
+        "idCopie": 1989,
+        "duree": 20,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19845,
+    "idSeance": 32803,
+    "dateHeure": "2020-01-10T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "A bout de souffle bande-annonce + film : Programme 3 ",
+    "items": [
+      {
+        "idFilm": 143004,
+        "ordre": 1
+      },
+      {
+        "idFilm": 48837,
+        "ordre": 2,
+        "idSeance": 32803,
+        "idCopie": 3347,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19942,
+    "idSeance": 32804,
+    "dateHeure": "2020-01-10T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Petit soldat bande-annonce (Le) / Petit soldat (Le) : Programme 4",
+    "items": [
+      {
+        "idFilm": 142851,
+        "ordre": 1,
+        "idSeance": 32804,
+        "idCopie": 19875,
+        "duree": 1,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48859,
+        "ordre": 2,
+        "idSeance": 32804,
+        "idCopie": 12277,
+        "duree": 88,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20363,
+    "idSeance": 32380,
+    "dateHeure": "2020-01-11T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "La Paresse / Une femme est une femme bande-annonce + film : Programme 5 ",
+    "items": [
+      {
+        "idFilm": 48866,
+        "ordre": 1,
+        "idSeance": 32380,
+        "idCopie": 19562,
+        "duree": 15,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 142850,
+        "ordre": 2,
+        "idSeance": 32380,
+        "idCopie": 19876,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48870,
+        "ordre": 3,
+        "idSeance": 32380,
+        "idCopie": 1045,
+        "duree": 88,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19855,
+    "idSeance": 32381,
+    "dateHeure": "2020-01-11T16:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": " Le Nouveau monde/ Les Carabiniers bande-annonce + film : Programme 6",
+    "items": [
+      {
+        "idFilm": 53436,
+        "ordre": 1,
+        "idSeance": 32381,
+        "idCopie": 19563,
+        "duree": 20,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 142853,
+        "ordre": 2,
+        "idSeance": 32381,
+        "idCopie": 19879,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48841,
+        "ordre": 3,
+        "idSeance": 32381,
+        "idCopie": 19748,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19852,
+    "idSeance": 32382,
+    "dateHeure": "2020-01-11T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Le grand escroc / Bande à part bande-annonce + film : Programme 9",
+    "items": [
+      {
+        "idFilm": 48838,
+        "ordre": 1,
+        "idSeance": 32382,
+        "idCopie": 2410,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 142856,
+        "ordre": 2,
+        "idSeance": 32382,
+        "idCopie": 19819,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48861,
+        "ordre": 3,
+        "idSeance": 32382,
+        "idCopie": 19366,
+        "duree": 25,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20259,
+    "idSeance": 32425,
+    "dateHeure": "2020-01-12T18:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Une femme mariée bande-annonce + film / Montparnasse-Levallois : Programme 11",
+    "items": [
+      {
+        "idFilm": 142854,
+        "ordre": 1,
+        "idSeance": 32425,
+        "idCopie": 19890,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48871,
+        "ordre": 2,
+        "idSeance": 32425,
+        "idCopie": 19397,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48849,
+        "ordre": 3,
+        "idSeance": 32425,
+        "idCopie": 19361,
+        "duree": 18,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19848,
+    "idSeance": 32390,
+    "dateHeure": "2020-01-12T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Alphaville, une étrange aventure de Lemmy Caution B.A. + Film : Programme12",
+    "items": [
+      {
+        "idFilm": 48840,
+        "ordre": 1,
+        "idSeance": 32390,
+        "idCopie": 1117,
+        "duree": 98,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 142857,
+        "ordre": 2,
+        "idSeance": 32390,
+        "idCopie": 19896,
+        "duree": 1,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21323,
+    "idSeance": 32817,
+    "dateHeure": "2020-01-15T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Cinéastes de notre temps : La Nouvelle Vague par elle-même - parties 1 et 2 : Programme 10",
+    "items": [
+      {
+        "idFilm": 143005,
+        "ordre": 1,
+        "idSeance": 32817,
+        "idCopie": 19947,
+        "duree": 133,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21257,
+    "idSeance": 32407,
+    "dateHeure": "2020-01-15T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Paparazzi / Parti des choses : Bardot et Godard (Le) / Disprezzo : Programme 8 ",
+    "items": [
+      {
+        "idFilm": 63574,
+        "ordre": 1,
+        "idSeance": 32407,
+        "idCopie": 14809,
+        "duree": 22,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 71267,
+        "ordre": 2,
+        "idSeance": 32407,
+        "idCopie": 14810,
+        "duree": 9,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 143029,
+        "ordre": 3,
+        "idSeance": 32407,
+        "idCopie": 19949,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20257,
+    "idSeance": 32412,
+    "dateHeure": "2020-01-16T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": " Tout va bien bande-annonce + film / Giornate del Cinema di Venezia 1972 (Le) : Programme 28",
+    "items": [
+      {
+        "idFilm": 142865,
+        "ordre": 1,
+        "idSeance": 32412,
+        "idCopie": 19900,
+        "duree": 5,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48839,
+        "ordre": 2,
+        "idSeance": 32412,
+        "idCopie": 19392,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 143011,
+        "ordre": 3
+      }
+    ]
+  },
+  {
+    "idCategorie": 2139,
+    "typeEvenement": 14,
+    "idEvenement": 21040,
+    "idSeance": 32413,
+    "dateHeure": "2020-01-16T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Film + Discussion avec David Faroult",
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19918,
+    "idSeance": 32419,
+    "dateHeure": "2020-01-17T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Masculin féminin bande-annonce / Masculin féminin : Programme 14",
+    "items": [
+      {
+        "idFilm": 142868,
+        "ordre": 1,
+        "idSeance": 32419,
+        "idCopie": 19893,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48812,
+        "ordre": 2,
+        "idSeance": 32419,
+        "idCopie": 939,
+        "duree": 110,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19917,
+    "idSeance": 32433,
+    "dateHeure": "2020-01-17T21:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Made in U.S.A. bande-annonce / Made in U.S.A. : Programme 15",
+    "items": [
+      {
+        "idFilm": 142863,
+        "ordre": 1,
+        "idSeance": 32433,
+        "idCopie": 19894,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48845,
+        "ordre": 2,
+        "idSeance": 32433,
+        "idCopie": 19588,
+        "duree": 90,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20233,
+    "idSeance": 32821,
+    "dateHeure": "2020-01-18T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Gai savoir (Le)  / Film-Tract n° 1968 / Ciné-tracts  : Programme 20",
+    "items": [
+      {
+        "idFilm": 56748,
+        "ordre": 1,
+        "idSeance": 32821,
+        "idCopie": 19333,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 143008,
+        "ordre": 2,
+        "idSeance": 32821,
+        "idCopie": 19957,
+        "duree": 2,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 79605,
+        "ordre": 3,
+        "idSeance": 32821,
+        "idCopie": 14211,
+        "duree": 33,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19874,
+    "idSeance": 32434,
+    "dateHeure": "2020-01-18T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Deux ou trois choses que je sais d'elle bande-annonce+ film : Programme 16",
+    "items": [
+      {
+        "idFilm": 142869,
+        "ordre": 1,
+        "idSeance": 32434,
+        "idCopie": 19895,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48844,
+        "ordre": 2,
+        "idSeance": 32434,
+        "idCopie": 13951,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20353,
+    "idSeance": 32462,
+    "dateHeure": "2020-01-18T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Contestation : L'amour /  Week-end bande-annonce + film : Programme 19",
+    "items": [
+      {
+        "idFilm": 71006,
+        "ordre": 1,
+        "idSeance": 32462,
+        "idCopie": 19321,
+        "duree": 26,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 0
+      },
+      {
+        "idFilm": 142862,
+        "ordre": 2,
+        "idSeance": 32462,
+        "idCopie": 19899,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48874,
+        "ordre": 3,
+        "idSeance": 32462,
+        "idCopie": 14752,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19860,
+    "idSeance": 32461,
+    "dateHeure": "2020-01-19T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Loin du Vietnam : Caméra-oeil/  Mouchette B.A. / La Chinoise bande-annonce + Film : Programme 18 ",
+    "items": [
+      {
+        "idFilm": 79602,
+        "ordre": 1,
+        "idSeance": 32461,
+        "idCopie": 19407,
+        "duree": 15,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 143007,
+        "ordre": 2,
+        "idSeance": 32461,
+        "idCopie": 19955,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 142858,
+        "ordre": 3,
+        "idSeance": 32461,
+        "idCopie": 19898,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48842,
+        "ordre": 4,
+        "idSeance": 32461,
+        "idCopie": 4537,
+        "duree": 99,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19921,
+    "idSeance": 32794,
+    "dateHeure": "2020-01-22T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": " Mépris bande-annonce / Mépris (Le) : Programme 7",
+    "items": [
+      {
+        "idFilm": 48813,
+        "ordre": 1,
+        "idSeance": 32794,
+        "idCopie": 10560,
+        "duree": 110,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 142855,
+        "ordre": 2,
+        "idSeance": 32794,
+        "idCopie": 19882,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19922,
+    "idSeance": 32455,
+    "dateHeure": "2020-01-23T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Prières pour refusniks / Moments choisis des Histoire(s) du cinéma : Programme 66",
+    "items": [
+      {
+        "idFilm": 142339,
+        "ordre": 1,
+        "idSeance": 32455,
+        "idCopie": 19368,
+        "duree": 10,
+        "version": "STF",
+        "format": "Vidéo",
+        "valide": 0
+      },
+      {
+        "idFilm": 94696,
+        "ordre": 2,
+        "idSeance": 32455,
+        "idCopie": 19353,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2139,
+    "typeEvenement": 14,
+    "idEvenement": 21041,
+    "idSeance": 32456,
+    "dateHeure": "2020-01-23T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Film + Discussion avec Dominique Païni",
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19931,
+    "idSeance": 32480,
+    "dateHeure": "2020-01-24T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "One + One : Programme 23",
+    "items": [
+      {
+        "idFilm": 31729,
+        "ordre": 1,
+        "idSeance": 32480,
+        "idCopie": 1044,
+        "duree": 96,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20354,
+    "idSeance": 32470,
+    "dateHeure": "2020-01-25T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Anticipation (l''amour en l'an 2000) / Le Dinosaure et le bébé  / Homme et les images : Programme 17",
+    "items": [
+      {
+        "idFilm": 48863,
+        "ordre": 1,
+        "idSeance": 32470,
+        "idCopie": 19585,
+        "duree": 20,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 86918,
+        "ordre": 2,
+        "idSeance": 32470,
+        "idCopie": 19897,
+        "duree": 60,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143006,
+        "ordre": 3,
+        "idSeance": 32470,
+        "idCopie": 19953,
+        "duree": 35,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20234,
+    "idSeance": 32471,
+    "dateHeure": "2020-01-25T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Un film comme les autres : Programme 21",
+    "items": [
+      {
+        "idFilm": 79603,
+        "ordre": 1,
+        "idSeance": 32471,
+        "idCopie": 19393,
+        "duree": 100,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21319,
+    "idSeance": 32925,
+    "dateHeure": "2020-01-25T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "« Initiation au cinéma révolutionnaire », rushes 1969 / One P. M. : Programme 22",
+    "items": [
+      {
+        "idFilm": 143009,
+        "ordre": 1,
+        "idSeance": 32925,
+        "idCopie": 19945,
+        "duree": 24,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 143010,
+        "ordre": 2,
+        "idSeance": 32925,
+        "idCopie": 19944,
+        "duree": 90,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20253,
+    "idSeance": 32481,
+    "dateHeure": "2020-01-26T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "British sounds / Pravda : Programme 24",
+    "items": [
+      {
+        "idFilm": 70930,
+        "ordre": 1,
+        "idSeance": 32481,
+        "idCopie": 19314,
+        "duree": 60,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 71050,
+        "ordre": 2,
+        "idSeance": 32481,
+        "idCopie": 19578,
+        "duree": 58,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20293,
+    "idSeance": 32824,
+    "dateHeure": "2020-01-26T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Vent d'est : Programme 26",
+    "items": [
+      {
+        "idFilm": 48872,
+        "ordre": 1,
+        "idSeance": 32824,
+        "idCopie": 19399,
+        "duree": 100,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20230,
+    "idSeance": 32484,
+    "dateHeure": "2020-01-26T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Luttes en Italie : Programme 26",
+    "items": [
+      {
+        "idFilm": 74755,
+        "ordre": 1,
+        "idSeance": 32484,
+        "idCopie": 19351,
+        "duree": 76,
+        "version": "VF",
+        "format": "16 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20369,
+    "idSeance": 32485,
+    "dateHeure": "2020-01-27T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Vladimir et Rosa / Publicité Schick : Programme 27",
+    "items": [
+      {
+        "idFilm": 142344,
+        "ordre": 1,
+        "idSeance": 32485,
+        "idCopie": 19375,
+        "duree": 0,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 70923,
+        "ordre": 2,
+        "idSeance": 32485,
+        "idCopie": 19400,
+        "duree": 103,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20251,
+    "idSeance": 32489,
+    "dateHeure": "2020-01-27T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Letter to Jane / Ici et ailleurs : Programme 29",
+    "items": [
+      {
+        "idFilm": 71016,
+        "ordre": 1,
+        "idSeance": 32489,
+        "idCopie": 2378,
+        "duree": 52,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 54980,
+        "ordre": 2,
+        "idSeance": 32489,
+        "idCopie": 2376,
+        "duree": 60,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20244,
+    "idSeance": 32490,
+    "dateHeure": "2020-01-29T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Numéro deux : Programme 30",
+    "items": [
+      {
+        "idFilm": 48846,
+        "ordre": 1,
+        "idSeance": 32490,
+        "idCopie": 2370,
+        "duree": 88,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19958,
+    "idSeance": 32826,
+    "dateHeure": "2020-01-29T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Scénario de Sauve qui peut (la vie) + B.A. + film : Programme 41",
+    "items": [
+      {
+        "idFilm": 48865,
+        "ordre": 1,
+        "idSeance": 32826,
+        "idCopie": 19579,
+        "duree": 87,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 142870,
+        "ordre": 2,
+        "idSeance": 32826,
+        "idCopie": 19901,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 79609,
+        "ordre": 3,
+        "idSeance": 32826,
+        "idCopie": 19385,
+        "duree": 21,
+        "version": "STF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19927,
+    "idSeance": 32498,
+    "dateHeure": "2020-01-30T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Métamorphojean / Pue Lulla / Nouvelle vague bande-annonce + film : Programme 55",
+    "items": [
+      {
+        "idFilm": 142342,
+        "ordre": 1,
+        "idSeance": 32498,
+        "idCopie": 19372,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 142341,
+        "ordre": 2,
+        "idSeance": 32498,
+        "idCopie": 19374,
+        "duree": 1,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142871,
+        "ordre": 3,
+        "idSeance": 32498,
+        "idCopie": 19915,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 39240,
+        "ordre": 4,
+        "idSeance": 32498,
+        "idCopie": 19355,
+        "duree": 89,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2139,
+    "typeEvenement": 14,
+    "idEvenement": 21012,
+    "idSeance": 32499,
+    "dateHeure": "2020-01-30T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Film+Discussion avec Jacques Aumont",
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20283,
+    "idSeance": 32827,
+    "dateHeure": "2020-01-31T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Une bonne à tout faire / Lettre à Freddy Buache / Passion bande-annonce + film : Programme 42",
+    "items": [
+      {
+        "idFilm": 142346,
+        "ordre": 1,
+        "idSeance": 32827,
+        "idCopie": 19394,
+        "duree": 0,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 53158,
+        "ordre": 2,
+        "idSeance": 32827,
+        "idCopie": 19348,
+        "duree": 11,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142866,
+        "ordre": 3,
+        "idSeance": 32827,
+        "idCopie": 19902,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48850,
+        "ordre": 4,
+        "idSeance": 32827,
+        "idCopie": 2182,
+        "duree": 87,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20302,
+    "idSeance": 32524,
+    "dateHeure": "2020-02-02T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Comment ça va ? : Programme 31",
+    "items": [
+      {
+        "idFilm": 57303,
+        "ordre": 1,
+        "idSeance": 32524,
+        "idCopie": 19320,
+        "duree": 78,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21396,
+    "idSeance": 32828,
+    "dateHeure": "2020-02-06T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Prénom Carmen bande-annonce + film : Programme 44",
+    "items": [
+      {
+        "idFilm": 142873,
+        "ordre": 1,
+        "idSeance": 32828,
+        "idCopie": 19903,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48864,
+        "ordre": 2,
+        "idSeance": 32828,
+        "idCopie": 13571,
+        "duree": 83,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19902,
+    "idSeance": 32576,
+    "dateHeure": "2020-02-06T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": " Petites notes à propos de Je vous salue, Marie + B.A. + film : Programme 45",
+    "items": [
+      {
+        "idFilm": 79612,
+        "ordre": 1,
+        "idSeance": 32576,
+        "idCopie": 19364,
+        "duree": 20,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142874,
+        "ordre": 2,
+        "idSeance": 32576,
+        "idCopie": 19830,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 54038,
+        "ordre": 3,
+        "idSeance": 32576,
+        "idCopie": 19343,
+        "duree": 78,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21331,
+    "idSeance": 32542,
+    "dateHeure": "2020-02-07T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Scénario Passion/Passion, le travail et l'amour/Changer d'image/JLG ds Chambre 666 : Programme 43",
+    "items": [
+      {
+        "idFilm": 79610,
+        "ordre": 1,
+        "idSeance": 32542,
+        "idCopie": 19386,
+        "duree": 53,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 143014,
+        "ordre": 2,
+        "idSeance": 32542,
+        "idCopie": 19958,
+        "duree": 30,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 79611,
+        "ordre": 3,
+        "idSeance": 32542,
+        "idCopie": 19316,
+        "duree": 10,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143015,
+        "ordre": 4,
+        "idSeance": 32542,
+        "idCopie": 19959,
+        "duree": 4,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21396,
+    "idSeance": 32575,
+    "dateHeure": "2020-02-07T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Prénom Carmen bande-annonce + film : Programme 44",
+    "items": [
+      {
+        "idFilm": 142873,
+        "ordre": 1,
+        "idSeance": 32575,
+        "idCopie": 19903,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48864,
+        "ordre": 2,
+        "idSeance": 32575,
+        "idCopie": 13571,
+        "duree": 83,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19878,
+    "idSeance": 32597,
+    "dateHeure": "2020-02-08T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Je vous salue Sarajevo / Enfants jouent à la Russie (Les) / JLG / JLG B.A. + film : Programme 58",
+    "items": [
+      {
+        "idFilm": 103422,
+        "ordre": 1,
+        "idSeance": 32597,
+        "idCopie": 19344,
+        "duree": 2,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 0
+      },
+      {
+        "idFilm": 76849,
+        "ordre": 2,
+        "idSeance": 32597,
+        "idCopie": 19406,
+        "duree": 58,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 0
+      },
+      {
+        "idFilm": 142875,
+        "ordre": 3,
+        "idSeance": 32597,
+        "idCopie": 19920,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 59818,
+        "ordre": 4,
+        "idSeance": 32597,
+        "idCopie": 19345,
+        "duree": 55,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20242,
+    "idSeance": 32878,
+    "dateHeure": "2020-02-08T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "[Quand la gauche aura le pouvoir] / France, tour, détour, deux enfants - épisodes 1-4 : Programme 38",
+    "items": [
+      {
+        "idFilm": 142335,
+        "ordre": 1,
+        "idSeance": 32878,
+        "idCopie": 19319,
+        "duree": 4,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 55429,
+        "ordre": 2,
+        "idSeance": 32878,
+        "idCopie": 19331,
+        "duree": 100,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21290,
+    "idSeance": 32867,
+    "dateHeure": "2020-02-08T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "France, tour, détour, deux enfants - épisodes 5-8 : Programme 39",
+    "items": [
+      {
+        "idFilm": 55429,
+        "ordre": 1,
+        "idSeance": 32867,
+        "idCopie": 19331,
+        "duree": 100,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21291,
+    "idSeance": 32879,
+    "dateHeure": "2020-02-09T16:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "France, tour, détour, deux enfants - épisodes 9-12 : Programme 40",
+    "items": [
+      {
+        "idFilm": 55429,
+        "ordre": 1,
+        "idSeance": 32879,
+        "idCopie": 19331,
+        "duree": 100,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21296,
+    "idSeance": 32939,
+    "dateHeure": "2020-02-09T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "King Lear ( version suisse) : Programme 52",
+    "items": [
+      {
+        "idFilm": 56813,
+        "ordre": 1,
+        "idSeance": 32939,
+        "idCopie": 19914,
+        "duree": 90,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20290,
+    "idSeance": 32856,
+    "dateHeure": "2020-02-09T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Liberté et patrie / Notre musique bande-annonce + film : Programme 65",
+    "items": [
+      {
+        "idFilm": 103421,
+        "ordre": 1,
+        "idSeance": 32856,
+        "idCopie": 19349,
+        "duree": 22,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142860,
+        "ordre": 2,
+        "idSeance": 32856,
+        "idCopie": 19928,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 90885,
+        "ordre": 3,
+        "idSeance": 32856,
+        "idCopie": 19354,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19872,
+    "idSeance": 32590,
+    "dateHeure": "2020-02-12T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Détective / Publicité pour BBNY : Programme  47 ",
+    "items": [
+      {
+        "idFilm": 143013,
+        "ordre": 1,
+        "idSeance": 32590,
+        "idCopie": 19960,
+        "duree": 1,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 48843,
+        "ordre": 2,
+        "idSeance": 32590,
+        "idCopie": 15699,
+        "duree": 98,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19890,
+    "idSeance": 32591,
+    "dateHeure": "2020-02-12T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Grandeur et décadence d'un petit commerce de cinéma : Programme 49",
+    "items": [
+      {
+        "idFilm": 123593,
+        "ordre": 1,
+        "idSeance": 32591,
+        "idCopie": 19334,
+        "duree": 91,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21087,
+    "idSeance": 32880,
+    "dateHeure": "2020-02-13T21:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Aria : Armide /  Soigne ta droite bande-annonce + film : Programme 50",
+    "items": [
+      {
+        "idFilm": 79619,
+        "ordre": 1,
+        "idSeance": 32880,
+        "idCopie": 19814,
+        "duree": 12,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 142872,
+        "ordre": 2,
+        "idSeance": 32880,
+        "idCopie": 19913,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48867,
+        "ordre": 3,
+        "idSeance": 32880,
+        "idCopie": 1309,
+        "duree": 81,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20295,
+    "idSeance": 32850,
+    "dateHeure": "2020-02-14T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Soft and hard / Meetin'  WA : Programme 48",
+    "items": [
+      {
+        "idFilm": 74769,
+        "ordre": 1,
+        "idSeance": 32850,
+        "idCopie": 19388,
+        "duree": 52,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 74768,
+        "ordre": 2,
+        "idSeance": 32850,
+        "idCopie": 19352,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20374,
+    "idSeance": 32605,
+    "dateHeure": "2020-02-14T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Enfance de l'art (L')/Thomas Wainggai/Parisienn/Allemagne, année neuf zéro : Programme 56",
+    "items": [
+      {
+        "idFilm": 79624,
+        "ordre": 1,
+        "idSeance": 32605,
+        "idCopie": 19326,
+        "duree": 8,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 67946,
+        "ordre": 2,
+        "idSeance": 32605,
+        "idCopie": 19403,
+        "duree": 0,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142343,
+        "ordre": 3,
+        "idSeance": 32605,
+        "idCopie": 19373,
+        "duree": 1,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 57068,
+        "ordre": 4,
+        "idSeance": 32605,
+        "idCopie": 19311,
+        "duree": 62,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21333,
+    "idSeance": 32854,
+    "dateHeure": "2020-02-14T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "For ever Mozart bande-annonce + film / Adieu au TNS  : Programme 60",
+    "items": [
+      {
+        "idFilm": 142877,
+        "ordre": 1,
+        "idSeance": 32854,
+        "idCopie": 19925,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 59925,
+        "ordre": 2,
+        "idSeance": 32854,
+        "idCopie": 19330,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 143012,
+        "ordre": 3,
+        "idSeance": 32854,
+        "idCopie": 19961,
+        "duree": 7,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20245,
+    "idSeance": 32552,
+    "dateHeure": "2020-02-15T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Six fois deux, sur et sous la communication - épisodes 1a, 1b : Programme 32",
+    "items": [
+      {
+        "idFilm": 71073,
+        "ordre": 1,
+        "idSeance": 32552,
+        "idCopie": 19390,
+        "duree": 100,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21285,
+    "idSeance": 32553,
+    "dateHeure": "2020-02-15T17:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Six fois deux, sur et sous la communication - épisodes 2a, 2b : Programme 33",
+    "items": [
+      {
+        "idFilm": 71073,
+        "ordre": 1,
+        "idSeance": 32553,
+        "idCopie": 19390,
+        "duree": 100,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21286,
+    "idSeance": 32554,
+    "dateHeure": "2020-02-15T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Six fois deux, sur et sous la communication - épisodes 3a, 3b : Programme 34",
+    "items": [
+      {
+        "idFilm": 71073,
+        "ordre": 1,
+        "idSeance": 32554,
+        "idCopie": 19390,
+        "duree": 100,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21287,
+    "idSeance": 32560,
+    "dateHeure": "2020-02-16T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Six fois deux, sur et sous la communication - épisodes 4a, 4b : Programme 35",
+    "items": [
+      {
+        "idFilm": 71073,
+        "ordre": 1,
+        "idSeance": 32560,
+        "idCopie": 19390,
+        "duree": 100,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21288,
+    "idSeance": 32561,
+    "dateHeure": "2020-02-16T17:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Six fois deux, sur et sous la communication - épisodes 5a, 5b : Programme 36",
+    "items": [
+      {
+        "idFilm": 71073,
+        "ordre": 1,
+        "idSeance": 32561,
+        "idCopie": 19390,
+        "duree": 100,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21289,
+    "idSeance": 32562,
+    "dateHeure": "2020-02-16T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Six fois deux, sur et sous la communication - épisodes 6a, 6b, inédit : Programme 37",
+    "items": [
+      {
+        "idFilm": 71073,
+        "ordre": 1,
+        "idSeance": 32562,
+        "idCopie": 19390,
+        "duree": 100,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21292,
+    "idSeance": 32836,
+    "dateHeure": "2020-02-17T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Godard / Sollers : L'entretien : Programme 46",
+    "items": [
+      {
+        "idFilm": 141457,
+        "ordre": 1,
+        "idSeance": 32836,
+        "idCopie": 19904,
+        "duree": 75,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19845,
+    "idSeance": 32882,
+    "dateHeure": "2020-02-19T17:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "A bout de souffle bande-annonce + film : Programme 3 ",
+    "items": [
+      {
+        "idFilm": 143004,
+        "ordre": 1
+      },
+      {
+        "idFilm": 48837,
+        "ordre": 2,
+        "idSeance": 32882,
+        "idCopie": 3347,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20359,
+    "idSeance": 32621,
+    "dateHeure": "2020-02-19T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "On s'est tous défilé/Closed /Puissance de la parole/Le dernier mot/Rapport Darty : Programme 53",
+    "items": [
+      {
+        "idFilm": 79620,
+        "ordre": 1,
+        "idSeance": 32621,
+        "idCopie": 19415,
+        "duree": 13,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142340,
+        "ordre": 2,
+        "idSeance": 32621,
+        "idCopie": 19369,
+        "duree": 7,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 79621,
+        "ordre": 3,
+        "idSeance": 32621,
+        "idCopie": 19376,
+        "duree": 25,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 79623,
+        "ordre": 4,
+        "idSeance": 32621,
+        "idCopie": 19332,
+        "duree": 12,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142345,
+        "ordre": 5,
+        "idSeance": 32621,
+        "idCopie": 19379,
+        "duree": 50,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21297,
+    "idSeance": 32622,
+    "dateHeure": "2020-02-19T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Entretien entre Serge Daney et Jean-Luc Godard : Programme 54",
+    "items": [
+      {
+        "idFilm": 125365,
+        "ordre": 1,
+        "idSeance": 32622,
+        "idCopie": 6309,
+        "duree": 129,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19942,
+    "idSeance": 32625,
+    "dateHeure": "2020-02-20T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Petit soldat bande-annonce (Le) / Petit soldat (Le) : Programme 4",
+    "items": [
+      {
+        "idFilm": 142851,
+        "ordre": 1,
+        "idSeance": 32625,
+        "idCopie": 19875,
+        "duree": 1,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48859,
+        "ordre": 2,
+        "idSeance": 32625,
+        "idCopie": 12277,
+        "duree": 88,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20363,
+    "idSeance": 32860,
+    "dateHeure": "2020-02-20T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "La Paresse / Une femme est une femme bande-annonce + film : Programme 5 ",
+    "items": [
+      {
+        "idFilm": 48866,
+        "ordre": 1,
+        "idSeance": 32860,
+        "idCopie": 19562,
+        "duree": 15,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 142850,
+        "ordre": 2,
+        "idSeance": 32860,
+        "idCopie": 19876,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48870,
+        "ordre": 3,
+        "idSeance": 32860,
+        "idCopie": 1045,
+        "duree": 88,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19984,
+    "idSeance": 32628,
+    "dateHeure": "2020-02-20T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Vivre sa vie / Vivre sa vie bande-annonce : Programme 1",
+    "items": [
+      {
+        "idFilm": 142852,
+        "ordre": 1,
+        "idSeance": 32628,
+        "idCopie": 19874,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48873,
+        "ordre": 2,
+        "idSeance": 32628,
+        "idCopie": 5411,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21104,
+    "idSeance": 32627,
+    "dateHeure": "2020-02-20T21:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Une catastrophe/Journal des réalisateurs/Film socialisme / Il y avait quoi : Programme 68 ",
+    "items": [
+      {
+        "idFilm": 143019,
+        "ordre": 1,
+        "idSeance": 32627,
+        "idCopie": 19964,
+        "duree": 1,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143020,
+        "ordre": 2,
+        "idSeance": 32627,
+        "idCopie": 19965,
+        "duree": 3,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143021,
+        "ordre": 3
+      },
+      {
+        "idFilm": 110985,
+        "ordre": 4,
+        "idSeance": 32627,
+        "idCopie": 19823,
+        "duree": 102,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19855,
+    "idSeance": 32631,
+    "dateHeure": "2020-02-21T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": " Le Nouveau monde/ Les Carabiniers bande-annonce + film : Programme 6",
+    "items": [
+      {
+        "idFilm": 53436,
+        "ordre": 1,
+        "idSeance": 32631,
+        "idCopie": 19563,
+        "duree": 20,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 142853,
+        "ordre": 2,
+        "idSeance": 32631,
+        "idCopie": 19879,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48841,
+        "ordre": 3,
+        "idSeance": 32631,
+        "idCopie": 19748,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19921,
+    "idSeance": 32861,
+    "dateHeure": "2020-02-21T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": " Mépris bande-annonce / Mépris (Le) : Programme 7",
+    "items": [
+      {
+        "idFilm": 48813,
+        "ordre": 1,
+        "idSeance": 32861,
+        "idCopie": 10560,
+        "duree": 110,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 142855,
+        "ordre": 2,
+        "idSeance": 32861,
+        "idCopie": 19882,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21313,
+    "idSeance": 32926,
+    "dateHeure": "2020-02-21T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "3Désastres / Travaux préparatoires / Adieu au langage  : Programme 70",
+    "items": [
+      {
+        "idFilm": 136269,
+        "ordre": 1,
+        "idSeance": 32926,
+        "idCopie": 12488,
+        "duree": 17,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 136270,
+        "ordre": 2,
+        "idSeance": 32926,
+        "idCopie": 12489,
+        "duree": 16,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 123290,
+        "ordre": 3,
+        "idSeance": 32926,
+        "idCopie": 6541,
+        "duree": 70,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21337,
+    "idSeance": 32635,
+    "dateHeure": "2020-02-21T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Film socialisme 6 B.A./Quod Erat/ Khan Khanne/ ConversationJLG-Rivette/Film catastrof: Programme 69 ",
+    "items": [
+      {
+        "idFilm": 142879,
+        "ordre": 1,
+        "idSeance": 32635,
+        "idCopie": 19824,
+        "duree": 4,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142880,
+        "ordre": 2,
+        "idSeance": 32635,
+        "idCopie": 19825,
+        "duree": 4,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142881,
+        "ordre": 3,
+        "idSeance": 32635,
+        "idCopie": 19826,
+        "duree": 2,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142882,
+        "ordre": 4,
+        "idSeance": 32635,
+        "idCopie": 19827,
+        "duree": 2,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142883,
+        "ordre": 5,
+        "idSeance": 32635,
+        "idCopie": 19828,
+        "duree": 1,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142884,
+        "ordre": 6,
+        "idSeance": 32635,
+        "idCopie": 19829,
+        "duree": 1,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143022,
+        "ordre": 7,
+        "idSeance": 32635,
+        "idCopie": 19967,
+        "duree": 26,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143042,
+        "ordre": 8,
+        "idSeance": 32635,
+        "idCopie": 19973,
+        "duree": 8,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143023,
+        "ordre": 9,
+        "idSeance": 32635,
+        "idCopie": 19966,
+        "duree": 9,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 143024,
+        "ordre": 10,
+        "idSeance": 32635,
+        "idCopie": 19968,
+        "duree": 11,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 140577,
+        "ordre": 11,
+        "idSeance": 32635,
+        "idCopie": 17642,
+        "duree": 60,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20209,
+    "idSeance": 32684,
+    "dateHeure": "2020-02-22T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Histoire(s) du cinéma - Chapitre 1A-1B : Programme 61",
+    "items": [
+      {
+        "idFilm": 74770,
+        "ordre": 1,
+        "idSeance": 32684,
+        "idCopie": 3402,
+        "duree": 93,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20210,
+    "idSeance": 32647,
+    "dateHeure": "2020-02-22T17:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Histoire(s) du cinéma - Chapitres 2A-2B-3A-3B : Programme 62",
+    "items": [
+      {
+        "idFilm": 74771,
+        "ordre": 1,
+        "idSeance": 32647,
+        "idCopie": 3398,
+        "duree": 107,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20191,
+    "idSeance": 32646,
+    "dateHeure": "2020-02-22T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Histoire(s) du cinéma - Chapitre 4A-4B / Old place (The) : Programme 63 ",
+    "items": [
+      {
+        "idFilm": 74772,
+        "ordre": 1,
+        "idSeance": 32646,
+        "idCopie": 3400,
+        "duree": 64,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 94592,
+        "ordre": 2,
+        "idSeance": 32646,
+        "idCopie": 19357,
+        "duree": 47,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20223,
+    "idSeance": 32921,
+    "dateHeure": "2020-02-23T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Courts métrages : Programme 2",
+    "items": [
+      {
+        "idFilm": 48847,
+        "ordre": 1,
+        "idSeance": 32921,
+        "idCopie": 19359,
+        "duree": 20,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 79526,
+        "ordre": 2,
+        "idSeance": 32921,
+        "idCopie": 19395,
+        "duree": 10,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48868,
+        "ordre": 3,
+        "idSeance": 32921,
+        "idCopie": 3379,
+        "duree": 21,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 71753,
+        "ordre": 4,
+        "idSeance": 32921,
+        "idCopie": 3943,
+        "duree": 12,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 58762,
+        "ordre": 5,
+        "idSeance": 32921,
+        "idCopie": 1989,
+        "duree": 20,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20225,
+    "idSeance": 32648,
+    "dateHeure": "2020-02-23T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Le monde comme il ne va pas / Deux fois cinquante ans de cinéma français / Plus oh ! : Programme 59",
+    "items": [
+      {
+        "idFilm": 142338,
+        "ordre": 1,
+        "idSeance": 32648,
+        "idCopie": 19329,
+        "duree": 4,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 102572,
+        "ordre": 2,
+        "idSeance": 32648,
+        "idCopie": 19324,
+        "duree": 49,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 0
+      },
+      {
+        "idFilm": 142336,
+        "ordre": 3,
+        "idSeance": 32648,
+        "idCopie": 19586,
+        "duree": 4,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19852,
+    "idSeance": 32649,
+    "dateHeure": "2020-02-23T20:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Le grand escroc / Bande à part bande-annonce + film : Programme 9",
+    "items": [
+      {
+        "idFilm": 48838,
+        "ordre": 1,
+        "idSeance": 32649,
+        "idCopie": 2410,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 142856,
+        "ordre": 2,
+        "idSeance": 32649,
+        "idCopie": 19819,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48861,
+        "ordre": 3,
+        "idSeance": 32649,
+        "idCopie": 19366,
+        "duree": 25,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20259,
+    "idSeance": 32654,
+    "dateHeure": "2020-02-24T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Une femme mariée bande-annonce + film / Montparnasse-Levallois : Programme 11",
+    "items": [
+      {
+        "idFilm": 142854,
+        "ordre": 1,
+        "idSeance": 32654,
+        "idCopie": 19890,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48871,
+        "ordre": 2,
+        "idSeance": 32654,
+        "idCopie": 19397,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48849,
+        "ordre": 3,
+        "idSeance": 32654,
+        "idCopie": 19361,
+        "duree": 18,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19848,
+    "idSeance": 32885,
+    "dateHeure": "2020-02-24T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Alphaville, une étrange aventure de Lemmy Caution B.A. + Film : Programme12",
+    "items": [
+      {
+        "idFilm": 48840,
+        "ordre": 1,
+        "idSeance": 32885,
+        "idCopie": 1117,
+        "duree": 98,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 142857,
+        "ordre": 2,
+        "idSeance": 32885,
+        "idCopie": 19896,
+        "duree": 1,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21344,
+    "idSeance": 32657,
+    "dateHeure": "2020-02-24T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": " Reportage amateur (maquette expo)/ Ecce homo / Vrai faux passeport : Programme 67",
+    "items": [
+      {
+        "idFilm": 143017,
+        "ordre": 1,
+        "idSeance": 32657,
+        "idCopie": 19962,
+        "duree": 47,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143018,
+        "ordre": 2,
+        "idSeance": 32657,
+        "idCopie": 19963,
+        "duree": 2,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142347,
+        "ordre": 3,
+        "idSeance": 32657,
+        "idCopie": 19401,
+        "duree": 55,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21337,
+    "idSeance": 32881,
+    "dateHeure": "2020-02-24T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Film socialisme 6 B.A./Quod Erat/ Khan Khanne/ ConversationJLG-Rivette/Film catastrof: Programme 69 ",
+    "items": [
+      {
+        "idFilm": 142879,
+        "ordre": 1,
+        "idSeance": 32881,
+        "idCopie": 19824,
+        "duree": 4,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142880,
+        "ordre": 2,
+        "idSeance": 32881,
+        "idCopie": 19825,
+        "duree": 4,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142881,
+        "ordre": 3,
+        "idSeance": 32881,
+        "idCopie": 19826,
+        "duree": 2,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142882,
+        "ordre": 4,
+        "idSeance": 32881,
+        "idCopie": 19827,
+        "duree": 2,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142883,
+        "ordre": 5,
+        "idSeance": 32881,
+        "idCopie": 19828,
+        "duree": 1,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142884,
+        "ordre": 6,
+        "idSeance": 32881,
+        "idCopie": 19829,
+        "duree": 1,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143022,
+        "ordre": 7,
+        "idSeance": 32881,
+        "idCopie": 19967,
+        "duree": 26,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143042,
+        "ordre": 8,
+        "idSeance": 32881,
+        "idCopie": 19973,
+        "duree": 8,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143023,
+        "ordre": 9,
+        "idSeance": 32881,
+        "idCopie": 19966,
+        "duree": 9,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 143024,
+        "ordre": 10,
+        "idSeance": 32881,
+        "idCopie": 19968,
+        "duree": 11,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 140577,
+        "ordre": 11,
+        "idSeance": 32881,
+        "idCopie": 17642,
+        "duree": 60,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19944,
+    "idSeance": 32886,
+    "dateHeure": "2020-02-26T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Pierrot le fou bande-annonce / Pierrot le fou : Programme 13",
+    "items": [
+      {
+        "idFilm": 142861,
+        "ordre": 1,
+        "idSeance": 32886,
+        "idCopie": 19892,
+        "duree": 1,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48860,
+        "ordre": 2,
+        "idSeance": 32886,
+        "idCopie": 7614,
+        "duree": 111,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19891,
+    "idSeance": 32661,
+    "dateHeure": "2020-02-26T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Hélas pour moi bande-annonce + film : Programme 57",
+    "items": [
+      {
+        "idFilm": 142876,
+        "ordre": 1,
+        "idSeance": 32661,
+        "idCopie": 19916,
+        "duree": 1,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 52163,
+        "ordre": 2,
+        "idSeance": 32661,
+        "idCopie": 19342,
+        "duree": 84,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19918,
+    "idSeance": 32668,
+    "dateHeure": "2020-02-27T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Masculin féminin bande-annonce / Masculin féminin : Programme 14",
+    "items": [
+      {
+        "idFilm": 142868,
+        "ordre": 1,
+        "idSeance": 32668,
+        "idCopie": 19893,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48812,
+        "ordre": 2,
+        "idSeance": 32668,
+        "idCopie": 939,
+        "duree": 110,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19917,
+    "idSeance": 32670,
+    "dateHeure": "2020-02-27T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Made in U.S.A. bande-annonce / Made in U.S.A. : Programme 15",
+    "items": [
+      {
+        "idFilm": 142863,
+        "ordre": 1,
+        "idSeance": 32670,
+        "idCopie": 19894,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48845,
+        "ordre": 2,
+        "idSeance": 32670,
+        "idCopie": 19588,
+        "duree": 90,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19874,
+    "idSeance": 32669,
+    "dateHeure": "2020-02-27T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Deux ou trois choses que je sais d'elle bande-annonce+ film : Programme 16",
+    "items": [
+      {
+        "idFilm": 142869,
+        "ordre": 1,
+        "idSeance": 32669,
+        "idCopie": 19895,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48844,
+        "ordre": 2,
+        "idSeance": 32669,
+        "idCopie": 13951,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19860,
+    "idSeance": 32671,
+    "dateHeure": "2020-02-27T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Loin du Vietnam : Caméra-oeil/  Mouchette B.A. / La Chinoise bande-annonce + Film : Programme 18 ",
+    "items": [
+      {
+        "idFilm": 79602,
+        "ordre": 1,
+        "idSeance": 32671,
+        "idCopie": 19407,
+        "duree": 15,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 143007,
+        "ordre": 2,
+        "idSeance": 32671,
+        "idCopie": 19955,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 142858,
+        "ordre": 3,
+        "idSeance": 32671,
+        "idCopie": 19898,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48842,
+        "ordre": 4,
+        "idSeance": 32671,
+        "idCopie": 4537,
+        "duree": 99,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20353,
+    "idSeance": 32674,
+    "dateHeure": "2020-02-28T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Contestation : L'amour /  Week-end bande-annonce + film : Programme 19",
+    "items": [
+      {
+        "idFilm": 71006,
+        "ordre": 1,
+        "idSeance": 32674,
+        "idCopie": 19321,
+        "duree": 26,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 0
+      },
+      {
+        "idFilm": 142862,
+        "ordre": 2,
+        "idSeance": 32674,
+        "idCopie": 19899,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48874,
+        "ordre": 3,
+        "idSeance": 32674,
+        "idCopie": 14752,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19931,
+    "idSeance": 32675,
+    "dateHeure": "2020-02-28T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "One + One : Programme 23",
+    "items": [
+      {
+        "idFilm": 31729,
+        "ordre": 1,
+        "idSeance": 32675,
+        "idCopie": 1044,
+        "duree": 96,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20257,
+    "idSeance": 32676,
+    "dateHeure": "2020-02-28T19:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": " Tout va bien bande-annonce + film / Giornate del Cinema di Venezia 1972 (Le) : Programme 28",
+    "items": [
+      {
+        "idFilm": 142865,
+        "ordre": 1,
+        "idSeance": 32676,
+        "idCopie": 19900,
+        "duree": 5,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48839,
+        "ordre": 2,
+        "idSeance": 32676,
+        "idCopie": 19392,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 143011,
+        "ordre": 3
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20244,
+    "idSeance": 32677,
+    "dateHeure": "2020-02-28T21:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Numéro deux : Programme 30",
+    "items": [
+      {
+        "idFilm": 48846,
+        "ordre": 1,
+        "idSeance": 32677,
+        "idCopie": 2370,
+        "duree": 88,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19958,
+    "idSeance": 32869,
+    "dateHeure": "2020-02-29T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Scénario de Sauve qui peut (la vie) + B.A. + film : Programme 41",
+    "items": [
+      {
+        "idFilm": 48865,
+        "ordre": 1,
+        "idSeance": 32869,
+        "idCopie": 19579,
+        "duree": 87,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 142870,
+        "ordre": 2,
+        "idSeance": 32869,
+        "idCopie": 19901,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 79609,
+        "ordre": 3,
+        "idSeance": 32869,
+        "idCopie": 19385,
+        "duree": 21,
+        "version": "STF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20283,
+    "idSeance": 32870,
+    "dateHeure": "2020-02-29T16:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Une bonne à tout faire / Lettre à Freddy Buache / Passion bande-annonce + film : Programme 42",
+    "items": [
+      {
+        "idFilm": 142346,
+        "ordre": 1,
+        "idSeance": 32870,
+        "idCopie": 19394,
+        "duree": 0,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 53158,
+        "ordre": 2,
+        "idSeance": 32870,
+        "idCopie": 19348,
+        "duree": 11,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142866,
+        "ordre": 3,
+        "idSeance": 32870,
+        "idCopie": 19902,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48850,
+        "ordre": 4,
+        "idSeance": 32870,
+        "idCopie": 2182,
+        "duree": 87,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21396,
+    "idSeance": 32871,
+    "dateHeure": "2020-02-29T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Prénom Carmen bande-annonce + film : Programme 44",
+    "items": [
+      {
+        "idFilm": 142873,
+        "ordre": 1,
+        "idSeance": 32871,
+        "idCopie": 19903,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 48864,
+        "ordre": 2,
+        "idSeance": 32871,
+        "idCopie": 13571,
+        "duree": 83,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 19872,
+    "idSeance": 32872,
+    "dateHeure": "2020-02-29T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Détective / Publicité pour BBNY : Programme  47 ",
+    "items": [
+      {
+        "idFilm": 143013,
+        "ordre": 1,
+        "idSeance": 32872,
+        "idCopie": 19960,
+        "duree": 1,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 48843,
+        "ordre": 2,
+        "idSeance": 32872,
+        "idCopie": 15699,
+        "duree": 98,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21312,
+    "idSeance": 32689,
+    "dateHeure": "2020-03-01T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "RemerciementsJLG/B.A. Livre d'image + film/Poussières/B.A. fest. de Jihlav/Sang titre : Programme 71",
+    "items": [
+      {
+        "idFilm": 143026,
+        "ordre": 1,
+        "idSeance": 32689,
+        "idCopie": 19970,
+        "duree": 5,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142859,
+        "ordre": 2,
+        "idSeance": 32689,
+        "idCopie": 19932,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 139247,
+        "ordre": 3,
+        "idSeance": 32689,
+        "idCopie": 19831,
+        "duree": 85,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 143027,
+        "ordre": 4,
+        "idSeance": 32689,
+        "idCopie": 19971,
+        "duree": 1,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142878,
+        "ordre": 5,
+        "idSeance": 32689,
+        "idCopie": 19818,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 143028,
+        "ordre": 6,
+        "idSeance": 32689,
+        "idCopie": 19969,
+        "duree": 10,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2139,
+    "typeEvenement": 14,
+    "idEvenement": 21011,
+    "idSeance": 32690,
+    "dateHeure": "2020-03-01T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Film+Discussion avec Nicole Brenez",
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21333,
+    "idSeance": 32948,
+    "dateHeure": "2020-03-01T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "For ever Mozart bande-annonce + film / Adieu au TNS  : Programme 60",
+    "items": [
+      {
+        "idFilm": 142877,
+        "ordre": 1,
+        "idSeance": 32948,
+        "idCopie": 19925,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 59925,
+        "ordre": 2,
+        "idSeance": 32948,
+        "idCopie": 19330,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 143012,
+        "ordre": 3,
+        "idSeance": 32948,
+        "idCopie": 19961,
+        "duree": 7,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 21354,
+    "idSeance": 32950,
+    "dateHeure": "2020-03-01T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "De l'origine du XXIè/Dans le noir du temps/ Eloge de l'amour bande-annonce + film : Programme 64   ",
+    "items": [
+      {
+        "idFilm": 77379,
+        "ordre": 1,
+        "idSeance": 32950,
+        "idCopie": 19360,
+        "duree": 13,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 79181,
+        "ordre": 2,
+        "idSeance": 32950,
+        "idCopie": 19322,
+        "duree": 10,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 142867,
+        "ordre": 3,
+        "idSeance": 32950,
+        "idCopie": 19822,
+        "duree": 1,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 74022,
+        "ordre": 4,
+        "idSeance": 32950,
+        "idCopie": 19325,
+        "duree": 94,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2026,
+    "typeEvenement": 13,
+    "idEvenement": 20290,
+    "idSeance": 32949,
+    "dateHeure": "2020-03-02T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Liberté et patrie / Notre musique bande-annonce + film : Programme 65",
+    "items": [
+      {
+        "idFilm": 103421,
+        "ordre": 1,
+        "idSeance": 32949,
+        "idCopie": 19349,
+        "duree": 22,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142860,
+        "ordre": 2,
+        "idSeance": 32949,
+        "idCopie": 19928,
+        "duree": 1,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 90885,
+        "ordre": 3,
+        "idSeance": 32949,
+        "idCopie": 19354,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  }
+]

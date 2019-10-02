@@ -1,0 +1,654 @@
+[
+  {
+    "titre": "Autobiographie d'une princesse",
+    "titreVo": "Autobiography of a Princess",
+    "idFilm": 40349,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1975,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Londres, comme tous les ans le jour de l'anniversaire de son père défunt, une princesse indienne reçoit pour le thé le vieux précepteur anglais du maharajah. Ensemble, ils regardent des films d'amateurs tournés autrefois et évoquent le passé."
+      }
+    ],
+    "generique": [
+      "James Mason"
+    ]
+  },
+  {
+    "titre": "Bombay Talkie",
+    "titreVo": "",
+    "idFilm": 67386,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1970,
+    "pays": "Inde",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lucia Lane, une romancière anglaise,arrive à Bombay pour assister au tournage d'un film de Bollywood. On la présente à Vikram, la star du film dont elle va tomber amoureuse, alors qu'il vit avec Mala. C'est l'un des films les plus caractéristiques de Merchant Ivory, à la fois drame psychologique et hommage parodique à la scène cinématographique indienne de l'époque."
+      }
+    ],
+    "generique": [
+      "Utpal Butt",
+      "Aparna Sen"
+    ]
+  },
+  {
+    "titre": "Bostoniennes",
+    "art": "Les",
+    "titreVo": "Bostonians",
+    "artVo": "The",
+    "idFilm": 46328,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1984,
+    "pays": "Grande-Bretagne-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Boston, 1875. Un homme tombe amoureux d'une jeune fille sous la tutelle d'une ardente avocate du féminisme naissant."
+      }
+    ],
+    "generique": [
+      "Vanessa Redgrave",
+      "Christopher Reeve",
+      "Jessica Tandy"
+    ],
+    "adaptation": "D'après le roman _The Bostonians_ de Henry James."
+  },
+  {
+    "titre": "Chaleur et poussière",
+    "titreVo": "Heat and Dust",
+    "idFilm": 40352,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1982,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Anne, jeune journaliste, part reconstituer, en Inde, le passé de sa grand-tante Olivia et connaîtra un même parcours sentimental qu'elle soixante ans auparavant."
+      }
+    ],
+    "generique": [
+      "Julie Christie",
+      "Greta Scacchi"
+    ]
+  },
+  {
+    "titre": "Chambre avec vue",
+    "titreVo": "A Room With a View",
+    "idFilm": 41093,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1985,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans l'Angleterre victorienne de 1905, Lucy Honeychurch, une jeune et charmante Anglaise de bonne famille, est en vacances à Florence en compagnie de Charlotte Bartlett, une cousine plus âgée. Les hasards du voyage leur font croiser la route d'autres touristes britanniques. George Emerson, l'un d'entre eux, est particulièrement séduisant."
+      }
+    ],
+    "generique": [
+      "Daniel Day-Lewis",
+      "Maggie Smith",
+      "Judi Dench"
+    ]
+  },
+  {
+    "titre": "City of Your Final Destination",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 142962,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 2007,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un étudiant américain souhaite rédiger la biographie d'un écrivain suicidé, mais les proches du défunt s'y opposent. Il décide de se rendre en Argentine pour tenter de les convaincre."
+      }
+    ],
+    "adaptation": "D'après le roman _The City of Your Final Destination_ de Peter, auteur adapté Cameron."
+  },
+  {
+    "titre": "Cotton Mary",
+    "titreVo": "",
+    "idFilm": 66158,
+    "ageMinimal": null,
+    "realisateurs": "Ismail Merchant, Madhur Jaffrey",
+    "annee": 1999,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Infirmière dans une bourgade de la côte de Malabar en 1954, Cotton Mary est écartelée entre ses origines indiennes et sa culture anglaise. D'origine modeste, elle s'invente un passé aristocratique et enjolive sa vie en imitant les manières distinguées des anciens colons. Lorsque l'Anglaise Lily MacIntosh accouche prématurément, Mary sauve la situation en amenant secrètement le bébé à une nourrice des bas quartiers."
+      }
+    ],
+    "generique": [
+      "Greta Scacchi",
+      "Madhur Jaffrey"
+    ]
+  },
+  {
+    "titre": "Coupe d'or",
+    "art": "La",
+    "titreVo": "Golden Bowl",
+    "artVo": "The",
+    "idFilm": 69211,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1999,
+    "pays": "États-Unis-France-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans l'Angleterre post-victorienne du début du siècle, un aristocrate italien ruiné, le prince Amerigo, épouse Maggie, la fille d'un richissime collectionneur d'art nommé Adam Verver. Entre destins mêlés et anciennes idyllles, les relations des amants ne seront pas simples."
+      }
+    ],
+    "generique": [
+      "Kate Beckinsale",
+      "James Fox",
+      "Anjelica Huston"
+    ]
+  },
+  {
+    "titre": "Courtesans of Bombay",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 67382,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1982,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Film partiellement documentaire sur plusieurs courtisanes et danseuses en Inde au début des années 80."
+      }
+    ]
+  },
+  {
+    "titre": "Creation of woman",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 101750,
+    "ageMinimal": null,
+    "realisateurs": "Charles F. Schwep",
+    "annee": 1960,
+    "pays": "États-Unis-Inde",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après qu'Adam a appelé Dieu pour lui donner un partenaire féminin, Eve est créée et Adam découvre qu'il ne peut ni vivre avec ni sans elle. Fable colorée et musicale, premier film produit par Ismail Merchant."
+      }
+    ]
+  },
+  {
+    "titre": "Delhi Way",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 101745,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1964,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Documentaire sur Delhi dans lequel on parcourt le passé historique de la ville qui comprend les invasions successives des Afghans, des Moghul et des Anglais, tout en montrant la vie quotidienne contemporaine."
+      }
+    ]
+  },
+  {
+    "titre": "Divorce",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 86798,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 2002,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les différences des aspects juridiques et culturels concernant le sexe, l'amour, la religion et les liens familiaux, sont présentées à travers les interactions de deux familles liées par le mariage."
+      }
+    ],
+    "generique": [
+      "Kate Hudson",
+      "Naomi Watts",
+      "Jean-Marc Barr",
+      "Romain Duris"
+    ],
+    "adaptation": "D'après le roman _Une américaine à Paris_ de Diane Johnson."
+  },
+  {
+    "titre": "Esclaves de New York",
+    "titreVo": "Slaves of New York",
+    "idFilm": 32805,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1988,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la fin du XXe siècle, Eleanor, créatrice de chapeaux, évolue dans le milieu artistique new-yorkais avec une idée fixe : l'amour, une carrière réussie, le succès."
+      }
+    ],
+    "generique": [
+      "Steve Buscemi"
+    ]
+  },
+  {
+    "titre": "Européens",
+    "art": "Les",
+    "titreVo": "Europeans",
+    "artVo": "The",
+    "idFilm": 41085,
+    "ageMinimal": 0,
+    "realisateurs": "James Ivory",
+    "annee": 1979,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1850, un frère et une sœur rendent visite à leur oncle et à leurs cousins dans la région de Boston, en Nouvelle Angleterre. La famille est puritaine, le mode de vie un peu bohème des deux jeunes gens surprend. L'objet de leur voyage n'est évidemment pas une simple visite de courtoisie. Premier du triptyque des adaptations de Henry James par Merchant Ivory"
+      }
+    ],
+    "generique": [
+      "Lisa Eichhorn",
+      "Tim Woodward"
+    ]
+  },
+  {
+    "titre": "Fille d'un soldat ne pleure jamais",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 64242,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1997,
+    "pays": "France-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la fin des années soixante, Channe a sept ans lorsque ses parents américains, qui vivent à Paris, adoptent un petit Français de son âge. Son père, écrivain célèbre, décide de rentrer aux États-Unis quand ses enfants arrivent à l'adolescence."
+      }
+    ],
+    "generique": [
+      "Kris Kristofferson",
+      "Barbara Hershey",
+      "Leelee Sobieski"
+    ]
+  },
+  {
+    "titre": "Guru",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 41060,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1968,
+    "pays": "États-Unis-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Tom Pickle,jeune star de la pop anglaise, voyage à Bombay pour apprendre à jouer du sitar et connait toutes sortes d'aventures."
+      }
+    ],
+    "generique": [
+      "Michael York"
+    ]
+  },
+  {
+    "titre": "Householder",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 67387,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1963,
+    "pays": "Inde",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "_The Householder_ est la première collaboration entre Ismael Merchant, James Ivory et Ruth Prawer Jhabvala: Un jeune instituteur timide et sous payé vivant à Delhi, se marie. Petit à petit, il apprend à connaitre sa jeune épouse, Indu."
+      }
+    ],
+    "generique": [
+      "Durga Khote",
+      "Shashi Kapoor"
+    ]
+  },
+  {
+    "titre": "Hullabaloo Over Georgie and Bonnie's Pictures",
+    "titreVo": "",
+    "idFilm": 67385,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1979,
+    "pays": "Inde-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Récit de la légendaire collection de peintures miniatures d'un Maharaja et de collectionneurs qui viennent dans son palais pour tenter de la dérober."
+      }
+    ],
+    "generique": [
+      "Jane Booker",
+      "Victor Banerjee"
+    ]
+  },
+  {
+    "titre": "Jane Austen in Manhattan",
+    "titreVo": "",
+    "idFilm": 67384,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1980,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À New-York, deux compagnies théâtrales sont en concurrence pour monter une œuvre de jeunesse de Jane Austen récemment découverte."
+      }
+    ],
+    "generique": [
+      "Anne Baxter",
+      "Robert Powell"
+    ]
+  },
+  {
+    "titre": "Jefferson à Paris",
+    "titreVo": "Jefferson in Paris",
+    "idFilm": 54781,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1994,
+    "pays": "Grande-Bretagne-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Évocation de la vie de Thomas Jefferson, ambassadeur des États-Unis à la cour de France entre 1785 et 1789, et qui rédigea en 1776 la déclaration d'indépendance des Etats-Unis."
+      }
+    ],
+    "generique": [
+      "Nick Nolte",
+      "Gwyneth Paltrow",
+      "Estelle Eonnet"
+    ]
+  },
+  {
+    "titre": "Maurice",
+    "titreVo": "",
+    "idFilm": 48402,
+    "ageMinimal": 0,
+    "realisateurs": "James Ivory",
+    "annee": 1987,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans la société conservatrice victorienne, la découverte par un jeune bourgeois londonien, intelligent et sensible, Maurice, de son homosexualité."
+      }
+    ],
+    "generique": [
+      "James Wilby",
+      "Hugh Grant",
+      "Rupert Graves"
+    ],
+    "adaptation": "D'après le roman _Maurice_ d'E.M. Forster."
+  },
+  {
+    "titre": "Mr et Mrs Bridge",
+    "titreVo": "Mr and Mrs Bridge",
+    "idFilm": 33477,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1989,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans les années 30-40 à Kansas City, le quotidien de Mr and Mrs Bridge, qui s'apprêtent à à vivre une vieillesse sereine."
+      }
+    ],
+    "generique": [
+      "Paul Newman",
+      "Joanne Woodward"
+    ]
+  },
+  {
+    "titre": "Mystic Masseur",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 78171,
+    "ageMinimal": null,
+    "realisateurs": "Ismail Merchant",
+    "annee": 2001,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ganesh Ransumair est instituteur à Port of Spain, la capitale de Trinidad. Apprenant la mort de son père, il retourne dans son village pour organiser les funérailles. Alors qu'il veut devenir auteur, il travaille comme guérisseur pour gagner sa vie. Soignant avec succès un jeune garçon, sa réputation se propage rapidement dans tout le pays..."
+      }
+    ],
+    "adaptation": "D'après le roman _The Mystic masseur_ de V.S. Naipaul."
+  },
+  {
+    "titre": "Quartet",
+    "titreVo": "",
+    "idFilm": 46110,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1980,
+    "pays": "France-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À Montparnasse, en 1927, Marya se trouve désemparée après l'arrestation de son mari pour recel d'œuvres d'art. Un riche couple d'anglais se propose de l'héberger. Se met alors en place un jeu pervers entre les hôtes et leur invitée."
+      }
+    ],
+    "generique": [
+      "Alan Bates",
+      "Isabelle Adjani",
+      "Maggie Smith"
+    ]
+  },
+  {
+    "titre": "Retour à Howards End",
+    "titreVo": "Howards End",
+    "idFilm": 46137,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1991,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Issus de la classe moyenne anglaise, les deux sœurs Margaret et Helen Schlegel font la rencontre des Wilcox, une famille bourgeoise."
+      }
+    ],
+    "generique": [
+      "Anthony Hopkins",
+      "Emma Thompson",
+      "Vanessa Redgrave"
+    ]
+  },
+  {
+    "titre": "Roseland",
+    "titreVo": "",
+    "idFilm": 11231,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1976,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A travers trois histoires (« The Waltz », « The Hustle », « The Peabody »), la vie de Roseland, le dancing le plus ancien et le plus renommé de New-York et de ceux qui l'on animé depuis quatre-vingts ans."
+      }
+    ],
+    "generique": [
+      "Geraldine Chaplin",
+      "Christopher Walken",
+      "Teresa Wright"
+    ]
+  },
+  {
+    "titre": "Sauvages",
+    "titreVo": "Savages",
+    "idFilm": 30490,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1972,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Satire de la bourgeoisie à travers l'expérience étrange d'un groupe de sauvages qui, parti sur les traces d'une boule de croquet, pénètre dans le monde de la civilisation et s'initie à ses méfaits. Premier long métrage produit par la compagnie Merchant-Ivory."
+      }
+    ]
+  },
+  {
+    "titre": "Shakespeare Wallah",
+    "titreVo": "",
+    "idFilm": 44518,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1965,
+    "pays": "Inde",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Tom Buckingham et sa femme Carla sont les directeurs d'une troupe d'acteurs shakespeariens dans l'Inde post-coloniale. Ils font face à un désintérêt pour leur théâtre, alors qu'émerge le cinéma indien. Lizzie Buckingham, la fille du couple, tombe amoureuse de Sanju, un riche jeune play-boy indien, déjà impliqué dans une histoire d'amour avec une star de cinéma de Bombay."
+      }
+    ],
+    "generique": [
+      "Felicity Kendal",
+      "Geoffrey Kendal"
+    ]
+  },
+  {
+    "titre": "Surviving Picasso",
+    "titreVo": "",
+    "idFilm": 60460,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1995,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Récit de la vie passionnée de Pablo Picasso et Françoise Gilot (« la femme fleur ») de 1944 à 1953."
+      }
+    ],
+    "generique": [
+      "Anthony Hopkins",
+      "Natascha McElhone",
+      "Julianne Moore",
+      "Peter Eyre"
+    ]
+  },
+  {
+    "titre": "Sword and the Flute",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 101749,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1959,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Thèmes et variations dans l'univers des miniatures indiennes. James Ivory retrace l'histoire de ces peintures développées selon deux écoles principales, celle des Moghols et celle des Rajputs. Musique de Ravi Shankar et Ali Akbar Khan."
+      }
+    ]
+  },
+  {
+    "titre": "Venice : Themes and Variations",
+    "titreVo": "",
+    "idFilm": 67388,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1957,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "_Thème et Variations_ est un documentaire réalisé dans le cadre des études de James Ivory à l'école de cinéma USC. Les impressions de la ville y côtoient les plans de peintures photographiées par le cinéaste accompagnés d'une musique de Gabrieli, Vivaldi, Monteverdi, Chopin."
+      }
+    ]
+  },
+  {
+    "titre": "Vestiges du jour",
+    "art": "Les",
+    "titreVo": "Remains of the Day",
+    "artVo": "The",
+    "idFilm": 56059,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1992,
+    "pays": "États-Unis-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les doutes et les tourments du majordome d'une grande famille anglaise qui, en 1956, après trente années de parfait service, se demande s'il n'a pas gâché sa vie."
+      }
+    ],
+    "generique": [
+      "Anthony Hopkins",
+      "Emma Thompson",
+      "James Fox",
+      "Hugh Grant"
+    ],
+    "adaptation": "D'après le roman _The Remains of the Day_ de Kazuo Ishiguro."
+  },
+  {
+    "titre": "White Countess",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 99371,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 2004,
+    "pays": "Grande-Bretagne-États-Unis-Allemagne-Chine",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les relations dans les années 1930 à Shangaï entre un diplomate anglais ayant perdu la vue et une comtesse russe blanche survivant entre petits boulots et prostitution pour soutenir financièrement les membres de sa belle-famille."
+      }
+    ],
+    "generique": [
+      "Ralph Fiennes",
+      "Natasha Richardson",
+      "Vanessa Redgrave"
+    ]
+  },
+  {
+    "titre": "Wild Party",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 32886,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1974,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une ancienne vedette du cinéma muet, Jolly Grimm, organise chez lui une réception à laquelle il convie les milieux du cinéma. Il espère ainsi reconquérir la gloire, et la femme qu'il aime. Mais la soirée tourne vite en orgie, et Jolly provoque un drame..."
+      }
+    ],
+    "generique": [
+      "Raquel Welch"
+    ]
+  }
+]
