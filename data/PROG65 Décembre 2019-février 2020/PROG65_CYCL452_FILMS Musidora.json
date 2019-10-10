@@ -11,11 +11,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXX"
+        "texte": "1910, Sud de la France. La jeune veuve Jeanne Ducastel est courtisée par le Docteur Gauthier, également veuf, à la recherche d'un nouvel amour et d'une mère pour sa fille Christiane (Musidora). La guerre éclate, Jeanne et Christiane deviennent infirmières à l'hôpital militaire."
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate."
+        "texte": "Restauration Gaumont Pathé Archives à partir du scan 4K d'un négatif original nitrate."
       }
     ],
     "generique": [
@@ -34,7 +34,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXX"
+        "texte": "« Pour attirer le public que faut-il ? DES VEDETTES ! » (brochure publicitaire d'époque). La conversion de John Powers (Léon Mathot), athée convaincu, lors d'un long rêve durant lequel il rencontre les principaux personnages de la Bible (dont Dalila interprétée par Musidora) et vit les grands épisodes de l'Histoire sainte."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Sauvegarde réalisée en 1982 et issue des collections de la Cinémathèque française."
       }
     ],
     "generique": [
@@ -47,14 +51,14 @@
     "titre": "Blancanieves",
     "titreVo": "",
     "idFilm": 118356,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Pablo Berger",
     "annee": 2011,
     "pays": "Espagne-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Andalousie, 1920. Carmen est une belle jeune fille dont l'enfance est hantée par une belle-mère acariâtre. Fuyant un passé dont elle n'a plus mémoire, Carmen est adoptée par une troupe ambulante de 7 nains toreros qui lui donnent le surnom de « Blancanieves »."
+        "texte": "Andalousie, années 1920. Il était une fois une petite fille qui ne connut jamais sa mère. Elle apprit l'art de son père, célèbre toréador et subit les maltraitances de sa belle-mère. Un jour, elle s'enfuit avec une troupe ambulante de nains."
       }
     ],
     "generique": [
@@ -74,7 +78,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une bibliothécaire et une prestidigitatrice inventent des jeux de rôles qui les projettent dans un monde parallèle."
+        "texte": "Céline et Julie sucent des bonbons magiques et traversent le miroir. Juliet Berto savait-elle que Musidora avait porté son nom dans _Les Vampires_ ?"
       }
     ],
     "generique": [
@@ -84,41 +88,46 @@
     ]
   },
   {
-    "titre": "C'est pour les orphelins",
+    "titre": "C'est pour les orphelins !",
     "titreVo": "",
     "idFilm": 54947,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Louis Feuillade",
     "annee": 1916,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXXX"
+        "texte": "Un acteur reçoit une lettre en provenance de la maison Gaumont. Celui-ci, après avoir jeté un coup d'œil rapide à la missive, se précipite aux studios, suivi de toute la maisonnée, qui tient à avoir un rôle dans le film en préparation..."
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 2K d'un élément safety."
+        "texte": "Restauré par Gaumont Pathé Archives à partir du scan 2K d'un élément safety."
       }
     ],
     "generique": [
       "Léon Bernard",
       "Marcel Lévesque",
-      "Musidora"
+      "Musidora",
+      "René Poyen"
     ]
   },
   {
     "titre": "Chacals",
     "titreVo": "",
     "idFilm": 76147,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "André Hugon",
     "annee": 1917,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dolorès Melrose, fille d'un riche anglais et d'une havanaise, est courtisée par un aventurier, Goldoya. Il est repoussé et après avoir acheté une concession se lance avec trois associés dans la prospection d'un gisement au cœur de la sierra cubaine. Dolorès, qui a épousé un célèbre chasseur de fauves va de nouveau croiser la route de l'entreprenant métis..."
+        "texte": "Dolorès Melrose, fille d'un riche anglais et d'une havanaise, est courtisée par un aventurier, Goldoya, qu'elle repousse. Celui-ci se lance avec trois associés dans la prospection d'un gisement au cœur de la sierra cubaine. Dolorès, qui a épousé un célèbre chasseur de fauves va de nouveau croiser la route de l'entreprenant métis."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration réalisée par Les Films de l'Effraie d'après une sauvegarde issue des collections de la Cinémathèque française."
       }
     ],
     "generique": [
@@ -140,7 +149,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Fiction destinée à mettre en avant la vedette Musidora."
+        "texte": "À Marseille, Thérésine, poissonnière du Vieux Port vit avec son fils Baptistin et sa petite fille, Naïs. Le 3 août 1914, « Le Petit Marseillais » annonce la déclaration de guerre mais Baptistin reste indifférent à l'élan patriotique...jusqu'à ce qu'il rencontre Jeanne Duroc, chanteuse de l'Opéra comique."
       },
       {
         "typeTexte": 99,
@@ -148,7 +157,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate."
+        "texte": "Restauration Gaumont Pathé Archives à partir du scan 4K d'un négatif original nitrate."
       }
     ],
     "generique": [
@@ -168,45 +177,16 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXX"
+        "texte": "Film patriotique où les jeunes filles quittent le chemin du flirt et de l'étude pour celui des landaus et des prières pour les maris au front."
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate."
+        "texte": "Restauré par Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate."
       }
     ],
     "generique": [
       "Musidora",
       "Marthe Vinot"
-    ]
-  },
-  {
-    "titre": "Judex",
-    "titreVo": "",
-    "idFilm": 48528,
-    "ageMinimal": null,
-    "realisateurs": "Louis Feuillade",
-    "annee": 1916,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Episodes 6-12."
-      },
-      {
-        "typeTexte": 9,
-        "texte": "Judex, un mystérieux justicier, lutte contre un banquier sans scrupules."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Prologue et épisodes 1-5."
-      }
-    ],
-    "generique": [
-      "René Cresté",
-      "René Cresté",
-      "Yvette Andréyor",
-      "Yvette Andréyor"
     ]
   },
   {
@@ -220,13 +200,158 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Judex, un mystérieux justicier, lutte contre un banquier sans scrupules."
+        "texte": "Librement inspiré du serial de Louis Feuillade. Favraux, banquier sans scrupules, reçoit une note signée « Judex », lui ordonnant de rembourser ceux qu'il a arnaqués. Il refuse et s'effondre peu après minuit lors d'un bal masqué organisé pour les fiançailles de sa fille Jacqueline."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Nouveau tirage 35mm issu des collections de la Cinémathèque française."
       }
     ],
     "generique": [
       "Channing Pollock",
       "Francine Bergé",
       "Edith Scob"
+    ]
+  },
+  {
+    "titre": "Judex : L'Expiation",
+    "titreVo": "",
+    "idFilm": 143044,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France"
+  },
+  {
+    "titre": "Judex : L'Ombre mystérieuse",
+    "titreVo": "",
+    "idFilm": 143043,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France"
+  },
+  {
+    "titre": "Judex : L'Ondine",
+    "titreVo": "",
+    "idFilm": 143053,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France"
+  },
+  {
+    "titre": "Judex : La Femme en noir",
+    "titreVo": "",
+    "idFilm": 143049,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France"
+  },
+  {
+    "titre": "Judex : La Meute fantastique",
+    "titreVo": "",
+    "idFilm": 143045,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France"
+  },
+  {
+    "titre": "Judex : Le Cœur de Jacqueline",
+    "titreVo": "",
+    "idFilm": 143052,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France"
+  },
+  {
+    "titre": "Judex : Le Môme Réglisse",
+    "titreVo": "",
+    "idFilm": 143048,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "generique": [
+      "René Cresté",
+      "Yvette Andréyor",
+      "Musidora",
+      "Marcel Lévesque"
+    ]
+  },
+  {
+    "titre": "Judex : Le Moulin tragique",
+    "titreVo": "",
+    "idFilm": 143047,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 99,
+        "texte": "Sauvegarde réalisée par Gaumont Pathé archives"
+      }
+    ]
+  },
+  {
+    "titre": "Judex : Le Pardon d'amour",
+    "titreVo": "",
+    "idFilm": 143054,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 99,
+        "texte": "Sauvegarde réalisée par Gaumont Pathé archives"
+      }
+    ]
+  },
+  {
+    "titre": "Judex : Le Secret de la tombe",
+    "titreVo": "",
+    "idFilm": 143046,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France"
+  },
+  {
+    "titre": "Judex : Les Souterrains du Château-Rouge",
+    "titreVo": "",
+    "idFilm": 143050,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France"
+  },
+  {
+    "titre": "Judex : Lorsque l'enfant parut",
+    "titreVo": "",
+    "idFilm": 143051,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France"
+  },
+  {
+    "titre": "Judex : Prologue",
+    "titreVo": "",
+    "idFilm": 143061,
+    "ageMinimal": null,
+    "realisateurs": "Louis Feuillade",
+    "annee": 1916,
+    "pays": "France",
+    "generique": [
+      "René Cresté",
+      "Yvette Andréyor",
+      "Musidora",
+      "Marcel Lévesque"
     ]
   },
   {
@@ -240,11 +365,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXX"
+        "texte": "Alors qu'elle lit « Les Vampires », Musi rêve de s'encanailler. On sonne. Hélas, ce n'est a priori pas Honoré Lagourdette qui va lui apporter péripéties et vie trépidante..."
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré en 2012 par Gaumont chez L'Immagine Ritrovata (Bologne) à partir du scan 4K du négatif original nitrate."
+        "texte": "Restauré en 2012 par Gaumont Pathé archives au laboratoire L'Immagine Ritrovata (Bologne) à partir du scan 4K d'un négatif original nitrate."
       }
     ],
     "generique": [
@@ -264,11 +389,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXX"
+        "texte": "Les tristes aventures d'une petite modiste parisienne."
       },
       {
         "typeTexte": 99,
-        "texte": "Copie de travail sans génériques et intertitres."
+        "texte": "Sauvegarde sans génériques et intertitres issue des collections de la Cinémathèque française."
       }
     ],
     "generique": [
@@ -282,18 +407,18 @@
     "art": "La",
     "titreVo": "",
     "idFilm": 44694,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Anonyme",
     "annee": 1909,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXXX"
+        "texte": "La main noire fut le nom d'une société secrète espagnole dissoute en 1883. Elle déclarait qu'une propriété acquise par le travail d'autrui était illégitime et prétendait n'avoir d'autre but que de protéger les opprimés et les pauvres contre les exploiteurs..."
       },
       {
         "typeTexte": 99,
-        "texte": "Film muet. Copie de travail, sans génériques et intertitres."
+        "texte": "Sauvegarde sans génériques et intertitres issue des collections de la Cinémathèque française."
       }
     ]
   },
@@ -302,22 +427,25 @@
     "art": "La",
     "titreVo": "",
     "idFilm": 142516,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Anonyme",
     "annee": 1926,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXX"
+        "texte": "Défilé parisien de la mi-carême, de la place de l'Opéra à la République, Musidora est couronnée « Reine du cinéma »."
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate."
+        "texte": "Restauré par Gaumont Pathé Archives à partir du scan 4K d'un négatif original nitrate."
       }
     ],
     "generique": [
-      "Musidora"
+      "Musidora",
+      "Andrée Brabant",
+      "Camille Bert",
+      "France Dhélia"
     ]
   },
   {
@@ -332,11 +460,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXXX"
+        "texte": "Tourné aux studios Lux, pour la coopérative Le Cinéma du peuple. _Le Cinéma du Peuple a voulu, au début de sa carrière, présenter au public un drame social qui intéresse la femme. Quoi que l'on dise, la femme se trouve dans la société actuelle, dans une situation de beaucoup inférieure à l'homme. On a dit avec raison que la femme était doublement exploitée : exploitée comme productrice et souvent exploitée dans son ménage. Il y a, à Paris, plus de 300 000 femmes qui sont dans l'obligation de louer leurs bras à des prix avilissants. Chaque matin, des milliers de « Louise » débarquent dans les grandes gares de Paris, venant de la banlieue._ (Argumentaire du film issu d'une brochure d'époque de la Coopérative, imprimée par L'Émancipatrice, imprimerie communiste à Paris)"
       },
       {
         "typeTexte": 99,
-        "texte": "Film muet. Copie de travail, sans génériques et intertitres."
+        "texte": "Sauvegarde sans génériques et intertitres issue des collections de la Cinémathèque française."
       }
     ],
     "generique": [
@@ -356,7 +484,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXXX"
+        "texte": "Copie en provenance de Gaumont Pathé archives."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Essais de l'actrice en costume et perruque 18e siècle."
       }
     ],
     "generique": [
@@ -374,7 +506,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Actrice révélée par les films de Louis Feuillade (_Les Vampires, Judex_), Musidora était d'abord une femme libre, aux talents exceptionnels, l'une des pionnières du cinéma."
+        "texte": "Sur les traces de Musidora. De nombreux documents inédits (extraits de films, photographies intimes, manuscrits, archives) et entretiens pour tenter de ramener à la vie l'esprit créateur et les multiples talents de celle qui épatait Colette, Pierre Louÿs, les surréalistes ou les militantes féministes des années 1970."
       }
     ]
   },
@@ -390,13 +522,18 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXX"
+        "texte": "Mini serial auto-parodique des aventures de Justin Crécelle et son assistant Walter Jymson face au gang du Pied qui étreint, en quatre épisodes : _Le Micro bafouilleur sans fil_, _Le Rayon noir_, _La Girouette humaine_, _L'Homme au foulard à_ _pois_."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration co-menée par La Cinémathèque française et Gaumont en 2004 à partir d'un négatif nitrate."
       }
     ],
     "generique": [
       "André Roanne",
       "Kitty Hott",
-      "Musidora"
+      "Musidora",
+      "René Poyen"
     ]
   },
   {
@@ -410,11 +547,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXX"
+        "texte": "Un jeune sous-préfet, Olivier de Préneste, est nommé en décembre 1875 dans les basses Pyrénées. Dès son arrivée, il se trouve embarqué dans les rivalités qui opposent les partisans du prétendant au trône d'Espagne Charles de Bourbon, Charles V, avec le pouvoir en place incarné par Alphonse XII. Il tombe dans un piège monté par Alegria Detchart, l'égérie de l'insurrection carliste et se rallie à la cause carliste avec sa fiancée. Faits prisonniers et condamnés à mort, ils sont sauvés par Alegria qui se sacrifie pour eux."
       },
       {
         "typeTexte": 99,
-        "texte": "Restauration 4K en 2019 par la Cinémathèque de Toulouse, Cinémathèque française et San Francisco Silent Film Festival, avec le soutien de la Filmoteca Basca, Museo del Carlismo, Amis de Pierre Benoit et les Amis de Musidora auprès des laboratoires Hiventy (grading) et l'Immagine Ritrovata (restauration numérique)."
+        "texte": "Restauration 4K 2019 menée par la Cinémathèque de Toulouse, la Cinémathèque française et le San Francisco Silent Film Festival, avec le soutien de la Filmoteca Basca, le Museo del Carlismo, les Amis de Pierre Benoit et les Amis de Musidora auprès des laboratoires Hiventy (grading) et l'Immagine Ritrovata (restauration numérique)."
       }
     ],
     "generique": [
@@ -436,17 +573,18 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXXX"
+        "texte": "Jeanne Bernard est accueillie avec sa mère par Madame de Ferny en son château. Les femmes remplissent leur rôle de marraines de guerre et correspondent avec des soldats. Ainsi le jeune soldat orphelin Pierre Delarue s'éprend de Jeanne... mais l'amour des jeunes gens survivra-t-il sous les obus ?"
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 2K d'un élément safety."
+        "texte": "Restauré par Gaumont Pathé Archives à partir du scan 2K d'un élément safety."
       }
     ],
     "generique": [
       "Musidora",
       "Géo Flandre",
-      "Gabriel Signoret"
+      "Gabriel Signoret",
+      "Lise Laurent"
     ]
   },
   {
@@ -460,11 +598,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXXX"
+        "texte": "Pise, 1494. Le jeune Severo Torelli a juré de poignarder Barnabo Spinola, tyran de sa ville. Coup de théâtre, il apprend de sa propre mère qu'il est le fils de Spinola : la pauvre femme n'a pu, vingt ans auparavant, sauver son mari qu'en se livrant à l'abominable Barnabo..."
       },
       {
         "typeTexte": 99,
-        "texte": "Restauration par Gaumont Pathé Archives sous réserve. Autrement copie 35MM de travail sans génériques et intertitres."
+        "texte": "Restauration par Gaumont Pathé Archives sous réserve / Sauvegarde sans génériques et intertitres issue des collections de la Cinémathèque française."
       }
     ],
     "generique": [
@@ -490,7 +628,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré en 4K en 2019 par la Cinémathèque française et le San Francisco Film Festival auprès des laboratoires Hiventy (numérisation et colour-grading) et Fontibula (restauration image). Une fois le retour sur pellicule 35MM réalisé, le laboratoire tchèque Jan Ledecky a colorié directement le support."
+        "texte": "Restauré en 4K en 2019 par la Cinémathèque française et le San Francisco Film Festival auprès des laboratoires Hiventy (numérisation et colour-grading) et Fontibula (restauration image), établissement d'une copie 35mm teintée selon procédé Ledecky."
       }
     ],
     "generique": [
@@ -512,7 +650,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXX"
+        "texte": "_Me voici dans_ La Tierra de los toros _dont je termine le montage plus compliqué qu'un jeu chinois dit casse-tête. J'espère en sortir vainqueur. La mise en scène est des plus ardues et des plus périlleuses. Les nouvelles vedettes (de superbes taureaux) qui jouent dans mon film, réunissent les conditions du mouvement et des gestes. J'ai moi-même « toré » (sic) et je suis d'une fierté indescriptible car on ne pourra pas me dire que je me suis fait remplacer dans les scènes où notre sexe peut commencer à dire : non. Ce qui pourra, dans l'avenir, nous assurer peut-être un droit de vote. Sait-on jamais ?_ (Musidora, Cinémagazine, numéro 15, 11 avril 1924.)"
       },
       {
         "typeTexte": 99,
@@ -559,11 +697,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXXX"
+        "texte": "_Il me dit : « Voulez-vous jouer dans mon prochain film, le rôle de l'ingénue ou celui de la méchante femme? Je vous donne à choisir. L'ingénue meurt au premier épisode. La méchante femme est de douze épisodes ». Sans hésiter, je répondis à Feuillade : « la méchante femme. »_ (Musidora, _Souvenirs d'une vamp française_.)"
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par Gaumont chez Éclair dans le cadre de de l'aide à la numérisation du CNC à partir du scan 4K du négatif original nitrate."
+        "texte": "Restauré par Gaumont chez Éclair dans le cadre de l'aide à la numérisation du CNC à partir du scan 4K du négatif original nitrate."
       }
     ],
     "generique": [
@@ -584,11 +722,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "XXX"
+        "texte": "Première production de la Société des Films Musidora. Le prince Romano séduit Vicenta, serveuse dans une auberge minable. Elle s'échappe pour le rejoindre à Paris."
       },
       {
         "typeTexte": 99,
-        "texte": "Fragment numérisé par la CF etc XXXX"
+        "texte": "Fragment restauré en 2017 par la Cinémathèque française aux laboratoires Hiventy à partir d'un fragment d'un film considéré comme perdu (bobine 2 sur 5, copie nitrate teintée)."
       }
     ],
     "generique": [

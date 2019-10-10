@@ -3,14 +3,14 @@
     "titre": "Bethsabée",
     "titreVo": "",
     "idFilm": 34697,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Léonide Moguy",
     "annee": 1947,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La belle Arabella vient rejoindre son fiancé en poste au Maroc. Un ancien amant la reconnait, mais le Colonel du régiment, à qui Arabella plaît bien, s'arrange pour envoyer le militaire à la mort. C'est la fille de ce même colonel qui rendra justice."
+        "texte": "La séduisante Arabella vient rejoindre son fiancé, militaire en poste au Maroc. Mais lorsqu'un ancien amant, également officier, la reconnaît, le colonel du régiment, sous le charme de la jeune femme, intervient et envoie le gêneur à la mort."
       }
     ],
     "generique": [
@@ -24,14 +24,14 @@
     "titre": "Conflit",
     "titreVo": "",
     "idFilm": 49827,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Léonide Moguy",
     "annee": 1938,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Catherine, la sœur de Claire Buisson, est mariée à Michel Laffont. Claire a été séduite par un certain Gérard qui lui conseille l'avortement. Au dernier moment, Claire se ressaisit et part avec Catherine en province."
+        "texte": "Lorsque sa sœur Claire refuse d'avorter, Catherine, mariée au paisible Michel, accepte de se faire passer pour la mère de l'enfant. Mais le temps passant, l'arrangement entre les deux femmes provoque chantage, conflits et disputes."
       }
     ],
     "generique": [
@@ -51,7 +51,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une jeune femme sur le point de se jeter à l'eau est secourue par un médecin précisément spécialisé dans le sauvetage des suicidés."
+        "texte": "Une jeune femme, sur le point de se jeter à l'eau, est secourue par un médecin précisément spécialisé dans le sauvetage des suicidés."
       }
     ],
     "generique": [
@@ -71,7 +71,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Mireille se lie d'une tendre amitié avec Franco, garçon dont le milieu familial est plus souple. Mais cela ne plaît pas à la rétrograde directrice qui les punit. Anna, une nouvelle enseignante se fait renvoyer pour avoir tenté de prendre leur défense..."
+        "texte": "Dans son école, Mirella se lie d'une tendre amitié avec Franco. Lorsque la directrice aux idées rétrogrades les punit, une enseignante tente de prendre leur défense, mais elle se fait renvoyer."
       }
     ],
     "generique": [
@@ -92,7 +92,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "1918, en Artois. Alors que son train est bloqué par les dégâts causés par la guerre, un jeune soldat s'aperçoit qu'il se trouve tout près de son village natal. Il obtient alors une heure de liberté et découvre avec surprise que les choses ont bien changé depuis son départ."
+        "texte": "1918, en Artois. Alors que son train se retrouve bloqué, un jeune soldat s'aperçoit qu'il est tout près de son village natal. Il obtient une heure de liberté, et découvre que les choses ont bien changé depuis son départ."
       }
     ],
     "generique": [
@@ -113,7 +113,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Montage d'actualités cinématographiques qui relate quelques pages les plus dramatiques de l'histoire ukrainienne de 1917 à 1922."
+        "texte": "Pour commémorer le dixième anniversaire de la révolution d'Octobre, un montage d'actualités tournées en Ukraine entre 1917 et 1927."
       }
     ]
   },
@@ -128,7 +128,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Contre l'avis de son père et de son fiancé, Nicole Noblet, une jeune campagnarde, va en ville après avoir été retenue pour un concours de jeunes découvertes sponsorisé par un studio de cinéma. Là, elle attire l'attention d'un attaché de presse qui finira par l'abandonner..."
+        "texte": "Contre l'avis de son père et de son fiancé, une fille de la campagne se rend en ville après avoir remporté un concours de jeunes talents, sponsorisé par un studio de cinéma."
       }
     ],
     "generique": [
@@ -142,20 +142,21 @@
     "art": "L'",
     "titreVo": "",
     "idFilm": 50243,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Léonide Moguy",
     "annee": 1939,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À Bruges, deux sœurs, Wilfrida et Karelina, se marient. Karelina déchante et se réfugie chez sa sœur."
+        "texte": "À Bruges, deux sœurs, Karelina et Wilfrida, viennent de se marier. Mais l'aînée, brutalisée par son époux, se réfugie chez sa cadette."
       }
     ],
     "generique": [
       "Annie Ducaux",
       "Pierre Blanchar",
-      "Blanchette Brunoy"
+      "Blanchette Brunoy",
+      "Ginette Leclerc"
     ]
   },
   {
@@ -163,14 +164,14 @@
     "art": "Les",
     "titreVo": "",
     "idFilm": 50244,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Léonide Moguy",
     "annee": 1953,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Mme Dutilleux dirige une maternité, secondée par Hélène Lambert et le Dr Jacques Maurain. Tous trois ont une haute idée de leur mission : insuffler l'amour maternel chez des filles-mères souvent désespérées."
+        "texte": "Mme Dutilleux dirige une maternité, secondée par une assistante sociale et un médecin. Tous trois se sont donné pour mission d'insuffler l'amour maternel à des filles-mères, souvent désespérées."
       }
     ],
     "generique": [
@@ -191,7 +192,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Trois savants Cartier, Rossi et Chardin se trouvent sans cesse confrontés à la question suivante : qu'y a-til après la mort? Cartier devient propagandiste de la paix, du désarmement nucléaire, de l'union et de la fraternité universelles et il essaie d'entraîner dans cette voie son collègue Chardin ..."
+        "texte": "Trois savants, sans cesse confrontés à la question de la vie après la mort, s'interrogent sur les progrès de la science, et prennent chacun des voies opposées."
       }
     ],
     "generique": [
@@ -211,16 +212,17 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Au cours de la Seconde Guerre mondiale, à Damas un journaliste est au cœur de la lutte entre Nazi et Alliés pour obtenir le soutien Arabe."
+        "texte": "Damas, pendant la Seconde Guerre mondiale. Un jeune journaliste se retrouve au cœur d'une intrigue qui voit nazis et Alliés se disputer le soutien des Arabes."
       },
       {
         "typeTexte": 99,
-        "texte": "Film sous réserve."
+        "texte": "Film sous réserve"
       }
     ],
     "generique": [
       "Marcel Dalio",
-      "George Sanders"
+      "George Sanders",
+      "Virginia Bruce"
     ]
   },
   {
@@ -235,7 +237,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Hélène Dupré, fille d'un riche industriel, se dévoue comme assistante sociale dans les quartiers pauvres. Elle se prend d'affection pour une jeune fille de 17 ans Christine, une orpheline. Elle la recueille chez elle."
+        "texte": "Hélène Dupré, fille d'un riche industriel, se dévoue pour les pauvres de son quartier. Elle se prend d'affection pour une jeune orpheline, qu'elle recueille chez elle."
       }
     ],
     "generique": [
@@ -256,7 +258,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le brave Prosper trouve un bébé devant la porte de son hôtel. Engagé comme professeur dans un pensionnat de jeunes filles, il cache l'enfant dans sa chambre mais son secret est vite découvert."
+        "texte": "Prosper, engagé comme professeur dans un pensionnat de jeunes filles, trouve un bébé devant sa porte. Il est contraint de le cacher dans sa chambre, mais son secret est vite éventé, et il est menacé de renvoi."
       }
     ],
     "generique": [
@@ -269,14 +271,14 @@
     "titre": "Paris after dark",
     "titreVo": "",
     "idFilm": 57895,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Léonide Moguy",
     "annee": 1943,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Pendant la Seconde Guerre mondiale, les résistants français vivent une vie normale le jour et combattent contre l'occupant nazi la nuit."
+        "texte": "Entre un quotidien d'apparence normale et la clandestinité, la vie des résistants français pendant la Seconde Guerre mondiale."
       }
     ],
     "generique": [
@@ -289,14 +291,14 @@
     "titre": "Prison sans barreaux",
     "titreVo": "",
     "idFilm": 50252,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Léonide Moguy",
     "annee": 1937,
     "pays": "France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Yvonne, jeune directrice aux méthodes novatrices, prend la direction d'un établissement pénitentiaire pour jeunes filles près de Nice. Les sévices et autres brimades infligés aux pensionnaires par l'ancienne directrice ont laissé des traces."
+        "texte": "Yvonne, une jeune femme aux méthodes novatrices, prend la tête d'un établissement pénitentiaire pour jeunes filles dont les pensionnaires étaient jusqu'alors soumises aux sévices de la précédente directrice."
       }
     ],
     "generique": [
@@ -309,14 +311,14 @@
     "titre": "Tragique Rendez-Vous",
     "titreVo": "Whistle Stop",
     "idFilm": 71909,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Léonide Moguy",
     "annee": 1945,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "De retour dans sa ville natale, Mary retrouve son amour de toujours Kenny, qui depuis son départ, continue de boire et de jouer aux cartes. Elle revoit aussi Lew. Ce dernier est l'homme d'affaire de la ville et courtise Mary depuis longtemps. Les tensions montent..."
+        "texte": "De retour dans sa ville natale, Mary retrouve son amour de toujours, Kenny, joueur et alcoolique, mais aussi Lew, un homme d'affaires qui la courtise depuis longtemps."
       }
     ],
     "generique": [

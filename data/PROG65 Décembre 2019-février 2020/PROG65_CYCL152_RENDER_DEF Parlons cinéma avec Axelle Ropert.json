@@ -1,0 +1,145 @@
+{
+  "header": {
+    "idCycleProg": 152,
+    "titreCycle": "Parlons cinéma avec Axelle Ropert",
+    "sousCycles": [
+      {
+        "titre": "Les Films",
+        "cats": [
+          2149
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 65
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les Films",
+      "tri": 4,
+      "items": [
+        {
+          "idCategorie": 2149,
+          "idEvenement": 21236,
+          "films": [
+            {
+              "idFilm": 45861,
+              "titre": "Liaisons secrètes",
+              "art": "Les",
+              "titreVo": "Strangers When We Meet",
+              "realisateurs": "Richard Quine",
+              "annee": 1959,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "États-Unis, années 1960. Délaissée par son époux, Maggie fait la connaissance de son voisin, lui aussi marié. Elle devient sa maîtresse."
+                }
+              ],
+              "adaptation": "D'après le roman _Liaisons secrètes_ d'Evan Hunter.",
+              "generique": [
+                "Kirk Douglas",
+                "Kim Novak",
+                "Walter Matthau"
+              ],
+              "duree": 117,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-13T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2149,
+          "idEvenement": 21237,
+          "films": [
+            {
+              "idFilm": 34887,
+              "titre": "Une femme cherche son destin",
+              "titreVo": "Now, Voyager",
+              "realisateurs": "Irving Rapper",
+              "annee": 1942,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une vieille fille, dominée par sa mère, voit sa vie se métamorphoser grâce à son psychiatre. Lors d'une croisière, elle rencontre un voyageur dont elle tombe amoureuse."
+                }
+              ],
+              "adaptation": "D'après le roman _Now, Voyager_ d'Olive Higgins Prouty.",
+              "generique": [
+                "Bette Davis",
+                "Claude Rains",
+                "Paul Henreid"
+              ],
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-20T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2149,
+          "idEvenement": 21238,
+          "films": [
+            {
+              "idFilm": 32345,
+              "titre": "Frontière chinoise",
+              "titreVo": "Seven Women",
+              "realisateurs": "John Ford",
+              "annee": 1965,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Chine, 1935. L'atmosphère paisible d'une mission américaine, dirigée par des femmes, est troublée par une jeune doctoresse aux idées libres, puis par les tentatives d'invasion des guerriers mongols voisins."
+                }
+              ],
+              "adaptation": "D'après le roman _Chinese Finale_ de Norah Lofts.",
+              "generique": [
+                "Anne Bancroft",
+                "Sue Lyon",
+                "Margaret Leighton"
+              ],
+              "duree": 87,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-27T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

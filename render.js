@@ -91,11 +91,10 @@ try {
     }
   }
 
-  // _MERGE : Fusion des données films et séances
+  // _MERGE : Fusion des données films, séances et confs.
   merge = doMerge(cycleConfig, films, seances, confs);
-  // merge = doMerge(cycleConfig, films, seances);
 
-  merge = cleanTitreEvenement(merge);
+  // merge = cleanTitreEvenement(merge); // cf. 2019-10-03
 
   await helpers.writeFileInFolder(
     `${config.pathData.local}${progDirectoryName}`,

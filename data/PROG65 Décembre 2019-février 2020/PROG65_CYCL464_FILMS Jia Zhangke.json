@@ -10,7 +10,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A l'heure où une cité ouvrière se transforme en résidence de luxe, les prolétaires qui la peuplaient évoquent leur jeunesse dans la Chine de Mao. Un faux documentaire émouvant et spectral."
+        "texte": "À l'heure où une cité ouvrière se transforme en résidence de luxe, les prolétaires qui la peuplaient évoquent leur jeunesse dans la Chine de Mao."
       }
     ],
     "generique": [
@@ -29,8 +29,12 @@
     "pays": "Chine",
     "textes": [
       {
+        "typeTexte": 8,
+        "texte": "« L'urbanisation sauvage, les campagnes désolées, l'absence de dialogue social, la précarisation absolue des ouvriers, le mépris dont ils sont l'objet de la part des patrons, l'indifférence de l'État... Comment voulez-vous, dans ces conditions, ne pas voir renaître ces héros des temps anciens que sont les justiciers errants ? » (Jia Zhangke, 2013)"
+      },
+      {
         "typeTexte": 9,
-        "texte": "Quatre personnages, quatre provinces, un seul et même reflet de la Chine contemporaine : celui d'une société au développement économique brutal peu à peu gangrenée par la violence."
+        "texte": "Dans la Chine contemporaine, quatre histoires se croisent pour dépeindre une société au développement économique brutal, et peu à peu gangrenée par la violence."
       }
     ],
     "generique": [
@@ -51,7 +55,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En 1999, en Chine, Tao est courtisée par deux hommes, ses amis d'enfance Jinsheng et Liangzi."
+        "texte": "Tao, courtisée par ses amis d'enfance Jinsheng et Liangzi, va devoir faire un choix entre les deux hommes."
       }
     ],
     "generique": [
@@ -72,7 +76,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Sous les yeux de sa caméra, Jia Zhang-Ké filme des chiots vendus sur un marché. « _Ce pourrait être un film dénonçant la façon dont les chiens sont maltraités en chine, le chiot est plutôt l'image du cinéaste et de l'artiste en général en Chine, entravé par la censure._ » Brigitte Duzan."
+        "texte": "Sur un marché, de jeunes chiots sont vendus et achetés, tentant parfois de s'échapper."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "« Ce pourrait être un film dénonçant la façon dont les chiens sont maltraités en Chine. Le chiot est plutôt l'image du cinéaste, et de l'artiste en général, en Chine, entravé par la censure. » (Brigitte Duzan)"
       }
     ]
   },
@@ -87,10 +95,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans Shanghai, divers personnages voient leur vie converger et entrer en collision."
+        "texte": "Plusieurs personnages, dont un éleveur de cochons, un chauffeur de bus et une jeune fille, se croisent dans Shanghaï en pleine modernisation."
       }
     ],
     "generique": [
+      "Vivian Wu",
       "Zazie Beetz",
       "Mason Lee",
       "Meng Li"
@@ -107,7 +116,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dong est un film documentaire sur le peintre chinois Liu Xiaodong. « J_'ai suivi le peintre et je l'ai filmé, d'une ville en démolition à une cité tropicale. J'avais devant moi deux groupes de personnes, et deux villes, très éloignées. Mais j'y ai vu la même condition humaine, et quelque chose de l'Asie d'aujourd'hui. »_ (Jia Zhangke)"
+        "texte": "Portrait du peintre Liu Xiaodong, que Jia Zhangke accompagne dans un périple à travers la Chine et la Thaïlande."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "« J'ai suivi le peintre et je l'ai filmé, d'une ville en démolition à une cité tropicale. J'avais devant moi deux groupes de personnes, et deux villes, très éloignées. Mais j'y ai vu la même condition humaine, et quelque chose de l'Asie d'aujourd'hui. » (Jia Zhangke)"
       }
     ],
     "generique": [
@@ -126,7 +139,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En 2001, la jeune Qiao est amoureuse de Bin, petit chef de la pègre locale de Datong. Alors que Bin est attaqué par une bande rivale, Qiao prend sa défense et tire plusieurs coups de feu. Elle est condamnée à cinq ans de prison."
+        "texte": "Chine, 2001. Qiao, amoureuse d'un petit chef de la pègre de Datong, a tiré des coups de feu pour le défendre contre une bande rivale. Condamnée et incarcérée, elle sort de prison cinq ans plus tard et ne reconnaît plus son pays."
       }
     ],
     "generique": [
@@ -146,7 +159,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le réalisateur raconte le parcours de son grand-oncle, Mohammed El Hadi Benadouda. A 70 ans, celui-ci révèle son passé dans un groupe armé où il opérait des règlements de compte et des meurtres politiques. Un destin qui met à jour les agissements du FLN en France et sonde les zones d'ombre de la guerre d'Algérie"
+        "texte": "Le réalisateur raconte le parcours de son grand-oncle : à 70 ans, Mohammed El Hadi Benadouda révèle son passé dans un groupe armé secret du FLN, entre règlements de comptes et meurtres politiques, emprisonnement et déportation."
       }
     ],
     "generique": [
@@ -168,7 +181,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Grand Prix, FID Marseille."
+        "texte": "Grand Prix, FID Marseille"
       }
     ]
   },
@@ -183,7 +196,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Cinq courts métrages qui mettent l'accent sur les histoires des femmes."
+        "texte": "Cinq courts métrages qui mettent l'accent sur la place des femmes dans la société."
       }
     ],
     "generique": [
@@ -203,7 +216,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un groupe de jeunes gens, anciens poètes pleins d'idéalismes, se retrouve à Zuzhou pour fêter l'anniversaire de leur ancien professeur de littérature."
+        "texte": "Quatre amis poètes, portés par les idéaux de la jeunesse, se retrouvent pour fêter l'anniversaire de leur ancien professeur de littérature."
       }
     ],
     "generique": [
@@ -226,10 +239,6 @@
       {
         "typeTexte": 9,
         "texte": "Trois chômeurs du Shanxi trouvent du travail dans un parc d'attraction."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Inédit en France."
       }
     ],
     "generique": [
@@ -249,7 +258,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Shanghai, fascinante mégalopole portuaire, a connu d'immenses bouleversements depuis 1930 : révolutions politiques et culturelles, assassinats, flux de population. Dix-huit personnes se remémorent leurs vies dans cette cité en perpétuelle évolution."
+        "texte": "Dix-huit personnes se remémorent leur vie dans Shanghaï, fascinante mégalopole en perpétuelle évolution depuis les années 1930."
       }
     ],
     "generique": [
@@ -269,7 +278,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le récit suit les aventures de K., qui se bat pour entrer en contact avec les autorités du village où il vient d'arriver, afin d'officialiser son statut d'arpenteur. Mais le « château » où résident les fonctionnaires demeure inaccessible."
+        "texte": "En Mongolie-Intérieure, K. se bat pour entrer en contact avec les autorités du village où il vient d'arriver, afin d'officialiser son statut d'arpenteur-géomètre. Mais le château où résident les fonctionnaires demeure inaccessible."
       }
     ],
     "generique": [
@@ -289,7 +298,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'étudiante en cinéma du _Voyage du ballon rouge_ de Hou Hsiao-hsien a fait son film, et met en scène, avec une fine sensibilité, une émotion contenue et un vrai regard de cinéaste, son retour à Nankin, pour rendre visite à ses parents vieillis."
+        "texte": "La réalisatrice Song Fang, qui travaille à Pékin, vient passer quelques jours en province chez ses parents."
       }
     ],
     "generique": [
@@ -309,7 +318,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un mariage se dissout, rongé par l'habitude, les soucis financiers, les mensonges, les fantasmes d'infidélité. Par une jeune femme écrivain devenue réalisatrice, une analyse subtile de la vie de couple et le portrait d'une petite ville du Sichuan."
+        "texte": "Dans la province de Sichuan, la vie d'un couple dont le mariage se délite peu à peu, entre le poids des habitudes, les soucis financiers, les mensonges, et les fantasmes d'infidélité."
       }
     ],
     "generique": [
@@ -329,7 +338,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les habitants d'un village du Jilin, dans le nord-est, sont menacés d'expulsion par une compagnie minière. Mais la sagesse ludique d'un jeune marginal – idiot, naïf ou prophète ? – s'impose dans une situation qui devient de plus en plus surréaliste."
+        "texte": "Les habitants d'un petit village du Jilin sont menacés d'expulsion par une compagnie minière. Alors que tous semblent s'y résigner, Shu, l'idiot du village, les conduit peu à peu à la résistance."
       }
     ],
     "generique": [
@@ -349,7 +358,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Han Dong adapte son propre roman : Un soir, un groupe de jeunes poètes est pris accidentellement dans une dispute entre des voyous des gardes de sécurité."
+        "texte": "Un soir, un groupe de jeunes poètes se retrouve pris accidentellement dans une dispute entre des voyous et des gardes de sécurité."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Première incursion dans le cinéma du poète et écrivain avant-gardiste Han Dong."
       }
     ],
     "generique": [
@@ -369,7 +382,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Deux ados au chômage sillonnent à bicyclette les ruines post-industrielles de leur ville de Datong dans le Shanxi. Ils ont des problèmes de filles, rencontrent une chanteuse à deux doigts de la prostitution et décident de braquer une banque."
+        "texte": "Deux adolescents désœuvrés sillonnent à vélo les ruines post-industrielles de Datong. En conflit avec leurs petites amies, ils rencontrent une chanteuse prête à se prostituer, et décident de braquer une banque."
       }
     ],
     "generique": [
@@ -389,7 +402,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le portrait bouleversant d'une poignée de jeunes gens en porte-à-faux avec la norme sociale, et esquisse l'évolution de la Chine ces dix dernières années."
+        "texte": "Portrait d'une troupe de danse en porte-à-faux avec la norme sociale, au moment des privatisations et de la fin du maoïsme."
       }
     ],
     "generique": [
@@ -409,8 +422,15 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Texte à saisir rien trouvé"
+        "texte": "Un couple se remémore ses dix dernières années, dans un pays en pleine transformation."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Court métrage réalisé pour le numéro spécial du dixième anniversaire de la revue _Modern Weekly._"
       }
+    ],
+    "generique": [
+      "Tao Zhao"
     ]
   },
   {
@@ -424,7 +444,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Le réalisateur tourne un court-métrage pour montrer que le smog touche tout le monde en Chine. Greenpeace a participé à l'élaboration de ce film."
+        "texte": "Dans le Nord-Est de la Chine, deux familles chinoises, des mineurs de la province du Hebei et un foyer de la classe moyenne de Pékin, sont confrontées au \\_smog\\_ et à la pollution atmosphérique."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Court métrage élaboré avec la branche asiatique de Greenpeace."
       }
     ]
   },
@@ -439,7 +463,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Sanming, un ouvrier, vient chercher son ex-femme et sa fille dont il n'a plus de nouvelles dans la ville de Fengie, à demi submergée par le gigantesque chantier du barrage des Trois Gorges."
+        "texte": "Dans la ville de Fengjie, à demi submergée par le gigantesque chantier du barrage des Trois-Gorges, un ouvrier recherche son ex-femme, et une infirmière, son mari."
       }
     ],
     "generique": [
@@ -459,7 +483,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Regards sur une usine de textile à Canton, une créatrice de mode chinoise à Paris et une boutique de tailleurs dans la province du Shanxi."
+        "texte": "Regards croisés sur une usine de textile à Canton, une créatrice de mode chinoise à Paris, et une boutique de tailleurs dans la province du Shanxi."
       }
     ],
     "generique": [
@@ -477,7 +501,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une étude saisissante sur la dérive de la jeunesse dans la province de Shanxi, en Chine du Nord, au début des années 1990."
+        "texte": "La vie d'un gang de jeunes dans la province de Shanxi, en Chine du Nord, au début des années 1990."
       }
     ]
   },
@@ -492,7 +516,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Programme de courts métrages constitué de « When the earth tremples », « Breathing », « Mumbai Mist », « Still Bom » et « Revive »."
+        "texte": "Programme de courts métrages qui représentent les pays du sommet BRICS de 2017, une conférence annuelle sur les relations internationales tenue entre le Brésil, la Russie, l'Inde, la Chine et l'Afrique du Sud."
       }
     ]
   },
@@ -507,7 +531,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans un train vétuste et bruyant, une jeune fille croque l'un des voyageurs, prend une photo avec un appareil instantané, puis avec un appareil numérique, et enfin avec ton portable seul signe tangible du passage du temps que ne semble affecter ni elle ni le paysage, ce qui n'est pas le cas d'une autre voyageuse, qui, elle porte la marque du vieillissement."
+        "texte": "Dans un train vétuste et bruyant, une jeune fille photographie les différents voyageurs, en instantané, en numérique et enfin avec son téléphone portable, pour traduire l'empreinte du temps qui passe."
       }
     ],
     "generique": [
@@ -526,7 +550,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Tao travaille à World Park, parc à thème réunissant les monuments les plus célèbres du monde en miniature. Elle chante et danse devant le public. Son ami, Taisheng, est l'un des gardiens chefs de ce parc."
+        "texte": "Dans le parc d'attractions World Park, qui reproduit les monuments célèbres du monde entier, Tao travaille, chante et danse, aux côtés de son ami Taisheng, l'un des gardiens-chefs."
       }
     ],
     "generique": [
@@ -546,7 +570,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Xiao Wu reprend son activité de voleur à la tire qui lui a déjà valu des démêlés avec la justice quelques années plus tôt et, sans doute, un séjour en prison. Son ancien comparse Xiaoyong s'est reconverti avec succès dans le trafic de cigarettes."
+        "texte": "La vie quotidienne de Xiao Wu, pickpocket à Fenyang, et de son comparse Xiaoyong."
       }
     ],
     "generique": [
@@ -564,7 +588,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Qu'est ce que vos parents vous offraient pour le nouvel an chinois? Film tourné sur un Iphone."
+        "texte": "Réflexion sur la famille et les cadeaux offerts lors du Nouvel An chinois."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film tourné avec un iPhone XS."
       }
     ],
     "generique": [
@@ -583,7 +611,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Documentaire coréalisé avec : Chen Shi-Zheng, ChenTao, Fang Song Chui Mui, Tan Zizhao, Wang Tie Wei."
+        "texte": "Portraits de personnalités de la Chine contemporaine : des artistes, un journaliste d'investigation, un environnementaliste, un entrepreneur. Âgés de moins de quarante ans, ils mènent tous la vie qu'ils souhaitaient."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Documentaire collectif composé de 12 courts métrages, réalisé à l'initiative de Jia Zhangke, lui-même réalisateur des segments _Cao Fei_ et _Pan Shiyi_."
       }
     ]
   },
@@ -598,7 +630,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "_Life After Life_ raconte le transfert d'un arbre (immobile mais vivant) par un enfant possédé par l'esprit de sa mère."
+        "texte": "L'esprit d'une mère décédée s'empare du corps de son jeune fils pour l'aider à replanter un arbre."
       }
     ],
     "generique": [

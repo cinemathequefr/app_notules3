@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les Films",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32673,
+          "ordre": 1,
+          "dateHeure": "2020-02-27T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2149,
+          "idEvenement": 21238,
+          "typeEvenement": 13,
+          "idFilm": 32345,
+          "titre": "Frontière chinoise",
+          "titreVo": "Seven Women",
+          "realisateurs": "John Ford",
+          "annee": 1965,
+          "pays": "États-Unis",
+          "duree": 87,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Anne Bancroft",
+            "Sue Lyon",
+            "Margaret Leighton"
+          ],
+          "adaptation": "D'après le roman _Chinese Finale_ de Norah Lofts.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Chine, 1935. L'atmosphère paisible d'une mission américaine, dirigée par des femmes, est troublée par une jeune doctoresse aux idées libres, puis par les tentatives d'invasion des guerriers mongols voisins."
+            }
+          ]
+        },
+        {
+          "idSeance": 32587,
+          "ordre": 1,
+          "dateHeure": "2020-02-13T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2149,
+          "idEvenement": 21236,
+          "typeEvenement": 13,
+          "idFilm": 45861,
+          "art": "Les",
+          "titre": "Liaisons secrètes",
+          "titreVo": "Strangers When We Meet",
+          "realisateurs": "Richard Quine",
+          "annee": 1959,
+          "pays": "États-Unis",
+          "duree": 117,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Kirk Douglas",
+            "Kim Novak",
+            "Walter Matthau"
+          ],
+          "adaptation": "D'après le roman _Liaisons secrètes_ d'Evan Hunter.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "États-Unis, années 1960. Délaissée par son époux, Maggie fait la connaissance de son voisin, lui aussi marié. Elle devient sa maîtresse."
+            }
+          ]
+        },
+        {
+          "idSeance": 32630,
+          "ordre": 1,
+          "dateHeure": "2020-02-20T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2149,
+          "idEvenement": 21237,
+          "typeEvenement": 13,
+          "idFilm": 34887,
+          "titre": "Une femme cherche son destin",
+          "titreVo": "Now, Voyager",
+          "realisateurs": "Irving Rapper",
+          "annee": 1942,
+          "pays": "États-Unis",
+          "duree": 118,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Bette Davis",
+            "Claude Rains",
+            "Paul Henreid"
+          ],
+          "adaptation": "D'après le roman _Now, Voyager_ d'Olive Higgins Prouty.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une vieille fille, dominée par sa mère, voit sa vie se métamorphoser grâce à son psychiatre. Lors d'une croisière, elle rencontre un voyageur dont elle tombe amoureuse."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {}
+}

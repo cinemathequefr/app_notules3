@@ -10,8 +10,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un metteur en scène vient présenter dans un pays de l'Est, son film. Mais la projection de son film s'avère catastrophique. Film issu du long métrage collectif « Chacun son cinéma » pour célébrer le soixantième anniversaire du Festival de Cannes."
+        "texte": "Segment issu de Chacun son cinéma, film réalisé à l'occasion des 60 ans du Festival de Cannes, constitué de 34 courts métrages réalisés par 34 cinéastes issus de 25 pays différents, autour du thème de la salle de cinéma."
       }
+    ],
+    "generique": [
+      "Elia Suleiman"
     ]
   },
   {
@@ -25,7 +28,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un réalisateur revient en Israël pour faire un film. Il entreprend d'observer la perte d'identité de la population arabe d'Israël et organise son récit en deux parties: « Nazareth, journal intime » et « Jérusalem, journal politique »."
+        "texte": "Un cinéaste palestinien expatrié revient en Israël pour faire un film sur la perte d'identité de la population arabe d'Israël. Son récit est constitué de deux parties, « Nazareth, journal intime » et « Jérusalem, journal politique »."
       }
     ],
     "generique": [
@@ -44,7 +47,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Es, un Palestinien vivant à Jérusalem, est amoureux d'une Palestinienne de Ramallah. L'homme est partagé entre son amour et la nécessité de s'occuper de son père, très fragile. En raison de la situation politique, la femme ne peut aller plus loin que le checkpoint situé entre les deux villes. Les rendez-vous du couple ont donc lieu dans un parking désert près du checkpoint."
+        "texte": "E.S., un Palestinien vivant à Jérusalem, est partagé entre la nécessité de s'occuper de son père, très fragile, et son amour pour une Palestinienne de Ramallah, qu'il ne peut retrouver qu'au _checkpoint_ situé entre les deux villes."
       }
     ],
     "generique": [
@@ -64,12 +67,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "ES fuit la Palestine à la recherche d'une nouvelle terre d'accueil, avant de réaliser que son pays d'origine le suit toujours comme une ombre. La promesse d'une vie nouvelle se transforme vite en comédie de l'absurde. Aussi loin qu'il voyage, de Paris à New York, quelque chose lui rappelle sa patrie."
+        "texte": "E. S. fuit la Palestine à la recherche d'une nouvelle terre d'accueil, avant de réaliser que son pays d'origine le suit toujours comme une ombre."
       }
     ],
     "generique": [
       "Elia Suleiman",
-      "Tarik Kopty"
+      "Gael García Bernal",
+      "Ali Suliman"
     ]
   },
   {
@@ -83,7 +87,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Elia Suleiman arrive à la Havane pour une entrevue avec le Président Castro. En attendant l'heure du rendez-vous, il déambule dans la ville. Court métrage issu du film collectif « 7 jours à la Havane »."
+        "texte": "E. S. arrive à La Havane pour une entrevue avec le président Castro. En attendant l'heure du rendez-vous, il déambule dans la ville. Segment du film collectif _7 jours à La Havane_."
       }
     ],
     "generique": [
@@ -103,7 +107,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "_C'est un film en partie autobiographique, construit en quatre épisodes marquants de la vie d'une famille, ma famille, de 1948 au temps récent._ _Ce film est inspiré des carnets personnels de mon père, et commence lorsque celui-ci était un combattant résistant en 1948, et aussi des lettres de ma mère aux membres de sa famille qui furent forcés de quitter le pays._ Elia Suleiman"
+        "texte": "La vie d'une famille palestinienne, de la création de l'État d'Israël en 1948 à aujourd'hui."
       }
     ]
   }
