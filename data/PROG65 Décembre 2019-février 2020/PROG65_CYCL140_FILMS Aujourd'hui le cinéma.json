@@ -1,0 +1,527 @@
+[
+  {
+    "titre": "A bout de course",
+    "titreVo": "Running on Empty",
+    "idFilm": 34786,
+    "ageMinimal": null,
+    "realisateurs": "Sidney Lumet",
+    "annee": 1988,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Arche de Noé",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 63701,
+    "ageMinimal": null,
+    "realisateurs": "Jean-François Laguionie",
+    "annee": 1966,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au début du XXe siècle, une équipe d'explorateurs partent en montagne, à la recherche de l'arche de Noé biblique."
+      }
+    ]
+  },
+  {
+    "titre": "Au cœur du monde",
+    "titreVo": "No coração do mundo",
+    "idFilm": 143178,
+    "ageMinimal": null,
+    "realisateurs": "Gabriel Martins, Maurilio Martins",
+    "annee": 2019,
+    "pays": "Brésil",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Contagem, ville populaire du Minas Gerais Brésilien, un coup de feu retentit lors d'une soirée d'anniversaire et lie les destins de Selma, Ana, Marcos, Beto et Miro. Tous se démènent pour améliorer leur vie et trouver leur place « au cœur du monde »."
+      }
+    ],
+    "generique": [
+      "Grace Passô",
+      "Barbara Colen",
+      "Renato Novaes"
+    ]
+  },
+  {
+    "titre": "Au fond du jardin",
+    "titreVo": "",
+    "idFilm": 143206,
+    "ageMinimal": null,
+    "realisateurs": "Anaïs Gauchot",
+    "annee": 2019,
+    "pays": "France"
+  },
+  {
+    "titre": "Aventure atomique",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 143031,
+    "ageMinimal": null,
+    "realisateurs": "Loïc Barché",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Algérie, 1961. Alors que la France vient de faire exploser sa quatrième bombe atomique, un groupe de sept soldats est envoyé jusqu'au point d'impact afin d'y effectuer des prélèvements et des mesures de la radioactivité́."
+      }
+    ],
+    "generique": [
+      "Swann Arlaud",
+      "Olivier Rabourdin",
+      "Phénix Brossard"
+    ]
+  },
+  {
+    "titre": "Baiser de Tosca",
+    "art": "Le",
+    "titreVo": "Bacio di Tosca",
+    "artVo": "Il",
+    "idFilm": 56731,
+    "ageMinimal": null,
+    "realisateurs": "Daniel Schmid",
+    "annee": 1983,
+    "pays": "Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La « Casa Verdi » de Milan est à la fois le thème et le décor de ce film à caractère documentaire – une maison de retraite pour artistes, fondée par Giuseppe Verdi, où vivent environ 65 chanteurs, musiciens et compositeurs. Leur âge varie entre 80 et 96 ans : des stars des années 30."
+      }
+    ]
+  },
+  {
+    "titre": "Ce n'est pas un film de cow-boys",
+    "titreVo": "",
+    "idFilm": 116774,
+    "ageMinimal": null,
+    "realisateurs": "Benjamin Parent",
+    "annee": 2011,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "_Le Secret de Brokeback Mountain_ est passé hier soir à la télé. Vincent l'a vu et ça l'a bouleversé. Il profite de la récréation pour raconter le film à Moussa. De l'autre côté du mur, dans les toilettes des filles, Jessica, elle aussi très affectée, en profite pour poser pas mal de questions sur le papa homosexuel de Nadia."
+      }
+    ],
+    "generique": [
+      "Finnegan Oldfield",
+      "Garance Marillier"
+    ]
+  },
+  {
+    "titre": "Chanson triste",
+    "titreVo": "",
+    "idFilm": 143100,
+    "ageMinimal": null,
+    "realisateurs": "Louise Narboni",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pendant un an, Élodie Fonnard, chanteuse lyrique et parisienne, a accueilli chez elle et pris soin d'Ahmad, jeune Afghan réfugié en France. Devant la caméra, Élodie et Ahmad rejouent leur vie commune et le partage de leurs cultures respectives."
+      }
+    ],
+    "generique": [
+      "Elodie Fonnard"
+    ]
+  },
+  {
+    "titre": "Chloé Van Herzeele",
+    "titreVo": "",
+    "idFilm": 143185,
+    "ageMinimal": null,
+    "realisateurs": "Anne-Sophie Girault, Clémence Bouchereau",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Chloé, une vieille dame, organise des projections dans un espace souterrain. Elle fait visiter à un journaliste ses galeries où s'entrepose sa collection de films argentiques. Au fil de la descente, nous plongeons avec elle dans son univers altéré."
+      }
+    ]
+  },
+  {
+    "titre": "Doll's Breath",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 143182,
+    "ageMinimal": null,
+    "realisateurs": "Stephen Quay, Timothy Quay",
+    "annee": 2019,
+    "pays": "Grande-Bretagne-Japon-Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Craignant de perdre sa femme, Horacio en crée une réplique, qu'il appelle Hortensia. Mais tout ne se passe pas comme prévu..."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film sous réserve"
+      }
+    ]
+  },
+  {
+    "titre": "Enfance d'un chef",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 131549,
+    "ageMinimal": null,
+    "realisateurs": "Antoine de Bary",
+    "annee": 2015,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Vincent a 20 ans, c'est un jeune comédien à succès à qui on vient d'offrir le premier rôle dans le film de l'année : le biopic sur la jeunesse de Charles de Gaulle. Au même moment, ses parents partent vivre à Orléans et le poussent à emménager seul."
+      }
+    ],
+    "generique": [
+      "Vincent Lacoste",
+      "Félix Moati"
+    ]
+  },
+  {
+    "titre": "Esperança",
+    "titreVo": "",
+    "idFilm": 143200,
+    "ageMinimal": null,
+    "realisateurs": "Jeanne Paturle, Cécile Rousset, Benjamin Serero",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Esperança, quinze ans, vient d'arriver d'Angola avec sa mère. À la gare d'Amiens, elles ne savent pas où dormir et cherchent quelqu'un qui pourrait les aider. Esperança nous raconte son histoire. Parole documentaire, dessins animés."
+      }
+    ]
+  },
+  {
+    "titre": "Fauves",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 140819,
+    "ageMinimal": null,
+    "realisateurs": "Vincent Mariette",
+    "annee": 2017,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "C'est l'été, dans un camping en Dordogne, des jeunes gens disparaissent. Les rumeurs les plus folles circulent, on parle d'une panthère qui rôde... Un sentiment de danger permanent au cœur duquel s'épanouit Laura, 17 ans. La rencontre avec Paul, un écrivain aussi attirant qu'inquiétant, la bouleverse. Une relation ambigüe se noue."
+      }
+    ],
+    "generique": [
+      "Lily-Rose Depp",
+      "Laurent Lafitte",
+      "Aloïse Sauvage"
+    ]
+  },
+  {
+    "titre": "Flow",
+    "titreVo": "",
+    "idFilm": 143186,
+    "ageMinimal": null,
+    "realisateurs": "Adriaan Lokman",
+    "annee": 2019,
+    "pays": "Pays-Bas-France"
+  },
+  {
+    "titre": "Il fait beau dans la plus belle ville du monde",
+    "titreVo": "",
+    "idFilm": 104738,
+    "ageMinimal": null,
+    "realisateurs": "Valérie Donzelli",
+    "annee": 2007,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Adèle, une jeune trentenaire, décide de rentrer en contact avec Vidal, un musicien qu'elle admire. À sa grande surprise, celui-ci lui répond. Quelques messages sont échangés et une date de rendez-vous est fixée. Avec beaucoup d'enthousiasme, Adèle va à la rencontre de Vidal. Mais il y a une chose qu'elle n'a pas précisée : elle est enceinte."
+      }
+    ],
+    "generique": [
+      "Valérie Donzelli",
+      "Serge Bozon"
+    ]
+  },
+  {
+    "titre": "Llorona",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 143105,
+    "ageMinimal": null,
+    "realisateurs": "Jayro Bustamante",
+    "annee": 2019,
+    "pays": "Guatemala",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Selon la légende, la Llorona est un fantôme qui cherche et pleure ses enfants. Le général responsable du génocide des mayas est hanté par elle : est-elle venue punir celui que la justice n'a pas condamné ?"
+      }
+    ]
+  },
+  {
+    "titre": "Marie Boudin",
+    "titreVo": "",
+    "idFilm": 143205,
+    "ageMinimal": null,
+    "realisateurs": "Margot Bargé",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Marie Boudin cherche la mer. Elle la cherche en vain, un peu partout, parfois même sous un caillou."
+      }
+    ]
+  },
+  {
+    "titre": "Movements",
+    "titreVo": "",
+    "idFilm": 143181,
+    "ageMinimal": null,
+    "realisateurs": "Dahee Jeong",
+    "annee": 2019,
+    "pays": "Corée",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 10 minutes, le baobab africain pousse de 0,008 mm, le lévrier, chien le plus rapide du monde, peut parcourir 12 km et la Terre parcourt 18 000 km autour du soleil. Mouvements est un film d'animation de 10 minutes que j'ai dessiné à raison de 2 secondes d'animation par jour. Nous marchons, regardons, travaillons, courons et nous arrêtons tous ensemble."
+      }
+    ]
+  },
+  {
+    "titre": "Nuit chérie",
+    "titreVo": "",
+    "idFilm": 143197,
+    "ageMinimal": null,
+    "realisateurs": "Lia Bertels",
+    "annee": 2018,
+    "pays": "Belgique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un ours pense trop et broie du noir ; il n'arrive pas à dormir. Lorsqu'un singe blanc lui propose d'aller manger du miel chez sa tante pour lui changer les idées, une belle et étrange nuit s'ouvre à eux."
+      }
+    ]
+  },
+  {
+    "titre": "Particules",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 141960,
+    "ageMinimal": null,
+    "realisateurs": "Blaise Harrison",
+    "annee": 2018,
+    "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Tandis que P.A. et sa bande vivent leur dernière année au lycée, celui-ci commence à observer des phénomènes étranges, des modifications dans l'environnement, de façon imperceptible d'abord, puis c'est tout son monde qui semble basculer..."
+      }
+    ]
+  },
+  {
+    "titre": "Physique de la tristesse",
+    "titreVo": "",
+    "idFilm": 143183,
+    "ageMinimal": null,
+    "realisateurs": "Theodore Ushev",
+    "annee": 2019,
+    "pays": "Canada",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un inconnu navigue à travers ses souvenirs de jeunesse en Bulgarie, lesquels le ramènent à la mélancolie et au déracinement croissants qui plombent son existence d'adulte au Canada."
+      }
+    ]
+  },
+  {
+    "titre": "Poupée",
+    "titreVo": "",
+    "idFilm": 143184,
+    "ageMinimal": null,
+    "realisateurs": "Jessica Palud",
+    "annee": 2016,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Chaque soir, « Poupée » écume les sites de rencontres pour enfin trouver l'amour. Après une discussion virtuelle avec un nouvel inconnu, la jeune femme franchit le pas et se rend chez lui en pleine nuit. Comme toujours elle y croit..."
+      }
+    ],
+    "generique": [
+      "Jeanne Rosa",
+      "Virgile Bramly"
+    ]
+  },
+  {
+    "titre": "Procès contre Mandela et les autres",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 139440,
+    "ageMinimal": null,
+    "realisateurs": "Nicolas Champeaux, Gilles Porte",
+    "annee": 2017,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire de la lutte contre l'apartheid ne retient qu'un seul homme : Nelson Mandela. Il s'est révélé au cours d'un procès historique en 1963 et 1964. Sur le banc des accusés, huit de ses camarades de lutte risquaient aussi la peine de mort. Face à un procureur zélé, ils décident ensemble de transformer leur procès en tribune contre l'apartheid."
+      }
+    ]
+  },
+  {
+    "titre": "Seuls les anges ont des ailes",
+    "titreVo": "Only Angels Have Wings",
+    "idFilm": 33190,
+    "ageMinimal": 0,
+    "realisateurs": "Howard Hawks",
+    "annee": 1938,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les pilotes d'une modeste compagnie ont pour coutume de se retrouver tous les soirs au bar de l'aérodrome. Un soir, une musicienne en escale s'invite au comptoir et ne tarde pas à tomber amoureuse de l'ombrageux directeur de la compagnie."
+      }
+    ],
+    "generique": [
+      "Cary Grant",
+      "Jean Arthur",
+      "Rita Hayworth"
+    ],
+    "adaptation": "D'après l'histoire _Plane From Barranca_ de Howard Hawks.  \nD'après le synopsis _Plane Number Four_ d'Anne Wigton."
+  },
+  {
+    "titre": "Sororelle",
+    "titreVo": "",
+    "idFilm": 143189,
+    "ageMinimal": null,
+    "realisateurs": "Louise Mercadier, Frédéric Even",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Trois sœurs doivent affronter un cataclysme : la submersion prochaine des terres où elles vivent par la mer. Face au chaos, l'union sororelle est bouleversée et chacune vit l'imminence de la mort, en son for intérieur, de manière différente."
+      }
+    ]
+  },
+  {
+    "titre": "Sous la canopée",
+    "titreVo": "",
+    "idFilm": 143198,
+    "ageMinimal": null,
+    "realisateurs": "Bastien Dupriez",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au cœur des forêts tropicales, arborant leurs plus beaux ramages, des paradisiers chantent et livrent un véritable spectacle. Mais la forêt prend une autre tonalité lorsque la main de l'homme vient perturber cette harmonie et cette richesse."
+      }
+    ]
+  },
+  {
+    "titre": "Story",
+    "titreVo": "",
+    "idFilm": 143203,
+    "ageMinimal": null,
+    "realisateurs": "Jola Bankowska",
+    "annee": 2019,
+    "pays": "Pologne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une réflexion sur l'homme moderne à l'époque où la technologie est omniprésente."
+      }
+    ]
+  },
+  {
+    "titre": "Swatted",
+    "titreVo": "",
+    "idFilm": 143202,
+    "ageMinimal": null,
+    "realisateurs": "Ismaël Joffroy-Chandoutis",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Des joueurs en ligne racontent leur difficulté à échapper au swatting, un phénomène de cyberharcèlement qui menace leur vie à chaque partie. Les événements prennent forme à travers des vidéos YouTube et des images vectorielles issues d'un jeu vidéo."
+      }
+    ]
+  },
+  {
+    "titre": "Swimmer",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 34637,
+    "ageMinimal": null,
+    "realisateurs": "Frank Perry",
+    "annee": 1966,
+    "pays": "États-Unis-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un quartier huppé du Connecticut où il a passé ses vacances d'été, Ned Merrill se met en tête de rentrer chez lui à la nage, en empruntant chaque piscine se trouvant sur son chemin. Ce parcours se transforme alors pour lui en un véritable voyage initiatique fait de rencontres et d'expériences."
+      }
+    ],
+    "generique": [
+      "Burt Lancaster",
+      "Janet Landgard"
+    ]
+  },
+  {
+    "titre": "Symbiosis",
+    "titreVo": "",
+    "idFilm": 143187,
+    "ageMinimal": null,
+    "realisateurs": "Nadja Andrasev",
+    "annee": 2019,
+    "pays": "Hongrie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une femme trompée commence à enquêter sur les maîtresses de son mari. Sa jalousie est progressivement remplacée par de la curiosité."
+      }
+    ]
+  },
+  {
+    "titre": "Talking About Trees",
+    "titreVo": "",
+    "idFilm": 143066,
+    "ageMinimal": null,
+    "realisateurs": "Suhaib Gasmelbari",
+    "annee": 2018,
+    "pays": "France-Allemagne-Soudan-Qatar-Tchad",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ibrahim, Suleiman, Manar et Altayeb, cinéastes facétieux et idéalistes, sillonnent dans un van les routes du Soudan pour projeter des films en évitant la censure du pouvoir. Ces quatre amis de toujours se mettent à rêver d'organiser une grande projection publique dans la capitale Khartoum et de rénover une salle de cinéma à l'abandon. Son nom ? La Révolution..."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Le film sélectionné à la Berlinale 2019 a remporté le Prix du Meilleur Documentaire et le Prix du Public toutes sections confondues."
+      }
+    ]
+  },
+  {
+    "titre": "Tout ce qu'il me reste de la révolution",
+    "titreVo": "",
+    "idFilm": 140933,
+    "ageMinimal": null,
+    "realisateurs": "Judith Davis",
+    "annee": 2017,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Que reste-t-il de la révolution ? En colère et déterminée, Angèle se bat contre la malédiction de sa génération : être né à l'heure de la déprime politique mondiale. Tantôt Don Quichotte, tantôt Bridget Jones, Angèle tente de trouver un équilibre..."
+      }
+    ]
+  }
+]

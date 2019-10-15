@@ -24,7 +24,67 @@
     {
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
-      "sousCycles": []
+      "sousCycles": [{
+          "titre": "Loïc Barché",
+          "cats": [2152],
+          "tri": 4
+        },
+        {
+          "titre": "Vincent Mariette",
+          "cats": [2153],
+          "tri": 4
+        },
+        {
+          "titre": "Suhaib Gasmelbari",
+          "cats": [2156],
+          "tri": 4
+        },
+        {
+          "titre": "Palmarès du festival Entrevues 2019",
+          "cats": [2157],
+          "tri": 4
+        },
+        {
+          "titre": "Louise Narboni",
+          "cats": [2166],
+          "tri": 4
+        },
+        {
+          "titre": "Blaise Harrison",
+          "cats": [2170],
+          "tri": 4
+        },
+        {
+          "titre": "Jayro Bustamante",
+          "cats": [2171],
+          "tri": 4
+        },
+        {
+          "titre": "Judith Davis",
+          "cats": [2172],
+          "tri": 4
+        },
+        {
+          "titre": "Carte blanche à Blink Blank",
+          "cats": [2181],
+          "tri": 4
+        },
+        {
+          "titre": "Premiers pas",
+          "cats": [2182],
+          "tri": 4
+        },
+        {
+          "titre": "Le cinéma d'animation 2020",
+          "cats": [2183],
+          "tri": 4
+        },
+        {
+          "titre": "Prix du film singulier 2020",
+          "cats": [2190],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 152,

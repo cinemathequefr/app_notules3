@@ -1,0 +1,970 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Loïc Barché",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 33002,
+          "ordre": 1,
+          "dateHeure": "2020-01-06T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2152,
+          "idEvenement": 21315,
+          "typeEvenement": 13,
+          "idFilm": 143031,
+          "art": "L'",
+          "titre": "Aventure atomique",
+          "titreVo": "",
+          "realisateurs": "Loïc Barché",
+          "annee": 2019,
+          "pays": "France",
+          "duree": 26,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Swann Arlaud",
+            "Olivier Rabourdin",
+            "Phénix Brossard"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Algérie, 1961. Alors que la France vient de faire exploser sa quatrième bombe atomique, un groupe de sept soldats est envoyé jusqu'au point d'impact afin d'y effectuer des prélèvements et des mesures de la radioactivité́."
+            }
+          ]
+        },
+        {
+          "idSeance": 33002,
+          "ordre": 2,
+          "dateHeure": "2020-01-06T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2152,
+          "idEvenement": 21315,
+          "typeEvenement": 13,
+          "idFilm": 33190,
+          "titre": "Seuls les anges ont des ailes",
+          "titreVo": "Only Angels Have Wings",
+          "realisateurs": "Howard Hawks",
+          "annee": 1938,
+          "pays": "États-Unis",
+          "duree": 121,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Cary Grant",
+            "Jean Arthur",
+            "Rita Hayworth"
+          ],
+          "adaptation": "D'après l'histoire _Plane From Barranca_ de Howard Hawks.  \nD'après le synopsis _Plane Number Four_ d'Anne Wigton.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les pilotes d'une modeste compagnie ont pour coutume de se retrouver tous les soirs au bar de l'aérodrome. Un soir, une musicienne en escale s'invite au comptoir et ne tarde pas à tomber amoureuse de l'ombrageux directeur de la compagnie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Vincent Mariette",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32529,
+          "ordre": 1,
+          "dateHeure": "2020-02-03T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2153,
+          "idEvenement": 21317,
+          "typeEvenement": 13,
+          "idFilm": 140819,
+          "art": "Les",
+          "titre": "Fauves",
+          "titreVo": "",
+          "realisateurs": "Vincent Mariette",
+          "annee": 2017,
+          "pays": "France",
+          "duree": 83,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Lily-Rose Depp",
+            "Laurent Lafitte",
+            "Aloïse Sauvage"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "C'est l'été, dans un camping en Dordogne, des jeunes gens disparaissent. Les rumeurs les plus folles circulent, on parle d'une panthère qui rôde... Un sentiment de danger permanent au cœur duquel s'épanouit Laura, 17 ans. La rencontre avec Paul, un écrivain aussi attirant qu'inquiétant, la bouleverse. Une relation ambigüe se noue."
+            }
+          ]
+        },
+        {
+          "idSeance": 33005,
+          "ordre": 1,
+          "dateHeure": "2020-02-03T21:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2153,
+          "idEvenement": 21318,
+          "typeEvenement": 13,
+          "idFilm": 34637,
+          "art": "The",
+          "titre": "Swimmer",
+          "titreVo": "",
+          "realisateurs": "Frank Perry",
+          "annee": 1966,
+          "pays": "États-Unis-Grande-Bretagne",
+          "duree": 94,
+          "version": "VO",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Burt Lancaster",
+            "Janet Landgard"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un quartier huppé du Connecticut où il a passé ses vacances d'été, Ned Merrill se met en tête de rentrer chez lui à la nage, en empruntant chaque piscine se trouvant sur son chemin. Ce parcours se transforme alors pour lui en un véritable voyage initiatique fait de rencontres et d'expériences."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Suhaib Gasmelbari",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32825,
+          "ordre": 1,
+          "dateHeure": "2019-12-16T20:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2156,
+          "idEvenement": 21418,
+          "typeEvenement": 13,
+          "idFilm": 143066,
+          "titre": "Talking About Trees",
+          "titreVo": "",
+          "realisateurs": "Suhaib Gasmelbari",
+          "annee": 2018,
+          "pays": "France-Allemagne-Soudan-Qatar-Tchad",
+          "duree": 94,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ibrahim, Suleiman, Manar et Altayeb, cinéastes facétieux et idéalistes, sillonnent dans un van les routes du Soudan pour projeter des films en évitant la censure du pouvoir. Ces quatre amis de toujours se mettent à rêver d'organiser une grande projection publique dans la capitale Khartoum et de rénover une salle de cinéma à l'abandon. Son nom ? La Révolution..."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Le film sélectionné à la Berlinale 2019 a remporté le Prix du Meilleur Documentaire et le Prix du Public toutes sections confondues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Palmarès du festival Entrevues 2019",
+      "tri": 4,
+      "items": []
+    },
+    {
+      "titreSousCycle": "Louise Narboni",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32142,
+          "ordre": 1,
+          "dateHeure": "2019-12-02T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2166,
+          "idEvenement": 21484,
+          "typeEvenement": 13,
+          "idFilm": 143178,
+          "titre": "Au cœur du monde",
+          "titreVo": "No coração do mundo",
+          "realisateurs": "Gabriel Martins, Maurilio Martins",
+          "annee": 2019,
+          "pays": "Brésil",
+          "duree": 120,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Grace Passô",
+            "Barbara Colen",
+            "Renato Novaes"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A Contagem, ville populaire du Minas Gerais Brésilien, un coup de feu retentit lors d'une soirée d'anniversaire et lie les destins de Selma, Ana, Marcos, Beto et Miro. Tous se démènent pour améliorer leur vie et trouver leur place « au cœur du monde »."
+            }
+          ]
+        },
+        {
+          "idSeance": 33004,
+          "ordre": 1,
+          "dateHeure": "2020-01-27T21:15:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2166,
+          "idEvenement": 21498,
+          "typeEvenement": 13,
+          "idFilm": 56731,
+          "art": "Le",
+          "titre": "Baiser de Tosca",
+          "artVo": "Il",
+          "titreVo": "Bacio di Tosca",
+          "realisateurs": "Daniel Schmid",
+          "annee": 1983,
+          "pays": "Suisse",
+          "duree": 0,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La « Casa Verdi » de Milan est à la fois le thème et le décor de ce film à caractère documentaire – une maison de retraite pour artistes, fondée par Giuseppe Verdi, où vivent environ 65 chanteurs, musiciens et compositeurs. Leur âge varie entre 80 et 96 ans : des stars des années 30."
+            }
+          ]
+        },
+        {
+          "idSeance": 32486,
+          "ordre": 1,
+          "dateHeure": "2020-01-27T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2166,
+          "idEvenement": 21451,
+          "typeEvenement": 13,
+          "idFilm": 143100,
+          "titre": "Chanson triste",
+          "titreVo": "",
+          "realisateurs": "Louise Narboni",
+          "annee": 2019,
+          "pays": "France",
+          "duree": 66,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Elodie Fonnard"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pendant un an, Élodie Fonnard, chanteuse lyrique et parisienne, a accueilli chez elle et pris soin d'Ahmad, jeune Afghan réfugié en France. Devant la caméra, Élodie et Ahmad rejouent leur vie commune et le partage de leurs cultures respectives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Blaise Harrison",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 33006,
+          "ordre": 1,
+          "dateHeure": "2020-02-10T21:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2170,
+          "idEvenement": 21452,
+          "typeEvenement": 13,
+          "idFilm": 141960,
+          "art": "Les",
+          "titre": "Particules",
+          "titreVo": "",
+          "realisateurs": "Blaise Harrison",
+          "annee": 2018,
+          "pays": "France-Suisse",
+          "duree": 98,
+          "version": "VF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Tandis que P.A. et sa bande vivent leur dernière année au lycée, celui-ci commence à observer des phénomènes étranges, des modifications dans l'environnement, de façon imperceptible d'abord, puis c'est tout son monde qui semble basculer..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Jayro Bustamante",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32400,
+          "ordre": 1,
+          "dateHeure": "2020-01-13T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2171,
+          "idEvenement": 21453,
+          "typeEvenement": 13,
+          "idFilm": 143105,
+          "art": "La",
+          "titre": "Llorona",
+          "titreVo": "",
+          "realisateurs": "Jayro Bustamante",
+          "annee": 2019,
+          "pays": "Guatemala",
+          "duree": 0,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Selon la légende, la Llorona est un fantôme qui cherche et pleure ses enfants. Le général responsable du génocide des mayas est hanté par elle : est-elle venue punir celui que la justice n'a pas condamné ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Judith Davis",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32615,
+          "ordre": 1,
+          "dateHeure": "2020-02-17T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2172,
+          "idEvenement": 21454,
+          "typeEvenement": 13,
+          "idFilm": 140933,
+          "titre": "Tout ce qu'il me reste de la révolution",
+          "titreVo": "",
+          "realisateurs": "Judith Davis",
+          "annee": 2017,
+          "pays": "France",
+          "duree": 88,
+          "version": "VF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Que reste-t-il de la révolution ? En colère et déterminée, Angèle se bat contre la malédiction de sa génération : être né à l'heure de la déprime politique mondiale. Tantôt Don Quichotte, tantôt Bridget Jones, Angèle tente de trouver un équilibre..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Carte blanche à Blink Blank",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32572,
+          "ordre": 3,
+          "dateHeure": "2020-02-10T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2181,
+          "idEvenement": 21487,
+          "typeEvenement": 13,
+          "idFilm": 143182,
+          "art": "The",
+          "titre": "Doll's Breath",
+          "titreVo": "",
+          "realisateurs": "Stephen Quay, Timothy Quay",
+          "annee": 2019,
+          "pays": "Grande-Bretagne-Japon-Allemagne",
+          "duree": 21,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Craignant de perdre sa femme, Horacio en crée une réplique, qu'il appelle Hortensia. Mais tout ne se passe pas comme prévu..."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film sous réserve"
+            }
+          ]
+        },
+        {
+          "idSeance": 32572,
+          "ordre": 4,
+          "dateHeure": "2020-02-10T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2181,
+          "idEvenement": 21487,
+          "typeEvenement": 13,
+          "idFilm": 143181,
+          "titre": "Movements",
+          "titreVo": "",
+          "realisateurs": "Dahee Jeong",
+          "annee": 2019,
+          "pays": "Corée",
+          "duree": 10,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En 10 minutes, le baobab africain pousse de 0,008 mm, le lévrier, chien le plus rapide du monde, peut parcourir 12 km et la Terre parcourt 18 000 km autour du soleil. Mouvements est un film d'animation de 10 minutes que j'ai dessiné à raison de 2 secondes d'animation par jour. Nous marchons, regardons, travaillons, courons et nous arrêtons tous ensemble."
+            }
+          ]
+        },
+        {
+          "idSeance": 32572,
+          "ordre": 5,
+          "dateHeure": "2020-02-10T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2181,
+          "idEvenement": 21487,
+          "typeEvenement": 13,
+          "idFilm": 143183,
+          "titre": "Physique de la tristesse",
+          "titreVo": "",
+          "realisateurs": "Theodore Ushev",
+          "annee": 2019,
+          "pays": "Canada",
+          "duree": 26,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un inconnu navigue à travers ses souvenirs de jeunesse en Bulgarie, lesquels le ramènent à la mélancolie et au déracinement croissants qui plombent son existence d'adulte au Canada."
+            }
+          ]
+        },
+        {
+          "idSeance": 32572,
+          "ordre": 2,
+          "dateHeure": "2020-02-10T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2181,
+          "idEvenement": 21487,
+          "typeEvenement": 13,
+          "idFilm": 143203,
+          "titre": "Story",
+          "titreVo": "",
+          "realisateurs": "Jola Bankowska",
+          "annee": 2019,
+          "pays": "Pologne",
+          "duree": 5,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une réflexion sur l'homme moderne à l'époque où la technologie est omniprésente."
+            }
+          ]
+        },
+        {
+          "idSeance": 32572,
+          "ordre": 1,
+          "dateHeure": "2020-02-10T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2181,
+          "idEvenement": 21487,
+          "typeEvenement": 13,
+          "idFilm": 143202,
+          "titre": "Swatted",
+          "titreVo": "",
+          "realisateurs": "Ismaël Joffroy-Chandoutis",
+          "annee": 2018,
+          "pays": "France",
+          "duree": 22,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Des joueurs en ligne racontent leur difficulté à échapper au swatting, un phénomène de cyberharcèlement qui menace leur vie à chaque partie. Les événements prennent forme à travers des vidéos YouTube et des images vectorielles issues d'un jeu vidéo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Premiers pas",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32443,
+          "ordre": 5,
+          "dateHeure": "2020-01-20T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2182,
+          "idEvenement": 21492,
+          "typeEvenement": 13,
+          "idFilm": 63701,
+          "art": "L'",
+          "titre": "Arche de Noé",
+          "titreVo": "",
+          "realisateurs": "Jean-François Laguionie",
+          "annee": 1966,
+          "pays": "France",
+          "duree": 11,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au début du XXe siècle, une équipe d'explorateurs partent en montagne, à la recherche de l'arche de Noé biblique."
+            }
+          ]
+        },
+        {
+          "idSeance": 32443,
+          "ordre": 1,
+          "dateHeure": "2020-01-20T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2182,
+          "idEvenement": 21492,
+          "typeEvenement": 13,
+          "idFilm": 116774,
+          "titre": "Ce n'est pas un film de cow-boys",
+          "titreVo": "",
+          "realisateurs": "Benjamin Parent",
+          "annee": 2011,
+          "pays": "France",
+          "duree": 12,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Finnegan Oldfield",
+            "Garance Marillier"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "_Le Secret de Brokeback Mountain_ est passé hier soir à la télé. Vincent l'a vu et ça l'a bouleversé. Il profite de la récréation pour raconter le film à Moussa. De l'autre côté du mur, dans les toilettes des filles, Jessica, elle aussi très affectée, en profite pour poser pas mal de questions sur le papa homosexuel de Nadia."
+            }
+          ]
+        },
+        {
+          "idSeance": 32443,
+          "ordre": 2,
+          "dateHeure": "2020-01-20T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2182,
+          "idEvenement": 21492,
+          "typeEvenement": 13,
+          "idFilm": 131549,
+          "art": "L'",
+          "titre": "Enfance d'un chef",
+          "titreVo": "",
+          "realisateurs": "Antoine de Bary",
+          "annee": 2015,
+          "pays": "France",
+          "duree": 15,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Vincent Lacoste",
+            "Félix Moati"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Vincent a 20 ans, c'est un jeune comédien à succès à qui on vient d'offrir le premier rôle dans le film de l'année : le biopic sur la jeunesse de Charles de Gaulle. Au même moment, ses parents partent vivre à Orléans et le poussent à emménager seul."
+            }
+          ]
+        },
+        {
+          "idSeance": 32443,
+          "ordre": 4,
+          "dateHeure": "2020-01-20T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2182,
+          "idEvenement": 21492,
+          "typeEvenement": 13,
+          "idFilm": 104738,
+          "titre": "Il fait beau dans la plus belle ville du monde",
+          "titreVo": "",
+          "realisateurs": "Valérie Donzelli",
+          "annee": 2007,
+          "pays": "France",
+          "duree": 12,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Valérie Donzelli",
+            "Serge Bozon"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Adèle, une jeune trentenaire, décide de rentrer en contact avec Vidal, un musicien qu'elle admire. À sa grande surprise, celui-ci lui répond. Quelques messages sont échangés et une date de rendez-vous est fixée. Avec beaucoup d'enthousiasme, Adèle va à la rencontre de Vidal. Mais il y a une chose qu'elle n'a pas précisée : elle est enceinte."
+            }
+          ]
+        },
+        {
+          "idSeance": 32443,
+          "ordre": 3,
+          "dateHeure": "2020-01-20T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2182,
+          "idEvenement": 21492,
+          "typeEvenement": 13,
+          "idFilm": 143184,
+          "titre": "Poupée",
+          "titreVo": "",
+          "realisateurs": "Jessica Palud",
+          "annee": 2016,
+          "pays": "France",
+          "ageMinimal": null,
+          "generique": [
+            "Jeanne Rosa",
+            "Virgile Bramly"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Chaque soir, « Poupée » écume les sites de rencontres pour enfin trouver l'amour. Après une discussion virtuelle avec un nouvel inconnu, la jeune femme franchit le pas et se rend chez lui en pleine nuit. Comme toujours elle y croit..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Le cinéma d'animation 2020",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 33008,
+          "ordre": 2,
+          "dateHeure": "2020-02-24T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2183,
+          "idEvenement": 21494,
+          "typeEvenement": 13,
+          "idFilm": 143185,
+          "titre": "Chloé Van Herzeele",
+          "titreVo": "",
+          "realisateurs": "Anne-Sophie Girault, Clémence Bouchereau",
+          "annee": 2019,
+          "pays": "France",
+          "duree": 17,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Chloé, une vieille dame, organise des projections dans un espace souterrain. Elle fait visiter à un journaliste ses galeries où s'entrepose sa collection de films argentiques. Au fil de la descente, nous plongeons avec elle dans son univers altéré."
+            }
+          ]
+        },
+        {
+          "idSeance": 33008,
+          "ordre": 6,
+          "dateHeure": "2020-02-24T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2183,
+          "idEvenement": 21494,
+          "typeEvenement": 13,
+          "idFilm": 143200,
+          "titre": "Esperança",
+          "titreVo": "",
+          "realisateurs": "Jeanne Paturle, Cécile Rousset, Benjamin Serero",
+          "annee": 2019,
+          "pays": "France",
+          "duree": 5,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Esperança, quinze ans, vient d'arriver d'Angola avec sa mère. À la gare d'Amiens, elles ne savent pas où dormir et cherchent quelqu'un qui pourrait les aider. Esperança nous raconte son histoire. Parole documentaire, dessins animés."
+            }
+          ]
+        },
+        {
+          "idSeance": 33008,
+          "ordre": 7,
+          "dateHeure": "2020-02-24T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2183,
+          "idEvenement": 21494,
+          "typeEvenement": 13,
+          "idFilm": 143186,
+          "titre": "Flow",
+          "titreVo": "",
+          "realisateurs": "Adriaan Lokman",
+          "annee": 2019,
+          "pays": "Pays-Bas-France",
+          "duree": 14,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        },
+        {
+          "idSeance": 33008,
+          "ordre": 1,
+          "dateHeure": "2020-02-24T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2183,
+          "idEvenement": 21494,
+          "typeEvenement": 13,
+          "idFilm": 143205,
+          "titre": "Marie Boudin",
+          "titreVo": "",
+          "realisateurs": "Margot Bargé",
+          "annee": 2019,
+          "pays": "France",
+          "duree": 9,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Marie Boudin cherche la mer. Elle la cherche en vain, un peu partout, parfois même sous un caillou."
+            }
+          ]
+        },
+        {
+          "idSeance": 33008,
+          "ordre": 8,
+          "dateHeure": "2020-02-24T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2183,
+          "idEvenement": 21494,
+          "typeEvenement": 13,
+          "idFilm": 143197,
+          "titre": "Nuit chérie",
+          "titreVo": "",
+          "realisateurs": "Lia Bertels",
+          "annee": 2018,
+          "pays": "Belgique",
+          "duree": 14,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un ours pense trop et broie du noir ; il n'arrive pas à dormir. Lorsqu'un singe blanc lui propose d'aller manger du miel chez sa tante pour lui changer les idées, une belle et étrange nuit s'ouvre à eux."
+            }
+          ]
+        },
+        {
+          "idSeance": 33007,
+          "ordre": 1,
+          "dateHeure": "2020-02-24T21:15:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2183,
+          "idEvenement": 21511,
+          "typeEvenement": 13,
+          "idFilm": 139440,
+          "art": "Le",
+          "titre": "Procès contre Mandela et les autres",
+          "titreVo": "",
+          "realisateurs": "Nicolas Champeaux, Gilles Porte",
+          "annee": 2017,
+          "pays": "France",
+          "duree": 103,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'histoire de la lutte contre l'apartheid ne retient qu'un seul homme : Nelson Mandela. Il s'est révélé au cours d'un procès historique en 1963 et 1964. Sur le banc des accusés, huit de ses camarades de lutte risquaient aussi la peine de mort. Face à un procureur zélé, ils décident ensemble de transformer leur procès en tribune contre l'apartheid."
+            }
+          ]
+        },
+        {
+          "idSeance": 33008,
+          "ordre": 4,
+          "dateHeure": "2020-02-24T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2183,
+          "idEvenement": 21494,
+          "typeEvenement": 13,
+          "idFilm": 143189,
+          "titre": "Sororelle",
+          "titreVo": "",
+          "realisateurs": "Louise Mercadier, Frédéric Even",
+          "annee": 2019,
+          "pays": "France",
+          "duree": 15,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Trois sœurs doivent affronter un cataclysme : la submersion prochaine des terres où elles vivent par la mer. Face au chaos, l'union sororelle est bouleversée et chacune vit l'imminence de la mort, en son for intérieur, de manière différente."
+            }
+          ]
+        },
+        {
+          "idSeance": 33008,
+          "ordre": 5,
+          "dateHeure": "2020-02-24T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2183,
+          "idEvenement": 21494,
+          "typeEvenement": 13,
+          "idFilm": 143198,
+          "titre": "Sous la canopée",
+          "titreVo": "",
+          "realisateurs": "Bastien Dupriez",
+          "annee": 2019,
+          "pays": "France",
+          "duree": 7,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au cœur des forêts tropicales, arborant leurs plus beaux ramages, des paradisiers chantent et livrent un véritable spectacle. Mais la forêt prend une autre tonalité lorsque la main de l'homme vient perturber cette harmonie et cette richesse."
+            }
+          ]
+        },
+        {
+          "idSeance": 33008,
+          "ordre": 3,
+          "dateHeure": "2020-02-24T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2183,
+          "idEvenement": 21494,
+          "typeEvenement": 13,
+          "idFilm": 143187,
+          "titre": "Symbiosis",
+          "titreVo": "",
+          "realisateurs": "Nadja Andrasev",
+          "annee": 2019,
+          "pays": "Hongrie-France",
+          "duree": 13,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une femme trompée commence à enquêter sur les maîtresses de son mari. Sa jalousie est progressivement remplacée par de la curiosité."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Prix du film singulier 2020",
+      "tri": 4,
+      "items": []
+    }
+  ],
+  "info": {}
+}
