@@ -16,7 +16,15 @@
         "texte": "_Napoléon_, le film hors norme d'Abel Gance (1927), en cours de restauration par La Cinémathèque française avec les laboratoires Éclair et sous la direction de Georges Mourier, a nécessité la mise au point d'une méthodologie et d'un protocole technique sans précédents. Georges Mourier exposera ces différents procédés spécialement adaptés au « cas _Napoléon_ » qu'il a fallu créer, développer et organiser afin que puisse être mis en œuvre ce vaste chantier. Des techniciens et ingénieurs de chez Éclair interviendront pour préciser certains aspects comme les chartes de fixité, de cadre, l'homogénéisation des textures, et tout particulièrement les problèmes colorimétriques spécifiques à la restauration de ce chef-d'œuvre. Cette nouvelle conférence, riche en informations inédites, fait suite à celles tenues par Georges Mourier à La Cinémathèque française (en 2015 et en 2018), portant en un premier temps sur la phase d'expertise, puis sur la reconstruction et les différences entre les versions « Opéra » et « Apollo » du film. **Projections de nombreux documents d'archives papier, photographiques, cinématographiques, et de la séquence des Cordeliers (****_La Marseillaise_****) entièrement restaurée.**"
       }
     ],
-    "sousTitre": "Conférence "
+    "intervenants": [
+      {
+        "nomComplet": "Georges Mourier",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 1
+      }
+    ],
+    "sousTitre": "Conférence de Georges Mourier"
   },
   {
     "idCategorie": 2144,
@@ -32,10 +40,18 @@
       },
       {
         "typeTexte": 156,
-        "texte": "Philippe Binant, ingénieur, ancien élève du Conservatoire National des Arts et Métiers, est directeur technique cinéma du Royal Monceau – Raffles Paris. Il est membre de la Commission Supérieure Technique de l'Image et du Son (CST) et de La Cinémathèque française. Dernières publications : « Introduction au laser : du point de vue de la physique » (_La Lettre_, CST, 164, 9-13, 2017) ; _Éléments d'histoire du cinéma numérique_ (à paraître en 2020)."
+        "texte": "**Philippe Binant**, ingénieur, ancien élève du Conservatoire National des Arts et Métiers, est directeur technique cinéma du Royal Monceau – Raffles Paris. Il est membre de la Commission Supérieure Technique de l'Image et du Son (CST) et de La Cinémathèque française. Dernières publications : « Introduction au laser : du point de vue de la physique » (_La Lettre_, CST, 164, 9-13, 2017) ; _Éléments d'histoire du cinéma numérique_ (à paraître en 2020)."
       }
     ],
-    "sousTitre": "Conférence "
+    "intervenants": [
+      {
+        "nomComplet": "Philippe Binant",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 1
+      }
+    ],
+    "sousTitre": "Conférence de Philippe Binant"
   },
   {
     "idCategorie": 2144,

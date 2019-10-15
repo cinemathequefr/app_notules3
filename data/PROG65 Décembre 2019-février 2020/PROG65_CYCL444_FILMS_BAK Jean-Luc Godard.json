@@ -1,5 +1,6 @@
 [{
-    "titre": "3×3D : Les Trois désastres",
+    "titre": "3Désastres",
+    "titreVo": "3 X 3D : Les trois désastres",
     "idFilm": 136269,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -7,11 +8,11 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Le numérique sera une dictature. » (JLG, 2013)"
+      "texte": "« Le numérique sera une dictature ». (JLG, 2013)"
     }]
   },
   {
-    "titre": "À bout de souffle",
+    "titre": "A bout de souffle",
     "titreVo": "",
     "idFilm": 48837,
     "ageMinimal": null,
@@ -35,7 +36,7 @@
     ]
   },
   {
-    "titre": "À bout de souffle (bande-annonce)",
+    "titre": "A bout de souffle bande-annonce",
     "titreVo": "",
     "idFilm": 143004,
     "ageMinimal": null,
@@ -53,7 +54,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Un deuxième film commence / le même que le premier / et pourtant pas / de l'espèce humaine on passe à la métaphore. » (JLG, 2014)"
+      "texte": "« Un deuxième film commence le même que le premier et pourtant pas de l'espèce humaine on passe à la métaphore » (JLG, 2014)"
     }],
     "generique": [
       "Héloïse Godet",
@@ -71,14 +72,15 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Acceptez la complainte d'un voyageur / Qui poursuivit une princesse / Dans un théâtre / Ah quel malheur » (JLG, 1996)"
+      "texte": "« Acceptez la complainte d'un voyageur Qui poursuivit une princesse Dans un théâtre Ah quel malheur » (JLG, 1996)"
     }],
     "generique": [
       "Jean-Luc Godard"
     ]
   },
   {
-    "titre": "Allemagne, année 90 neuf zéro : Solitudes, un état et des variations",
+    "titre": "Allemagne, année 90 neuf zéro. Solitudes, un état et des variations",
+    "titreVo": "Allemagne, année 90 neuf zéro",
     "idFilm": 57068,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -86,7 +88,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Où l'on voit Lemmy Caution, implanté il y a presque un demi-siècle dans l'Est de l'Allemagne comme \"taupe\" ou \"sleeper\", et qui n'a jamais été utilisé – décider de retourner à l'Ouest – vu désormais la chute du mur de Berlin (triomphe de Marx), vu l'union des deux Allemagnes (le rêve contraire à celui d'une cellule en biologie)... » (JLG, 1991)"
+      "texte": "« Où l'on voit Lemmy Caution, implanté il y a presque un demi-siècle dans l'est de l'Allemagne comme « taupe » ou « sleeper », et qui n'a jamais été utilisé – décider de retourner à l'Ouest – vu désormais la chute du mur de Berlin (triomphe de Marx), vu l'union des deux Allemagnes (le rêve contraire à celui d'une cellule en biologie).. » (JLG, 1991)"
     }],
     "generique": [
       "Eddie Constantine",
@@ -114,7 +116,7 @@
     ]
   },
   {
-    "titre": "Alphaville, une étrange aventure de Lemmy Caution (bande-annonce)",
+    "titre": "Alphaville, une étrange aventure de Lemmy Caution bande-annonce",
     "titreVo": "",
     "idFilm": 142857,
     "ageMinimal": null,
@@ -124,20 +126,16 @@
   },
   {
     "titre": "Armide",
+    "titreVo": "Aria : Enfin il est en ma puissance",
     "idFilm": 79619,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
     "annee": 1986,
     "pays": "Grande-Bretagne",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "« Il semble fait pour l'amour. » (Philippe Quinault, Jean-Baptiste Lully, 1686)"
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Épisode du film collectif _Aria."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "« Il semble fait pour l'amour. » (Philippe Quinault, Jean-Baptiste Lully, 1686)"
+    }],
     "generique": [
       "Marion Peterson",
       "Valérie Allain"
@@ -153,7 +151,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Ce sont des gens réels, et c'est le monde qui fait bande à part, c'est le monde qui se fait du cinéma, qui n'est pas synchrone. » (JLG, 1964)"
+      "texte": "« Ce sont des gens réels, et c'est le monde qui fait bande à part, c'est le monde qui se fait du cinéma, qui n'est pas synchrone. » (JLG,1964)"
     }],
     "generique": [
       "Sami Frey",
@@ -162,7 +160,7 @@
     ]
   },
   {
-    "titre": "Bande à part (bande-annonce)",
+    "titre": "Bande à part bande-annonce",
     "titreVo": "",
     "idFilm": 142856,
     "ageMinimal": null,
@@ -171,7 +169,7 @@
     "pays": "France"
   },
   {
-    "titre": "Bande-annonce pour le festival de Jihlava",
+    "titre": "Bande annonce pour le festival de Jihlava",
     "titreVo": "",
     "idFilm": 142878,
     "ageMinimal": null,
@@ -180,7 +178,7 @@
     "pays": "Suisse"
   },
   {
-    "titre": "British Sounds",
+    "titre": "British sounds",
     "titreVo": "",
     "idFilm": 70930,
     "ageMinimal": null,
@@ -203,7 +201,7 @@
     "pays": "France-Italie",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« C'est l'histoire de deux paysans qui voient arriver les carabiniers. Ils ne viennent pas les arrêter, mais leur apporter une lettre du roi. En fait, c'est un ordre de mobilisation. Ils sont ennuyés, mais les carabiniers leur disent : c'est formidable la guerre, on peut tout faire, on peut tout faire. » (JLG, 1963)"
+      "texte": "« C'est l'histoire de deux paysans qui voient arriver les carabiniers. Ils ne viennent pas les arrêter, mais leur apporter une lettre du roi. En fait, c'est un ordre de mobilisation. Ils sont ennuyés, mais les carabiniers leur disent : c'est formidable la guerre, on peut tout faire, on peut tout faire. » (JLG, DP, 1963)"
     }],
     "generique": [
       "Marino Masé",
@@ -212,7 +210,7 @@
     ]
   },
   {
-    "titre": "Carabiniers (bande-annonce)",
+    "titre": "Carabiniers bande-annonce",
     "art": "Les",
     "titreVo": "",
     "idFilm": 142853,
@@ -222,7 +220,8 @@
     "pays": "France"
   },
   {
-    "titre": "Changer d'image : Lettre à la bien-aimée",
+    "titre": "Changer d'image. Lettre à la bien-aimée",
+    "titreVo": "Changer d'image",
     "idFilm": 79611,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -231,9 +230,6 @@
     "textes": [{
       "typeTexte": 9,
       "texte": "« Quand la gauche aura le pouvoir, est-ce que la télévision aura toujours aussi peu de rapport avec les gens ? » (JLG, 1977)"
-    }, {
-      "typeTexte": 99,
-      "texte": "Épisode de la série _Le Changement à plus d'un titre_."
     }],
     "generique": [
       "Jean-Luc Godard"
@@ -269,7 +265,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Ces jeunes gens représentent, comme autrefois les personnages des _Bas-fonds_ de Gorki, 5 niveaux particuliers de la société. » (JLG, 1967)"
+      "texte": "« Ces jeunes gens représentent, comme autrefois les personnages des _Bas-Fonds_ de Gorki, 5 niveaux particuliers de la société. » (JLG, DP, 1967)"
     }],
     "generique": [
       "Anne Wiazemsky",
@@ -279,7 +275,7 @@
     ]
   },
   {
-    "titre": "Chinoise (bande-annonce)",
+    "titre": "Chinoise bande-annonce",
     "art": "La",
     "titreVo": "",
     "idFilm": 142858,
@@ -302,12 +298,13 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Films numérisés par ISKRA et la Cinémathèque française au laboratoire Hiventy."
+        "texte": "Films numérisés par ISKRA et La Cinémathèque française au laboratoire Hiventy."
       }
     ]
   },
   {
-    "titre": "Cinéastes de notre temps : La Nouvelle Vague par elle-même, parties 1 et 2",
+    "titre": "Cinéastes de notre temps : La Nouvelle Vague par elle-même – parties 1 et 2 TV",
+    "titreVo": "",
     "idFilm": 143005,
     "ageMinimal": null,
     "realisateurs": "André S. Labarthe, Robert Valey",
@@ -319,7 +316,7 @@
     }]
   },
   {
-    "titre": "Cinéastes de notre temps : Le Dinosaure et le bébé",
+    "titre": "Cinéastes de notre temps : Le Dinosaure et le bébé TV",
     "titreVo": "",
     "idFilm": 86918,
     "ageMinimal": 0,
@@ -348,9 +345,9 @@
     ]
   },
   {
-    "titre": "Contestation : L'Amour",
+    "titre": "Contestation : L'amour",
     "art": "La",
-    "titreVo": "Amore e rabbia : L'Amore",
+    "titreVo": "Amore e rabbia : L'amore",
     "idFilm": 71006,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard",
@@ -389,11 +386,11 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Tous les corps ensemble et tous les esprits ensemble et toutes leurs productions ne valent pas le moindre mouvement de charité. Cela est d'un ordre infiniment plus élevé. » (Blaise Pascal / JLG)"
+      "texte": "« « Tous les corps ensemble et tous les esprits ensemble et toutes leurs productions ne valent pas le moindre mouvement de charité. Cela est d'un ordre infiniment plus élevé. » (B. Pascal/JLG)"
     }]
   },
   {
-    "titre": "De l'origine du XXIe siècle",
+    "titre": "De l'origine du XXIème siècle",
     "titreVo": "",
     "idFilm": 77379,
     "ageMinimal": null,
@@ -419,7 +416,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« C'est pas mieux que du Alan Parker, peut-être un peu, mais pas vraiment. » (JLG, _Hard & Soft_, 1985)"
+      "texte": "« C'est pas mieux que du Alan Parker, peut-être un peu, mais pas vraiment. » (JLG, Hard & Soft, 1985)"
     }],
     "generique": [
       "Nathalie Baye",
@@ -437,7 +434,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Aujourd'hui / on dit un vieux film / on ne dit pas un vieux livre / si tu dis un vieux livre / ça veut dire livre / en mauvais état » (JLG, 1995)"
+      "texte": "« Aujourd'hui on dit un vieux film on ne dit pas un vieux livre si tu dis un vieux livre ça veut dire livre en mauvais état » (JLG, 1995)"
     }]
   },
   {
@@ -450,11 +447,11 @@
     "pays": "France",
     "textes": [{
         "typeTexte": 9,
-        "texte": "« ELLE, la cruauté du néo-capitalisme. ELLE, la mort de la beauté moderne. ELLE, la Gestapo des structures. » (JLG, 1966)"
+        "texte": "« ELLE, la cruauté du néo-capitalisme. ELLE, la mort de la beauté moderne. ELLE, la gestapo des structures. » (JLG, DP, 1966)"
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par Argos Films avec le soutien du CNC aux Laboratoire Eclair et L.E. Diapason."
+        "texte": "Restauré par Argos Films, avec le soutien du CNC aux Laboratoire Eclair et L.E. Diapason."
       }
     ],
     "generique": [
@@ -464,7 +461,7 @@
     ]
   },
   {
-    "titre": "Deux ou trois choses que je sais d'elle (bande-annonce)",
+    "titre": "Deux ou trois choses que je sais d'elle bande-annonce",
     "titreVo": "",
     "idFilm": 142869,
     "ageMinimal": null,
@@ -473,7 +470,7 @@
     "pays": "France"
   },
   {
-    "titre": "Disprezzo",
+    "titre": "Disprezzo (version Carlo Ponti)",
     "art": "Il",
     "titreVo": "",
     "idFilm": 143029,
@@ -483,7 +480,7 @@
     "pays": "Italie",
     "textes": [{
       "typeTexte": 9,
-      "texte": "La version du _Mépris_ sortie en Italie par Carlo Ponti, entièrement doublée, privée de plusieurs séquences et de la musique d'Antoine Duhamel, à elle seule justifie la politique des auteurs."
+      "texte": "La version du Mépris sortie en Italie par Carlo Ponti, entièrement doublée, privée de plusieurs séquences et de la musique d'Antoine Duhamel, à elle seule justifie la Politique des Auteurs."
     }]
   },
   {
@@ -496,7 +493,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« MD : – Alors on commence ? JLG : – On a déjà commencé. »"
+      "texte": "« MD : – Alors on commence ? JLG : On a déjà commencé. »"
     }]
   },
   {
@@ -513,7 +510,7 @@
     }]
   },
   {
-    "titre": "Éloge de l'amour",
+    "titre": "Eloge de l'amour",
     "titreVo": "",
     "idFilm": 74022,
     "ageMinimal": null,
@@ -522,7 +519,7 @@
     "pays": "Suisse-France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Tout s'accomplit en 2 jours par des conversations des uns avec les autres. La vraie question est de savoir si une superproduction américaine a le droit de s'emparer des légendes des autres. » (JLG, 2001)"
+      "texte": "« Tout s'accomplit en 2 jours par des conversations des uns avec les autres. La vraie question est de savoir si une superproduction américaine a le droit de s'emparer des légendes des autres. » (JLG, DP, 2001)"
     }],
     "generique": [
       "Bruno Putzulu",
@@ -531,7 +528,7 @@
     ]
   },
   {
-    "titre": "Éloge de l'amour (bande-annonce)",
+    "titre": "Eloge de l'amour bande-annonce",
     "titreVo": "",
     "idFilm": 142867,
     "ageMinimal": null,
@@ -550,7 +547,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« La guerre ne devient honte, l'épée ne devient poignard que lorsqu'elle assassine le droit, le progrès, la raison, la civilisation, la vérité. Alors, guerre civile ou guerre étrangère, elle est inique, elle s'appelle le crime. » (Victor Hugo / JLG)"
+      "texte": "« La guerre ne devient honte, l'épée ne devient poignard que lorsqu'elle assassine le droit, le progrès, la raison, la civilisation, la vérité alors guerre civile ou guerre étrangère, elle est inique, elle s'appelle le crime » (V. Hugo/JLG)"
     }]
   },
   {
@@ -564,10 +561,10 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« bienvenue / camarade Medvedkin / camarade Paradjanov / entrez / camarade Tarkovsky /bienvenue, entrez / les icônes / la métamorphose / la fiction » (JLG, 1993)"
+      "texte": "« bienvenue camarade Medvedkin camarade Paradjanov entrez camarade Tarkovsky bienvenue, entrez les icônes la métamorphose la fiction » (JLG, 1993)"
     }],
     "generique": [
-      "László Szabó",
+      "Laszlo Szabo",
       "Jean-Luc Godard",
       "Bernard Eisenschitz",
       "André S. Labarthe"
@@ -596,7 +593,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Début 2010, Jean-Luc Godard tourne _Film socialisme_ incognito à bord du _Concordia_. Trois ans plus tard, le même paquebot sombre dans la Méditerranée. _Film catastrophe_ mène l'enquête."
+      "texte": "« Début 2010, JL Godard tourne Film Socialisme incognito à bord du Concordia. Trois ans plus tard, le même paquebot sombre dans la Méditerranée. Film Catastrophe mène l'enquête. » (P. Grivas, 2018)"
     }]
   },
   {
@@ -609,7 +606,7 @@
     "pays": "France-Suisse",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Nous travaillons dans la nuit / Nous faisons ce que nous pouvons / Nous donnons ce que nous avons » (JLG, 2010)"
+      "texte": "« Nous travaillons dans la nuit Nous faisons ce que nous pouvons Nous donnons ce que nous avons » (JLG, 2010)"
     }],
     "generique": [
       "Catherine Tanvier",
@@ -618,7 +615,7 @@
     ]
   },
   {
-    "titre": "Film socialisme (film-annonce 1)",
+    "titre": "Film socialisme – Film annonce 1",
     "titreVo": "",
     "idFilm": 142879,
     "ageMinimal": null,
@@ -627,7 +624,7 @@
     "pays": "France"
   },
   {
-    "titre": "Film socialisme (film-annonce 2)",
+    "titre": "Film socialisme – Film annonce 2",
     "titreVo": "",
     "idFilm": 142880,
     "ageMinimal": null,
@@ -636,7 +633,7 @@
     "pays": "France"
   },
   {
-    "titre": "Film socialisme (film-annonce 3)",
+    "titre": "Film socialisme – Film annonce 3",
     "titreVo": "",
     "idFilm": 142881,
     "ageMinimal": null,
@@ -645,7 +642,7 @@
     "pays": "France"
   },
   {
-    "titre": "Film socialisme (film-annonce 4)",
+    "titre": "Film socialisme – Film annonce 4",
     "titreVo": "",
     "idFilm": 142882,
     "ageMinimal": null,
@@ -654,7 +651,7 @@
     "pays": "France"
   },
   {
-    "titre": "Film socialisme (film-annonce 5)",
+    "titre": "Film socialisme – Film annonce 5",
     "titreVo": "",
     "idFilm": 142883,
     "ageMinimal": null,
@@ -663,7 +660,7 @@
     "pays": "France"
   },
   {
-    "titre": "Film socialisme (film-annonce 6)",
+    "titre": "Film socialisme – Film annonce 6",
     "titreVo": "",
     "idFilm": 142884,
     "ageMinimal": null,
@@ -678,10 +675,14 @@
     "ageMinimal": null,
     "realisateurs": "Gérard Fromanger",
     "annee": 1968,
-    "pays": "France"
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Texte à saisir"
+    }]
   },
   {
-    "titre": "For Ever Mozart",
+    "titre": "For ever Mozart",
     "titreVo": "",
     "idFilm": 59925,
     "ageMinimal": null,
@@ -690,7 +691,7 @@
     "pays": "France-Suisse",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Quatre films qui n'en font pas forcément un, tels les murs seuls d'une maison. Théâtre. _On ne pas badine pas avec l'amour_ à Sarajevo. Le film de l'intranquillité. For Ever Mozart. » (JLG, 1996)"
+      "texte": "« Quatre films qui n'en font pas forcément un, tels les murs seuls d'une maison. Théâtre. ON ne pas badine pas avec l'amour à Sarajevo. Le film de l'intranquillité. For Evert Mozart. » (JLG, DP, 1996)"
     }],
     "generique": [
       "Madeleine Assas",
@@ -699,7 +700,7 @@
     ]
   },
   {
-    "titre": "For Ever Mozart (bande-annonce)",
+    "titre": "For ever Mozart bande-annonce",
     "titreVo": "",
     "idFilm": 142877,
     "ageMinimal": null,
@@ -708,7 +709,7 @@
     "pays": "France"
   },
   {
-    "titre": "Français vus par... : Le Dernier mot",
+    "titre": "Français vus par... : Le dernier mot",
     "art": "Les",
     "titreVo": "",
     "idFilm": 79623,
@@ -718,176 +719,116 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Il reste trois civils à fusiller, et si on le fait, après, on n'aura plus de munitions. » (JLG, 1988)"
+      "texte": "« Il reste trois civils à fusiller, et si on le fait après, on n'aura plus de munitions. » (JLG, 1988)"
     }]
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 1 : Obscur/Chimie",
+    "titre": "France, tour, détour, deux enfants – Episode 1 : Obscur/Chimie",
     "titreVo": "",
     "idFilm": 143130,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ],
-    "textes": [{
-      "type": 9,
-      "texte": "« Heureusement pour nous que G. Bruno avait des yeux pour voir, peut-être déjà entrouverts par les essais de Niepce, Daguerre, Cros, Lumière et Cie, d'où son livre constellé d'images qui éclairent un texte de façon nécessaire et suffisante. » (JLG)"
-    }]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 10 : Roman/Economie",
+    "titre": "France, tour, détour, deux enfants – Episode 10 : Roman/Economie",
     "titreVo": "",
     "idFilm": 143139,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 11 : Réalité/Logique",
+    "titre": "France, tour, détour, deux enfants – Episode 11 : Réalité/Logique",
     "titreVo": "",
     "idFilm": 143140,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 12 : Rêve/Morale",
+    "titre": "France, tour, détour, deux enfants – Episode 12 : Rêve/Morale",
     "titreVo": "",
     "idFilm": 143141,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 2 : Lumière/Physique",
+    "titre": "France, tour, détour, deux enfants – Episode 2 : Lumière/Physique",
     "titreVo": "",
     "idFilm": 143131,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 3 : Connu/Géométrie/Géographie",
+    "titre": "France, tour, détour, deux enfants – Episode 3 : Connu/Géométrie/Géographie",
     "titreVo": "",
     "idFilm": 143132,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 4 : Inconnu/Technique",
+    "titre": "France, tour, détour, deux enfants – Episode 4 : Inconnu/Technique",
     "titreVo": "",
     "idFilm": 143133,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 5 : Impression/Dictée",
+    "titre": "France, tour, détour, deux enfants – Episode 5 : Impression/Dictée",
     "titreVo": "",
     "idFilm": 143134,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ],
-    "textes": [{
-      "type": 9,
-      "texte": "« Rien à juger, rien à prouver, rien qu'à montrer et à organiser l'écoute et la vision : la légende d'un siècle de France. Non pas le temps perdu, mais le temps souvent durement gagné (et le spectateur d'aujourd'hui sentira l'émission comme un pré/sentiment de sa journée). » (JLG)"
-    }]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 6 : Expression/Français",
+    "titre": "France, tour, détour, deux enfants – Episode 6 : Expression/Français",
     "titreVo": "",
     "idFilm": 143135,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 7 : Violence/Grammaire",
+    "titre": "France, tour, détour, deux enfants – Episode 7 : Violence/Grammaire",
     "titreVo": "",
     "idFilm": 143136,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 8 : Désordre/Calcul",
+    "titre": "France, tour, détour, deux enfants – Episode 8 : Désordre/Calcul",
     "titreVo": "",
     "idFilm": 143137,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ]
+    "pays": "France"
   },
   {
-    "titre": "France, tour, détour, deux enfants, épisode 9 : Pouvoir/Musique",
+    "titre": "France, tour, détour, deux enfants – Episode 9 : Pouvoir/Musique",
     "titreVo": "",
     "idFilm": 143138,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1978,
-    "pays": "France",
-    "generique": [
-      "Camille Virolleaud",
-      "Arnaud Martin"
-    ],
-    "textes": [{
-      "type": 9,
-      "texte": "« Le son et l'image, comme l'aiguille et le fil, pour broder l'histoire des choses et des leçons apprises et des leçons oubliées. » (JLG)"
-    }]
+    "pays": "France"
   },
   {
     "titre": "Gai savoir",
@@ -926,7 +867,7 @@
     ]
   },
   {
-    "titre": "Godard-Sollers : l'entretien",
+    "titre": "Godard-Sollers : L'entretien",
     "titreVo": "",
     "idFilm": 141457,
     "ageMinimal": null,
@@ -935,11 +876,12 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« On est le 21 novembre 1984. Le 21, c'est le jour de la Présentation de Marie au Temple ». (Philippe Sollers, 1984)"
+      "texte": "« On est le 21 novembre 1984. Le 21, c'est le jour de la présentation de Marie au Temple ». (Philippe Sollers, 1984)"
     }]
   },
   {
-    "titre": "Grandeur et décadence d'un petit commerce de cinéma",
+    "titre": "Grandeur et décadence d'un petit commerce de cinéma révélées par la recherche des acteurs dans un film de télévision publique d'après un vieux roman de J. H. Chase",
+    "titreVo": "Grandeur et décadence d'un petit commerce de cinéma",
     "idFilm": 123593,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -947,7 +889,7 @@
     "pays": "France-Suisse",
     "textes": [{
       "typeTexte": 9,
-      "texte": "_Grandeur et décadence d'un petit commerce de cinéma révélées par la recherche des acteurs dans un film de télévision publique d'après un vieux roman de J. H. Chase_. « Est-ce que vous croyez qu'on cessera enfin de dire les choses et qu'on pourra enfin les voir, ces pauvres choses ? » (Jean-Pierre Mocky / Jean Almareyda)"
+      "texte": "« Est-ce que vous croyez qu'on cessera enfin de dire les choses et qu'on pourra enfin les voir, ces pauvres choses ? » (Jean-Pierre Mocky/Jean Almareyda)"
     }],
     "generique": [
       "Jean-Pierre Léaud",
@@ -974,7 +916,7 @@
     ]
   },
   {
-    "titre": "Hélas pour moi (bande-annonce)",
+    "titre": "Hélas pour moi bande-annonce",
     "titreVo": "",
     "idFilm": 142876,
     "ageMinimal": null,
@@ -983,15 +925,21 @@
     "pays": "France"
   },
   {
-    "titre": "Histoire(s) du cinéma, chapitre 2b : Fatale beauté",
+    "titre": "Histoire(s) du cinéma – Chapitre 1A-1B",
+    "titreVo": "Histoire(s) du cinéma : Fatale beauté",
     "idFilm": 74770,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
     "annee": 1989,
-    "pays": "France"
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "**1A** **_Toutes les histoires_** (51') **1B** **_Une histoire seule_** (42') « le cinéma ne pleure pas sur nous il ne nous réconforte pas puisqu'il est avec nous puisqu'il est nous-mêmes » (JLG)"
+    }]
   },
   {
-    "titre": "Histoire(s) du cinéma, chapitre 4a : Le Contrôle de l'univers",
+    "titre": "Histoire(s) du cinéma – Chapitre 4A-4B",
+    "titreVo": "Histoire(s) du cinéma : Le contrôle de l'univers",
     "idFilm": 74772,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -999,19 +947,24 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« et il est là / quand nous sommes morts / et que notre cadavre / tend le suaire / aux bras de nos enfants / voilà / je suis à vous » (JLG)"
+      "texte": "**4A** **_Le Contrôle de l'Univers_** (27') **4B** **_Les Signes parmi nous_** (37') « et il est là quand nous sommes morts et que notre cadavre tend le suaire aux bras de nos enfants voilà je suis à vous » (JLG)"
     }]
   },
   {
-    "titre": "Histoire(s) du cinéma, chapitre 3a : La Monnaie de l'absolu",
+    "titre": "Histoire(s) du cinéma – Chapitres 2A-2B-3A-3B",
+    "titreVo": "Histoire(s) du cinéma : La monnaie de l'absolu",
     "idFilm": 74771,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
     "annee": 1989,
-    "pays": "France"
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "**2A** **_Seul le cinéma_** (26') **2B** **_Fatale beauté_** (28') **3A** **_La Monnaie de l'absolu_** (26') **3B** **_Une vague nouvelle_** (27') « il est encore là quand nous sommes vieux que nous regardons fixement du côté de la nuit qui vient » (JLG)"
+    }]
   },
   {
-    "titre": "Histoire(s) du cinéma, chapitre 4b : Les Signes parmi nous",
+    "titre": "Histoire(s) du cinéma : Les signes parmi nous",
     "titreVo": "",
     "idFilm": 74773,
     "ageMinimal": null,
@@ -1020,33 +973,25 @@
     "pays": "France"
   },
   {
-    "titre": "Histoire(s) du cinéma, chapitre 2a : Seul le cinéma",
+    "titre": "Histoire(s) du cinéma : Seul le cinéma",
     "titreVo": "",
     "idFilm": 74774,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard",
     "annee": 1989,
-    "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "« il est encore là / quand nous sommes vieux / que nous regardons fixement / du côté de la nuit / qui vient » (JLG)"
-    }]
+    "pays": "France"
   },
   {
-    "titre": "Histoire(s) du cinéma, chapitre 1a : Toutes les histoires",
+    "titre": "Histoire(s) du cinéma : Toutes les histoires",
     "titreVo": "",
     "idFilm": 74777,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard",
     "annee": 1989,
-    "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "« le cinéma ne pleure pas / sur nous / il ne nous réconforte pas / puisqu'il est / avec nous / puisqu'il est / nous-mêmes » (JLG)"
-    }]
+    "pays": "France"
   },
   {
-    "titre": "Histoire(s) du cinéma, chapitre 1b : Une histoire seule",
+    "titre": "Histoire(s) du cinéma : Une histoire seule",
     "titreVo": "",
     "idFilm": 53266,
     "ageMinimal": null,
@@ -1055,7 +1000,7 @@
     "pays": "France"
   },
   {
-    "titre": "Histoire(s) du cinéma, chapitre 3b : Une vague nouvelle",
+    "titre": "Histoire(s) du cinéma : Une vague nouvelle",
     "titreVo": "",
     "idFilm": 74776,
     "ageMinimal": null,
@@ -1074,7 +1019,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Contribution collective à une histoire du cinéma, ce numéro de la collection « Civilisations » participe aussi de la genèse de _Deux ou trois choses que je sais d'elle_ et _La Chinoise_."
+      "texte": "Contribution collective à une histoire du cinéma, ce numéro de la collection « Civilisations » participe aussi de la genèse de _Deux ou trois choses que je sais d'elle_ et _La Chinoise_. (NB)"
     }]
   },
   {
@@ -1087,11 +1032,11 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Ici, c'est une famille de Français moyens devant leur télévision. Ailleurs, ce sont des combattants palestiniens filmés avant les massacres de Septembre noir. » (JLG, 1976)"
+      "texte": "« Ici, c'est une famille de François moyens devant leur télévision. Ailleurs, ce sont des combattants palestiniens filmés avant les massacres de Septembre noir. » (JLG, 1976)"
     }]
   },
   {
-    "titre": "Il y avait quoi (pour Éric Rohmer)",
+    "titre": "Il y avait quoi (pour Eric Rohmer)",
     "titreVo": "",
     "idFilm": 143021,
     "ageMinimal": null,
@@ -1100,7 +1045,7 @@
     "pays": "Suisse",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Ah, c'est ce qu'on a eu de meilleur, dit Frédéric, oui. » (JLG, 2010)"
+      "texte": "« Ah, c'est ce qu'on a eu de meilleur, dit Frédéric, oui » (JLG, 2010)"
     }]
   },
   {
@@ -1108,7 +1053,7 @@
     "titreVo": "",
     "idFilm": 143009,
     "ageMinimal": null,
-    "realisateurs": "Jean-Paul Török",
+    "realisateurs": "Jean-Paul Torok",
     "annee": 1969,
     "pays": "France",
     "textes": [{
@@ -1129,7 +1074,7 @@
     "pays": "France-Suisse-Grande-Bretagne",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« L'Enfant aux Parents : il faut que je m'occupe des affaires de mon Père. C'est aussi l'histoire d'une fille, Marie, qui se demanderait si un événement surviendrait dans sa vie, proche de l'amour absolu. » (JLG, 1985)"
+      "texte": "« L'Enfant aux Parents : il faut que je m'occupe des affaires de mon Père. C'est aussi l'histoire d'une fille, Marie, qui se demanderait si un événement surviendrait dans sa vie, proche de l'amour absolu. » (JLG, DP, 1985)"
     }],
     "generique": [
       "Myriem Roussel",
@@ -1139,7 +1084,7 @@
     ]
   },
   {
-    "titre": "Je vous salue Marie (bande-annonce)",
+    "titre": "Je vous salue Marie bande-annonce",
     "titreVo": "",
     "idFilm": 142874,
     "ageMinimal": 0,
@@ -1148,7 +1093,7 @@
     "pays": "France"
   },
   {
-    "titre": "Je vous salue, Sarajevo",
+    "titre": "Je vous salue Sarajevo",
     "titreVo": "",
     "idFilm": 103422,
     "ageMinimal": null,
@@ -1157,14 +1102,14 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Il y a la culture, qui est de la règle, il y a l'exception, qui est de l'art. » (JLG)"
+      "texte": "« Il y a la culture, qui est de la règle, il y a l'exception, qui est de l'art ». (JLG)"
     }],
     "generique": [
       "Jean-Luc Godard"
     ]
   },
   {
-    "titre": "Chambre 666 : Jean-Luc Godard",
+    "titre": "Jean-Luc Godard dans Chambre 666 de Wim Wenders",
     "titreVo": "",
     "idFilm": 143015,
     "ageMinimal": null,
@@ -1177,28 +1122,39 @@
     }]
   },
   {
-    "titre": "JLG/JLG, autoportrait de décembre",
+    "titre": "JLG / JLG. Autoportrait de décembre",
+    "titreVo": "JLG JLG",
     "idFilm": 59818,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
     "annee": 1994,
     "pays": "France-Suisse",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "« _JLG/JLG_ est un autoportrait, chose qui me semble impensable à faire au cinéma, mais le cinéma est fait pour penser l'impensable, donc je me suis dévoué. » (JLG, 1995)"
-    }],
+        "typeTexte": 8,
+        "texte": "« _JLG/JLG_ est un autoportrait, chose qui me semble impensable à faire au cinéma, mais le cinéma est fait pour penser l'impensable, donc je me suis dévoué. » Jean-Luc Godard, 1995"
+      },
+      {
+        "typeTexte": 9,
+        "texte": "« C'est un autoportrait et, en principe, ça ne peut être fait au cinéma. C'est quelque chose de propre à la peinture. Je voulais essayer de comprendre ce que signifiait pour moi faire un autoportrait, voir jusqu'où je pouvais aller dans le cinéma et jusqu'où le cinéma pouvait m'accepter. » (JLG, 1990)"
+      }
+    ],
     "generique": [
+      "Jean-Luc Godard",
       "Jean-Luc Godard"
     ]
   },
   {
-    "titre": "JLG/JLG, autoportrait de décembre (bande-annonce)",
+    "titre": "JLG JLG bande-annonce",
     "titreVo": "",
     "idFilm": 142875,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
     "annee": 1994,
-    "pays": "France"
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Texte à saisir"
+    }]
   },
   {
     "titre": "Journal des réalisateurs",
@@ -1214,7 +1170,7 @@
     }]
   },
   {
-    "titre": "Khan Khanne, sélection naturelle",
+    "titre": "Khan Khanne. Sélection naturelle",
     "titreVo": "",
     "idFilm": 143023,
     "ageMinimal": null,
@@ -1227,7 +1183,8 @@
     }]
   },
   {
-    "titre": "King Lear",
+    "titre": "King Lear (version suisse)",
+    "titreVo": "King Lear",
     "idFilm": 56813,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -1235,13 +1192,15 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« King Lear. An Approach. A Clearing. Virtue vs Power. » (JLG, 1987)"
+      "texte": "« King Lear. An Approach. A Clearing. Virtue VS Power. » (JLG, 1987)"
     }],
     "generique": [
       "Leos Carax",
+      "Leos Carax",
+      "Julie Delpy",
       "Julie Delpy"
     ],
-    "adaptation": "D'après la pièce _Le Roi Lear_ de William Shakespeare."
+    "adaptation": "D'après la pièce de théatre _Le roi Lear_ de William Shakespeare et William Shakespeare."
   },
   {
     "titre": "Letter to Jane",
@@ -1253,7 +1212,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Nous ne pouvions pas nous empêcher de remarquer que le texte sous la photo mentait en prétendant que Jane Fonda s'adressait aux habitants de Hanoï. » (JLG, Jean-Pierre Gorin)"
+      "texte": "« Nous ne pouvions pas nous empêcher de remarquer que le texte sous la photo mentait en prétendant que Jane Fonda s'adressait aux habitants de Hanoï. » (JLG/JPG)"
     }],
     "generique": [
       "Jane Fonda",
@@ -1262,7 +1221,8 @@
     ]
   },
   {
-    "titre": "Lettre à Freddy Buache",
+    "titre": "Lettre à Freddy Buache. A propos d'un court métrage sur la ville de Lausanne",
+    "titreVo": "Lettre à Freddy Buache",
     "idFilm": 53158,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -1270,7 +1230,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Lettre à Freddy Buache à propos d'un court métrage sur la ville de Lausanne. « On a donné de l'argent pour un film sur, et ça, c'est un film de. Il n'arrive pas encore à la sur-face. » (JLG, 1981)"
+      "texte": "« On a donné de l'argent pour un film sur, et ça, c'est un film de. Il n'arrive pas encore à la sur-face ». (JLG, 1981)"
     }]
   },
   {
@@ -1283,7 +1243,7 @@
     "pays": "Suisse",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« En tant qu'ancien révolutionnaire, le père ne croyait pas au pouvoir des images, mais à celui des mots. » (JLG, Anne-Marie Miéville, 2002)"
+      "texte": "« En tant qu'ancien révolutionnaire, le père ne croyait pas au pouvoir des images, mais à celui des mots. » (JLG/AMM, 2002)"
     }],
     "generique": [
       "Jean-Pierre Gos",
@@ -1300,17 +1260,21 @@
     "annee": 2017,
     "pays": "Suisse-France",
     "textes": [{
+        "typeTexte": 8,
+        "texte": "« Un film, c'est un échafaudage. C'est un empilement informe dont les pièces finalement s'imbriquent. Mais c'est aussi un échafaud. Un échafaud des idées. On en coupe tout le temps, beaucoup tombent au montage... » Jean-Luc Godard, 2019"
+      },
+      {
         "typeTexte": 9,
-        "texte": "« Un film, c'est un échafaudage. C'est un empilement informe dont les pièces finalement s'imbriquent. Mais c'est aussi un échafaud. Un échafaud des idées. On en coupe tout le temps, beaucoup tombent au montage... » (JLG, 2019)"
+        "texte": "« Et si je lève maintenant les yeux du livre, rien ne sera déconcertant, tout sera grand. Mais dehors est ce que je vis ici dedans, et ici comme là, tout est illimité. » (R.M. Rilke, Le Livre d'Images, 1905)"
       },
       {
         "typeTexte": 99,
-        "texte": "Palme d'or spéciale, Cannes 2018."
+        "texte": "Palme d'or Spéciale, Cannes 2018."
       }
     ]
   },
   {
-    "titre": "Livre d'image (bande-annonce)",
+    "titre": "Livre d'image bande-annonce",
     "art": "Le",
     "titreVo": "",
     "idFilm": 142859,
@@ -1337,7 +1301,7 @@
   },
   {
     "titre": "Luttes en Italie",
-    "titreVo": "Lotte in Italia",
+    "titreVo": "",
     "idFilm": 74755,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Jean-Pierre Gorin",
@@ -1348,7 +1312,8 @@
       "texte": "« Une jeune fille essaye de combattre efficacement la voix de l'idéologie, et comment cette voix s'infiltre dans sa vie. » (JLG, 1970)"
     }],
     "generique": [
-      "Christiana Tullio-Altan",
+      "Christiana Tullio",
+      "Altan",
       "Anne Wiazemsky"
     ]
   },
@@ -1371,7 +1336,7 @@
     ]
   },
   {
-    "titre": "Made in U.S.A. (bande-annonce)",
+    "titre": "Made in U.S.A. bande-annonce",
     "titreVo": "",
     "idFilm": 142863,
     "ageMinimal": null,
@@ -1389,7 +1354,7 @@
     "pays": "France-Suède",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Bien sûr un film interdit aux moins de 18 ans puisqu'il parle d'eux. » (JLG, 1966)"
+      "texte": "« Bien sûr un film interdit aux moins de 18 ans puisqu'il parle d'eux. » (JLG, DP, 1966)"
     }],
     "generique": [
       "Jean-Pierre Léaud",
@@ -1400,7 +1365,7 @@
     "adaptation": "D'après les nouvelles _La Femme de Paul_ et _Le Signe_ de Guy de Maupassant."
   },
   {
-    "titre": "Masculin féminin (bande-annonce)",
+    "titre": "Masculin féminin bande-annonce",
     "titreVo": "",
     "idFilm": 142868,
     "ageMinimal": null,
@@ -1409,7 +1374,8 @@
     "pays": "France"
   },
   {
-    "titre": "Meetin' WA",
+    "titre": "Meetin' WA, ou Meeting Woody Allen",
+    "titreVo": "Meetin' Woody Allen",
     "idFilm": 74768,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -1435,17 +1401,17 @@
     "pays": "France-Italie",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Le sujet du _Mépris_, ce sont des gens qui se regardent et se jugent, puis sont à leur tour regardés et jugés par le cinéma, lequel est représenté par Fritz Lang, en somme la conscience du film. » (JLG, 1963)"
+      "texte": "« Le sujet du Mépris, ce sont des gens qui se regardent et se jugent, puis sont à leur tour regardés et jugés par le cinéma, lequel est représenté par Fritz Lang, en somme la conscience du film. » (JLG, 1963)"
     }],
     "generique": [
       "Brigitte Bardot",
-      "Michel Piccoli",
       "Jack Palance",
-      "Fritz Lang"
+      "Fritz Lang",
+      "Michel Piccoli"
     ]
   },
   {
-    "titre": "Mépris (bande-annonce)",
+    "titre": "Mépris bande-annonce",
     "art": "Le",
     "titreVo": "",
     "idFilm": 142855,
@@ -1464,12 +1430,13 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Où et pourquoi finir un plan ? » (JLG)"
+      "texte": "« Où et pourquoi finir un plan ? » (JLG, 1965-2004)"
     }]
   },
   {
-    "titre": "Monde comme il ne va pas",
+    "titre": "monde comme il ne va pas",
     "art": "Le",
+    "titreVo": "Espoir/Microcosmos ou Le monde comme il ne va pas",
     "idFilm": 142338,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -1477,11 +1444,11 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "À partir de _L'Espoir_ d'André Malraux (1945), _Microcosmos_ de Claude Nuridsany et Marie Pérennou (1996), _Le Monde comme il ne va pas_ de G. K. Chesterton (1910), deux exercices de montage diffusés sur France 2 dans le cadre de l'émission « Le Cercle de Minuit » en janvier 1996."
+      "texte": "À partir de _L'Espoir_, d'André Malraux (1945), _Microcosmos_, de Claude Nuridsanny et Marie Pérennou (1996), _What's Wrong With The World_, de G. K. Chesterton (1910), deux exercices de montage diffusés sur France 2 dans le cadre de l'émission « Le Cercle de Minuit » en janvier 1996."
     }]
   },
   {
-    "titre": "Mouchette (bande-annonce)",
+    "titre": "Mouchette bande-annonce",
     "titreVo": "",
     "idFilm": 143007,
     "ageMinimal": null,
@@ -1499,7 +1466,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Voici les musiques le reste est imposture / Voici le contre-champ le reste est procédure / Et vers le paradis voici l'achèvement / Et voici notre amour et notre entendement. » (JLG, 2004)"
+      "texte": "« Voici les musiques le reste est imposture Voici le contre-champ le reste est procédure Et vers le paradis voici l'achèvement Et voici notre amour et notre entendement. » (JLG, DP, 2004)"
     }],
     "generique": [
       "Sarah Adler",
@@ -1509,7 +1476,7 @@
     ]
   },
   {
-    "titre": "Notre musique (bande-annonce)",
+    "titre": "Notre musique bande-annonce",
     "titreVo": "",
     "idFilm": 142860,
     "ageMinimal": null,
@@ -1526,16 +1493,23 @@
     "annee": 1989,
     "pays": "France-Suisse",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "« Dans un premier temps – l'Ancien Testament – un être humain (un homme) est sauvé de la chute par un autre être humain (une femme). Dans un deuxième temps – le Nouveau Testament – un être humain (une femme) (la même) est sauvée de la chute par un autre être humain (un autre homme). Mais la femme découvre que l'autre homme est aussi le même que le premier, que le deuxième est (encore et toujours) le même que le premier. C'est donc une révélation, et si l'homme a dit le mystère, la femme a révélé le secret. » (JLG, 1990)"
-    }],
+        "typeTexte": 8,
+        "texte": "« S'il n'y avait pas eu Delon, il n'y aurait pas pu avoir du temps pour filmer un ruisseau à égalité, et vous ne l'auriez pas remarqué. Il faut l'étoile, mais l'étoile (les scientifiques le savent), c'est quelque chose qui vient de loin, dont nous ne percevons la lumière qu'en retard. Quelquefois même la lumière de la Lune, nous la recevons avec cinq minutes de retard. Les stars de cinéma, c'est pareil. » Jean-Luc Godard, conférence de presse de _Nouvelle Vague_, Festival de Cannes, 1990"
+      },
+      {
+        "typeTexte": 9,
+        "texte": "« Dans un premier temps – l'Ancien Testament – un être humain (un homme) est sauvé de la chute par un autre être humain (une femme). Dans un deuxième temps – le Nouveau Testament – un être humain (une femme) (la même) est sauvée de la chute par un autre être humain (un autre homme). Mais la femme découvre que l'autre homme est aussi le même que le premier, que le deuxième est (encore et toujours) le même que le premier. C'est donc une révélation, et si l'homme a dit le mystère, la femme a révélé le secret. » (JLG, DP, 1990)"
+      }
+    ],
     "generique": [
       "Alain Delon",
+      "Alain Delon",
+      "Domiziana Giordano",
       "Domiziana Giordano"
     ]
   },
   {
-    "titre": "Nouvelle vague (bande-annonce)",
+    "titre": "Nouvelle vague bande-annonce",
     "titreVo": "",
     "idFilm": 142871,
     "ageMinimal": null,
@@ -1563,7 +1537,7 @@
     ]
   },
   {
-    "titre": "Old Place",
+    "titre": "Old place",
     "art": "The",
     "titreVo": "",
     "idFilm": 94592,
@@ -1586,7 +1560,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Et celui qui retint l'éblouissement général, le multiplie chez tous, du fait de la communication. » (Stéphane Mallarmé / JLG)"
+      "texte": "« Et celui qui retint l'éblouissement général, le multiplie chez tous, du fait de la communication. » (S. Mallarmé/JLG, 1987)"
     }]
   },
   {
@@ -1608,7 +1582,7 @@
     ]
   },
   {
-    "titre": "One P.M.",
+    "titre": "One P. M.",
     "titreVo": "",
     "idFilm": 143010,
     "ageMinimal": null,
@@ -1617,7 +1591,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Ce n'est pas le film que Jean-Luc Godard voulait réaliser, sous le titre de _One American Movie_ (1 AM). Il le nommait plutôt _A Parallel Movie_ (1 PM). » (D. A. Pennebaker)"
+      "texte": "« Ce n'est pas le film que Jean-Luc Godard voulait réaliser, sous le titre de One American Movie (1 AM). Il le nommait plutôt A Parallel Movie (1 PM). » (D. A. Pennebaker)"
     }],
     "generique": [
       "Ami Baraka",
@@ -1652,11 +1626,11 @@
     "pays": "France",
     "textes": [{
         "typeTexte": 9,
-        "texte": "« Pourquoi cet article dans le journal ? » (Brigitte Bardot, 1963)"
+        "texte": "« Pourquoi cet article dans le journal ? » (B. Bardot, 1963)"
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré en 2017 en 2K par Jacques Rozier et la Cinémathèque française, au laboratoire Hiventy, avec le soutien du CNC, de la Cinémathèque suisse, des Archives audiovisuelles de Monaco et d'Extérieur nuit."
+        "texte": "Restauré en 2017, en 2K, par Jacques Rozier et la Cinémathèque française, au laboratoire Hiventy, avec le soutien du CNC, de la Cinémathèque suisse, des Archives audiovisuelles de Monaco et d'Extérieur Nuit."
       }
     ],
     "generique": [
@@ -1675,7 +1649,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« C'est l'histoire que raconte Belmondo dans _Une femme est une femme_. » (JLG, 1965)"
+      "texte": "« C'est l'histoire que raconte Belmondo dans Une femme est une femme. » (JLG, 1965)"
     }],
     "generique": [
       "Joanna Shimkus",
@@ -1694,7 +1668,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Avec Michel Piccoli, Brigitte Bardot a joué. Mais on ne verra jamais ce plan. » (Jacques Rozier)"
+      "texte": "« Avec Michel Piccoli, Brigitte Bardot a joué. Mais on ne verra jamais ce plan. » (J. Rozier)"
     }],
     "generique": [
       "Brigitte Bardot",
@@ -1722,7 +1696,7 @@
     ]
   },
   {
-    "titre": "Passion (bande-annonce)",
+    "titre": "Passion bande-annonce",
     "titreVo": "",
     "idFilm": 142866,
     "ageMinimal": null,
@@ -1731,21 +1705,17 @@
     "pays": "France"
   },
   {
-    "titre": "Passion, le travail et l'amour (introduction à un scénario)",
+    "titre": "Passion, le travail et l'amour : Introduction à un scénario ou Troisième état du scénario du film Passion",
+    "titreVo": "",
     "idFilm": 143014,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard",
     "annee": 1982,
     "pays": "Suisse",
     "textes": [{
-        "typeTexte": 9,
-        "texte": "« Il n'y a pas de loi, au cinéma, c'est pour ça qu'on l'aime encore. » (JLG, 1982)"
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Film également connu sous le titre _Troisième état du scénario du film « Passion »_."
-      }
-    ],
+      "typeTexte": 9,
+      "texte": "« Il n'y a pas de loi, au cinéma, c'est pour ça qu'on l'aime encore. » (JLG, 1982)"
+    }],
     "generique": [
       "Isabelle Huppert",
       "Jerzy Radziwilowicz",
@@ -1773,7 +1743,7 @@
     ]
   },
   {
-    "titre": "Petit soldat (bande-annonce)",
+    "titre": "Petit soldat bande-annonce",
     "art": "Le",
     "titreVo": "",
     "idFilm": 142851,
@@ -1810,17 +1780,13 @@
     "pays": "France-Italie",
     "generique": [
       "Jean-Paul Belmondo",
+      "Jean-Paul Belmondo",
       "Anna Karina",
-      "Raymond Devos",
-      "Dirk Sanders"
-    ],
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "« _Pierrot le fou_ c'est : – Stuart Heisler revu par Raymond Queneau, – Le dernier film romantique, – Le Techniscope héritier de Renoir et Sisley – Le premier film moderne d'avant Griffith. » (JLG, 1965)"
-    }]
+      "Anna Karina"
+    ]
   },
   {
-    "titre": "Pierrot le fou (bande-annonce)",
+    "titre": "Pierrot le fou bande-annonce",
     "titreVo": "",
     "idFilm": 142861,
     "ageMinimal": null,
@@ -1829,7 +1795,7 @@
     "pays": "France"
   },
   {
-    "titre": "Plus belles escroqueries du monde : Le Grand escroc",
+    "titre": "Plus belles escroqueries du monde : Le grand escroc",
     "art": "Les",
     "titreVo": "",
     "idFilm": 48861,
@@ -1857,14 +1823,14 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Clip pour la chanson _Plus haut_ de France Gall."
+      "texte": "Clip pour la chanson « Plus haut », de France Gall."
     }],
     "generique": [
       "France Gall"
     ]
   },
   {
-    "titre": "Plus vieux métier du monde : Anticipation, ou l'amour en l'an 2000",
+    "titre": "Plus vieux métier du monde : Anticipation ou l'amour en l'an 2000",
     "art": "Le",
     "titreVo": "",
     "idFilm": 48863,
@@ -1893,11 +1859,12 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Cet épisode du film collectif _Les Ponts de Sarajevo_ est formé d'un triptyque reprenant _Ecce Homo_ (2006), _Je vous salue, Sarajevo_ (1993) et d'un ajout également intitulé _Le Pont des soupirs_."
+      "texte": "Épisode formé du triptyque _Ecce Homo_, _Je vous salue Sarajevo_ et _Le Pont des soupirs_."
     }]
   },
   {
-    "titre": "Contre l'oubli : Pour Thomas Wainggai",
+    "titre": "Pour Thomas Wainggai",
+    "titreVo": "Contre l'oubli : Thomas Wainggai (Indonésie)",
     "idFilm": 67946,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
@@ -1905,7 +1872,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« J'ai pourtant appris qu'un homme, qui n'est pas un criminel, se trouve chez vous, condamné pour ses idées à vingt ans d'emprisonnement – toute une vie. »"
+      "texte": "« J'ai pourtant appris qu'un homme, qui n'est pas un criminel, se trouve chez vous, condamné pour ses idées à vingt ans d'emprisonnement – toute une vie. » Diffusé en décembre 1991 sur toutes les chaînes françaises sauf TF1."
     }],
     "generique": [
       "André Rousselet"
@@ -1929,7 +1896,7 @@
     "titreVo": "",
     "idFilm": 71050,
     "ageMinimal": null,
-    "realisateurs": "Jean-Luc Godard",
+    "realisateurs": "Jean-Luc Godard, Jean-Henri Roger, Paul Burron",
     "annee": 1969,
     "pays": "France",
     "textes": [{
@@ -1937,7 +1904,7 @@
       "texte": "« Des sons déjà justes parce qu'ils viennent des luttes révolutionnaires. Des images encore fausses parce que produites dans le camp de l'idéologie impérialiste. » (JLG, 1969)"
     }],
     "generique": [
-      "Věra Chytilová",
+      "Vera Chytilová",
       "Jean-Luc Godard"
     ]
   },
@@ -1955,7 +1922,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Lion d'or, Venise, 1983."
+        "texte": "Lion d'Or, Venise, 1983."
       }
     ],
     "generique": [
@@ -1965,7 +1932,7 @@
     ]
   },
   {
-    "titre": "Prénom Carmen (bande-annonce)",
+    "titre": "Prénom Carmen bande-annonce",
     "titreVo": "",
     "idFilm": 142873,
     "ageMinimal": null,
@@ -1982,12 +1949,17 @@
     "annee": 2004,
     "pays": "France",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "_Prière pour refusniks_ : Carabiniers à la rescousse des soldats israéliens refusant de bombarder les civils palestiniens. _Prière (2) pour refusniks_ : Collage pour les soldats israéliens refusant de bombarder les civils palestiniens."
-    }]
+        "typeTexte": 9,
+        "texte": "Prière pour refusniks : 7' Carabiniers à la rescousse des soldats israéliens refusant de bombarder les civils palestiniens."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Prière (2) pour refusniks : 3' Collage pour les soldats israéliens refusant de bombarder les civils palestiniens."
+      }
+    ]
   },
   {
-    "titre": "Publicités Closed",
+    "titre": "Publicité Closed",
     "titreVo": "",
     "idFilm": 142340,
     "ageMinimal": null,
@@ -1996,11 +1968,11 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Deux séries de dix-sept clips de 20 à 30 secondes chacun. « Avant de faire un film, faire des esquisses. En 3 jours, Godard tourne 10 esquisses en vidéo 1 pouce. 5 sont choisies pour passer à la télévision. On apprend à se connaître. \"Ne pensez-vous pas que cette image est un peu... délavée ? – Non. Vous délavez bien vos jeans.\" »"
+      "texte": "Deux séries de dix-sept clips de 20 à 30 secondes chacun. « Avant de faire un film, faire des esquisses. En 3 jours, Godard tourne 10 esquisses en vidéo 1 pouce. 5 sont choisies pour passer à la télévision. On apprend à se connaître. 'Ne pensez-vous pas que cette image est un peu... délavée ? Non, vous délavez bien vos jeans. » (DP, 1988)"
     }]
   },
   {
-    "titre": "Publicités Métamorphojean",
+    "titre": "Publicité Métamorphojean",
     "titreVo": "",
     "idFilm": 142342,
     "ageMinimal": null,
@@ -2013,20 +1985,20 @@
     }]
   },
   {
-    "titre": "Parisienne",
+    "titre": "Publicité Parisienne People",
     "titreVo": "",
     "idFilm": 142343,
     "ageMinimal": null,
-    "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
-    "annee": 1992,
+    "realisateurs": "Jean-Luc Godard",
+    "annee": 1991,
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Réclame de la série « Parisienne People by Famous Directors » (Parisienne People est une marque de cigarettes)."
+      "texte": "Réclame pour la série « Parisienne People by Famous Directors » (Parisienne People est une marque de cigarettes)."
     }]
   },
   {
-    "titre": "Publicité BBNY",
+    "titre": "Publicité pour BBNY",
     "titreVo": "",
     "idFilm": 143013,
     "ageMinimal": null,
@@ -2056,16 +2028,13 @@
     "titreVo": "",
     "idFilm": 142344,
     "ageMinimal": null,
-    "realisateurs": "Jean-Luc Godard, Jean-Pierre Gorin",
+    "realisateurs": "Jean-Luc Godard",
     "annee": 1970,
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
       "texte": "Réclame pour une lotion après-rasage."
-    }],
-    "generique": [
-      "Juliette Berto"
-    ]
+    }]
   },
   {
     "titre": "Puissance de la parole",
@@ -2077,16 +2046,17 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Il est démontrable que chaque mouvement imprimé à l'air doit à la fin agir sur chaque être individuel. » (Edgar Allan Poe / JLG, 1986)"
+      "texte": "« Il est démontrable que chaque mouvement imprimé à l'air doit à la fin agir sur chaque être individuel. » (E.A. Poe/JLG, 1986)"
     }],
     "generique": [
-      "Lydia Andréï",
+      "Lydia Andrei",
       "Jean Bouise",
       "Laurence Côte"
     ]
   },
   {
     "titre": "Quand la gauche aura le pouvoir",
+    "titreVo": "Clip Faut pas rêver/Quand la gauche aura le pouvoir",
     "idFilm": 142335,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -2094,11 +2064,11 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Exercice à partir de la chanson _Faut pas rêver_ de Patrick Juvet (musique : Jean-Michel Jarre), diffusé en 1978 dans l'émission « On ne manque pas d'airs »."
+      "texte": "Exercice à partir de la chanson « Faut pas rêver », de Patrick Juvet (musique : Jean-Michel Jarre), diffusé en 1978 dans l'émission « On ne manque pas d'airs »."
     }],
     "generique": [
-      "Camille",
-      "Anne-Marie Miéville"
+      "Anne-Marie Miéville",
+      "Camille"
     ]
   },
   {
@@ -2111,7 +2081,7 @@
     "pays": "Suisse",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Deux ou trois voyages dans l'univers selon JLG. »"
+      "texte": "« Deux ou trois voyages dans l'univers selon JLG » (F. Aragno)"
     }]
   },
   {
@@ -2125,7 +2095,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Ils nous ont demandé un regard sur eux, levons les yeux, comme Ptolémée et Kepler. Et baissons-les, comme Pasteur. » (Anne-Marie Miéville, 1989)"
+      "texte": "« Ils nous ont demandé un regard sur eux, levons les yeux, comme Ptolémée et Kepler. Et baissons-les, comme Pasteur. » (AMM, 1989)"
     }]
   },
   {
@@ -2151,12 +2121,12 @@
     "pays": "France-Suisse",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« il y aura un vrai tableau de Delacroix, _Femmes d'Alger_, avec son cadre j'imagine doré, et il introduira un peu de réalité. Le mythe, c'est la projection. » (JLG)"
+      "texte": "« il y aura un vrai tableau de Delacroix, Femmes d'Alger, avec son cadre j'imagine doré, et il introduira un peu de réalité. Le mythe, c'est la projection. » (JLG)"
     }]
   },
   {
-    "titre": "RoGoPaG : Le Nouveau monde",
-    "titreVo": "RoGoPaG : Il Nuovo mondo",
+    "titre": "Rogopag : Le Nouveau monde",
+    "titreVo": "Laviamoci il cervello : Il Mondo nuovo",
     "idFilm": 53436,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard",
@@ -2173,6 +2143,7 @@
   },
   {
     "titre": "Sang titre",
+    "titreVo": "Sans titre",
     "idFilm": 143028,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -2193,7 +2164,7 @@
     "pays": "France-Suisse-RFA-Autriche",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Qu'un plan ne suive pas un autre plan (un cadre, disaient Eisenstein et Dovjenko) parce que c'est écrit (_mektoub_) mais parce que le plan qui précède doit se changer dans un autre pour poursuivre son mouvement, comme dans un jeu ou dans une société les gens s'accordent ou pas pour stopper ou continuer un mouvement social. » (JLG, lettre n° 2 à l'avance sur recettes, 1979)"
+      "texte": "« Qu'un plan ne suive pas un autre plan (un cadre disaient Eisenstein et Dovjenko) parce que c'est écrit (mektoub) mais parce que le plan qui précède doit se changer dans un autre pour poursuivre son mouvement, comme dans un jeu ou dans une société les gens s'accordent ou pas pour stopper ou continuer un mouvement social. » (JLG, lettre n°2 à l'Avance sur recettes, 1979)"
     }],
     "generique": [
       "Isabelle Huppert",
@@ -2202,7 +2173,7 @@
     ]
   },
   {
-    "titre": "Sauve qui peut (la vie) (bande-annonce)",
+    "titre": "Sauve qui peut (la vie) bande-annonce",
     "titreVo": "",
     "idFilm": 142870,
     "ageMinimal": null,
@@ -2211,7 +2182,8 @@
     "pays": "France"
   },
   {
-    "titre": "Scénario de Sauve qui peut (la vie) : quelques remarques sur la réalisation et la production du film",
+    "titre": "Scénario de Sauve qui peut (la vie). Quelques remarques sur la réalisation et la production du film",
+    "titreVo": "Scénario de Sauve qui peut (la vie)",
     "idFilm": 79609,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -2219,7 +2191,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Je voudrais ralentir, filmer ce qu'on ne voit pas ordinairement, je vais essayer de vous montrer ça sur une vidéo cassette, pas ralentir exactement, un peu décomposer ce passé dans l'instant où il compose le présent des personnages. » (JLG, lettre n° 1 à l'avance sur recettes, 1979)"
+      "texte": "« Je voudrais ralentir, filmer ce qu'on ne voit pas ordinairement, je vais essayer de vous montrer ça sur une vidéo cassette, pas ralentir exactement, un peu décomposer ce passé dans l'instant où il compose le présent des personnages. » (JLG, lettre n°1 à l'Avance sur recettes, 1979)"
     }]
   },
   {
@@ -2246,7 +2218,7 @@
     "pays": "France-Italie",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« soudain au loin le pas la voix rien puis soudain quelque chose quelque chose puis soudain rien soudain au loin le silence » (Samuel Beckett / JLG, 1961)"
+      "texte": "« soudain au loin le pas la voix rien puis soudain quelque chose quelque chose puis soudain rien soudain au loin le silence » (S. Beckett/JLG, 1961)"
     }],
     "generique": [
       "Eddie Constantine",
@@ -2254,20 +2226,16 @@
     ]
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 1a : Y'a personne",
+    "titre": "Six fois deux, sur et sous la communication – Episode 1a : Y'a personne",
     "titreVo": "",
     "idFilm": 143117,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1976,
-    "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "« Si tu te fais représenter par l'image, comme l'ouvrier par un délégué, c'est comme ça dans la presse, tu te fais baiser. » (JLG, 1976)"
-    }]
+    "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 1b : Louison",
+    "titre": "Six fois deux, sur et sous la communication – Episode 1b : Louison",
     "titreVo": "",
     "idFilm": 143118,
     "ageMinimal": null,
@@ -2276,20 +2244,16 @@
     "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 2a : Leçon de choses",
+    "titre": "Six fois deux, sur et sous la communication – Episode 2a : Leçon de choses",
     "titreVo": "",
     "idFilm": 143119,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1976,
-    "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "« En français, c'est une table de montage. En américain, il y a mot différent, un monteur c'est un éditeur, comme pour les livres. » (JLG, 1976)"
-    }]
+    "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 2b : Jean-Luc",
+    "titre": "Six fois deux, sur et sous la communication – Episode 2b : Jean-Luc",
     "titreVo": "",
     "idFilm": 143120,
     "ageMinimal": null,
@@ -2298,20 +2262,16 @@
     "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 3a : Photos et Cie",
+    "titre": "Six fois deux, sur et sous la communication – Episode 3a : Photos et Cie",
     "titreVo": "",
     "idFilm": 143121,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1976,
-    "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "« J'ai composé, j'ai fait de la composition, il y a des composants – comme en électronique. » (JLG, 1976)"
-    }]
+    "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 3b : Marcel",
+    "titre": "Six fois deux, sur et sous la communication – Episode 3b : Marcel",
     "titreVo": "",
     "idFilm": 143122,
     "ageMinimal": null,
@@ -2320,20 +2280,16 @@
     "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 4a : Pas d'histoires",
+    "titre": "Six fois deux, sur et sous la communication – Episode 4a : Pas d'histoires",
     "titreVo": "",
     "idFilm": 143123,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1976,
-    "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "« Devant qui doit-on parler Devant ceux qui étouffent le vrai Qui paie les costumes Les gangsters. » (JLG, 1976)"
-    }]
+    "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 4b : Nanas",
+    "titre": "Six fois deux, sur et sous la communication – Episode 4b : Nanas",
     "titreVo": "",
     "idFilm": 143124,
     "ageMinimal": null,
@@ -2342,20 +2298,16 @@
     "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 5a : Nous trois",
+    "titre": "Six fois deux, sur et sous la communication – Episode 5a : Nous trois",
     "titreVo": "",
     "idFilm": 143125,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1976,
-    "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "« Interview du mathématicien René Thom sur la notion de catastrophe comme explication générale des phénomènes. » (JLG, 1976)"
-    }]
+    "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 5b : René(e)s",
+    "titre": "Six fois deux, sur et sous la communication – Episode 5b : René(e)s",
     "titreVo": "",
     "idFilm": 143126,
     "ageMinimal": null,
@@ -2364,20 +2316,16 @@
     "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 6a : Avant et après",
+    "titre": "Six fois deux, sur et sous la communication – Episode 6a : Avant et après",
     "titreVo": "",
     "idFilm": 143127,
     "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
     "annee": 1976,
-    "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "« Ça m'intéresse beaucoup si vous parlez de vous, mais parlez de vous, montrez pas mon film après. Parlez de vous pendant une heure, puis montrez une image de _Week-end_ si vous voulez. » (JLG)"
-    }]
+    "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode 6b : Jacqueline et Ludovic",
+    "titre": "Six fois deux, sur et sous la communication – Episode 6b : Jacqueline et Ludovic",
     "titreVo": "",
     "idFilm": 143128,
     "ageMinimal": null,
@@ -2386,7 +2334,7 @@
     "pays": "France"
   },
   {
-    "titre": "Six fois deux, sur et sous la communication, épisode coupé : Claude-Jean Philippe",
+    "titre": "Six fois deux, sur et sous la communication – Episode coupé : Claude-Jean Philippe",
     "titreVo": "",
     "idFilm": 143129,
     "ageMinimal": null,
@@ -2395,7 +2343,7 @@
     "pays": "France"
   },
   {
-    "titre": "Soft and Hard: Soft Talk on a Hard Subject Between Two Friends",
+    "titre": "Soft and hard",
     "titreVo": "",
     "idFilm": 74769,
     "ageMinimal": null,
@@ -2404,7 +2352,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Est-ce que parce que je fais des images au lieu de faire des enfants ça empêche d'être un être humain ? » (JLG, 1985)"
+      "texte": "« Est-ce que parce que je fais des images, au lieu de faire des enfants, ça empêche d'être un être humain ? » (JLG, 1985)"
     }],
     "generique": [
       "Jean-Luc Godard",
@@ -2412,7 +2360,7 @@
     ]
   },
   {
-    "titre": "Soigne ta droite (bande-annonce)",
+    "titre": "Soigne ta droite bande-annonce",
     "titreVo": "",
     "idFilm": 142872,
     "ageMinimal": null,
@@ -2421,7 +2369,8 @@
     "pays": "France"
   },
   {
-    "titre": "Soigne ta droite",
+    "titre": "Soigne ta droite. Une place sur terre",
+    "titreVo": "Soigne ta droite",
     "idFilm": 48867,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -2433,7 +2382,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Prix Louis-Delluc 1987."
+        "texte": "Prix Louis Delluc 1987."
       }
     ],
     "generique": [
@@ -2452,7 +2401,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Le cinéma français crève sous les fausses légendes. » (JLG, 1957)"
+      "texte": "« Le cinéma français crève sous les fausses légendes ». (JLG, 1957)"
     }],
     "generique": [
       "Jean-Claude Brialy",
@@ -2474,11 +2423,13 @@
     }],
     "generique": [
       "Jane Fonda",
+      "Jane Fonda",
+      "Yves Montand",
       "Yves Montand"
     ]
   },
   {
-    "titre": "Tout va bien (bande-annonce)",
+    "titre": "Tout va bien bande-annonce",
     "titreVo": "",
     "idFilm": 142865,
     "ageMinimal": null,
@@ -2488,6 +2439,7 @@
   },
   {
     "titre": "Travaux préparatoires",
+    "titreVo": "Essais pour Adieu au langage",
     "idFilm": 136270,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard, Fabrice Aragno",
@@ -2495,7 +2447,7 @@
     "pays": "Suisse",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Essais 3D pour _Adieu au langage_."
+      "texte": "Essais 3D pour _Adieu au Langage_."
     }]
   },
   {
@@ -2503,12 +2455,12 @@
     "titreVo": "",
     "idFilm": 79603,
     "ageMinimal": null,
-    "realisateurs": "Jean-Luc Godard",
+    "realisateurs": "Jean-Luc Godard, Groupe Dziga Vertov",
     "annee": 1968,
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Conversation entre 3 étudiants de Nanterre et 2 ouvriers de Renault Flins, entrecoupée par d'images des événements de mai 68 pris par les États généraux du cinéma. » (JLG, 1968)"
+      "texte": "« Conversation entre 3 étudiants de Nanterre et 2 ouvriers de Renault-Flins, entrecoupée par d'images des événements de mai 68 pris par les États Généraux du Cinéma. » (JLG, 1968)."
     }]
   },
   {
@@ -2521,10 +2473,10 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Paul Cézanne, le premier peintre qui face à une toile blanche ne savait pas encore ce qu'il allait peindre. » (JLG, 1981)"
+      "texte": "« Paul Cézanne, le premier peintre qui face à une toile blanche ne savait pas encore ce qu'il allait peindre ». (JLG, 1981)"
     }],
     "generique": [
-      "Andreï Kontchalovski",
+      "Andreï Konchalovsky",
       "Vittorio Storaro"
     ]
   },
@@ -2538,7 +2490,7 @@
     "pays": "Suisse",
     "textes": [{
       "typeTexte": 9,
-      "texte": "Bande-annonce pour la Viennale 2008."
+      "texte": "Bande-annonce pour la Viennale 2008"
     }],
     "generique": [
       "André S. Labarthe"
@@ -2573,11 +2525,11 @@
     "pays": "France",
     "textes": [{
         "typeTexte": 9,
-        "texte": "« C'est un regret que la vie ne soit pas en musique... Voilà le sentiment qu'on éprouvait en tournant le film. » (JLG, 1965)"
+        "texte": "« C'est un regret que la vie ne soit pas en musique... voilà le sentiment qu'on éprouvait en tournant le film. » (JLG, 1965)"
       },
       {
         "typeTexte": 99,
-        "texte": "Prix spécial du jury, Berlin, 1961."
+        "texte": "Prix spécial du Jury, Berlin, 1961."
       }
     ],
     "generique": [
@@ -2587,7 +2539,7 @@
     ]
   },
   {
-    "titre": "Une femme est une femme (bande-annonce)",
+    "titre": "Une femme est une femme bande-annonce",
     "titreVo": "",
     "idFilm": 142850,
     "ageMinimal": null,
@@ -2605,7 +2557,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Ceci est l'histoire d'une femme, son histoire très particulière pendant un temps très court, 24 heures exactement. Ce film commence par un baiser : celui qu'échangent, un après-midi, Charlotte et un homme dans un meublé d'un quartier anonyme. Lui est acteur. Elle, rédactrice féminine dans une revue de mode. » (JLG, 1964)"
+      "texte": "« Ceci est l'histoire d'une femme, son histoire très particulière pendant un temps très court, 24 heures exactement. Ce film commence par un baiser : celui qu'échangent, un après-midi, Charlotte et un homme dans un meublé d'un quartier anonyme. Lui est acteur. Elle, rédactrice féminine dans une revue de mode. » (JLG, DP, 1964)"
     }],
     "generique": [
       "Macha Méril",
@@ -2614,7 +2566,7 @@
     ]
   },
   {
-    "titre": "Une femme mariée (bande-annonce)",
+    "titre": "Une femme mariée bande-annonce",
     "titreVo": "",
     "idFilm": 142854,
     "ageMinimal": null,
@@ -2649,7 +2601,7 @@
     "pays": "France-RFA-Italie",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Attention / Tout est dangereux / Tout est divinement merveilleux / Attention au refrain / Il faut être attentif et fort / On n'a pas le temps d'avoir peur de la mort » (Caetano  Veloso, Gilbero Gil, Glauber Rocha / JLG)"
+      "texte": "« Attention Tout est dangereux Tout est divinement merveilleux Attention au refrain Il faut être attentif et fort On n'a pas le temps d'avoir peur de la mort » (C. Veloso, G. Gil, G. Rocha/JLG)"
     }],
     "generique": [
       "Gian Maria Volonté",
@@ -2667,11 +2619,11 @@
     "pays": "France",
     "textes": [{
         "typeTexte": 9,
-        "texte": "« Un - Une / Film - Série / Sur - D'Aventures / La - Qui / Prostitution - Lui / Qui - Font / Raconte - Connaître / Comment - Tous / Une - Les / Jeune - Sentiments / Et - Humains / Jolie - Profonds / Vendeuse - Possibles » (JLG, 1962)"
+        "texte": "« Un Une Film Série Sur D'Aventures La Qui Prostitution Lui Qui Font Raconte Connaître Comment Tous Une Les Jeune Sentiments Et Humains Jolie Profonds Vendeuse Possibles » (JLG, DP, 1962) « Je voudrais retrouver la simplicité du cinéma muet. C'est vers cela que je tends. » (JLG, 1962)"
       },
       {
         "typeTexte": 99,
-        "texte": "Prix spécial du jury, Venise, 1962."
+        "texte": "Prix spécial du Jury, Venise, 1962."
       }
     ],
     "generique": [
@@ -2681,7 +2633,7 @@
     ]
   },
   {
-    "titre": "Vivre sa vie (bande-annonce)",
+    "titre": "Vivre sa vie bande-annonce",
     "titreVo": "",
     "idFilm": 142852,
     "ageMinimal": null,
@@ -2709,7 +2661,8 @@
     ]
   },
   {
-    "titre": "Vrai faux passeport",
+    "titre": "Vrai faux passeport. Fiction documentaire sur des occasions de porter un jugement à propos de la façon de faire des films",
+    "titreVo": "Vrai faux passeport",
     "idFilm": 142347,
     "ageMinimal": 0,
     "realisateurs": "Jean-Luc Godard",
@@ -2717,7 +2670,7 @@
     "pays": "France",
     "textes": [{
       "typeTexte": 9,
-      "texte": "_Vrai faux passeport, fiction documentaire sur des occasions de porter un jugement à propos de la façon de faire des films_. Le titre n'apparaît pas dans le film, où l'on peut lire : « Passeport pour le réel »."
+      "texte": "Le titre n'apparaît pas dans le film, où l'on peut lire : « Passeport pour le réel »."
     }]
   },
   {
@@ -2730,7 +2683,7 @@
     "pays": "France-Italie",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« Nos deux héros, dont on commence à voir la méchanceté et la bêtise, s'enfuient. _Week-end_ est un film d'ethnologue sur un monde imaginaire. » (JLG, 1967)"
+      "texte": "« Nos deux héros, dont on commence à voir la méchanceté et la bêtise, s'enfuient. Week-end est un film d'ethnologue sur un monde imaginaire. » (JLG, DP, 1967)"
     }],
     "generique": [
       "Jean Yanne",
@@ -2739,7 +2692,7 @@
     ]
   },
   {
-    "titre": "Week-end (bande-annonce)",
+    "titre": "Week-end bande-annonce",
     "titreVo": "",
     "idFilm": 142862,
     "ageMinimal": null,

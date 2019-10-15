@@ -1,0 +1,603 @@
+[
+  {
+    "titre": "Adhémar ou le jouet de la fatalité",
+    "titreVo": "",
+    "idFilm": 37690,
+    "ageMinimal": null,
+    "realisateurs": "Fernandel",
+    "annee": 1951,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Adhémar Pomme, ordonnateur des pompes funèbres, a un visage qui provoque l'hilarité. _Guitry, malade, confia la réalisation du film à Fernandel, titulaire du rôle titre, mais s'estimant trahi, lui intenta un procès (qu'il perdit) à l'issue du tournage._"
+      }
+    ],
+    "generique": [
+      "Fernandel",
+      "Andrex",
+      "Marguerite Pierry"
+    ]
+  },
+  {
+    "titre": "Agence matrimoniale",
+    "titreVo": "",
+    "idFilm": 49673,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Paul Le Chanois",
+    "annee": 1951,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A 30 ans, Noël apprend qu'il a hérité d'une agence matrimoniale. Il se découvre alors des talents de conseiller d'âmes esseulées. Lui-même célibataire, il décide d'agir pour son propre compte et de retrouver l'amie d'enfance qu'il a toujours secrètement aimée."
+      }
+    ],
+    "generique": [
+      "Bernard Blier",
+      "Michèle Alfa",
+      "Julien Carette"
+    ]
+  },
+  {
+    "titre": "Amants de Tolède",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 47944,
+    "ageMinimal": null,
+    "realisateurs": "Henri Decoin, Fernando Palacios",
+    "annee": 1952,
+    "pays": "France-Italie-Espagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Fernando de la Cuerva, opposant au régime en place à Tolède, se cache de la police. Inès, sa fiancée, pour le sauver de la mort, accepte de se marier à don Blas, le chef de la police."
+      }
+    ],
+    "generique": [
+      "Alida Valli",
+      "Pedro Armendáriz",
+      "Françoise Arnoul"
+    ],
+    "adaptation": "D'après le roman _Le Coffre et le revenant _ de Stendhal."
+  },
+  {
+    "titre": "Bertrand Cœur-de-Lion",
+    "titreVo": "",
+    "idFilm": 48131,
+    "ageMinimal": null,
+    "realisateurs": "Robert Dhéry",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le garde-chasse Bertrand protège les lapins contre la mort ; mais il court lui-même un grand danger car les bandits rôdent."
+      }
+    ],
+    "generique": [
+      "Robert Dhéry",
+      "Colette Brosset",
+      "Roger Saget"
+    ]
+  },
+  {
+    "titre": "Boniface somnambule",
+    "titreVo": "",
+    "idFilm": 52220,
+    "ageMinimal": null,
+    "realisateurs": "Maurice Labro",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Employé dans un magasin comme détective afin d'éviter les vols, Boniface subit des crises de somnambulisme la nuit qui le transforment en pickpocket."
+      }
+    ],
+    "generique": [
+      "Fernandel",
+      "Yves Deniaud",
+      "Andrex"
+    ]
+  },
+  {
+    "titre": "Cage aux filles",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 47686,
+    "ageMinimal": null,
+    "realisateurs": "Maurice Cloche",
+    "annee": 1949,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Fuyant à Paris, la jeune Micheline se sent très vite seule dans la capitale. Elle se retrouve embarquée dans des mésaventures qui lui vaudront la maison de redressement."
+      }
+    ],
+    "generique": [
+      "Danièle Delorme",
+      "Jacky Flynt",
+      "Louise Lagrange"
+    ]
+  },
+  {
+    "titre": "Cap de l'espérance",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 46698,
+    "ageMinimal": null,
+    "realisateurs": "Raymond Bernard",
+    "annee": 1951,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un avocat rayé du barreau organise un hold-up dans le petit port méditerranéen où il s'est réfugié."
+      }
+    ],
+    "generique": [
+      "Edwige Feuillère",
+      "Franck Villard",
+      "Cosetta Greco"
+    ],
+    "adaptation": "D'après la pièce _Notre peau_ de José-André Lacour."
+  },
+  {
+    "titre": "Casabianca",
+    "titreVo": "",
+    "idFilm": 50553,
+    "ageMinimal": null,
+    "realisateurs": "Georges Péclet",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1942, pour ne pas tomber aux mains des allemands, la flotte française décide de se saborder à Toulon. Le capitaine Jean l'Herminier et son équipage décident alors de s'échapper et de continuer la guerre aux côtés des Alliés."
+      }
+    ],
+    "generique": [
+      "Pierre Dudan",
+      "Paulette Andrieux",
+      "Jean Vilar"
+    ]
+  },
+  {
+    "titre": "Clara de Montargis",
+    "titreVo": "",
+    "idFilm": 47786,
+    "ageMinimal": null,
+    "realisateurs": "Henri Decoin",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Renaud, jeune campeur, rencontre sur sa route la femme qui a hanté son rêve. En rentrant sur Paris, habité par elle, Renaud décide de repartir à sa recherche."
+      }
+    ],
+    "generique": [
+      "Ludmilla Tchérina",
+      "Michel François",
+      "Madeleine Delavaivre"
+    ]
+  },
+  {
+    "titre": "Coiffeur pour dames",
+    "titreVo": "",
+    "idFilm": 53069,
+    "ageMinimal": null,
+    "realisateurs": "Jean Boyer",
+    "annee": 1952,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Tondeur de moutons, Mario rêve de devenir un grand coiffeur pour dames et de monter à la capitale. Son souhait exaucé, et le succès aidant, sa réussite lui tourne cependant la tête."
+      }
+    ],
+    "generique": [
+      "Fernandel",
+      "Blanchette Brunoy",
+      "Renée Devillers"
+    ],
+    "adaptation": "D'après la pièce _Coiffeur pour dames_ de Marcel Gerbidon et Paul Armont."
+  },
+  {
+    "titre": "Dindon",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 46545,
+    "ageMinimal": null,
+    "realisateurs": "Claude Barma",
+    "annee": 1951,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La passion de monsieur Pontagnac pour les femmes lui joue des tours : il est entraîné dans une histoire d'adultère et les scènes de ménage se succèdent."
+      }
+    ],
+    "generique": [
+      "Nadine Alari",
+      "Jacques Charon",
+      "Jacqueline Pierreux"
+    ],
+    "adaptation": "D'après la pièce _Le Dindon_ de Georges Feydeau."
+  },
+  {
+    "titre": "Femmes sont folles",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 48930,
+    "ageMinimal": null,
+    "realisateurs": "Gilles Grangier",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Marguerite s'éprend d'un romancier dont personne ne connait le visage. Jaloux, son mari décide de demander à un ami d'incarner l'homme aimé et d'en dégoûter sa femme. C'est le début d'une longue supercherie."
+      }
+    ],
+    "generique": [
+      "Raymond Rouleau",
+      "Gaby Sylvia",
+      "Robert Arnoux"
+    ],
+    "adaptation": "D'après la pièce _Château historique_ d'Alexandre Bisson et Julien Berr de Turique."
+  },
+  {
+    "titre": "Grande vie",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 51212,
+    "ageMinimal": null,
+    "realisateurs": "Henri Schneider",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jojo, jeune ouvrier de 17 ans, vit avec sa grand-mère en banlieue parisienne. Admiratif de M. Charles qu'il prend pour un grand truand et rêvant d'une vie meilleure, il commence à s'intéresser aux affaires."
+      }
+    ],
+    "generique": [
+      "Henri Nassiet",
+      "Claire Guibert",
+      "Serge Benneteau"
+    ]
+  },
+  {
+    "titre": "Journal d'un curé de campagne",
+    "titreVo": "",
+    "idFilm": 47123,
+    "ageMinimal": 0,
+    "realisateurs": "Robert Bresson",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune prêtre, malade et nouvellement nommé, se heurte à l'incompréhension de ses paroissiens."
+      }
+    ],
+    "generique": [
+      "Claude Laydu",
+      "Nicole Ladmiral",
+      "Martine Lemaire"
+    ]
+  },
+  {
+    "titre": "Ma femme est formidable",
+    "titreVo": "",
+    "idFilm": 53073,
+    "ageMinimal": null,
+    "realisateurs": "André Hunebelle",
+    "annee": 1951,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Raymond pense que sa femme, Sylvia, le trompe. Pour se venger, il simule un amour pour Marguerite, l'épouse infidèle de son ami Gaston. Dès lors, de nombreuses péripéties attendent le quatuor."
+      }
+    ],
+    "generique": [
+      "Sophie Desmarets",
+      "Fernand Gravey",
+      "Simone Valère"
+    ]
+  },
+  {
+    "titre": "Mademoiselle Josette, ma femme",
+    "titreVo": "",
+    "idFilm": 53143,
+    "ageMinimal": null,
+    "realisateurs": "André Berthomieu",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pour conserver son héritage, Josette contracte un mariage blanc avec son parrain. Lors de leur voyage de noces, peu à peu, les deux jeunes époux se mettent cependant à s'aimer."
+      }
+    ],
+    "generique": [
+      "Odile Versois",
+      "Fernand Gravey",
+      "Lysiane Rey"
+    ]
+  },
+  {
+    "titre": "Mains sales",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 52347,
+    "ageMinimal": null,
+    "realisateurs": "Fernand Rivers, Simone Berriau",
+    "annee": 1951,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En Europe centrale, alors que la guerre mondiale éclate, Hugo, jeune bourgeois et fils d'un proche du régime, décide de se révolter. Bon combattant, on lui confie un jour une mission : assassiner Hoederer, un dirigeant qu'il connait bien."
+      }
+    ],
+    "generique": [
+      "Daniel Gélin",
+      "Claude Nollier",
+      "Pierre Brasseur"
+    ]
+  },
+  {
+    "titre": "Maître après Dieu",
+    "titreVo": "",
+    "idFilm": 47424,
+    "ageMinimal": null,
+    "realisateurs": "Louis Daquin",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1938, dans le port de Hambourg, un capitaine sans foi ni loi marchande le transport de passagers juifs jusqu'en Égypte. Ne parvenant pas à accomplir sa mission, le capitaine se refuse cependant à ramener les malheureux en Allemagne."
+      }
+    ],
+    "generique": [
+      "Pierre Brasseur",
+      "Loleh Bellon",
+      "Jean-Pierre Grenier"
+    ]
+  },
+  {
+    "titre": "Massacre en dentelles",
+    "titreVo": "",
+    "idFilm": 49263,
+    "ageMinimal": null,
+    "realisateurs": "André Hunebelle",
+    "annee": 1951,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Grand reporter mais aussi grand séducteur, Georges Masse se montre toujours prêt à partir à l'aventure. Tandis qu'il se trouve à Venise, une bande de gangsters sévit dans les environs. Il décide de mener l'enquête."
+      }
+    ],
+    "generique": [
+      "Raymond Rouleau",
+      "Tilda Thamar",
+      "Bernard La Jarrige"
+    ]
+  },
+  {
+    "titre": "Miracles n'ont lieu qu'une fois",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 46387,
+    "ageMinimal": null,
+    "realisateurs": "Yves Allégret",
+    "annee": 1950,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1939, Claudia et Jérôme tombent éperdument amoureux l'un de l'autre. Mais la guerre va les séparer."
+      }
+    ],
+    "generique": [
+      "Alida Valli",
+      "Jean Marais",
+      "Christine Chesnay"
+    ]
+  },
+  {
+    "titre": "Mon ami le cambrioleur",
+    "titreVo": "",
+    "idFilm": 49824,
+    "ageMinimal": null,
+    "realisateurs": "Henri Lepage",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Abandonné par sa maîtresse, Patrick décide de mettre fin à sa vie. Au même instant, un cambrioleur et sa petite amie surgissent dans sa chambre. Cette rencontre fortuite va changer le cours de leurs destins."
+      }
+    ],
+    "generique": [
+      "Philippe Lemaire",
+      "Françoise Arnoul",
+      "Pierre Louis"
+    ],
+    "adaptation": "D'après la pièce _Mon ami le cambrioleur_ d'André Haguet."
+  },
+  {
+    "titre": "Mon phoque et elles",
+    "titreVo": "",
+    "idFilm": 46879,
+    "ageMinimal": null,
+    "realisateurs": "Pierre Billon",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un diplomate gagne un phoque à une tombola. Sa petite amie ne supporte pas le nouvel arrivant et le quitte, mais il fait rapidement la connaissance de Diana, une Anglaise."
+      }
+    ],
+    "generique": [
+      "Marie Daëms",
+      "François Périer",
+      "Jeanne Fusier-Gir"
+    ]
+  },
+  {
+    "titre": "Orphée",
+    "titreVo": "",
+    "idFilm": 47762,
+    "ageMinimal": null,
+    "realisateurs": "Jean Cocteau",
+    "annee": 1949,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une interprétation moderne du mythe d'Orphée."
+      }
+    ],
+    "generique": [
+      "Jean Marais",
+      "Maria Casarès",
+      "François Périer",
+      "Marie Déa"
+    ]
+  },
+  {
+    "titre": "Peppino et Violetta",
+    "titreVo": "Peppino e Violetta",
+    "idFilm": 42514,
+    "ageMinimal": null,
+    "realisateurs": "Maurice Cloche",
+    "annee": 1950,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Violetta, l'ânesse de Peppino, est malade. Pour l'enfant, seul le saint patron des animaux, Saint Francois d'Assise, est à même de la guérir. Il va alors tout faire, y compris le voyage jusqu'à Rome, pour demander son aide."
+      }
+    ],
+    "generique": [
+      "Vittorio Manunta",
+      "Denis O'Dea",
+      "Guido Celano"
+    ]
+  },
+  {
+    "titre": "Plaisir",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 50429,
+    "ageMinimal": null,
+    "realisateurs": "Max Ophuls",
+    "annee": 1951,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le Masque : afin de poursuivre une jeunesse perdue, un vieillard porte un masque pour aller danser. La Maison Tellier : les pensionnaires d'une maison close accompagnent leur patronne en Normandie pour assister à la communion de sa nièce. Le Modèle : un jeune peintre s'éprend d'un de ses modèles."
+      }
+    ],
+    "generique": [
+      "Jean Galland",
+      "Claude Dauphin",
+      "Gaby Morlay",
+      "Madeleine Renaud"
+    ],
+    "adaptation": "D'après les contes _Le Masque_, _La Maison Tellier_ et _Le Modèle_ de Guy de Maupassant."
+  },
+  {
+    "titre": "Rideau rouge",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 46606,
+    "ageMinimal": null,
+    "realisateurs": "André Barsacq",
+    "annee": 1952,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Directeur d'un grand théâtre parisien, Bertal, homme cynique, est assassiné dans sa loge juste avant une représentation de Macbeth."
+      }
+    ],
+    "generique": [
+      "Michel Simon",
+      "Pierre Brasseur",
+      "Monelle Valentin"
+    ]
+  },
+  {
+    "titre": "Souvenirs perdus",
+    "titreVo": "",
+    "idFilm": 47644,
+    "ageMinimal": null,
+    "realisateurs": "Christian-Jaque",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Quatre objets trouvés font rejaillir des souvenirs perdus dans quatre sketches."
+      }
+    ],
+    "generique": [
+      "Gérard Philipe",
+      "Edwige Feuillère",
+      "Pierre Brasseur"
+    ],
+    "adaptation": "D'après le texte _Le Petit prodige_, pour le sketch _Le Violon_ de Pierre Prévert."
+  },
+  {
+    "titre": "Topaze",
+    "titreVo": "",
+    "idFilm": 50519,
+    "ageMinimal": null,
+    "realisateurs": "Marcel Pagnol",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Instituteur dans une pension, Topaze est un naïf qui ne sait pas tricher sur les notes de certains cancres fortunés. Amoureux de la fille du directeur, il se retrouve licencié."
+      }
+    ],
+    "generique": [
+      "Fernandel",
+      "Hélène Perdrière",
+      "Marcel Vallée"
+    ]
+  },
+  {
+    "titre": "Tu m'as sauvé la vie",
+    "titreVo": "",
+    "idFilm": 49125,
+    "ageMinimal": null,
+    "realisateurs": "Sacha Guitry",
+    "annee": 1950,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Misanthrope, le baron de Saint Rambert, se prend d'amitié pour un clochard qui lui a sauvé la vie. Mais celui-ci trouble l'ordre de la maison."
+      }
+    ],
+    "generique": [
+      "Sacha Guitry",
+      "Lana Marconi",
+      "Fernandel"
+    ],
+    "adaptation": "D'après la pièce _Tu m'as sauvé la vie_ de Sacha Guitry."
+  }
+]

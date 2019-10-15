@@ -1,0 +1,125 @@
+[
+  {
+    "idCategorie": 2146,
+    "typeEvenement": 14,
+    "idEvenement": 21037,
+    "idSeance": 32735,
+    "dateHeure": "2019-11-28T17:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "idSeanceAssoc": 32736,
+    "typeAssoc": 117,
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 2145,
+    "typeEvenement": 13,
+    "idEvenement": 21034,
+    "idSeance": 32736,
+    "dateHeure": "2019-11-28T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "idSeanceAssoc": 32735,
+    "typeAssoc": 117,
+    "items": [
+      {
+        "idFilm": 47341,
+        "ordre": 1,
+        "idSeance": 32736,
+        "idCopie": 2297,
+        "duree": 75,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2146,
+    "typeEvenement": 14,
+    "idEvenement": 21038,
+    "idSeance": 32500,
+    "dateHeure": "2020-01-30T17:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "idSeanceAssoc": 32737,
+    "typeAssoc": 117,
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 2145,
+    "typeEvenement": 13,
+    "idEvenement": 21035,
+    "idSeance": 32737,
+    "dateHeure": "2020-01-30T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "idSeanceAssoc": 32500,
+    "typeAssoc": 117,
+    "items": [
+      {
+        "idFilm": 56267,
+        "ordre": 1,
+        "idSeance": 32737,
+        "idCopie": 6644,
+        "duree": 149,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2146,
+    "typeEvenement": 14,
+    "idEvenement": 21039,
+    "idSeance": 32672,
+    "dateHeure": "2020-02-27T17:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "idSeanceAssoc": 32738,
+    "typeAssoc": 117,
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 2145,
+    "typeEvenement": 13,
+    "idEvenement": 21036,
+    "idSeance": 32738,
+    "dateHeure": "2020-02-27T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "idSeanceAssoc": 32672,
+    "typeAssoc": 117,
+    "items": [
+      {
+        "idFilm": 50886,
+        "ordre": 1,
+        "idSeance": 32738,
+        "idCopie": 19795,
+        "duree": 91,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  }
+]

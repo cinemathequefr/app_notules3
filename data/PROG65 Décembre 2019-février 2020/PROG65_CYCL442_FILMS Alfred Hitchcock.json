@@ -3,34 +3,34 @@
     "titre": "A l'américaine",
     "titreVo": "Champagne",
     "idFilm": 42085,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1928,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Betty, une jeune héritière américaine, rejoint l'homme qu'elle aime. Mais son père voit ce départ d'un mauvais œil et fait suivre le couple."
+        "texte": "Une jeune et jolie héritière américaine rejoint par défi l'homme qu'elle aime. Mais son père voit ce départ d'un mauvais œil et fait suivre le couple."
       }
     ],
     "generique": [
       "Betty Balfour",
       "Jean Bradin",
-      "Theo von Alten"
+      "Gordon Harker"
     ]
   },
   {
     "titre": "A l'est de Shangaï",
     "titreVo": "Rich and Strange",
     "idFilm": 41613,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1932,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Grâce à l'argent qu'il hérite de son oncle, Fred Hill s'embarque, en compagnie de son épouse Emily, pour une croisière autour du monde. Sur le bateau, chacun fait des rencontres et le couple ne tarde pas à se déchirer."
+        "texte": "Grâce à un héritage, Fred embarque, en compagnie de son épouse Emily, pour une croisière autour du monde. Sur le bateau, chacun fait des rencontres, et le jeune couple ne tarde pas à se déchirer."
       }
     ],
     "generique": [
@@ -46,20 +46,30 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1955,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme d'affaires, blessé dans un grave accident de la route, se retrouve à la morgue où chacun le croit mort."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "Agent secret",
     "titreVo": "Sabotage",
     "idFilm": 41623,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1936,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Ted Spencer, jeune détective, surveille un certain Karl Verloc, soupçonné d'être un poseur de bombes. Le suspect confie la charge de sa prochaine livraison explosive à son jeune beau-frère."
+        "texte": "Ted Spencer, jeune détective, surveille un certain Karl Verloc, soupçonné d'être un poseur de bombes. Le suspect confie la charge de sa prochaine livraison explosive au petit frère de sa jeune épouse."
       }
     ],
     "generique": [
@@ -98,7 +108,17 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1959,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Trompé par sa fiancée, un éleveur de poulets décide de se venger en l'éliminant d'une étrange et atroce façon."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "Aventure Malgache",
@@ -111,7 +131,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Avant d'entrer en scène, un comédien avoue qu'il peine à interpréter son personnage de « gangster de premier ordre ». Pour lui venir en aide, son compagnon lui dresse le portrait du directeur de la sûreté de Madagascar sous le régime de Vichy."
+        "texte": "Un comédien, qui peine à entrer dans la peau de son personnage d'officier allemand, est aidé par un collègue, qui lui dresse le portrait du directeur de la sûreté de Madagascar sous le régime de Vichy."
       }
     ],
     "generique": [
@@ -122,14 +142,14 @@
     "titre": "Bon Voyage",
     "titreVo": "",
     "idFilm": 60682,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1944,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Londres, 1943. Un officier français interroge un pilote de la RAF évadé d'un camp de concentration allemand. Ce dernier ignore que l'homme avec qui il est parvenu à s'échapper est en réalité un agent de la Gestapo qui s'est servi de lui."
+        "texte": "Londres, 1943. Un officier français interroge un pilote de la RAF évadé d'un camp de concentration allemand, qui ignore que son compagnon d'échappée est en réalité un agent de la Gestapo."
       }
     ],
     "generique": [
@@ -142,20 +162,49 @@
     "titreVo": "Horse Player TV",
     "artVo": "The",
     "idFilm": 142569,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1961,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un pasteur, qui s'aperçoit que l'argent collecté pour la paroisse provient en réalité des courses de chevaux, cède à son tour à la tentation du jeu pour financer la réfection du toit de l'église."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ],
+    "generique": [
+      "Ed Gardner",
+      "Percy Helton"
+    ]
   },
   {
     "titre": "Cas de M. Pelham",
     "art": "Le",
     "titreVo": "Case of Mr. Pelham TV",
     "idFilm": 142553,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1955,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Albert Pelham a un double qui se fait passer pour lui et provoque une série d'incidents troublants."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ],
+    "generique": [
+      "Tom Ewell",
+      "Raymond Bailey",
+      "Kirby Smith"
+    ]
   },
   {
     "titre": "C'est lui",
@@ -164,27 +213,38 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1955,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Quand son épouse est agressée par un inconnu, Carl la conduit en ville dans l'espoir d'identifier le coupable pour le tuer."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "Chant du Danube",
     "art": "Le",
     "titreVo": "Waltzes from Vienna",
     "idFilm": 41539,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1933,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Johann Strauss, célèbre compositeur viennois, refuse de reconnaître le talent de son fils. Mais la compositrice Helga Von Stahl apprécie le travail de Strauss fils, qui a mis en musique un de ses poèmes, et s'engage à soutenir le jeune artiste."
+        "texte": "Le compositeur Johann Strauss refuse de reconnaître le talent de son fils. Mais la comtesse Von Stahl apprécie le travail du jeune homme, qui a mis en musique un de ses poèmes, et lui apporte son soutien."
       }
     ],
     "generique": [
       "Jessie Matthews",
       "Edmund Gwenn",
-      "Esmond Knight"
+      "Esmond Knight",
+      "Fay Compton"
     ],
     "adaptation": "D'après la pièce de théâtre _Walerkreig_ d'A.M. Willner , Heinz Reichert et Ernst Marischka."
   },
@@ -192,14 +252,14 @@
     "titre": "Chantage",
     "titreVo": "Blackmail",
     "idFilm": 54627,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1929,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Alice est fiancée à un détective. Après une violente dispute, elle suit naïvement un jeune peintre qui la mène jusqu'à son atelier où il tente de la violer. La jeune femme se défend et tue son agresseur. Son futur époux est chargé de l'enquête."
+        "texte": "Alice, fiancée à Frank, détective à Scotland Yard, se dispute avec lui et s'enfuit. Elle suit naïvement un jeune artiste, mais, quand il tente de la violer, elle se défend et le tue. L'enquête est confiée à Frank."
       }
     ],
     "generique": [
@@ -220,7 +280,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Barry Kane est accusé à tort d'avoir provoqué l'incendie qui a ravagé l'un des bâtiments de son usine. Il parvient à échapper à la police pour se lancer lui-même à la recherche du véritable coupable."
+        "texte": "Barry Kane est accusé d'avoir provoqué l'incendie qui a ravagé son usine. Il parvient à échapper à la police et se lance à la recherche du véritable coupable."
       }
     ],
     "generique": [
@@ -233,14 +293,14 @@
     "titre": "Complot de famille",
     "titreVo": "Family Plot",
     "idFilm": 39591,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1975,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Julia Rainbird est une vieille femme rongée par les remords qui promet une importante somme d'argent à sa voyante Blanche pour retrouver son neveu. Blanche accepte et part à la recherche du jeune homme."
+        "texte": "Une riche vieille dame promet une importante somme d'argent à Blanche, sa voyante, pour retrouver son neveu."
       }
     ],
     "generique": [
@@ -256,14 +316,14 @@
     "titreVo": "Rope",
     "artVo": "The",
     "idFilm": 46120,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1948,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Deux étudiants, influencés par les théories de leur professeur, expérimentent le crime gratuit à leurs risques et périls."
+        "texte": "Deux étudiants, influencés par les théories de leur professeur, décident de commettre un crime gratuit, et parfait."
       }
     ],
     "generique": [
@@ -284,7 +344,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un reporter est envoyé en Europe sous une fausse identité et se lance à la poursuite d'un diplomate hollandais qui connait la clause secrète d'un traité de paix entre son pays et les Alliés."
+        "texte": "Envoyé en Europe sous une fausse identité, un reporter se lance à la poursuite d'un diplomate hollandais censé détenir le secret d'un traité de paix entre son pays et les Alliés."
       }
     ],
     "generique": [
@@ -298,14 +358,14 @@
     "art": "Le",
     "titreVo": "Dial M for Murder",
     "idFilm": 46295,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1953,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un homme met en place un plan machiavélique et en apparence irréprochable pour assassiner sa femme."
+        "texte": "Un homme met en place un plan machiavélique pour assassiner sa femme."
       }
     ],
     "generique": [
@@ -324,7 +384,21 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1957,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un détective renommé et mégalomane apprend qu'il a aidé à faire condamner un innocent."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ],
+    "generique": [
+      "James Gregory",
+      "John Zaremba"
+    ]
   },
   {
     "titre": "De retour à Noël",
@@ -333,20 +407,30 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1956,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme assassine sa femme et l'enterre dans la cave de leur maison, avant de partir en voyage en Amérique."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "Downhill",
     "titreVo": "",
     "idFilm": 39578,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1927,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un jeune étudiant, injustement accusé du vol commis par un de ses amis, préfère la honte la culpabilité à la dénonciation. Rejeté par sa famille, il est mis à l'épreuve de la vie et de la misère."
+        "texte": "Un jeune étudiant, injustement accusé d'un vol commis par un de ses amis, préfère la honte de la culpabilité à la dénonciation. Rejeté par sa famille, il est confronté à une vie miséreuse."
       }
     ],
     "generique": [
@@ -367,10 +451,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Texte à saisir"
+        "texte": "Succession de sketches qui présentent numéros de music-hall, gags et parodies."
       },
       {
-        "typeTexte": 9,
+        "typeTexte": 99,
         "texte": "La BBC diffuse une revue animée par des artistes en tous genres. L'un des comédiens trouve un moyen détourné de jouer Shakespeare, bien qu'il le lui ait été interdit. Un couple souhaite suivre la revue, mais leur poste de télévision est capricieux."
       }
     ],
@@ -392,7 +476,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La fille d'un ancien nazi est utilisée par les services secrets américains pour démasquer les anciens complices de son père."
+        "texte": "Les services secrets américains se servent de la fille d'un ancien espion nazi pour démasquer les complices de son père."
       }
     ],
     "generique": [
@@ -407,20 +491,21 @@
     "art": "L'",
     "titreVo": "Topaz",
     "idFilm": 41596,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1968,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Pendant la Guerre Froide, André Devereaux enquête sur les activités suspectes des Soviétiques à Cuba, afin de découvrir les responsables des fuites de renseignements de l'OTAN."
+        "texte": "Pendant la guerre froide, l'agent des services de renseignements français André Devereaux enquête sur les activités suspectes des Soviétiques à Cuba."
       }
     ],
     "generique": [
       "Frederick Stafford",
       "Dany Robin",
-      "John Forsythe"
+      "John Forsythe",
+      "Michel Piccoli"
     ],
     "adaptation": "D'après le roman _Topaz_ de Leon Uris."
   },
@@ -430,7 +515,7 @@
     "titreVo": "Lodger : A Story of the London Fog",
     "artVo": "The",
     "idFilm": 40353,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1926,
     "pays": "Grande-Bretagne",
@@ -453,10 +538,24 @@
     "art": "Le",
     "titreVo": "Banquo's Chair TV",
     "idFilm": 142555,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1959,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un inspecteur de police tente de piéger un assassin en faisant apparaître, lors d'un dîner, le fantôme de la victime."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ],
+    "generique": [
+      "John Williams",
+      "Kenneth Haigh"
+    ]
   },
   {
     "titre": "Faux coupable",
@@ -493,15 +592,20 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un photographe, cloué sur sa chaise roulante par une jambe cassée, n'a d'autre occupation que d'observer les habitants de son immeuble. Bientôt, il soupçonne son voisin d'en face d'avoir assassiné sa femme."
+        "texte": "Un photographe, immobilisé avec une jambe plâtrée, n'a d'autre occupation que d'observer la cour de son immeuble et ses voisins. Bientôt, il soupçonne l'un d'entre eux d'avoir assassiné sa femme."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie 35mm en Technicolor original (tirage par imbibition) – issue de la collection Constellation Film de l'Academy Film Archive."
       }
     ],
     "generique": [
       "James Stewart",
+      "James Stewart",
       "Grace Kelly",
-      "Wendell Corey"
+      "Grace Kelly"
     ],
-    "adaptation": "D'après la nouvelle _It had to be a murder_ de Cornell Woolrich."
+    "adaptation": "D'après la nouvelle _It had to be a murder_ de Cornell Woolrich et Cornell Woolrich."
   },
   {
     "titre": "Fermière = Laquelle des trois ?",
@@ -509,14 +613,18 @@
     "titreVo": "Farmer's Wife",
     "artVo": "The",
     "idFilm": 40346,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1928,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Après le mariage de sa fille, le veuf Samuel Sweetland décide de se remarier, mais il est éconduit par toutes les femmes dont il demande la main."
+        "texte": "Un riche fermier, veuf, décide de se remarier, mais les prétendantes ne lui conviennent pas."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film également connu sous le titre _La Fermière_."
       }
     ],
     "generique": [
@@ -533,20 +641,30 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1957,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Croyant que sa femme le trompe, un horloger jaloux fabrique une bombe à retardement pour se venger."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Suspicion_."
+      }
+    ]
   },
   {
     "titre": "Frenzy",
     "titreVo": "",
     "idFilm": 53982,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1971,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À Londres, le « meurtrier à la cravate » sévit. Richard Blaney se retrouve subitement au chômage et dans une situation désespérée quand les femmes de son entourage sont toutes retrouvées étranglées, une cravate autour du cou."
+        "texte": "À Londres, alors que sévit le « meurtrier à la cravate », toutes les femmes de l'entourage de Richard Blaney sont retrouvées étranglées les unes après les autres."
       }
     ],
     "generique": [
@@ -563,21 +681,31 @@
     "ageMinimal": null,
     "realisateurs": "Steven Bernstein",
     "annee": 1945,
-    "pays": "Grande-Bretagne"
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Montage d'images des camps de concentration en 1945, filmées par des caméramen de l'Armée britannique."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par l'Imperial War Museum."
+      }
+    ]
   },
   {
     "titre": "Grand alibi",
     "art": "Le",
     "titreVo": "Stage Fright",
     "idFilm": 41589,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1949,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Suspecté d'avoir tué le mari de sa maitresse Charlotte Inwood, Jonathan Cooper demande à son amie Eve de l'aider à se disculper. Eve accepte mais, secrètement amoureuse de Jonathan, tente de prouver la culpabilité de Charlotte."
+        "texte": "Suspecté d'avoir tué le mari de sa maîtresse Charlotte Inwood, Jonathan Cooper demande à son amie Eve de l'aider à se disculper. Elle accepte mais, secrètement amoureuse de lui, tente de prouver la culpabilité de Charlotte."
       }
     ],
     "generique": [
@@ -594,7 +722,17 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1961,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un garçonnet de 5 ans joue au cow-boy avec le revolver de son oncle sans se rendre compte qu'il est chargé."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "Homme qui en savait trop",
@@ -609,13 +747,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En vacances en Suisse, un couple et leur fille se lient d'amitié à un français qui, avant de mourir assassiné, leur confie un message caché. À peine le message dévoilé, le fille du couple est enlevée."
+        "texte": "En vacances en Suisse, Bob et Jill se lient d'amitié avec un Français qui, avant de mourir assassiné sous leurs yeux, leur confie un message secret."
       }
     ],
     "generique": [
       "Leslie Banks",
       "Edna Best",
-      "Nova Pilbeam"
+      "Peter Lorre"
     ]
   },
   {
@@ -624,20 +762,25 @@
     "titreVo": "Man Who Knew too Much",
     "artVo": "The",
     "idFilm": 45885,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1955,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les MacKenna, en vacances au Maroc, rencontrent un français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, la fille MacKenna est enlevée. Remake de la version de 1934."
+        "texte": "Les McKenna, en vacances au Maroc, rencontrent un français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, la fille McKenna est enlevée."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie 35mm en Technicolor original (tirage par imbibition). Projection exceptionelle avec son dimensionnel. Hitchcock utilisa de manière remarquable toutes les potentialités de l'espace sonore stéréophonique du son Perspecta en parfaite adéquation avec les nouvelles possibilités de l'espace scénique visuel offertes par la VistaVision, le procédé préféré d'Hitchcock. Remake de la version de 1934."
       }
     ],
     "generique": [
       "James Stewart",
+      "James Stewart",
       "Doris Day",
-      "Brenda De Banzie"
+      "Doris Day"
     ]
   },
   {
@@ -647,7 +790,17 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1957,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sam tue sa femme et dissimule le cadavre dans le coffre de sa voiture. Mais il est arrêté sur la route par un policier en raison d'un phare défectueux."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "Inconnu du Nord Express",
@@ -661,7 +814,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Que faire quand un homme inconnu vous propose d'accomplir un meurtre à votre place ? L'en empêcher, mais il faut être plus rapide que lui."
+        "texte": "Dans un train, Guy, un champion de tennis, rencontre un homme avec qui il débat du crime parfait, et qui lui propose un marché : chacun doit tuer un proche de l'autre. Guy ne prend pas la proposition au sérieux."
       }
     ],
     "generique": [
@@ -679,16 +832,41 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1958,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le chef de la police est assassiné par sa femme, mais lorsque commence l'enquête, on ne trouve aucune trace de l'arme du crime."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "J'ai tout vu",
     "titreVo": "I Saw the Whole Thing TV",
     "idFilm": 142544,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1962,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Accusé d'avoir provoqué la mort d'un motocycliste dans un accident de circulation, un auteur de roman policiers assure lui-même sa défense au tribunal, devant les témoins du drame."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Suspicion_."
+      }
+    ],
+    "generique": [
+      "John Forsythe",
+      "Kent Smith",
+      "Evans Evans"
+    ]
   },
   {
     "titre": "Jeune et innocent",
@@ -701,12 +879,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La star de cinéma Christine Clay est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall découvre le corps et est accusé du meurtre. Il ne peut prouver son innocence car son imperméable lui a été dérobé."
+        "texte": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable."
       }
     ],
     "generique": [
       "Nova Pilbeam",
-      "Derrick De Marney"
+      "Derrick De Marney",
+      "Edward Rigby"
     ],
     "adaptation": "D'après le roman _A shilling for candles_ de Josephine Tey."
   },
@@ -721,7 +900,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un couple paisible vient d'apprendre que son mariage n'a aucune valeur légale et s'interroge : puisqu'ils ont l'occasion de tout recommencer, recommenceront-ils ?"
+        "texte": "Un couple heureux apprend que son mariage n'a aucune valeur légale et s'interroge sur l'opportunité de tout recommencer à zéro."
       }
     ],
     "generique": [
@@ -734,23 +913,38 @@
     "titre": "Jour de pluie",
     "titreVo": "Wet Saturday TV",
     "idFilm": 142557,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1956,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune fille assassine son professeur. Son père imagine un stratagème pour faire endosser le crime à un voisin."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ],
+    "generique": [
+      "Cedric Hardwicke",
+      "John Williams",
+      "Tita Purdom"
+    ]
   },
   {
     "titre": "Junon et le paon",
     "titreVo": "Juno and the Paycock",
     "idFilm": 45466,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1930,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Junon Doyle vit à Dublin avec son mari qui refuse de travailler, son fils rongé par le remord et sa fille. Lorsque cette dernière annonce son mariage avec l'avocat Charles Bentham qui est sur le point de toucher un bel héritage, Junon est soulagée."
+        "texte": "Juno Doyle s'occupe de ses deux enfants et de son mari, qui refuse de travailler. Elle est grandement soulagée lorsque sa fille lui annonce son mariage avec un riche avocat."
       }
     ],
     "generique": [
@@ -771,7 +965,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Après le naufrage d'un navire torpillé par un sous-marin allemand, quelques rescapés partagent une chaloupe. Le dernier arrivé est un marin allemand ; la cohabitation sur l'embarcation va dès lors s'avérer particulièrement difficile."
+        "texte": "Après le naufrage d'un navire torpillé par un sous-marin allemand, quelques rescapés partagent une chaloupe. Mais l'un d'eux est un marin allemand, et la cohabitation sur l'embarcation devient compliquée."
       }
     ],
     "generique": [
@@ -785,14 +979,14 @@
     "art": "La",
     "titreVo": "I Confess",
     "idFilm": 40351,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1952,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Lassé de la pauvreté de son existence, Otto Keller décide de voler un avocat, mais le vol vire au meurtre. Il confesse immédiatement son crime au prêtre. Quand ce dernier est soupçonné du meurtre, le secret de la confession l'empêche de s'innocenter."
+        "texte": "Accusé de meurtre à la place de son sacristain, un prêtre lié par le secret de la confession ne peut s'innocenter."
       }
     ],
     "generique": [
@@ -814,7 +1008,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un ancien cambrioleur, « le Chat », profite d'une retraite paisible sur la Côte d'Azur, jusqu'au jour où il est suspecté d'être l'auteur d'une série de vols commis dans la région. Pour prouver son innocence, il va devoir identifier le vrai coupable."
+        "texte": "Un ancien cambrioleur profite d'une retraite paisible sur la Côte d'Azur, jusqu'au jour où il est suspecté d'être l'auteur d'une série de vols commis dans la région. Pour prouver son innocence, il va devoir identifier le vrai coupable."
       }
     ],
     "generique": [
@@ -829,14 +1023,14 @@
     "titreVo": "Trouble with Harry",
     "artVo": "The",
     "idFilm": 41643,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1954,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Plusieurs personnages, d'un petit garçon à un chasseur, font successivement la découverte macabre du cadavre d'un homme. Chacun se croit alors responsable de la mort d'Harry."
+        "texte": "Lorsqu'elles découvrent chacune à leur tour le cadavre d'un homme, plusieurs personnes s'imaginent être responsables de sa mort."
       }
     ],
     "generique": [
@@ -858,7 +1052,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans une clinique psychiatrique, une jeune femme docteur découvre que le nouveau et séduisant directeur est un imposteur souffrant d'amnésie et de paranoïa."
+        "texte": "Dans une clinique psychiatrique, une jeune doctoresse découvre que le nouveau et séduisant directeur est en réalité un imposteur souffrant d'amnésie et de paranoïa."
       }
     ],
     "generique": [
@@ -876,21 +1070,31 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1960,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mme Bixby est bien en peine lorsqu'elle doit expliquer à son époux d'où lui vient son nouveau manteau de fourrure, offert par son amant."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "Manxman",
     "art": "The",
     "titreVo": "",
     "idFilm": 38793,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1929,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Caesar Cregeen contraint Pet Quilliam, jeune pêcheur épris de sa fille, à faire fortune avant de demander la main de celle-ci. Pet part alors pour l'Afrique du Sud, mais, en son absence, la jeune fille tombe amoureuse de son meilleur ami."
+        "texte": "Caesar Creegen oblige le pêcheur Pet Quillian à faire fortune avant d'épouser sa fille. Pet part alors pour l'Afrique du Sud, mais, en son absence, la jeune fille tombe amoureuse de son meilleur ami."
       }
     ],
     "generique": [
@@ -905,14 +1109,14 @@
     "titreVo": "Ring",
     "artVo": "The",
     "idFilm": 41615,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1927,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Jack Sanders est boxeur dans une foire, et propose aux badauds de se mesurer à lui. Sa fiancée Mabel vend les billets. Un jour, un homme se détache de la foule et lui fait des avances. Jack le défie alors de l'affronter."
+        "texte": "Jack, boxeur dans une foire, propose aux badauds de se mesurer à lui, tandis que sa fiancée vend les billets. Un jour, un homme fait des avances à la jeune femme. Jack le défie alors de l'affronter."
       }
     ],
     "generique": [
@@ -925,14 +1129,14 @@
     "titre": "Meurtre",
     "titreVo": "Murder",
     "idFilm": 40062,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1930,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Choisi comme membre du jury dans un procès dont l'accusée est une jeune comédienne, un célèbre acteur-auteur tente de l'innocenter."
+        "texte": "Un célèbre acteur, juré dans un procès pour meurtre, tente d'innocenter la jeune comédienne qui est accusée."
       }
     ],
     "generique": [
@@ -954,7 +1158,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Lorsque le publicitaire Roger Thornhill est confondu avec un membre du contre-espionnage américain, il se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
+        "texte": "Confondu avec un membre du contre-espionnage américain, le publicitaire Roger O. Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
       }
     ],
     "generique": [
@@ -967,14 +1171,14 @@
     "titre": "Numéro 17",
     "titreVo": "Number 17",
     "idFilm": 53032,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1932,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La maison au numéro 17 d'Anderson Road abrite un collier de diamants dont une bande de voleurs cherche à s'emparer. Le détective Barton et Ben, un clochard, infiltrent le groupe de cambrioleurs."
+        "texte": "Une jeune femme, un détective et un clochard suivent une bande de cambrioleurs qui cherche à s'emparer d'une rivière de diamants."
       }
     ],
     "generique": [
@@ -997,11 +1201,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À San Francisco, Melanie Daniels rencontre Mitch Brenner qui cherche un cadeau dans la boutique d'un oiseleur. Le lendemain, elle apprend qu'il passe le week-end à Bodega Bay, et décide de s'y rendre avec un couple d'inséparables."
-      },
-      {
-        "typeTexte": 9,
-        "texte": "À San Francisco, Melanie Daniels rencontre Mitch Brenner qui cherche un cadeau dans la boutique d'un oiseleur. Le lendemain, elle apprend qu'il passe le week-end à Bodega Bay, et décide de s'y rendre avec un couple d'inséparables."
+        "texte": "À San Francisco, Melanie fait la connaissance du séduisant Mitch chez un marchand d'oiseaux. Apprenant qu'il se rend à Bodega Bay pour l'anniversaire de sa jeune sœur, elle achète un couple d'« inséparables », et décide de le rejoindre."
       }
     ],
     "generique": [
@@ -1015,14 +1215,14 @@
     "art": "L'",
     "titreVo": "Shadow of a Doubt",
     "idFilm": 41632,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1942,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Recherché par la police pour le meurtre de riches veuves, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais celle-ci commence à avoir des soupçons concernant son oncle."
+        "texte": "Recherché pour meurtre par la police, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais la jeune fille commence peu à peu à avoir des soupçons le concernant."
       }
     ],
     "generique": [
@@ -1035,29 +1235,30 @@
     "titre": "Pas de printemps pour Marnie",
     "titreVo": "Marnie",
     "idFilm": 45342,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1963,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Marnie, jeune kleptomane habile à vider les coffres de ses employeurs avant de disparaître, est embauchée par Mark Rutland, un jeune entrepreneur veuf."
+        "texte": "Marnie, jolie kleptomane prompte à vider les coffres de ses employeurs avant de disparaître, est embauchée par Mark Rutland, un jeune entrepreneur veuf."
       }
     ],
     "generique": [
       "Sean Connery",
+      "Sean Connery",
       "Tippi Hedren",
-      "Diane Baker"
+      "Tippi Hedren"
     ],
-    "adaptation": "D'après le roman _Marnie_ de Winston Graham."
+    "adaptation": "D'après le roman _Marnie_ de Winston Graham et Winston Graham."
   },
   {
     "titre": "Passé ne meurt pas",
     "art": "Le",
     "titreVo": "Easy Virtue",
     "idFilm": 39568,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1927,
     "pays": "Grande-Bretagne",
@@ -1079,14 +1280,14 @@
     "art": "The",
     "titreVo": "",
     "idFilm": 55794,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1925,
     "pays": "Grande-Bretagne-Allemagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Jill Cheyne arrive à Londres avec l'espoir de devenir danseur. Patsy Brand, qui fait déjà partie d'une revue, décide de l'y aider et le présente au metteur en scène."
+        "texte": "Jill Cheyne arrive à Londres avec l'espoir de devenir danseur. Patsy Brand, qui fait déjà partie d'une revue, décide de l'aider et le présente au metteur en scène."
       }
     ],
     "generique": [
@@ -1104,7 +1305,17 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1958,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "William Botibol, un joueur compulsif, fait un pari risqué au cours d'une croisière."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "Poison",
@@ -1113,7 +1324,17 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1958,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Tranquillement allongé dans son lit, Harry découvre qu'il a un serpent sur le ventre."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "Procès Paradine",
@@ -1121,14 +1342,14 @@
     "titreVo": "Paradine Case",
     "artVo": "The",
     "idFilm": 40472,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1947,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Maddalena Paradine est accusée d'avoir tué son mari, un homme âgé, riche et aveugle. Son avocat, tombé sous le charme de sa cliente, mettra tout en œuvre pour l'innocenter, et ce même au détriment de sa vie privée."
+        "texte": "Accusée d'avoir tué son mari, Maddalena Paradine est défendue par son avocat, tombé sous son charme et prêt à tous les sacrifices pour l'innocenter."
       }
     ],
     "generique": [
@@ -1149,35 +1370,37 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Marion Crane disparaît mystérieusement, alors qu'elle tentait de s'enfuir avec quarante mille dollars volés. Le dernier lieu où elle a été vue est un motel tenu par un certain Norman Bates."
+        "texte": "Marion Crane disparaît mystérieusement alors qu'elle tentait de s'enfuir avec quarante mille dollars volés. Le dernier lieu où elle a été vue est un motel tenu par un certain Norman Bates."
       }
     ],
     "generique": [
       "Anthony Perkins",
+      "Anthony Perkins",
       "Vera Miles",
-      "Janet Leigh"
+      "Vera Miles"
     ],
-    "adaptation": "D'après le roman _Psycho_ de Robert Bloch."
+    "adaptation": "D'après le roman _Psycho_ de Robert Bloch et Robert Bloch."
   },
   {
     "titre": "Quatre de l'espionnage",
     "titreVo": "Secret Agent",
     "artVo": "The",
     "idFilm": 41630,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1935,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Durant la Seconde Guerre Mondiale, un célèbre romancier britannique s'engage dans les services secrets. Il est envoyé en Suisse en compagnie de deux autres espions mais leur contact est assassiné avant même d'avoir pu leur parler."
+        "texte": "En 1916, un célèbre romancier britannique s'engage dans les services secrets. Il est envoyé en Suisse en compagnie de deux autres espions, mais leur contact est assassiné avant même d'avoir pu leur parler."
       }
     ],
     "generique": [
       "Madeleine Carroll",
       "John Gielgud",
-      "Peter Lorre"
+      "Peter Lorre",
+      "Robert Young"
     ],
     "adaptation": "D'après les nouvelles _Ashenden_, _The Traitor_, _The Hairess Mexican_ de William Somerset Maugham."
   },
@@ -1192,7 +1415,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Maxime de Winter, veuf et fortuné, épouse une jeune fille démunie. Il installe sa nouvelle femme dans son immense demeure où tout lui rappelle son ancienne épouse, Rebecca."
+        "texte": "Maxim de Winter, veuf et fortuné, épouse une jeune fille démunie. Il l'installe dans son immense demeure où tout rappelle son ancienne femme, Rebecca."
       }
     ],
     "generique": [
@@ -1214,7 +1437,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En pleine Guerre Froide, un physicien américain annonce qu'il passe à l'Est. Bloqué dans ses recherches, il espère dérober des secrets scientifiques."
+        "texte": "En pleine guerre froide, un physicien américain annonce qu'il passe à l'Est. Il compte en réalité y dérober des secrets scientifiques."
       }
     ],
     "generique": [
@@ -1231,20 +1454,34 @@
     "ageMinimal": null,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1956,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Babs Fenton, auteure de romans policiers à l'imagination débordante, est convaincue que son voisin a tué son épouse, qu'elle n'a jamais vue, et qu'il a dissimulé le cadavre."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ]
   },
   {
     "titre": "Sir John greift ein ! = Mary",
     "titreVo": "",
     "idFilm": 90126,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1930,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Version allemande de _Murder_."
+        "texte": "Un célèbre acteur, juré dans un procès pour meurtre, tente d'innocenter la jeune comédienne qui est accusée."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version allemande de _Meurtre_ (_Murder_, 1930), également connue sous le titre de _Sir John greift ein !_"
       }
     ],
     "generique": [
@@ -1259,14 +1496,14 @@
     "art": "The",
     "titreVo": "",
     "idFilm": 54584,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1931,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une famille britannique au passé prestigieux fait chanter un industriel accompli pour l'obliger à leur revendre le terrain sur lequel il prévoit d'implanter une nouvelle usine."
+        "texte": "Les membres d'une prestigieuse famille britannique font chanter un industriel pour l'obliger à leur revendre un terrain sur lequel il prévoit d'implanter une nouvelle usine."
       }
     ],
     "generique": [
@@ -1280,14 +1517,14 @@
     "titre": "Soupçons",
     "titreVo": "Suspicion",
     "idFilm": 41593,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1941,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Lina McLaidlaw s'éprend de Johnnie Aysgarth, qui peine à se détacher de sa réputation de joueur. Peu à peu, la jeune femme découvre l'ampleur des dettes de son époux et commence à craindre qu'il ne s'en prenne à elle pour accaparer sa fortune."
+        "texte": "Lina McLaidlaw épouse Johnnie Aysgarth, séducteur et joueur invétéré. Découvrant l'ampleur de ses dettes, elle craint qu'il ne s'en prenne à elle pour s'approprier sa fortune."
       }
     ],
     "generique": [
@@ -1301,7 +1538,7 @@
     "titre": "Sueurs froides",
     "titreVo": "Vertigo",
     "idFilm": 41646,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1957,
     "pays": "États-Unis",
@@ -1309,6 +1546,10 @@
       {
         "typeTexte": 9,
         "texte": "À San Francisco, Scottie, un ancien policier souffrant d'acrophobie, est engagé pour surveiller Madeleine, la femme d'un ami persuadée d'être la réincarnation d'une morte."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie 35 mm Technicolor original déposée en 1968 par Alfred Hitchcock à La Cinémathèque française (tirage par imbibition). Cette copie peut être présentée grâce à Lowell Peterson (ASC) et l'Academy Film Archive."
       }
     ],
     "generique": [
@@ -1324,15 +1565,20 @@
     "art": "La",
     "titreVo": "Jamaïca Inn",
     "idFilm": 46119,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1938,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Orpheline, Mary Yelland se rend en Cornouailles où elles retrouvent son oncle et sa tante, les tenanciers de l'Auberge de la Jamaïque. Elle s'aperçoit rapidement que son oncle est à la tête d'une bande de naufrageurs."
+        "texte": "Orpheline, Mary Yelland se rend en Cornouailles chez son oncle et sa tante, les tenanciers de l'Auberge de la Jamaïque. Elle s'aperçoit rapidement qu'ils sont à la tête d'une bande de naufrageurs."
       }
+    ],
+    "generique": [
+      "Charles Laughton",
+      "Maureen O'Hara",
+      "Leslie Banks"
     ],
     "adaptation": "D'après le roman _Jamaïca Inn_ de Daphné Du Maurier."
   },
@@ -1342,10 +1588,24 @@
     "titreVo": "Crystal Trench TV",
     "artVo": "The",
     "idFilm": 142550,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1959,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme trouve la mort pendant une randonnée dans les Alpes. Pendant plus de quarante ans, sa veuve attend que la montagne rejette son corps."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Alfred Hitchock présente_."
+      }
+    ],
+    "generique": [
+      "James Donald",
+      "Patricia Owens"
+    ]
   },
   {
     "titre": "Trente-neuf marches",
@@ -1360,7 +1620,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Richard Hannay accepte d'héberger pour une nuit une inconnue qui prétend être poursuivie par une société secrète internationale sur le point de faire sortir d'Angleterre un document précieux. La jeune femme est poignardée dans la nuit."
+        "texte": "Richard Hannay accepte de cacher chez lui une jeune femme qui prétend être poursuivie. Elle est assassinée pendant la nuit. Pour se disculper, il n'a d'autre choix que de mener lui-même l'enquête."
       }
     ],
     "generique": [
@@ -1382,7 +1642,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans un train quittant un pays d'Europe centrale, une femme prétend que Miss Froy, une vieille dame, a disparu sans explication. Les passagers du train nient pourtant l'avoir jamais vue."
+        "texte": "Dans un train quittant l'Europe centrale, Iris fait la connaissance d'une vieille dame, qui disparaît mystérieusement. Mais les autres passagers nient l'avoir jamais vue et refusent de la croire."
       }
     ],
     "generique": [
@@ -1397,9 +1657,23 @@
     "titre": "Voici l'incident",
     "titreVo": "Incident at a Corner TV",
     "idFilm": 142543,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Alfred Hitchcock",
     "annee": 1960,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le vieux James s'occupe de régler la circulation devant une école de filles. Mais un jour, une lettre anonyme l'accuse de s'intéresser d'un peu trop près aux jeunes élèves."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Épisode de la série télévisée _Startime_."
+      }
+    ],
+    "generique": [
+      "Vera Miles",
+      "Paul Hartman"
+    ]
   }
 ]

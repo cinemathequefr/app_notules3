@@ -6,12 +6,11 @@
   "cycles": [{
       "idCycleProg": 13,
       "titreCycle": "Cinéma d'avant-garde",
-      "sousCycles": []
-    },
-    {
-      "idCycleProg": 14,
-      "titreCycle": "Cinéma bis",
-      "sousCycles": []
+      "sousCycles": [{
+        "titre": "UCLA 1969 : Contributions européennes au Black Power",
+        "cats": [2131],
+        "tri": 4
+      }]
     },
     {
       "idCycleProg": 18,
@@ -49,6 +48,11 @@
       "idCycleProg": 442,
       "titreCycle": "Alfred Hitchcock",
       "sousCycles": [{
+          "titre": "Séance d'ouverture",
+          "cats": [2189],
+          "tri": 4
+        },
+        {
           "titre": "Les films",
           "cats": [2024],
           "tri": 1
@@ -56,12 +60,12 @@
         {
           "titre": "Hitchcock et la télévision",
           "cats": [2121],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Rencontres et conférences",
           "cats": [2137],
-          "tri": 1
+          "tri": 4
         }
       ]
     },
@@ -84,7 +88,7 @@
           "tri": 4
         },
         {
-          "titre": "Nuit excentrique",
+          "titre": "Nuit Vampires excentriques",
           "cats": [2161],
           "tri": 4
         },
@@ -131,7 +135,7 @@
         {
           "titre": "Rencontres et conférences",
           "cats": [2139],
-          "tri": 3
+          "tri": 4
         }
       ],
       "titreEvenements": {
@@ -232,14 +236,29 @@
       "idCycleProg": 450,
       "titreCycle": "Merchant-Ivory",
       "sousCycles": [{
-          "titre": "Les films",
-          "cats": [2044],
+          "titre": "Films réalisés par James Ivory",
+          "cats": [2185],
+          "tri": 1
+        },
+        {
+          "titre": "Films réalisés par Ismail Merchant",
+          "cats": [2184],
+          "tri": 1
+        },
+        {
+          "titre": "Programme de courts métrages",
+          "cats": [2186],
+          "tri": 4
+        },
+        {
+          "titre": "Autour de Merchant-Ivory",
+          "cats": [2187],
           "tri": 1
         },
         {
           "titre": "Rencontres et conférences",
           "cats": [2135],
-          "tri": 1
+          "tri": 4
         }
       ]
     },
@@ -330,7 +349,11 @@
     {
       "idCycleProg": 469,
       "titreCycle": "Cinéma français des années 1950",
-      "sousCycles": []
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [2132],
+        "tri": 1
+      }]
     },
     {
       "idCycleProg": 470,
@@ -347,7 +370,7 @@
       "sousCycles": [{
         "titre": "Films et conférences",
         "cats": [2145, 2146],
-        "tri": 2
+        "tri": 4
       }]
     }
   ]

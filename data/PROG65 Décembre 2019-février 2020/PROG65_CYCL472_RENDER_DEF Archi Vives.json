@@ -1,0 +1,235 @@
+{
+  "header": {
+    "idCycleProg": 472,
+    "titreCycle": "Archi Vives",
+    "sousCycles": [
+      {
+        "titre": "Films et conférences",
+        "cats": [
+          2145,
+          2146
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 65
+  },
+  "data": [
+    {
+      "titreSousCycle": "Films et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idCategorie": 2146,
+          "idEvenement": 21037,
+          "films": [
+            {
+              "titre": "Au jardin des archives : pour une biodiversité historique",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "À travers différents contextes (américain, français), moments (anciens, récents) et usages (en tant que chercheur ou responsable d'institution), Marc Vernet retracera ce que les archives ont modifié dans sa pratique de recherche et d'enseignement, mais aussi dans sa conception du cinéma et de son histoire, avec l'aide de Michel Foucault et de son ami Paul Veyne, pour qui les archives ne sont pas le cimetière des origines mais le jardin des hypothèses, le laboratoire des idées, le fourmillement des intrigues. Il analysera en détail différents types de documents papier conservés par la Cinémathèque française pour pointer leurs opacités et/ou leurs richesses."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Marc Vernet est professeur émérite à l'université Paul Valéry-Montpellier 3. Il a créé et dirigé, de 1992 à 2006, la Bibliothèque du film (BiFi), aujourd'hui intégrée à la Cinémathèque française, et de 2008 à 2011, le programme de recherche ANR Cinémarchives. Ses domaines de recherche ont été la narratologie, la censure, et l'histoire du cinéma américain."
+                }
+              ],
+              "duree": 90
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-11-28T17:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2145,
+          "idEvenement": 21034,
+          "films": [
+            {
+              "idFilm": 47341,
+              "titre": "Rendez-vous des quais",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Paul Carpita",
+              "annee": 1953,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Marseille, 1953. Un jeune docker et sa compagne se heurtent à des difficultés matérielles, mais sont aidés par des amis militants. Sur le port, les tensions s'exaspèrent."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Interdit par la censure, mis sous séquestre, réputé disparu pendant trente-trois ans, le film pourra enfin être projeté en 1988."
+                }
+              ],
+              "generique": [
+                "Roger Manunta",
+                "André Maufray",
+                "Jeanine Moretti"
+              ],
+              "duree": 75,
+              "format": "35 mm",
+              "version": "VO",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-11-28T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2146,
+          "idEvenement": 21038,
+          "films": [
+            {
+              "titre": "Montage en puissance",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "Un film est-il dissimulé dans la matière des rushes comme la statue dans le marbre ? Le geste du montage vise-t-il à extraire une forme prédéterminée par l'écriture, de façon téléologique, ou à actualiser les puissances du matériau ? On observe aujourd'hui un intérêt croissant, de nature historiographique et artistique, pour les rushes, les œuvres inachevées, les scénarios de films non réalisés. S'agit-il de suppléer, selon la tâche du métahistorien définie par Hollis Frampton, les films manquants de l'histoire du cinéma ? Autant de questions qui nous invitent à interroger le statut ontologique des rushes, la critique génétique des films, les problèmes de la restauration, mais aussi la reprise artistique comme cinéma potentiel."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Érik Bullot est cinéaste et théoricien. Il réalise des films à mi-chemin du film d'artiste et du cinéma expérimental. Il a publié récemment _Le Film et son double. Boniment, ventriloquie, performativité_ (Mamco, 2017). Il enseigne le cinéma à l'École nationale supérieure d'art de Bourges."
+                }
+              ],
+              "duree": 90
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-30T17:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2145,
+          "idEvenement": 21035,
+          "films": [
+            {
+              "idFilm": 56267,
+              "titre": "Age de la terre",
+              "art": "L'",
+              "titreVo": "Idade da terra",
+              "artVo": "A",
+              "realisateurs": "Glauber Rocha",
+              "annee": 1980,
+              "pays": "Brésil",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une vision torrentielle et hallucinatoire de la destinée historique, culturelle et politique du Brésil."
+                }
+              ],
+              "generique": [
+                "Maurício do Valle",
+                "Jece Valadão"
+              ],
+              "duree": 149,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": 0,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-30T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2146,
+          "idEvenement": 21039,
+          "films": [
+            {
+              "titre": "De la gestation des images à la naissance du film : étude des dessins et écrits préparatoires de la machine biomorphique de « Je t'aime, je t'aime » d'Alain Resnais",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "La machine temporelle de _Je t'aime, je t'aime_ permet de plonger dans la mémoire d'un personnage. C'est un film sur les images qui nous traversent l'esprit, les images intimes, tout à la fois imaginées et vécues, encore volatiles et libres de toute forme définitive. Les écrits préparatoires de _Je t'aime, je t'aime_ décrivent la machine à voyager dans les souvenirs comme une masse informe, respirante, et les esquisses réalisées par le décorateur Agostino Pace questionnent son apparence, du dôme géodésique au bocal de série B. Découvrir ces archives permet d'entrer dans l'imaginaire du film avant même que celui-ci ait trouvé sa forme, au moment fécond où toutes les images sont encore possibles."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Joséphine Jibokji est docteure en histoire de l'art et maître de conférences en études cinématographiques à l'université de Lille. Ses recherches portent sur les interactions entre l'histoire de l'art et le cinéma de fiction. Elle a publié l'ouvrage _Objets de cinéma_ (2019) ainsi que des textes sur Alain Resnais, Jacques Tati, Jacques Demy et Yves Klein."
+                }
+              ],
+              "duree": 90
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-27T17:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2145,
+          "idEvenement": 21036,
+          "films": [
+            {
+              "idFilm": 50886,
+              "titre": "Je t'aime, je t'aime",
+              "titreVo": "",
+              "realisateurs": "Alain Resnais",
+              "annee": 1967,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Après une tentative de suicide, un employé de bureau se prête à une expérience scientifique : un voyage dans le temps qui lui fera revivre une minute de son passé, un an plus tôt exactement."
+                }
+              ],
+              "generique": [
+                "Claude Rich",
+                "Olga Georges-Picot",
+                "Anouk Ferjac"
+              ],
+              "duree": 91,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-27T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

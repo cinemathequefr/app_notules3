@@ -1,5 +1,20 @@
 [
   {
+    "titre": "Adventures of A Brown Man In Search Of Civilization",
+    "titreVo": "",
+    "idFilm": 143199,
+    "ageMinimal": null,
+    "realisateurs": "James Ivory",
+    "annee": 1972,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Documentaire basé sur la vie et les pensées de l'écrivain indien de langue anglaise Nirad C. Chaudhuri. Il y expose ses points de vue sur la culture, l'histoire, la religion et la société dans une perspective comparative."
+      }
+    ]
+  },
+  {
     "titre": "Autobiographie d'une princesse",
     "titreVo": "Autobiography of a Princess",
     "idFilm": 40349,
@@ -10,11 +25,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A Londres, comme tous les ans le jour de l'anniversaire de son père défunt, une princesse indienne reçoit pour le thé le vieux précepteur anglais du maharajah. Ensemble, ils regardent des films d'amateurs tournés autrefois et évoquent le passé."
+        "texte": "À Londres, le jour de l'anniversaire de son père défunt, une princesse indienne reçoit pour le thé l'ancien précepteur anglais du Maharadjah. Ensemble, ils évoquent le passé en regardant de vieux films amateurs."
       }
     ],
     "generique": [
-      "James Mason"
+      "James Mason",
+      "Madhur Jaffrey"
     ]
   },
   {
@@ -28,11 +44,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Lucia Lane, une romancière anglaise,arrive à Bombay pour assister au tournage d'un film de Bollywood. On la présente à Vikram, la star du film dont elle va tomber amoureuse, alors qu'il vit avec Mala. C'est l'un des films les plus caractéristiques de Merchant Ivory, à la fois drame psychologique et hommage parodique à la scène cinématographique indienne de l'époque."
+        "texte": "Une romancière anglaise arrive à Bombay pour assister au tournage d'un film de Bollywood, d'après l'une de ses œuvres. Elle tombe amoureuse de Vikram, la star du film, bien plus jeune qu'elle et déjà marié."
       }
     ],
     "generique": [
-      "Utpal Butt",
+      "Jennifer Kendall",
+      "Sashi Kapoor",
       "Aparna Sen"
     ]
   },
@@ -42,14 +59,14 @@
     "titreVo": "Bostonians",
     "artVo": "The",
     "idFilm": 46328,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1984,
     "pays": "Grande-Bretagne-États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Boston, 1875. Un homme tombe amoureux d'une jeune fille sous la tutelle d'une ardente avocate du féminisme naissant."
+        "texte": "Boston, 1875. Un journaliste conservateur tombe amoureux d'une jeune fille vivant sous la coupe d'une fervente militante féministe."
       }
     ],
     "generique": [
@@ -63,33 +80,34 @@
     "titre": "Chaleur et poussière",
     "titreVo": "Heat and Dust",
     "idFilm": 40352,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1982,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Anne, jeune journaliste, part reconstituer, en Inde, le passé de sa grand-tante Olivia et connaîtra un même parcours sentimental qu'elle soixante ans auparavant."
+        "texte": "Une jeune journaliste anglaise part en Inde pour reconstituer le passé teinté de scandale de sa grand-tante. Elle va connaître le même parcours sentimental, et la même fascination pour le pays."
       }
     ],
     "generique": [
       "Julie Christie",
-      "Greta Scacchi"
+      "Greta Scacchi",
+      "Sashi Kapoor"
     ]
   },
   {
     "titre": "Chambre avec vue",
     "titreVo": "A Room With a View",
     "idFilm": 41093,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1985,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans l'Angleterre victorienne de 1905, Lucy Honeychurch, une jeune et charmante Anglaise de bonne famille, est en vacances à Florence en compagnie de Charlotte Bartlett, une cousine plus âgée. Les hasards du voyage leur font croiser la route d'autres touristes britanniques. George Emerson, l'un d'entre eux, est particulièrement séduisant."
+        "texte": "Florence, 1905. En vacances avec sa cousine qui lui sert de chaperon, une jeune Anglaise de bonne famille rencontre d'autres sujets britanniques, dont l'un est particulièrement séduisant."
       }
     ],
     "generique": [
@@ -103,17 +121,22 @@
     "art": "The",
     "titreVo": "",
     "idFilm": 142962,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 2007,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un étudiant américain souhaite rédiger la biographie d'un écrivain suicidé, mais les proches du défunt s'y opposent. Il décide de se rendre en Argentine pour tenter de les convaincre."
+        "texte": "Un étudiant américain, qui souhaite écrire la biographie d'un écrivain suicidé, se heurte à l'opposition des proches du défunt. Il décide de se rendre en Argentine pour tenter de les convaincre."
       }
     ],
-    "adaptation": "D'après le roman _The City of Your Final Destination_ de Peter, auteur adapté Cameron."
+    "generique": [
+      "Omar Metwally",
+      "Charlotte Gainsbourg",
+      "Anthony Hopkins"
+    ],
+    "adaptation": "D'après le roman _The City of Your Final Destination_ de Peter Cameron."
   },
   {
     "titre": "Cotton Mary",
@@ -126,12 +149,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Infirmière dans une bourgade de la côte de Malabar en 1954, Cotton Mary est écartelée entre ses origines indiennes et sa culture anglaise. D'origine modeste, elle s'invente un passé aristocratique et enjolive sa vie en imitant les manières distinguées des anciens colons. Lorsque l'Anglaise Lily MacIntosh accouche prématurément, Mary sauve la situation en amenant secrètement le bébé à une nourrice des bas quartiers."
+        "texte": "Infirmière dans une bourgade de l'Inde en 1954, Cotton Mary est tiraillée entre ses origines indiennes et sa culture anglaise."
       }
     ],
     "generique": [
       "Greta Scacchi",
-      "Madhur Jaffrey"
+      "Madhur Jaffrey",
+      "James Wilby"
     ]
   },
   {
@@ -140,20 +164,21 @@
     "titreVo": "Golden Bowl",
     "artVo": "The",
     "idFilm": 69211,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1999,
     "pays": "États-Unis-France-Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans l'Angleterre post-victorienne du début du siècle, un aristocrate italien ruiné, le prince Amerigo, épouse Maggie, la fille d'un richissime collectionneur d'art nommé Adam Verver. Entre destins mêlés et anciennes idyllles, les relations des amants ne seront pas simples."
+        "texte": "Dans l'Angleterre post-victorienne, un aristocrate italien ruiné épouse la fille d'un richissime collectionneur d'art. Entre destins mêlés et anciennes idylles, leurs relations sont difficiles."
       }
     ],
     "generique": [
+      "Jeremy Northam",
       "Kate Beckinsale",
-      "James Fox",
-      "Anjelica Huston"
+      "Uma Thurman",
+      "Nick Nolte"
     ]
   },
   {
@@ -168,7 +193,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Film partiellement documentaire sur plusieurs courtisanes et danseuses en Inde au début des années 80."
+        "texte": "Documentaire tourné au début des années 1980 dans Pavan Pool, à Bombay, où les femmes pauvres chantent et dansent le jour, et offrent leurs charmes la nuit."
       }
     ]
   },
@@ -184,8 +209,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Après qu'Adam a appelé Dieu pour lui donner un partenaire féminin, Eve est créée et Adam découvre qu'il ne peut ni vivre avec ni sans elle. Fable colorée et musicale, premier film produit par Ismail Merchant."
+        "texte": "Adam appelle Dieu pour qu'il lui donne un partenaire féminin. Ève est créée, mais Adam découvre qu'il ne peut vivre ni avec elle, ni sans elle."
       }
+    ],
+    "generique": [
+      "B.R. Chaudhuri",
+      "Anjali Devi"
     ]
   },
   {
@@ -200,7 +229,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Documentaire sur Delhi dans lequel on parcourt le passé historique de la ville qui comprend les invasions successives des Afghans, des Moghul et des Anglais, tout en montrant la vie quotidienne contemporaine."
+        "texte": "Documentaire sur Delhi dans lequel on découvre à la fois la vie quotidienne et le passé d'une ville marquée successivement par la présence afghane, moghole et britannique."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film sous réserve"
       }
     ]
   },
@@ -209,14 +242,14 @@
     "art": "Le",
     "titreVo": "",
     "idFilm": 86798,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 2002,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les différences des aspects juridiques et culturels concernant le sexe, l'amour, la religion et les liens familiaux, sont présentées à travers les interactions de deux familles liées par le mariage."
+        "texte": "Les aventures et les déboires amoureux de deux sœurs américaines en voyage à Paris, l'une au bord du divorce, l'autre entraînée dans une relation compliquée."
       }
     ],
     "generique": [
@@ -231,17 +264,19 @@
     "titre": "Esclaves de New York",
     "titreVo": "Slaves of New York",
     "idFilm": 32805,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1988,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A la fin du XXe siècle, Eleanor, créatrice de chapeaux, évolue dans le milieu artistique new-yorkais avec une idée fixe : l'amour, une carrière réussie, le succès."
+        "texte": "Une créatrice de chapeaux évolue dans le milieu artistique new-yorkais avec pour idées fixes l'amour et le succès."
       }
     ],
     "generique": [
+      "Bernadette Peters",
+      "Chris Sarandon",
       "Steve Buscemi"
     ]
   },
@@ -258,10 +293,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En 1850, un frère et une sœur rendent visite à leur oncle et à leurs cousins dans la région de Boston, en Nouvelle Angleterre. La famille est puritaine, le mode de vie un peu bohème des deux jeunes gens surprend. L'objet de leur voyage n'est évidemment pas une simple visite de courtoisie. Premier du triptyque des adaptations de Henry James par Merchant Ivory"
+        "texte": "1850, Nouvelle-Angleterre, près de Boston. Un frère et une sœur au mode de vie un peu bohème rendent visite à leur famille très puritaine."
       }
     ],
     "generique": [
+      "Lee Remick",
       "Lisa Eichhorn",
       "Tim Woodward"
     ]
@@ -271,14 +307,14 @@
     "art": "La",
     "titreVo": "",
     "idFilm": 64242,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1997,
     "pays": "France-États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A la fin des années soixante, Channe a sept ans lorsque ses parents américains, qui vivent à Paris, adoptent un petit Français de son âge. Son père, écrivain célèbre, décide de rentrer aux États-Unis quand ses enfants arrivent à l'adolescence."
+        "texte": "Bill et Marcella Willis, des Américains installés à Paris, adoptent un petit garçon français de l'âge de leur fille. Lorsque leurs deux enfants entrent dans l'adolescence, ils décident de retourner vivre aux États-Unis."
       }
     ],
     "generique": [
@@ -299,11 +335,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Tom Pickle,jeune star de la pop anglaise, voyage à Bombay pour apprendre à jouer du sitar et connait toutes sortes d'aventures."
+        "texte": "Tom Pickle, immense artiste pop britannique, se rend à Bombay pour apprendre à jouer du sitar."
       }
     ],
     "generique": [
-      "Michael York"
+      "Ismail Merchant",
+      "Michael York",
+      "Saeed Jaffrey",
+      "Utpal Butt"
     ]
   },
   {
@@ -311,19 +350,20 @@
     "art": "The",
     "titreVo": "",
     "idFilm": 67387,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1963,
     "pays": "Inde",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "_The Householder_ est la première collaboration entre Ismael Merchant, James Ivory et Ruth Prawer Jhabvala: Un jeune instituteur timide et sous payé vivant à Delhi, se marie. Petit à petit, il apprend à connaitre sa jeune épouse, Indu."
+        "texte": "Un jeune instituteur de Dehli, timide et sous-payé, se marie et apprend peu à peu à connaître sa jeune épouse."
       }
     ],
     "generique": [
       "Durga Khote",
-      "Shashi Kapoor"
+      "Shashi Kapoor",
+      "Leela Naidu"
     ]
   },
   {
@@ -337,12 +377,29 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Récit de la légendaire collection de peintures miniatures d'un Maharaja et de collectionneurs qui viennent dans son palais pour tenter de la dérober."
+        "texte": "Dans la réserve d'un palais indien, au cœur du désert du Rajasthan, des collectionneurs tentent de dérober les précieuses peintures miniatures du Maharadjah."
       }
     ],
     "generique": [
+      "Peggy Ashcroft",
+      "Larry Pine",
       "Jane Booker",
       "Victor Banerjee"
+    ]
+  },
+  {
+    "titre": "In Custody",
+    "titreVo": "",
+    "idFilm": 59782,
+    "ageMinimal": null,
+    "realisateurs": "Ismail Merchant",
+    "annee": 1993,
+    "pays": "Grande-Bretagne-Inde",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les aventures de Deven, professeur dans un collège de province en Inde, qui se rend a Bhopal pour interviewer Nur, un grand poète ourdou."
+      }
     ]
   },
   {
@@ -356,12 +413,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À New-York, deux compagnies théâtrales sont en concurrence pour monter une œuvre de jeunesse de Jane Austen récemment découverte."
+        "texte": "À New York, deux compagnies théâtrales se disputent le droit de monter une pièce écrite par Jane Austen dans sa jeunesse, et récemment découverte."
       }
     ],
     "generique": [
       "Anne Baxter",
-      "Robert Powell"
+      "Robert Powell",
+      "Sean Young"
     ]
   },
   {
@@ -375,13 +433,29 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Évocation de la vie de Thomas Jefferson, ambassadeur des États-Unis à la cour de France entre 1785 et 1789, et qui rédigea en 1776 la déclaration d'indépendance des Etats-Unis."
+        "texte": "Évocation de la vie de Thomas Jefferson, ambassadeur des États-Unis à la cour de France entre 1785 et 1789, et auteur en 1776 de la Déclaration d'indépendance des États-Unis."
       }
     ],
     "generique": [
       "Nick Nolte",
       "Gwyneth Paltrow",
-      "Estelle Eonnet"
+      "Greta Scacchi",
+      "Thandie Newton"
+    ]
+  },
+  {
+    "titre": "Mahatma and the Mad Boy",
+    "titreVo": "",
+    "idFilm": 143204,
+    "ageMinimal": null,
+    "realisateurs": "Ismail Merchant",
+    "annee": 1972,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un garçon pauvre vit sur la plage de Juhu à Bombay. Il n'a que deux amis: son singe domestique, qui joue pour les touristes dans les grands hôtels, et une statue de Mahatma Gandhi, auquel il confie ses pensées et aux pieds de laquelle il dort la nuit."
+      }
     ]
   },
   {
@@ -395,7 +469,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans la société conservatrice victorienne, la découverte par un jeune bourgeois londonien, intelligent et sensible, Maurice, de son homosexualité."
+        "texte": "Dans la société conservatrice victorienne, Maurice, un jeune bourgeois londonien, intelligent et sensible, découvre son homosexualité."
       }
     ],
     "generique": [
@@ -406,17 +480,32 @@
     "adaptation": "D'après le roman _Maurice_ d'E.M. Forster."
   },
   {
+    "titre": "Merchant / Ivory: Three holy rivers...",
+    "titreVo": "",
+    "idFilm": 143201,
+    "ageMinimal": null,
+    "realisateurs": "Catherine Berge",
+    "annee": 2004,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "James Ivory s'entretient avec Catherine Berge, à New York, au sujet de son œuvre dans le cinéma."
+      }
+    ]
+  },
+  {
     "titre": "Mr et Mrs Bridge",
     "titreVo": "Mr and Mrs Bridge",
     "idFilm": 33477,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1989,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans les années 30-40 à Kansas City, le quotidien de Mr and Mrs Bridge, qui s'apprêtent à à vivre une vieillesse sereine."
+        "texte": "Kansas City, Missouri. Dans les années 1930 et pendant la guerre, le quotidien de la famille Bridge, et les oppositions entre le père, strict et conservateur, la mère, d'un naturel optimiste, et leurs enfants aux idées progressistes."
       }
     ],
     "generique": [
@@ -429,30 +518,57 @@
     "art": "The",
     "titreVo": "",
     "idFilm": 78171,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Ismail Merchant",
     "annee": 2001,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Ganesh Ransumair est instituteur à Port of Spain, la capitale de Trinidad. Apprenant la mort de son père, il retourne dans son village pour organiser les funérailles. Alors qu'il veut devenir auteur, il travaille comme guérisseur pour gagner sa vie. Soignant avec succès un jeune garçon, sa réputation se propage rapidement dans tout le pays..."
+        "texte": "À Trinidad, Ganesh Ransumair, un écrivain raté, devient guérisseur pour gagner sa vie. Contre toute attente, il connaît une ascension fulgurante."
       }
     ],
+    "generique": [
+      "Om Puri",
+      "Aasif Mandvi",
+      "Ayesha Dharker"
+    ],
     "adaptation": "D'après le roman _The Mystic masseur_ de V.S. Naipaul."
+  },
+  {
+    "titre": "Propriétaire",
+    "art": "La",
+    "titreVo": "Proprietor",
+    "artVo": "The",
+    "idFilm": 60450,
+    "ageMinimal": null,
+    "realisateurs": "Ismail Merchant, Andrew Litvack",
+    "annee": 1995,
+    "pays": "Grande-Bretagne-France-Turquie-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Romancière adulée, humaniste militante, Adrienne Mark appartient à cette poignée d'artistes et de philosophes qui marquèrent profondément la culture dans les années soixante. De nationalité française et d'ascendance juive, elle incarnait alors au plus haut point la modernité, l'espoir d'une vie nouvelle et d'un changement radical. Mais aujourd'hui, Adrienne se sent dépassée à son tour."
+      }
+    ],
+    "generique": [
+      "Jeanne Moreau",
+      "Sean Young",
+      "Sam Waterston"
+    ]
   },
   {
     "titre": "Quartet",
     "titreVo": "",
     "idFilm": 46110,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1980,
     "pays": "France-Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À Montparnasse, en 1927, Marya se trouve désemparée après l'arrestation de son mari pour recel d'œuvres d'art. Un riche couple d'anglais se propose de l'héberger. Se met alors en place un jeu pervers entre les hôtes et leur invitée."
+        "texte": "À Montparnasse, en 1927, Marya est désemparée après l'arrestation de son mari pour recel d'œuvres d'art. Un riche couple d'Anglais se propose de l'héberger. Commence alors un jeu pervers entre les hôtes et leur invitée."
       }
     ],
     "generique": [
@@ -465,14 +581,14 @@
     "titre": "Retour à Howards End",
     "titreVo": "Howards End",
     "idFilm": 46137,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1991,
     "pays": "Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Issus de la classe moyenne anglaise, les deux sœurs Margaret et Helen Schlegel font la rencontre des Wilcox, une famille bourgeoise."
+        "texte": "Les sœurs Margaret et Helen Schlegel, issues de la classe moyenne anglaise, font la rencontre des Wilcox, une riche famille bourgeoise."
       }
     ],
     "generique": [
@@ -492,7 +608,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A travers trois histoires (« The Waltz », « The Hustle », « The Peabody »), la vie de Roseland, le dancing le plus ancien et le plus renommé de New-York et de ceux qui l'on animé depuis quatre-vingts ans."
+        "texte": "À travers trois histoires (« The Waltz », « The Hustle », « The Peabody »), la vie du Roseland, le dancing le plus ancien et le plus renommé de New York."
       }
     ],
     "generique": [
@@ -512,8 +628,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Satire de la bourgeoisie à travers l'expérience étrange d'un groupe de sauvages qui, parti sur les traces d'une boule de croquet, pénètre dans le monde de la civilisation et s'initie à ses méfaits. Premier long métrage produit par la compagnie Merchant-Ivory."
+        "texte": "L'expérience étrange d'un groupe de sauvages qui, partis sur les traces d'une boule de croquet, pénètrent dans le monde civilisé."
       }
+    ],
+    "generique": [
+      "Lewis J. Stadlen",
+      "Anne Francine",
+      "Sam Waterston",
+      "Susan Blakely"
     ]
   },
   {
@@ -527,12 +649,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Tom Buckingham et sa femme Carla sont les directeurs d'une troupe d'acteurs shakespeariens dans l'Inde post-coloniale. Ils font face à un désintérêt pour leur théâtre, alors qu'émerge le cinéma indien. Lizzie Buckingham, la fille du couple, tombe amoureuse de Sanju, un riche jeune play-boy indien, déjà impliqué dans une histoire d'amour avec une star de cinéma de Bombay."
+        "texte": "Tom et sa femme Carla, qui dirigent une troupe d'acteurs shakespeariens dans l'Inde postcoloniale, sont confrontés à l'émergence du cinéma de Bollywood, tandis que leur fille Lizzie s'éprend d'un jeune play-boy indien."
       }
     ],
     "generique": [
       "Felicity Kendal",
-      "Geoffrey Kendal"
+      "Geoffrey Kendal",
+      "Shashi Kapoor"
     ]
   },
   {
@@ -546,7 +669,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Récit de la vie passionnée de Pablo Picasso et Françoise Gilot (« la femme fleur ») de 1944 à 1953."
+        "texte": "Récit de la vie de couple passionnée de Pablo Picasso et Françoise Gilot, la « femme-fleur », de 1944 à 1953."
       }
     ],
     "generique": [
@@ -568,7 +691,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Thèmes et variations dans l'univers des miniatures indiennes. James Ivory retrace l'histoire de ces peintures développées selon deux écoles principales, celle des Moghols et celle des Rajputs. Musique de Ravi Shankar et Ali Akbar Khan."
+        "texte": "L'histoire des miniatures indiennes, peintures développées selon deux écoles principales, celle des Moghols et celle des Rajputs."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film sous réserve"
       }
     ]
   },
@@ -583,7 +710,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "_Thème et Variations_ est un documentaire réalisé dans le cadre des études de James Ivory à l'école de cinéma USC. Les impressions de la ville y côtoient les plans de peintures photographiées par le cinéaste accompagnés d'une musique de Gabrieli, Vivaldi, Monteverdi, Chopin."
+        "texte": "Les impressions de Venise côtoient les plans de peintures photographiées par le cinéaste, accompagnés de musique de Gabrieli, Vivaldi, Monteverdi et Chopin."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Documentaire réalisé dans le cadre de l'USC School of Cinematic Arts."
       }
     ]
   },
@@ -593,14 +724,14 @@
     "titreVo": "Remains of the Day",
     "artVo": "The",
     "idFilm": 56059,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1992,
     "pays": "États-Unis-Grande-Bretagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les doutes et les tourments du majordome d'une grande famille anglaise qui, en 1956, après trente années de parfait service, se demande s'il n'a pas gâché sa vie."
+        "texte": "Les tourments et les doutes du majordome d'une grande famille anglaise qui, après trente ans de loyaux services, s'interroge sur le sens de ses sacrifices."
       }
     ],
     "generique": [
@@ -623,7 +754,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les relations dans les années 1930 à Shangaï entre un diplomate anglais ayant perdu la vue et une comtesse russe blanche survivant entre petits boulots et prostitution pour soutenir financièrement les membres de sa belle-famille."
+        "texte": "Shanghaï, années 1930. Les relations entre un diplomate anglais devenu aveugle et une comtesse russe qui vit d'expédients pour soutenir financièrement sa belle-famille."
       }
     ],
     "generique": [
@@ -637,18 +768,20 @@
     "art": "The",
     "titreVo": "",
     "idFilm": 32886,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "James Ivory",
     "annee": 1974,
     "pays": "États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une ancienne vedette du cinéma muet, Jolly Grimm, organise chez lui une réception à laquelle il convie les milieux du cinéma. Il espère ainsi reconquérir la gloire, et la femme qu'il aime. Mais la soirée tourne vite en orgie, et Jolly provoque un drame..."
+        "texte": "Jolly Grimm, ancienne vedette du cinéma muet, organise chez lui une réception et convie le gotha du cinéma pour retrouver la gloire et reconquérir la femme qu'il aime. Mais la soirée tourne au drame."
       }
     ],
     "generique": [
-      "Raquel Welch"
+      "James Coco",
+      "Raquel Welch",
+      "Perry King"
     ]
   }
 ]

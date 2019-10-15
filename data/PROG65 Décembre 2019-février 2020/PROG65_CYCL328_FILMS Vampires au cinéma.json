@@ -68,7 +68,18 @@
     "ageMinimal": null,
     "realisateurs": "Joss Whedon, James A. Contner, David Solomon",
     "annee": 1997,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire de Buffy Summers, Tueuse de vampires issue d'une longue lignée dévouée à la lutte contre les vampires et les démons."
+      }
+    ],
+    "generique": [
+      "Sarah Michelle Gellar",
+      "Nicholas Brendon",
+      "Alyson Hannigan"
+    ]
   },
   {
     "titre": "Cicatrices de Dracula",
@@ -412,6 +423,12 @@
     "realisateurs": "Alan Cummings",
     "annee": 1986,
     "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le professeur Catalano mène l'enquête à Venise sur la dernière apparition du célèbre vampire Nosferatu pendant le carnaval de 1786."
+      }
+    ],
     "generique": [
       "Klaus Kinski",
       "Barbara De Rossi",

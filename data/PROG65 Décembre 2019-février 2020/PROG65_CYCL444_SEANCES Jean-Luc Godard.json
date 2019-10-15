@@ -55,6 +55,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32718,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 142861,
@@ -89,6 +91,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32369,
+    "typeAssoc": 117,
     "items": [
       {}
     ]
@@ -510,6 +514,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32413,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 142865,
@@ -548,6 +554,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32412,
+    "typeAssoc": 117,
     "items": [
       {}
     ]
@@ -584,14 +592,15 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 14"
+    "titreEvenement": "Programme 14",
+    "mention": "Séance présentée par Jean-Pierre Léaud"
   },
   {
     "idCategorie": 2175,
     "typeEvenement": 13,
     "idEvenement": 19917,
     "idSeance": 32433,
-    "dateHeure": "2020-01-17T21:30:00",
+    "dateHeure": "2020-01-17T21:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -618,8 +627,7 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 15",
-    "mention": "Séance présentée par Jean-Pierre Léaud (sous réserve)"
+    "titreEvenement": "Programme 15"
   },
   {
     "idCategorie": 2174,
@@ -705,7 +713,7 @@
     "typeEvenement": 13,
     "idEvenement": 20353,
     "idSeance": 32462,
-    "dateHeure": "2020-01-18T21:00:00",
+    "dateHeure": "2020-01-18T21:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -842,6 +850,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32456,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 142339,
@@ -876,6 +886,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32455,
+    "typeAssoc": 117,
     "items": [
       {}
     ]
@@ -987,7 +999,7 @@
     "typeEvenement": 13,
     "idEvenement": 20234,
     "idSeance": 32471,
-    "dateHeure": "2020-01-25T19:30:00",
+    "dateHeure": "2020-01-25T19:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1004,7 +1016,8 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 21"
+    "titreEvenement": "Programme 21",
+    "mention": "Séance présentée par Jacques Kebadian"
   },
   {
     "idCategorie": 2174,
@@ -1270,6 +1283,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32499,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 142342,
@@ -1324,6 +1339,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32498,
+    "typeAssoc": 117,
     "items": [
       {}
     ]
@@ -1333,7 +1350,7 @@
     "typeEvenement": 13,
     "idEvenement": 20283,
     "idSeance": 32827,
-    "dateHeure": "2020-01-31T19:30:00",
+    "dateHeure": "2020-01-31T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1381,14 +1398,14 @@
       }
     ],
     "titreEvenement": "Programme 42",
-    "mention": "Séance présentée par Isabelle Huppert"
+    "mention": "Séance présentée par Isabelle Huppert (sous réserve)"
   },
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
     "idEvenement": 21396,
     "idSeance": 32828,
-    "dateHeure": "2020-01-31T21:45:00",
+    "dateHeure": "2020-01-31T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1415,7 +1432,8 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 44"
+    "titreEvenement": "Programme 44",
+    "mention": "Séance présentée par Maruschka Detmers (sous réserve) et Jacques Bonnaffé"
   },
   {
     "idCategorie": 2176,
@@ -1594,6 +1612,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32952,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 142875,
@@ -1648,6 +1668,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32597,
+    "typeAssoc": 117,
     "items": [
       {}
     ]
@@ -2690,7 +2712,7 @@
     "typeEvenement": 13,
     "idEvenement": 19855,
     "idSeance": 32631,
-    "dateHeure": "2020-02-21T14:45:00",
+    "dateHeure": "2020-02-21T14:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -2734,7 +2756,7 @@
     "typeEvenement": 13,
     "idEvenement": 19921,
     "idSeance": 32861,
-    "dateHeure": "2020-02-21T17:00:00",
+    "dateHeure": "2020-02-21T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -2768,7 +2790,7 @@
     "typeEvenement": 13,
     "idEvenement": 21313,
     "idSeance": 32926,
-    "dateHeure": "2020-02-21T19:30:00",
+    "dateHeure": "2020-02-21T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -3472,7 +3494,7 @@
     "typeEvenement": 13,
     "idEvenement": 19860,
     "idSeance": 32671,
-    "dateHeure": "2020-02-27T21:00:00",
+    "dateHeure": "2020-02-27T21:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -3793,6 +3815,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32690,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 143026,
@@ -3867,6 +3891,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 32689,
+    "typeAssoc": 117,
     "items": [
       {}
     ]
