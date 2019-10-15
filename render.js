@@ -6,7 +6,7 @@ const {
 const helpers = require("./lib/helpers.js");
 const format = require("./lib/format.js");
 const doMerge = require("./lib/transforms/merge.js");
-const cleanTitreEvenement = require("./lib/transforms/clean_titre_evenement.js");
+// const cleanTitreEvenement = require("./lib/transforms/clean_titre_evenement.js");
 const doRender = require("./lib/transforms/render.js");
 const doMarkdown = require("./lib/transforms/markdown.js");
 const doTaggedText = require("./lib/transforms/tt.js");
@@ -29,6 +29,7 @@ try {
   let films;
   let seances;
   let confs = [];
+  let texts; // = {};
   let merge;
   let render;
   let markdown;
@@ -66,7 +67,7 @@ try {
     }
   }
 
-  // Lecture des données confs
+  // Lecture des données _CONFS
   // NOTE : en l'absence de données, le script continue.
   // TODO: voir comment gérer le statut _DEF pour la sortie. Je postule pour le moment qu'il reste déterminé par celui des films uniquement.
   try {
@@ -76,7 +77,6 @@ try {
       }.json`
     );
     console.log("Info : utilise les données CONFS_DEF.");
-    // isDef = true;
   } catch (e) {
     try {
       confs = await helpers.readFileAsJson(
@@ -85,14 +85,34 @@ try {
         }.json`
       );
       console.log("Info : utilise les données CONFS (non _DEF).");
-      // isDef = false;
     } catch (e) {
       console.log("Info : aucune donnée _CONFS n'a  été trouvée.");
     }
   }
 
-  // _MERGE : Fusion des données films, séances et confs.
-  merge = doMerge(cycleConfig, films, seances, confs);
+  // Lecture des données _TEXTS
+  try {
+    texts = await helpers.readFileAsJson(
+      `${config.pathData.remote}${progDirectoryName}/${cycleFullCode[0]} ${cycleFullCode[1]}/${cycleFullCode[0]}_TEXTS_DEF ${
+        cycleFullCode[1]
+      }.json`
+    );
+    console.log("Info : utilise les données TEXTS_DEF.");
+  } catch (e) {
+    try {
+      texts = await helpers.readFileAsJson(
+        `${config.pathData.local}${progDirectoryName}/${cycleFullCode[0]}_TEXTS ${
+        cycleFullCode[1]
+      }.json`
+      );
+      console.log("Info : utilise les données TEXTS (non _DEF).");
+    } catch (e) {
+      console.log("Info : aucune donnée _TEXTS n'a  été trouvée.");
+    }
+  }
+
+  // _MERGE : Fusion des données films, séances, confs et texts.
+  merge = doMerge(cycleConfig, films, seances, confs, texts);
 
   // merge = cleanTitreEvenement(merge); // cf. 2019-10-03
 
