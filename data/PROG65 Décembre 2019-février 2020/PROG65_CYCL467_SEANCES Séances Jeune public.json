@@ -1,0 +1,673 @@
+[
+  {
+    "idCategorie": 2193,
+    "typeEvenement": 13,
+    "idEvenement": 21436,
+    "idSeance": 32970,
+    "dateHeure": "2019-11-27T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 63804,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2159,
+    "typeEvenement": 13,
+    "idEvenement": 21427,
+    "idSeance": 32969,
+    "dateHeure": "2019-12-01T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "typeSeance": 43,
+    "items": [
+      {
+        "idFilm": 143070,
+        "ordre": 1,
+        "idSeance": 32969,
+        "idCopie": 20052,
+        "duree": 82,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Avant-première"
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19822,
+    "idSeance": 32763,
+    "dateHeure": "2019-12-01T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 40195,
+        "ordre": 1,
+        "idSeance": 32763,
+        "idCopie": 5676,
+        "duree": 136,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19811,
+    "idSeance": 32133,
+    "dateHeure": "2019-12-01T21:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 41256,
+        "ordre": 1,
+        "idSeance": 32133,
+        "idCopie": 8723,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2159,
+    "typeEvenement": 13,
+    "idEvenement": 21430,
+    "idSeance": 32143,
+    "dateHeure": "2019-12-04T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 128984,
+        "ordre": 1,
+        "idSeance": 32143,
+        "idCopie": 20141,
+        "duree": 51,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19827,
+    "idSeance": 32161,
+    "dateHeure": "2019-12-06T21:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 41632,
+        "ordre": 1,
+        "idSeance": 32161,
+        "idCopie": 19518,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19816,
+    "idSeance": 32178,
+    "dateHeure": "2019-12-08T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 41594,
+        "ordre": 1,
+        "idSeance": 32178,
+        "idCopie": 4713,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19811,
+    "idSeance": 32972,
+    "dateHeure": "2019-12-11T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 41256,
+        "ordre": 1,
+        "idSeance": 32972,
+        "idCopie": 8723,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19809,
+    "idSeance": 32216,
+    "dateHeure": "2019-12-15T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 45885,
+        "ordre": 1,
+        "idSeance": 32216,
+        "idCopie": 19472,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19822,
+    "idSeance": 32254,
+    "dateHeure": "2019-12-21T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 40195,
+        "ordre": 1,
+        "idSeance": 32254,
+        "idCopie": 5676,
+        "duree": 136,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19816,
+    "idSeance": 32281,
+    "dateHeure": "2019-12-26T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 41594,
+        "ordre": 1,
+        "idSeance": 32281,
+        "idCopie": 4713,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19811,
+    "idSeance": 32295,
+    "dateHeure": "2019-12-28T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 41256,
+        "ordre": 1,
+        "idSeance": 32295,
+        "idCopie": 8723,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19827,
+    "idSeance": 32745,
+    "dateHeure": "2019-12-29T19:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 41632,
+        "ordre": 1,
+        "idSeance": 32745,
+        "idCopie": 19518,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19816,
+    "idSeance": 32347,
+    "dateHeure": "2020-01-05T19:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 41594,
+        "ordre": 1,
+        "idSeance": 32347,
+        "idCopie": 4713,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19827,
+    "idSeance": 32358,
+    "dateHeure": "2020-01-08T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 41632,
+        "ordre": 1,
+        "idSeance": 32358,
+        "idCopie": 19518,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2130,
+    "typeEvenement": 13,
+    "idEvenement": 19822,
+    "idSeance": 32938,
+    "dateHeure": "2020-01-12T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 40195,
+        "ordre": 1,
+        "idSeance": 32938,
+        "idCopie": 5676,
+        "duree": 136,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2128,
+    "typeEvenement": 13,
+    "idEvenement": 21402,
+    "idSeance": 33009,
+    "dateHeure": "2020-01-15T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 94860,
+        "ordre": 1,
+        "idSeance": 33009,
+        "idCopie": 14689,
+        "duree": 119,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2128,
+    "typeEvenement": 13,
+    "idEvenement": 21417,
+    "idSeance": 32436,
+    "dateHeure": "2020-01-19T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 33187,
+        "ordre": 1,
+        "idSeance": 32436,
+        "idCopie": 14776,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2128,
+    "typeEvenement": 13,
+    "idEvenement": 21401,
+    "idSeance": 32981,
+    "dateHeure": "2020-01-22T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 31066,
+        "ordre": 1,
+        "idSeance": 32981,
+        "idCopie": 3692,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2128,
+    "typeEvenement": 13,
+    "idEvenement": 21419,
+    "idSeance": 32479,
+    "dateHeure": "2020-01-26T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 37985,
+        "ordre": 1,
+        "idSeance": 32479,
+        "idCopie": 3438,
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2128,
+    "typeEvenement": 13,
+    "idEvenement": 21420,
+    "idSeance": 33013,
+    "dateHeure": "2020-02-05T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 128558,
+        "ordre": 1,
+        "idSeance": 33013,
+        "idCopie": 15911,
+        "duree": 105,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2158,
+    "typeEvenement": 13,
+    "idEvenement": 20158,
+    "idSeance": 32538,
+    "dateHeure": "2020-02-06T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "idSeanceAssoc": 32544,
+    "typeAssoc": 117,
+    "items": [
+      {
+        "idFilm": 41860,
+        "ordre": 1,
+        "idSeance": 32538,
+        "idCopie": 14259,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2128,
+    "typeEvenement": 13,
+    "idEvenement": 21406,
+    "idSeance": 32565,
+    "dateHeure": "2020-02-09T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 31049,
+        "ordre": 1,
+        "idSeance": 32565,
+        "idCopie": 8079,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2128,
+    "typeEvenement": 13,
+    "idEvenement": 21408,
+    "idSeance": 32573,
+    "dateHeure": "2020-02-12T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 40513,
+        "ordre": 1,
+        "idSeance": 32573,
+        "idCopie": 20139,
+        "duree": 85,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2128,
+    "typeEvenement": 13,
+    "idEvenement": 21404,
+    "idSeance": 32608,
+    "dateHeure": "2020-02-16T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 115761,
+        "ordre": 1,
+        "idSeance": 32608,
+        "idCopie": 19162,
+        "duree": 87,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2192,
+    "typeEvenement": 13,
+    "idEvenement": 21407,
+    "idSeance": 32980,
+    "dateHeure": "2020-02-19T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 47696,
+        "ordre": 1
+      },
+      {
+        "idFilm": 143065,
+        "ordre": 2
+      },
+      {
+        "idFilm": 111950,
+        "ordre": 3
+      },
+      {
+        "idFilm": 119671,
+        "ordre": 4
+      }
+    ]
+  },
+  {
+    "idCategorie": 2128,
+    "typeEvenement": 13,
+    "idEvenement": 21403,
+    "idSeance": 32651,
+    "dateHeure": "2020-02-23T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 37548,
+        "ordre": 1,
+        "idSeance": 32651,
+        "idCopie": 13791,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2128,
+    "typeEvenement": 13,
+    "idEvenement": 21405,
+    "idSeance": 32659,
+    "dateHeure": "2020-02-26T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 49035,
+        "ordre": 1,
+        "idSeance": 32659,
+        "idCopie": 10562,
+        "duree": 87,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2158,
+    "typeEvenement": 13,
+    "idEvenement": 20158,
+    "idSeance": 32694,
+    "dateHeure": "2020-03-01T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 41860,
+        "ordre": 1,
+        "idSeance": 32694,
+        "idCopie": 14259,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  }
+]

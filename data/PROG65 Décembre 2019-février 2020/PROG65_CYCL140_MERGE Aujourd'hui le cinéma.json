@@ -175,7 +175,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Ibrahim, Suleiman, Manar et Altayeb, cinéastes facétieux et idéalistes, sillonnent dans un van les routes du Soudan pour projeter des films en évitant la censure du pouvoir. Ces quatre amis de toujours se mettent à rêver d'organiser une grande projection publique dans la capitale Khartoum et de rénover une salle de cinéma à l'abandon. Son nom ? La Révolution..."
+              "texte": "Ibrahim, Suleiman, Manar et Altayeb, cinéastes facétieux et idéalistes, sillonnent dans un van les routes du Soudan pour projeter des films en évitant la censure du pouvoir. Ces quatre amis de toujours se mettent à rêver d'organiser une grande projection publique dans la capitale Khartoum et de rénover une salle de cinéma à l'abandon. Son nom ? La Révolution ..."
             },
             {
               "typeTexte": 99,
@@ -194,39 +194,6 @@
       "titreSousCycle": "Louise Narboni",
       "tri": 4,
       "items": [
-        {
-          "idSeance": 32142,
-          "ordre": 1,
-          "dateHeure": "2019-12-02T20:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "idCategorie": 2166,
-          "idEvenement": 21484,
-          "typeEvenement": 13,
-          "idFilm": 143178,
-          "titre": "Au cœur du monde",
-          "titreVo": "No coração do mundo",
-          "realisateurs": "Gabriel Martins, Maurilio Martins",
-          "annee": 2019,
-          "pays": "Brésil",
-          "duree": 120,
-          "version": "VOSTF",
-          "format": "DCP",
-          "ageMinimal": null,
-          "generique": [
-            "Grace Passô",
-            "Barbara Colen",
-            "Renato Novaes"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "A Contagem, ville populaire du Minas Gerais Brésilien, un coup de feu retentit lors d'une soirée d'anniversaire et lie les destins de Selma, Ana, Marcos, Beto et Miro. Tous se démènent pour améliorer leur vie et trouver leur place « au cœur du monde »."
-            }
-          ]
-        },
         {
           "idSeance": 33004,
           "ordre": 1,
@@ -253,7 +220,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "La « Casa Verdi » de Milan est à la fois le thème et le décor de ce film à caractère documentaire – une maison de retraite pour artistes, fondée par Giuseppe Verdi, où vivent environ 65 chanteurs, musiciens et compositeurs. Leur âge varie entre 80 et 96 ans : des stars des années 30."
+              "texte": "La « Casa Verdi » de Milan est à la fois le thème et le décor de ce film à caractère documentaire – une maison de retraite pour artistes, fondée par Giuseppe Verdi, où vivent environ 65 chanteurs, musiciens et compositeurs. Leur âge varie entre 80 et 96 ans : des stars des années 30. _Restauré par la Cinémathèque suisse et Memoriav._"
             }
           ]
         },
@@ -712,6 +679,34 @@
       "items": [
         {
           "idSeance": 33008,
+          "ordre": 5,
+          "dateHeure": "2020-02-24T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2183,
+          "idEvenement": 21510,
+          "typeEvenement": 13,
+          "idFilm": 143206,
+          "titre": "Au fond du jardin",
+          "titreVo": "",
+          "realisateurs": "Anaïs Gauchot",
+          "annee": 2019,
+          "pays": "France",
+          "duree": 4,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune femme explore les recoins ombrageux du jardin qui l'a vue grandir. Les souvenirs qui émergent, questionnent la notion de modestie, la difficulté d'être vulnérable."
+            }
+          ]
+        },
+        {
+          "idSeance": 33008,
           "ordre": 2,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
@@ -719,7 +714,7 @@
             "Jean Epstein"
           ],
           "idCategorie": 2183,
-          "idEvenement": 21494,
+          "idEvenement": 21510,
           "typeEvenement": 13,
           "idFilm": 143185,
           "titre": "Chloé Van Herzeele",
@@ -740,14 +735,14 @@
         },
         {
           "idSeance": 33008,
-          "ordre": 6,
+          "ordre": 8,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
           "idCategorie": 2183,
-          "idEvenement": 21494,
+          "idEvenement": 21510,
           "typeEvenement": 13,
           "idFilm": 143200,
           "titre": "Esperança",
@@ -768,14 +763,14 @@
         },
         {
           "idSeance": 33008,
-          "ordre": 7,
+          "ordre": 3,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
           "idCategorie": 2183,
-          "idEvenement": 21494,
+          "idEvenement": 21510,
           "typeEvenement": 13,
           "idFilm": 143186,
           "titre": "Flow",
@@ -798,7 +793,7 @@
             "Jean Epstein"
           ],
           "idCategorie": 2183,
-          "idEvenement": 21494,
+          "idEvenement": 21510,
           "typeEvenement": 13,
           "idFilm": 143205,
           "titre": "Marie Boudin",
@@ -819,14 +814,14 @@
         },
         {
           "idSeance": 33008,
-          "ordre": 8,
+          "ordre": 9,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
           "idCategorie": 2183,
-          "idEvenement": 21494,
+          "idEvenement": 21510,
           "typeEvenement": 13,
           "idFilm": 143197,
           "titre": "Nuit chérie",
@@ -876,14 +871,14 @@
         },
         {
           "idSeance": 33008,
-          "ordre": 4,
+          "ordre": 6,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
           "idCategorie": 2183,
-          "idEvenement": 21494,
+          "idEvenement": 21510,
           "typeEvenement": 13,
           "idFilm": 143189,
           "titre": "Sororelle",
@@ -904,14 +899,14 @@
         },
         {
           "idSeance": 33008,
-          "ordre": 5,
+          "ordre": 7,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
           "idCategorie": 2183,
-          "idEvenement": 21494,
+          "idEvenement": 21510,
           "typeEvenement": 13,
           "idFilm": 143198,
           "titre": "Sous la canopée",
@@ -932,14 +927,14 @@
         },
         {
           "idSeance": 33008,
-          "ordre": 3,
+          "ordre": 4,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
           "idCategorie": 2183,
-          "idEvenement": 21494,
+          "idEvenement": 21510,
           "typeEvenement": 13,
           "idFilm": 143187,
           "titre": "Symbiosis",

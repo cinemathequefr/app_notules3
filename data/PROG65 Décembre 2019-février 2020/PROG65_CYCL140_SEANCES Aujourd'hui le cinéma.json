@@ -1,6 +1,6 @@
 [
   {
-    "idCategorie": 2166,
+    "idCategorie": 2191,
     "typeEvenement": 13,
     "idEvenement": 21484,
     "idSeance": 32142,
@@ -20,7 +20,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Gabriel Martins et Marilio Martins"
   },
   {
     "idCategorie": 2156,
@@ -43,7 +44,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Suhaib Gasmelbari"
   },
   {
     "idCategorie": 2152,
@@ -76,7 +78,8 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Loïc Barché"
   },
   {
     "idCategorie": 2171,
@@ -156,7 +159,8 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Stéphane Kahn"
   },
   {
     "idCategorie": 2166,
@@ -179,7 +183,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Louise Narboni"
   },
   {
     "idCategorie": 2166,
@@ -202,7 +207,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Louise Narboni"
   },
   {
     "idCategorie": 2153,
@@ -225,7 +231,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Vincent Mariette"
   },
   {
     "idCategorie": 2153,
@@ -248,14 +255,39 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Vincent Mariette"
+  },
+  {
+    "idCategorie": 2170,
+    "typeEvenement": 13,
+    "idEvenement": 21452,
+    "idSeance": 33006,
+    "dateHeure": "2020-02-10T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 141960,
+        "ordre": 1,
+        "idSeance": 33006,
+        "idCopie": 20041,
+        "duree": 98,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Blaise Harrison"
   },
   {
     "idCategorie": 2181,
     "typeEvenement": 13,
     "idEvenement": 21487,
     "idSeance": 32572,
-    "dateHeure": "2020-02-10T19:00:00",
+    "dateHeure": "2020-02-10T21:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -311,30 +343,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
-  },
-  {
-    "idCategorie": 2170,
-    "typeEvenement": 13,
-    "idEvenement": 21452,
-    "idSeance": 33006,
-    "dateHeure": "2020-02-10T21:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
     ],
-    "items": [
-      {
-        "idFilm": 141960,
-        "ordre": 1,
-        "idSeance": 33006,
-        "idCopie": 20041,
-        "duree": 98,
-        "version": "VF",
-        "format": "DCP",
-        "valide": 0
-      }
-    ]
+    "mention": "Séance présentée par Jacques Kermabon et Xavier Kawa-Topor"
   },
   {
     "idCategorie": 2172,
@@ -357,12 +367,37 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Judith Davis"
+  },
+  {
+    "idCategorie": 2172,
+    "typeEvenement": 13,
+    "idEvenement": 21515,
+    "idSeance": 33021,
+    "dateHeure": "2020-02-17T21:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 34786,
+        "ordre": 1,
+        "idSeance": 33021,
+        "idCopie": 20137,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Judith Davis"
   },
   {
     "idCategorie": 2183,
     "typeEvenement": 13,
-    "idEvenement": 21494,
+    "idEvenement": 21510,
     "idSeance": 33008,
     "dateHeure": "2020-02-24T19:00:00",
     "idSalle": [
@@ -391,8 +426,18 @@
         "valide": 1
       },
       {
-        "idFilm": 143187,
+        "idFilm": 143186,
         "ordre": 3,
+        "idSeance": 33008,
+        "idCopie": 20108,
+        "duree": 14,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 143187,
+        "ordre": 4,
         "idSeance": 33008,
         "idCopie": 20109,
         "duree": 13,
@@ -401,8 +446,18 @@
         "valide": 1
       },
       {
+        "idFilm": 143206,
+        "ordre": 5,
+        "idSeance": 33008,
+        "idCopie": 20123,
+        "duree": 4,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
         "idFilm": 143189,
-        "ordre": 4,
+        "ordre": 6,
         "idSeance": 33008,
         "idCopie": 20110,
         "duree": 15,
@@ -412,7 +467,7 @@
       },
       {
         "idFilm": 143198,
-        "ordre": 5,
+        "ordre": 7,
         "idSeance": 33008,
         "idCopie": 20115,
         "duree": 7,
@@ -422,7 +477,7 @@
       },
       {
         "idFilm": 143200,
-        "ordre": 6,
+        "ordre": 8,
         "idSeance": 33008,
         "idCopie": 20113,
         "duree": 5,
@@ -431,18 +486,8 @@
         "valide": 0
       },
       {
-        "idFilm": 143186,
-        "ordre": 7,
-        "idSeance": 33008,
-        "idCopie": 20108,
-        "duree": 14,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      },
-      {
         "idFilm": 143197,
-        "ordre": 8,
+        "ordre": 9,
         "idSeance": 33008,
         "idCopie": 20114,
         "duree": 14,
@@ -450,10 +495,11 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Francis Gavelle"
   },
   {
-    "idCategorie": 2183,
+    "idCategorie": 2196,
     "typeEvenement": 13,
     "idEvenement": 21511,
     "idSeance": 33007,
@@ -474,5 +520,8 @@
         "valide": 1
       }
     ]
+  },
+  {
+    "mention": "Séance présentée par Elsa Charbit"
   }
 ]
