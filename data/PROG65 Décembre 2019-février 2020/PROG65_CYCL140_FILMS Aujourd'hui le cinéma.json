@@ -6,7 +6,13 @@
     "ageMinimal": null,
     "realisateurs": "Sidney Lumet",
     "annee": 1988,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Fils de militants actifs, le jeune Danny Pope est sans cesse obligé de fuir avec sa famille et de changer d'identité. Alors qu'il a 17 ans, qu'il rêve de devenir pianiste et rencontre une fille, celui-ci va cependant devoir faire le choix de rester ou fuir de nouveau avec sa famille."
+      }
+    ]
   },
   {
     "titre": "Arche de Noé",
@@ -51,7 +57,13 @@
     "ageMinimal": null,
     "realisateurs": "Anaïs Gauchot",
     "annee": 2019,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme explore les recoins ombrageux du jardin qui l'a vue grandir. Les souvenirs qui émergent, questionnent la notion de modestie, la difficulté d'être vulnérable."
+      }
+    ]
   },
   {
     "titre": "Aventure atomique",
@@ -87,7 +99,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La « Casa Verdi » de Milan est à la fois le thème et le décor de ce film à caractère documentaire – une maison de retraite pour artistes, fondée par Giuseppe Verdi, où vivent environ 65 chanteurs, musiciens et compositeurs. Leur âge varie entre 80 et 96 ans : des stars des années 30."
+        "texte": "La « Casa Verdi » de Milan est à la fois le thème et le décor de ce film à caractère documentaire – une maison de retraite pour artistes, fondée par Giuseppe Verdi, où vivent environ 65 chanteurs, musiciens et compositeurs. Leur âge varie entre 80 et 96 ans : des stars des années 30. _Restauré par la Cinémathèque suisse et Memoriav._"
       }
     ]
   },
@@ -122,6 +134,10 @@
       {
         "typeTexte": 9,
         "texte": "Pendant un an, Élodie Fonnard, chanteuse lyrique et parisienne, a accueilli chez elle et pris soin d'Ahmad, jeune Afghan réfugié en France. Devant la caméra, Élodie et Ahmad rejouent leur vie commune et le partage de leurs cultures respectives."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film inédit qui a remporté le Prix Georges de Beauregard National & le Prix Renaud Victor au Festival International de Cinéma – Marseille."
       }
     ],
     "generique": [
@@ -501,7 +517,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Ibrahim, Suleiman, Manar et Altayeb, cinéastes facétieux et idéalistes, sillonnent dans un van les routes du Soudan pour projeter des films en évitant la censure du pouvoir. Ces quatre amis de toujours se mettent à rêver d'organiser une grande projection publique dans la capitale Khartoum et de rénover une salle de cinéma à l'abandon. Son nom ? La Révolution..."
+        "texte": "Ibrahim, Suleiman, Manar et Altayeb, cinéastes facétieux et idéalistes, sillonnent dans un van les routes du Soudan pour projeter des films en évitant la censure du pouvoir. Ces quatre amis de toujours se mettent à rêver d'organiser une grande projection publique dans la capitale Khartoum et de rénover une salle de cinéma à l'abandon. Son nom ? La Révolution ..."
       },
       {
         "typeTexte": 99,

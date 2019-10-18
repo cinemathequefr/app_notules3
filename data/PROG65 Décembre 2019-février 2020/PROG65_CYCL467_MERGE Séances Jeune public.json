@@ -1,0 +1,996 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Hitchcock junior",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32216,
+          "ordre": 1,
+          "dateHeure": "2019-12-15T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19809,
+          "typeEvenement": 13,
+          "idFilm": 45885,
+          "art": "L'",
+          "titre": "Homme qui en savait trop",
+          "artVo": "The",
+          "titreVo": "Man Who Knew too Much",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1955,
+          "pays": "États-Unis",
+          "duree": 120,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "James Stewart",
+            "James Stewart",
+            "Doris Day",
+            "Doris Day"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les McKenna, en vacances au Maroc, rencontrent un français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, la fille McKenna est enlevée."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Copie 35mm en Technicolor original (tirage par imbibition). Projection exceptionelle avec son dimensionnel. Hitchcock utilisa de manière remarquable toutes les potentialités de l'espace sonore stéréophonique du son Perspecta en parfaite adéquation avec les nouvelles possibilités de l'espace scénique visuel offertes par la VistaVision, le procédé préféré d'Hitchcock. Remake de la version de 1934."
+            }
+          ]
+        },
+        {
+          "idSeance": 32133,
+          "ordre": 1,
+          "dateHeure": "2019-12-01T21:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19811,
+          "typeEvenement": 13,
+          "idFilm": 41256,
+          "titre": "Jeune et innocent",
+          "titreVo": "Young and Innocent",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1937,
+          "pays": "Grande-Bretagne",
+          "duree": 80,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 9,
+          "generique": [
+            "Nova Pilbeam",
+            "Derrick De Marney",
+            "Edward Rigby"
+          ],
+          "adaptation": "D'après le roman _A shilling for candles_ de Josephine Tey.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable."
+            }
+          ]
+        },
+        {
+          "idSeance": 32972,
+          "ordre": 1,
+          "dateHeure": "2019-12-11T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19811,
+          "typeEvenement": 13,
+          "idFilm": 41256,
+          "titre": "Jeune et innocent",
+          "titreVo": "Young and Innocent",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1937,
+          "pays": "Grande-Bretagne",
+          "duree": 80,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 9,
+          "generique": [
+            "Nova Pilbeam",
+            "Derrick De Marney",
+            "Edward Rigby"
+          ],
+          "adaptation": "D'après le roman _A shilling for candles_ de Josephine Tey.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable."
+            }
+          ]
+        },
+        {
+          "idSeance": 32295,
+          "ordre": 1,
+          "dateHeure": "2019-12-28T16:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19811,
+          "typeEvenement": 13,
+          "idFilm": 41256,
+          "titre": "Jeune et innocent",
+          "titreVo": "Young and Innocent",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1937,
+          "pays": "Grande-Bretagne",
+          "duree": 80,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 9,
+          "generique": [
+            "Nova Pilbeam",
+            "Derrick De Marney",
+            "Edward Rigby"
+          ],
+          "adaptation": "D'après le roman _A shilling for candles_ de Josephine Tey.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable."
+            }
+          ]
+        },
+        {
+          "idSeance": 32178,
+          "ordre": 1,
+          "dateHeure": "2019-12-08T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19816,
+          "typeEvenement": 13,
+          "idFilm": 41594,
+          "art": "La",
+          "titre": "Main au collet",
+          "titreVo": "To Catch a Thief",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1954,
+          "pays": "États-Unis",
+          "duree": 97,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": 10,
+          "generique": [
+            "Cary Grant",
+            "Grace Kelly",
+            "Charles Vanel"
+          ],
+          "adaptation": "D'après le roman _To catch a thief_ de David Dodge.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un ancien cambrioleur profite d'une retraite paisible sur la Côte d'Azur, jusqu'au jour où il est suspecté d'être l'auteur d'une série de vols commis dans la région. Pour prouver son innocence, il va devoir identifier le vrai coupable."
+            }
+          ]
+        },
+        {
+          "idSeance": 32281,
+          "ordre": 1,
+          "dateHeure": "2019-12-26T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19816,
+          "typeEvenement": 13,
+          "idFilm": 41594,
+          "art": "La",
+          "titre": "Main au collet",
+          "titreVo": "To Catch a Thief",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1954,
+          "pays": "États-Unis",
+          "duree": 97,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": 10,
+          "generique": [
+            "Cary Grant",
+            "Grace Kelly",
+            "Charles Vanel"
+          ],
+          "adaptation": "D'après le roman _To catch a thief_ de David Dodge.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un ancien cambrioleur profite d'une retraite paisible sur la Côte d'Azur, jusqu'au jour où il est suspecté d'être l'auteur d'une série de vols commis dans la région. Pour prouver son innocence, il va devoir identifier le vrai coupable."
+            }
+          ]
+        },
+        {
+          "idSeance": 32347,
+          "ordre": 1,
+          "dateHeure": "2020-01-05T19:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19816,
+          "typeEvenement": 13,
+          "idFilm": 41594,
+          "art": "La",
+          "titre": "Main au collet",
+          "titreVo": "To Catch a Thief",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1954,
+          "pays": "États-Unis",
+          "duree": 97,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": 10,
+          "generique": [
+            "Cary Grant",
+            "Grace Kelly",
+            "Charles Vanel"
+          ],
+          "adaptation": "D'après le roman _To catch a thief_ de David Dodge.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un ancien cambrioleur profite d'une retraite paisible sur la Côte d'Azur, jusqu'au jour où il est suspecté d'être l'auteur d'une série de vols commis dans la région. Pour prouver son innocence, il va devoir identifier le vrai coupable."
+            }
+          ]
+        },
+        {
+          "idSeance": 32763,
+          "ordre": 1,
+          "dateHeure": "2019-12-01T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19822,
+          "typeEvenement": 13,
+          "idFilm": 40195,
+          "art": "La",
+          "titre": "Mort aux trousses",
+          "titreVo": "North by Northwest",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1958,
+          "pays": "États-Unis",
+          "duree": 136,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 10,
+          "generique": [
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Confondu avec un membre du contre-espionnage américain, le publicitaire Roger O. Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
+            }
+          ]
+        },
+        {
+          "idSeance": 32254,
+          "ordre": 1,
+          "dateHeure": "2019-12-21T21:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19822,
+          "typeEvenement": 13,
+          "idFilm": 40195,
+          "art": "La",
+          "titre": "Mort aux trousses",
+          "titreVo": "North by Northwest",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1958,
+          "pays": "États-Unis",
+          "duree": 136,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 10,
+          "generique": [
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Confondu avec un membre du contre-espionnage américain, le publicitaire Roger O. Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
+            }
+          ]
+        },
+        {
+          "idSeance": 32938,
+          "ordre": 1,
+          "dateHeure": "2020-01-12T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19822,
+          "typeEvenement": 13,
+          "idFilm": 40195,
+          "art": "La",
+          "titre": "Mort aux trousses",
+          "titreVo": "North by Northwest",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1958,
+          "pays": "États-Unis",
+          "duree": 136,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 10,
+          "generique": [
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Confondu avec un membre du contre-espionnage américain, le publicitaire Roger O. Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
+            }
+          ]
+        },
+        {
+          "idSeance": 32161,
+          "ordre": 1,
+          "dateHeure": "2019-12-06T21:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19827,
+          "typeEvenement": 13,
+          "idFilm": 41632,
+          "art": "L'",
+          "titre": "Ombre d'un doute",
+          "titreVo": "Shadow of a Doubt",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1942,
+          "pays": "États-Unis",
+          "duree": 108,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Teresa Wright",
+            "Joseph Cotten",
+            "Macdonald Carey"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Recherché pour meurtre par la police, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais la jeune fille commence peu à peu à avoir des soupçons le concernant."
+            }
+          ]
+        },
+        {
+          "idSeance": 32745,
+          "ordre": 1,
+          "dateHeure": "2019-12-29T19:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19827,
+          "typeEvenement": 13,
+          "idFilm": 41632,
+          "art": "L'",
+          "titre": "Ombre d'un doute",
+          "titreVo": "Shadow of a Doubt",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1942,
+          "pays": "États-Unis",
+          "duree": 108,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Teresa Wright",
+            "Joseph Cotten",
+            "Macdonald Carey"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Recherché pour meurtre par la police, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais la jeune fille commence peu à peu à avoir des soupçons le concernant."
+            }
+          ]
+        },
+        {
+          "idSeance": 32358,
+          "ordre": 1,
+          "dateHeure": "2020-01-08T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2130,
+          "idEvenement": 19827,
+          "typeEvenement": 13,
+          "idFilm": 41632,
+          "art": "L'",
+          "titre": "Ombre d'un doute",
+          "titreVo": "Shadow of a Doubt",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1942,
+          "pays": "États-Unis",
+          "duree": 108,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Teresa Wright",
+            "Joseph Cotten",
+            "Macdonald Carey"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Recherché pour meurtre par la police, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais la jeune fille commence peu à peu à avoir des soupçons le concernant."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "De Sica junior",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32538,
+          "ordre": 1,
+          "dateHeure": "2020-02-06T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 32544,
+          "idCategorie": 2158,
+          "idEvenement": 20158,
+          "typeEvenement": 13,
+          "idFilm": 41860,
+          "titre": "Miracle à Milan",
+          "titreVo": "Miracolo a Milano",
+          "realisateurs": "Vittorio De Sica",
+          "annee": 1949,
+          "pays": "Italie",
+          "duree": 100,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 8,
+          "generique": [
+            "Emma Gramatica",
+            "Francesco Golisano",
+            "Brunella Bovo"
+          ],
+          "adaptation": "D'après le roman _Toto il buono_ de Cesare Zavattini.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À peine sorti de l'orphelinat, Totò rejoint les clochards d'un bidonville, qu'il essaie d'aménager au mieux, dans la bonne humeur. Mais un homme d'affaires, ayant découvert du pétrole sur leur terrain, les menace d'expulsion."
+            }
+          ]
+        },
+        {
+          "idSeance": 32694,
+          "ordre": 1,
+          "dateHeure": "2020-03-01T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2158,
+          "idEvenement": 20158,
+          "typeEvenement": 13,
+          "idFilm": 41860,
+          "titre": "Miracle à Milan",
+          "titreVo": "Miracolo a Milano",
+          "realisateurs": "Vittorio De Sica",
+          "annee": 1949,
+          "pays": "Italie",
+          "duree": 100,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 8,
+          "generique": [
+            "Emma Gramatica",
+            "Francesco Golisano",
+            "Brunella Bovo"
+          ],
+          "adaptation": "D'après le roman _Toto il buono_ de Cesare Zavattini.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À peine sorti de l'orphelinat, Totò rejoint les clochards d'un bidonville, qu'il essaie d'aménager au mieux, dans la bonne humeur. Mais un homme d'affaires, ayant découvert du pétrole sur leur terrain, les menace d'expulsion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Les inventeurs fous",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32573,
+          "ordre": 1,
+          "dateHeure": "2020-02-12T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2128,
+          "idEvenement": 21408,
+          "typeEvenement": 13,
+          "idFilm": 40513,
+          "titre": "Aventures fantastiques = L'Invention diabolique",
+          "titreVo": "Vynalez zkazy",
+          "realisateurs": "Karel Zeman",
+          "annee": 1958,
+          "pays": "Tchécoslovaquie",
+          "duree": 85,
+          "version": "VF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        },
+        {
+          "idSeance": 33013,
+          "ordre": 1,
+          "dateHeure": "2020-02-05T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2128,
+          "idEvenement": 21420,
+          "typeEvenement": 13,
+          "idFilm": 128558,
+          "titre": "Avril et le monde truqué",
+          "titreVo": "",
+          "realisateurs": "Franck Ekinci, Christian Desmares",
+          "annee": 2014,
+          "pays": "France-Canada-Belgique",
+          "duree": 105,
+          "version": "VF",
+          "format": "DCP",
+          "ageMinimal": 8,
+          "generique": [
+            "Marion Cotillard",
+            "Philippe Katerine",
+            "Jean Rochefort"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 33009,
+          "ordre": 1,
+          "dateHeure": "2020-01-15T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2128,
+          "idEvenement": 21402,
+          "typeEvenement": 13,
+          "idFilm": 94860,
+          "art": "Le",
+          "titre": "Château ambulant",
+          "titreVo": "Hauru no ugoku shiro",
+          "realisateurs": "Hayao Miyazaki",
+          "annee": 2004,
+          "pays": "Japon",
+          "duree": 119,
+          "version": "VF",
+          "format": "DCP",
+          "ageMinimal": 10,
+          "adaptation": "D'après le roman _Howl's moving castle_ de Diana Wynne Jones.",
+          "textes": []
+        },
+        {
+          "idSeance": 32436,
+          "ordre": 1,
+          "dateHeure": "2020-01-19T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2128,
+          "idEvenement": 21417,
+          "typeEvenement": 13,
+          "idFilm": 33187,
+          "titre": "Chérie je me sens rajeunir",
+          "titreVo": "Monkey Business",
+          "realisateurs": "Howard Hawks",
+          "annee": 1952,
+          "pays": "États-Unis",
+          "duree": 97,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 10,
+          "generique": [
+            "Cary Grant",
+            "Ginger Rogers",
+            "Charles Coburn",
+            "Marilyn Monroe"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 32565,
+          "ordre": 1,
+          "dateHeure": "2020-02-09T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2128,
+          "idEvenement": 21406,
+          "typeEvenement": 13,
+          "idFilm": 31049,
+          "titre": "Edward aux mains d'argent",
+          "titreVo": "Edward Scissorhands",
+          "realisateurs": "Tim Burton",
+          "annee": 1990,
+          "pays": "États-Unis",
+          "duree": 105,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": 8,
+          "generique": [
+            "Johnny Depp",
+            "Winona Ryder",
+            "Dianne Wiest"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 32651,
+          "ordre": 1,
+          "dateHeure": "2020-02-23T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2128,
+          "idEvenement": 21403,
+          "typeEvenement": 13,
+          "idFilm": 37548,
+          "art": "La",
+          "titre": "Fiancée de Frankenstein",
+          "artVo": "The",
+          "titreVo": "Bride of Frankenstein",
+          "realisateurs": "James Whale",
+          "annee": 1935,
+          "pays": "États-Unis",
+          "duree": 80,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 10,
+          "generique": [
+            "Boris Karloff",
+            "Colin Clive",
+            "Elsa Lanchester"
+          ],
+          "adaptation": "D'après le roman _Frankenstein or The Modern Prometheus_ de Mary Shelley.",
+          "textes": []
+        },
+        {
+          "idSeance": 32608,
+          "ordre": 1,
+          "dateHeure": "2020-02-16T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2128,
+          "idEvenement": 21404,
+          "typeEvenement": 13,
+          "idFilm": 115761,
+          "titre": "Frankenweenie",
+          "titreVo": "",
+          "realisateurs": "Tim Burton",
+          "annee": 2011,
+          "pays": "États-Unis",
+          "duree": 87,
+          "version": "VF",
+          "format": "DCP",
+          "ageMinimal": 8,
+          "textes": []
+        },
+        {
+          "idSeance": 32479,
+          "ordre": 1,
+          "dateHeure": "2020-01-26T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2128,
+          "idEvenement": 21419,
+          "typeEvenement": 13,
+          "idFilm": 37985,
+          "titre": "Retour vers le futur",
+          "titreVo": "Back to the Future",
+          "realisateurs": "Robert Zemeckis",
+          "annee": 1984,
+          "pays": "États-Unis",
+          "duree": 116,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 8,
+          "generique": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 32659,
+          "ordre": 1,
+          "dateHeure": "2020-02-26T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2128,
+          "idEvenement": 21405,
+          "typeEvenement": 13,
+          "idFilm": 49035,
+          "art": "Le",
+          "titre": "Roi et l'oiseau",
+          "titreVo": "",
+          "realisateurs": "Paul Grimault",
+          "annee": 1948,
+          "pays": "France",
+          "duree": 87,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 6,
+          "generique": [
+            "Roger Blin",
+            "Raymond Bussières",
+            "Philippe Derrez"
+          ],
+          "adaptation": "D'après le conte _La Bergère et la ramoneur_ de Hans Christian Andersen.",
+          "textes": []
+        },
+        {
+          "idSeance": 32981,
+          "ordre": 1,
+          "dateHeure": "2020-01-22T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2128,
+          "idEvenement": 21401,
+          "typeEvenement": 13,
+          "idFilm": 31066,
+          "art": "Les",
+          "titre": "Temps modernes",
+          "titreVo": "Modern Times",
+          "realisateurs": "Charles Chaplin",
+          "annee": 1935,
+          "pays": "États-Unis",
+          "duree": 87,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 6,
+          "generique": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Henry Bergman"
+          ],
+          "textes": []
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Programme de courts métrages : Folles inventions",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32980,
+          "ordre": 1,
+          "dateHeure": "2020-02-19T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2192,
+          "idEvenement": 21407,
+          "typeEvenement": 13,
+          "idFilm": 47696,
+          "titre": "Paris qui dort",
+          "titreVo": "",
+          "realisateurs": "René Clair",
+          "annee": 1923,
+          "pays": "France",
+          "ageMinimal": 0,
+          "generique": [
+            "Henri Rollan",
+            "Madeleine Rodrigue",
+            "Albert Préjean"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 32980,
+          "ordre": 2,
+          "dateHeure": "2020-02-19T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2192,
+          "idEvenement": 21407,
+          "typeEvenement": 13,
+          "idFilm": 143065,
+          "titre": "Petit Pierre",
+          "titreVo": "",
+          "realisateurs": "Emmanuel Clot",
+          "annee": 1980,
+          "pays": "France",
+          "ageMinimal": null,
+          "textes": []
+        },
+        {
+          "idSeance": 32980,
+          "ordre": 3,
+          "dateHeure": "2020-02-19T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2192,
+          "idEvenement": 21407,
+          "typeEvenement": 13,
+          "idFilm": 111950,
+          "titre": "Plastic and glass",
+          "titreVo": "",
+          "realisateurs": "Tessa Joosse",
+          "annee": 2009,
+          "pays": "France",
+          "ageMinimal": 6,
+          "textes": []
+        },
+        {
+          "idSeance": 32980,
+          "ordre": 4,
+          "dateHeure": "2020-02-19T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2192,
+          "idEvenement": 21407,
+          "typeEvenement": 13,
+          "idFilm": 119671,
+          "art": "Les",
+          "titre": "Trois inventeurs",
+          "titreVo": "",
+          "realisateurs": "Michel Ocelot",
+          "annee": 1979,
+          "pays": "France",
+          "ageMinimal": null,
+          "textes": []
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Programme de courts métrages : Le bonhomme de neige",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32970,
+          "ordre": 1,
+          "dateHeure": "2019-11-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2193,
+          "idEvenement": 21436,
+          "typeEvenement": 13,
+          "idFilm": 63804,
+          "art": "L'",
+          "titre": "Enfant au grelot",
+          "titreVo": "",
+          "realisateurs": "Janet Perlman, Sarah Roper, Jacques-Rémy Girerd, [etc.]",
+          "annee": 1997,
+          "pays": "France-Canada",
+          "ageMinimal": 4,
+          "textes": []
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Pour les plus jeunes",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 32969,
+          "ordre": 1,
+          "dateHeure": "2019-12-01T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Avant-première",
+          "idCategorie": 2159,
+          "idEvenement": 21427,
+          "typeEvenement": 13,
+          "idFilm": 143070,
+          "art": "Le",
+          "titre": "Cristal magique",
+          "titreVo": "Latte Igel und der magische Wasserstein",
+          "realisateurs": "Nina Wels,  Regina Welker",
+          "annee": 2017,
+          "pays": "Allemagne-France-Belgique",
+          "duree": 82,
+          "version": "VF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        },
+        {
+          "idSeance": 32143,
+          "ordre": 1,
+          "dateHeure": "2019-12-04T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2159,
+          "idEvenement": 21430,
+          "typeEvenement": 13,
+          "idFilm": 128984,
+          "titre": "Neige et les arbres magiques",
+          "titreVo": "",
+          "realisateurs": "Antoine Lanciaux, Sophie Roze, Benoît Chieux",
+          "annee": 2014,
+          "pays": "France",
+          "duree": 51,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Les 4 saisons de Marie Bobine",
+      "tri": 4,
+      "items": []
+    }
+  ],
+  "info": {}
+}

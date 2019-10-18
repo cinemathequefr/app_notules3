@@ -1,0 +1,340 @@
+[
+  {
+    "titre": "Aventures fantastiques = L'Invention diabolique",
+    "titreVo": "Vynalez zkazy",
+    "idFilm": 40513,
+    "ageMinimal": null,
+    "realisateurs": "Karel Zeman",
+    "annee": 1958,
+    "pays": "Tchécoslovaquie"
+  },
+  {
+    "titre": "Avril et le monde truqué",
+    "titreVo": "",
+    "idFilm": 128558,
+    "ageMinimal": 8,
+    "realisateurs": "Franck Ekinci, Christian Desmares",
+    "annee": 2014,
+    "pays": "France-Canada-Belgique",
+    "generique": [
+      "Marion Cotillard",
+      "Philippe Katerine",
+      "Jean Rochefort"
+    ]
+  },
+  {
+    "titre": "Château ambulant",
+    "art": "Le",
+    "titreVo": "Hauru no ugoku shiro",
+    "idFilm": 94860,
+    "ageMinimal": 10,
+    "realisateurs": "Hayao Miyazaki",
+    "annee": 2004,
+    "pays": "Japon",
+    "adaptation": "D'après le roman _Howl's moving castle_ de Diana Wynne Jones."
+  },
+  {
+    "titre": "Chérie je me sens rajeunir",
+    "titreVo": "Monkey Business",
+    "idFilm": 33187,
+    "ageMinimal": 10,
+    "realisateurs": "Howard Hawks",
+    "annee": 1952,
+    "pays": "États-Unis",
+    "generique": [
+      "Cary Grant",
+      "Ginger Rogers",
+      "Charles Coburn",
+      "Marilyn Monroe"
+    ]
+  },
+  {
+    "titre": "Cristal magique",
+    "art": "Le",
+    "titreVo": "Latte Igel und der magische Wasserstein",
+    "idFilm": 143070,
+    "ageMinimal": null,
+    "realisateurs": "Nina Wels,  Regina Welker",
+    "annee": 2017,
+    "pays": "Allemagne-France-Belgique"
+  },
+  {
+    "titre": "Edward aux mains d'argent",
+    "titreVo": "Edward Scissorhands",
+    "idFilm": 31049,
+    "ageMinimal": 8,
+    "realisateurs": "Tim Burton",
+    "annee": 1990,
+    "pays": "États-Unis",
+    "generique": [
+      "Johnny Depp",
+      "Winona Ryder",
+      "Dianne Wiest"
+    ]
+  },
+  {
+    "titre": "Enfant au grelot",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 63804,
+    "ageMinimal": 4,
+    "realisateurs": "Janet Perlman, Sarah Roper, Jacques-Rémy Girerd, [etc.]",
+    "annee": 1997,
+    "pays": "France-Canada"
+  },
+  {
+    "titre": "Fiancée de Frankenstein",
+    "art": "La",
+    "titreVo": "Bride of Frankenstein",
+    "artVo": "The",
+    "idFilm": 37548,
+    "ageMinimal": 10,
+    "realisateurs": "James Whale",
+    "annee": 1935,
+    "pays": "États-Unis",
+    "generique": [
+      "Boris Karloff",
+      "Colin Clive",
+      "Elsa Lanchester"
+    ],
+    "adaptation": "D'après le roman _Frankenstein or The Modern Prometheus_ de Mary Shelley."
+  },
+  {
+    "titre": "Frankenweenie",
+    "titreVo": "",
+    "idFilm": 115761,
+    "ageMinimal": 8,
+    "realisateurs": "Tim Burton",
+    "annee": 2011,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Homme qui en savait trop",
+    "art": "L'",
+    "titreVo": "Man Who Knew too Much",
+    "artVo": "The",
+    "idFilm": 45885,
+    "ageMinimal": 0,
+    "realisateurs": "Alfred Hitchcock",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les McKenna, en vacances au Maroc, rencontrent un français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, la fille McKenna est enlevée."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie 35mm en Technicolor original (tirage par imbibition). Projection exceptionelle avec son dimensionnel. Hitchcock utilisa de manière remarquable toutes les potentialités de l'espace sonore stéréophonique du son Perspecta en parfaite adéquation avec les nouvelles possibilités de l'espace scénique visuel offertes par la VistaVision, le procédé préféré d'Hitchcock. Remake de la version de 1934."
+      }
+    ],
+    "generique": [
+      "James Stewart",
+      "James Stewart",
+      "Doris Day",
+      "Doris Day"
+    ]
+  },
+  {
+    "titre": "Jeune et innocent",
+    "titreVo": "Young and Innocent",
+    "idFilm": 41256,
+    "ageMinimal": 9,
+    "realisateurs": "Alfred Hitchcock",
+    "annee": 1937,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable."
+      }
+    ],
+    "generique": [
+      "Nova Pilbeam",
+      "Derrick De Marney",
+      "Edward Rigby"
+    ],
+    "adaptation": "D'après le roman _A shilling for candles_ de Josephine Tey."
+  },
+  {
+    "titre": "Main au collet",
+    "art": "La",
+    "titreVo": "To Catch a Thief",
+    "idFilm": 41594,
+    "ageMinimal": 10,
+    "realisateurs": "Alfred Hitchcock",
+    "annee": 1954,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un ancien cambrioleur profite d'une retraite paisible sur la Côte d'Azur, jusqu'au jour où il est suspecté d'être l'auteur d'une série de vols commis dans la région. Pour prouver son innocence, il va devoir identifier le vrai coupable."
+      }
+    ],
+    "generique": [
+      "Cary Grant",
+      "Grace Kelly",
+      "Charles Vanel"
+    ],
+    "adaptation": "D'après le roman _To catch a thief_ de David Dodge."
+  },
+  {
+    "titre": "Miracle à Milan",
+    "titreVo": "Miracolo a Milano",
+    "idFilm": 41860,
+    "ageMinimal": 8,
+    "realisateurs": "Vittorio De Sica",
+    "annee": 1949,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À peine sorti de l'orphelinat, Totò rejoint les clochards d'un bidonville, qu'il essaie d'aménager au mieux, dans la bonne humeur. Mais un homme d'affaires, ayant découvert du pétrole sur leur terrain, les menace d'expulsion."
+      }
+    ],
+    "generique": [
+      "Emma Gramatica",
+      "Francesco Golisano",
+      "Brunella Bovo"
+    ],
+    "adaptation": "D'après le roman _Toto il buono_ de Cesare Zavattini."
+  },
+  {
+    "titre": "Mort aux trousses",
+    "art": "La",
+    "titreVo": "North by Northwest",
+    "idFilm": 40195,
+    "ageMinimal": 10,
+    "realisateurs": "Alfred Hitchcock",
+    "annee": 1958,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Confondu avec un membre du contre-espionnage américain, le publicitaire Roger O. Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
+      }
+    ],
+    "generique": [
+      "Cary Grant",
+      "Eva Marie Saint",
+      "James Mason"
+    ]
+  },
+  {
+    "titre": "Neige et les arbres magiques",
+    "titreVo": "",
+    "idFilm": 128984,
+    "ageMinimal": null,
+    "realisateurs": "Antoine Lanciaux, Sophie Roze, Benoît Chieux",
+    "annee": 2014,
+    "pays": "France"
+  },
+  {
+    "titre": "Ombre d'un doute",
+    "art": "L'",
+    "titreVo": "Shadow of a Doubt",
+    "idFilm": 41632,
+    "ageMinimal": 0,
+    "realisateurs": "Alfred Hitchcock",
+    "annee": 1942,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Recherché pour meurtre par la police, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais la jeune fille commence peu à peu à avoir des soupçons le concernant."
+      }
+    ],
+    "generique": [
+      "Teresa Wright",
+      "Joseph Cotten",
+      "Macdonald Carey"
+    ]
+  },
+  {
+    "titre": "Paris qui dort",
+    "titreVo": "",
+    "idFilm": 47696,
+    "ageMinimal": 0,
+    "realisateurs": "René Clair",
+    "annee": 1923,
+    "pays": "France",
+    "generique": [
+      "Henri Rollan",
+      "Madeleine Rodrigue",
+      "Albert Préjean"
+    ]
+  },
+  {
+    "titre": "Petit Pierre",
+    "titreVo": "",
+    "idFilm": 143065,
+    "ageMinimal": null,
+    "realisateurs": "Emmanuel Clot",
+    "annee": 1980,
+    "pays": "France"
+  },
+  {
+    "titre": "Plastic and glass",
+    "titreVo": "",
+    "idFilm": 111950,
+    "ageMinimal": 6,
+    "realisateurs": "Tessa Joosse",
+    "annee": 2009,
+    "pays": "France"
+  },
+  {
+    "titre": "Retour vers le futur",
+    "titreVo": "Back to the Future",
+    "idFilm": 37985,
+    "ageMinimal": 8,
+    "realisateurs": "Robert Zemeckis",
+    "annee": 1984,
+    "pays": "États-Unis",
+    "generique": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ]
+  },
+  {
+    "titre": "Roi et l'oiseau",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 49035,
+    "ageMinimal": 6,
+    "realisateurs": "Paul Grimault",
+    "annee": 1948,
+    "pays": "France",
+    "generique": [
+      "Roger Blin",
+      "Raymond Bussières",
+      "Philippe Derrez"
+    ],
+    "adaptation": "D'après le conte _La Bergère et la ramoneur_ de Hans Christian Andersen."
+  },
+  {
+    "titre": "Temps modernes",
+    "art": "Les",
+    "titreVo": "Modern Times",
+    "idFilm": 31066,
+    "ageMinimal": 6,
+    "realisateurs": "Charles Chaplin",
+    "annee": 1935,
+    "pays": "États-Unis",
+    "generique": [
+      "Charles Chaplin",
+      "Paulette Goddard",
+      "Henry Bergman"
+    ]
+  },
+  {
+    "titre": "Trois inventeurs",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 119671,
+    "ageMinimal": null,
+    "realisateurs": "Michel Ocelot",
+    "annee": 1979,
+    "pays": "France"
+  }
+]
