@@ -54,7 +54,6 @@
       }
     ],
     "titreEvenements": {
-      "19860": "Programme 18",
       "19872": "Programme 47",
       "19878": "Programme 58",
       "19890": "Programme 49",
@@ -78,13 +77,11 @@
       "20245": "Programme 32",
       "20251": "Programme 29",
       "20253": "Programme 24",
-      "20257": "Programme 28",
       "20283": "Programme 42",
       "20290": "Programme 65",
       "20293": "Programme 25",
       "20295": "Programme 48",
       "20302": "Programme 31",
-      "20353": "Programme 19",
       "20359": "Programme 53",
       "20369": "Programme 27",
       "20374": "Programme 56",
@@ -124,6 +121,9 @@
       "21582": "Programme 14",
       "21584": "Programme 15",
       "21586": "Programme 16",
+      "21588": "Programme 18",
+      "21593": "Programme 19",
+      "21597": "Programme 28",
       "21643": "Programme 7"
     },
     "idProg": 65
