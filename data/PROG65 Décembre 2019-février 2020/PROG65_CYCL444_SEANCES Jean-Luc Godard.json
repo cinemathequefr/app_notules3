@@ -32,6 +32,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 5",
     "mention": "Ouverture de la rétrospective"
   },
   {
@@ -57,7 +58,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 13"
   },
   {
     "idCategorie": 2139,
@@ -160,7 +162,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 2"
   },
   {
     "idCategorie": 2173,
@@ -184,6 +187,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 3",
     "mention": "Séance présentée par Jean Narboni"
   },
   {
@@ -217,7 +221,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 4"
   },
   {
     "idCategorie": 2173,
@@ -250,7 +255,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 6"
   },
   {
     "idCategorie": 2173,
@@ -283,7 +289,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 9"
   },
   {
     "idCategorie": 2173,
@@ -317,6 +324,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 11",
     "mention": "Séance présentée par Macha Méril"
   },
   {
@@ -340,7 +348,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 12"
   },
   {
     "idCategorie": 2173,
@@ -438,7 +447,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 28"
   },
   {
     "idCategorie": 2139,
@@ -478,6 +488,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 14",
     "mention": "Séance présentée par Jean-Pierre Léaud"
   },
   {
@@ -501,7 +512,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 15"
   },
   {
     "idCategorie": 2174,
@@ -569,6 +581,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 16",
     "mention": "Séance présentée par Marina Vlady"
   },
   {
@@ -602,7 +615,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 19"
   },
   {
     "idCategorie": 2174,
@@ -645,7 +659,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 18"
   },
   {
     "idCategorie": 2173,
@@ -668,7 +683,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 7"
   },
   {
     "idCategorie": 2178,
@@ -753,7 +769,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 5"
   },
   {
     "idCategorie": 2174,
@@ -1079,6 +1096,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 41",
     "mention": "Séance présentée par Nathalie Baye"
   },
   {
@@ -1124,7 +1142,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 55"
   },
   {
     "idCategorie": 2139,
@@ -1184,6 +1203,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 42",
     "mention": "Séance présentée par Isabelle Huppert (sous réserve)"
   },
   {
@@ -1208,6 +1228,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 44",
     "mention": "Séance présentée par Maruschka Detmers (sous réserve) et Jacques Bonnaffé"
   },
   {
@@ -1310,7 +1331,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 45"
   },
   {
     "idCategorie": 2177,
@@ -1409,7 +1431,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 58"
   },
   {
     "idCategorie": 2139,
@@ -1655,6 +1678,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 65",
     "mention": "Séance présentée par Julien Hirsch"
   },
   {
@@ -1770,7 +1794,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 50"
   },
   {
     "idCategorie": 2177,
@@ -1891,7 +1916,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 60"
   },
   {
     "idCategorie": 2176,
@@ -2148,7 +2174,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 64"
   },
   {
     "idCategorie": 2177,
@@ -2293,7 +2320,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 2"
   },
   {
     "idCategorie": 2173,
@@ -2316,7 +2344,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 3"
   },
   {
     "idCategorie": 2173,
@@ -2349,7 +2378,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 4"
   },
   {
     "idCategorie": 2173,
@@ -2382,7 +2412,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 5"
   },
   {
     "idCategorie": 2178,
@@ -2469,7 +2500,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 6"
   },
   {
     "idCategorie": 2173,
@@ -2492,7 +2524,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 7"
   },
   {
     "idCategorie": 2178,
@@ -2935,7 +2968,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 9"
   },
   {
     "idCategorie": 2173,
@@ -2968,7 +3002,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 11"
   },
   {
     "idCategorie": 2173,
@@ -2991,7 +3026,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 12"
   },
   {
     "idCategorie": 2173,
@@ -3014,7 +3050,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 13"
   },
   {
     "idCategorie": 2177,
@@ -3038,6 +3075,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 57",
     "mention": "Séance présentée par Caroline Champetier"
   },
   {
@@ -3061,7 +3099,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 14"
   },
   {
     "idCategorie": 2175,
@@ -3084,7 +3123,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 15"
   },
   {
     "idCategorie": 2175,
@@ -3108,6 +3148,7 @@
         "valide": 0
       }
     ],
+    "titreEvenement": "Programme 16",
     "mention": "Séance présentée par Jean Narboni"
   },
   {
@@ -3151,7 +3192,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 18"
   },
   {
     "idCategorie": 2174,
@@ -3184,7 +3226,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 19"
   },
   {
     "idCategorie": 2174,
@@ -3235,7 +3278,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 28"
   },
   {
     "idCategorie": 2176,
@@ -3326,7 +3370,8 @@
         "format": "Numérique",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 41"
   },
   {
     "idCategorie": 2177,
@@ -3369,7 +3414,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 42"
   },
   {
     "idCategorie": 2177,
@@ -3392,7 +3438,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 44"
   },
   {
     "idCategorie": 2178,
@@ -3456,7 +3503,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 71 + Dialogue avec Jean-Luc Godard"
   },
   {
     "idCategorie": 2139,
