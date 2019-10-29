@@ -4,7 +4,7 @@
     "titreCycle": "Jean-Luc Godard",
     "sousCycles": [
       {
-        "titre": "Nouvelle vague",
+        "titre": "Nouvelle Vague",
         "cats": [
           2173
         ],
@@ -130,7 +130,7 @@
   },
   "data": [
     {
-      "titreSousCycle": "Nouvelle vague",
+      "titreSousCycle": "Nouvelle Vague",
       "tri": 3,
       "textes": [],
       "items": [
