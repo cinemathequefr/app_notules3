@@ -256,42 +256,42 @@
       "idCycleProg": 444,
       "titreCycle": "Jean-Luc Godard",
       "sousCycles": [{
-          "titre": "Nouvelle Vague",
+          "titre": "Nouvelle Vague (1954-1965)",
           "cats": [
             2173
           ],
           "tri": 3
         },
         {
-          "titre": "Fables sociologiques",
+          "titre": "Fables sociologiques (1965-1966)",
           "cats": [
             2175
           ],
           "tri": 3
         },
         {
-          "titre": "Travaux révolutionnaires",
+          "titre": "Travaux révolutionnaires (1967-1972)",
           "cats": [
             2174
           ],
           "tri": 3
         },
         {
-          "titre": "Expérimentations vidéo",
+          "titre": "Expérimentations vidéo (1975-1978)",
           "cats": [
             2176
           ],
           "tri": 3
         },
         {
-          "titre": "Dialogue entre les arts",
+          "titre": "Dialogue entre les arts (1979-1992)",
           "cats": [
             2177
           ],
           "tri": 3
         },
         {
-          "titre": "Méditations historiques",
+          "titre": "Méditations historiques (1993-2019)",
           "cats": [
             2178
           ],
@@ -306,26 +306,26 @@
         }
       ],
       "titreEvenements": {
-        "19845": "Programme 2",
-        "19848": "Programme 12",
-        "19852": "Programme 9",
-        "19855": "Programme 6",
+        "21559": "Programme 2",
+        "21578": "Programme 12",
+        "21572": "Programme 9",
+        "21569": "Programme 6",
         "19860": "Programme 18",
         "19872": "Programme 47",
-        "19874": "Programme 16",
+        "21586": "Programme 16",
         "19878": "Programme 58",
         "19890": "Programme 49",
         "19891": "Programme 57",
         "19902": "Programme 45",
         "19907": "Programme 51",
-        "19917": "Programme 15",
-        "19918": "Programme 14",
-        "19921": "Programme 7",
+        "21584": "Programme 15",
+        "21582": "Programme 14",
+        "21643": "Programme 7",
         "19922": "Programme 66",
         "19927": "Programme 55",
         "19931": "Programme 23",
-        "19942": "Programme 3",
-        "19944": "Programme 13",
+        "21561": "Programme 3",
+        "21580": "Programme 13",
         "19958": "Programme 41",
         "20191": "Programme 63",
         "20209": "Programme 61",
@@ -341,7 +341,7 @@
         "20251": "Programme 29",
         "20253": "Programme 24",
         "20257": "Programme 28",
-        "20259": "Programme 11",
+        "21576": "Programme 11",
         "20283": "Programme 42",
         "20290": "Programme 65",
         "20293": "Programme 25",
@@ -349,7 +349,7 @@
         "20302": "Programme 31",
         "20353": "Programme 19",
         "20359": "Programme 53",
-        "20363": "Programme 4",
+        "21564": "Programme 4",
         "20369": "Programme 27",
         "20374": "Programme 56",
         "21087": "Programme 50",
@@ -374,7 +374,7 @@
         "21344": "Programme 67",
         "21354": "Programme 64",
         "21396": "Programme 44",
-        "21447": "Programme 5",
+        "21567": "Programme 5",
         "21449": "Programme 17",
         "21450": "Programme 46"
       }
