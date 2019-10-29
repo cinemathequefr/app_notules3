@@ -1,5 +1,12 @@
 {
-  "cycle": {},
+  "cycle": {
+    "140": [
+      {
+        "typeTexte": 263,
+        "texte": "Judith Davis, Louise Narboni, Jayro Bustamente, Stéphane Kahn et l'Agence du Court Métrage, Michele Halberstadt, Renaud Davy, Cécile Jeune et ARP Selection, Cinémathèque Suisse, Dark Prince, Diaphana Distribution, Elsa Charbit et le Festival Entrevues de Belfort, Les Films du Bélier, Les Films du Losange, Mathieu Berthon et Meteor Films, Jacques Kermabon et Xavier Kawa-Topor, Keith Griffiths, Francis Gavelle, Miyu Productions, l'EMCA et Margot Bargé, Anne-Sophie Girault et Clémence Bouchereau, l'ENSAD et Anaïs Gauchot, Bastien Dupriez, Beppie Films, Papy 3D, Park Circus, Guillaume Morel et Survivance, UFO Distribution, Melodrama (Aurélien Deseez), Warner Bros Picture France."
+      }
+    ]
+  },
   "cats": {
     "2152": [
       {

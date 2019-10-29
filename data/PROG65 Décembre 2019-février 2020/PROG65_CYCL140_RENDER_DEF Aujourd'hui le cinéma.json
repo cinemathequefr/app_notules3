@@ -11,7 +11,7 @@
         "tri": 4
       },
       {
-        "titre": "Palmarès du festival Entrevues Belfort2019",
+        "titre": "Palmarès du festival Entrevues Belfort 2019",
         "cats": [
           2157
         ],
@@ -108,6 +108,12 @@
     {
       "titreSousCycle": "Gabriel et Marilio Martins",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Un film choral qui suit plusieurs habitants d'un quartier défavorisé d'une ville moyenne du Brésil. Les deux réalisateurs viennent de cette ville qu'ils filment, aiment et connaissent intimement avec un sens aigu du casting et l'aide d'une bande-son inventive, entre ballades US et rap brésilien. Avant-première avec Survivance."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2191,
@@ -152,13 +158,20 @@
       ]
     },
     {
-      "titreSousCycle": "Palmarès du festival Entrevues Belfort2019",
+      "titreSousCycle": "Palmarès du festival Entrevues Belfort 2019",
       "tri": 4,
+      "textes": [],
       "items": []
     },
     {
       "titreSousCycle": "Suhaib Gasmelbari",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Premier long métrage du Soudanais Suhaib Gasmelbari, sélectionné à Berlin dans la section Panorama et lauréat du Prix du meilleur documentaire du festival, le film retrace avec humour et poésie l'aventure émouvante et héroïque de cinéphiles déterminés à ramener le cinéma au Soudan, où il n'y a plus aucune salle en activité."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2156,
@@ -204,6 +217,12 @@
     {
       "titreSousCycle": "Loïc Barché",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Après _Goliath_, le nouveau film court de Loïc Barché est une vision haletante et fantasmatique des premiers essais nucléaires français dans le désert algérien. Film suivi de sa carte blanche consacrée à Howard Hawks."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2152,
@@ -275,6 +294,7 @@
     {
       "titreSousCycle": "Jayro Bustamante",
       "tri": 4,
+      "textes": [],
       "items": [
         {
           "idCategorie": 2171,
@@ -321,6 +341,12 @@
     {
       "titreSousCycle": "Premiers pas",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Trois fois par an, avec l'Agence du court métrage, les premiers films marquants de cinéastes dont les films font l'actualité en salles."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2182,
@@ -453,11 +479,18 @@
     {
       "titreSousCycle": "Prix du film singulier 2020",
       "tri": 4,
+      "textes": [],
       "items": []
     },
     {
       "titreSousCycle": "Louise Narboni",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Un film d'amour en chansons dans lequel Louise Narboni mêle le mélodrame au politique, le poétique au lyrisme, le réel à la fiction. Ces dialogues incessants tout autant que l'épure de leur mise en scène crée un film singulier et bouleversant. La séance est suivie d'une rencontre avec la cinéaste et d'une carte blanche : _Le Baiser de Tosca_ de Daniel Schmid."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2166,
@@ -548,6 +581,12 @@
     {
       "titreSousCycle": "Vincent Mariette",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Sensuel portrait d'adolescente à la manière d'un conte fantastique : deuxième long métrage de Vincent Mariette à découvrir avec sa carte blanche, le singulier _The Swimmer_ de Frank Perry."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2153,
@@ -636,6 +675,12 @@
     {
       "titreSousCycle": "Blaise Harrison",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Chaque trimestre, la Fondation Gan pour le cinéma met à l'honneur un réalisateur qui a bénéficié de son soutien. Blaise Harrison est lauréat 2017 pour _Les Particules_, sorti en 2019, son premier long métrage sobre et rugueux, dans lequel l'étrange contamine peu à peu le réel."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2170,
@@ -683,6 +728,12 @@
     {
       "titreSousCycle": "Carte blanche à Blink Blank",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "En 2020, la NEF Animation et la Cinémathèque québécoise, avec les Editions WARM, lancent _Blink Blank_, une revue consacrée au film d'animation et à ses enjeux. À l'heure où l'image animée connaît un développement inédit sous tous ses formats, la création d'une telle revue, destinée à ceux qui aiment le cinéma d'animation et à tous ceux qui souhaitent en approfondir la connaissance, comble un manque avec l'ambition d'éclairer l'histoire de ce mode d'expression autant que de rendre compte de son actualité, de la diversité de ses talents, de ses formats, de ses techniques et de ses esthétiques. Aujourd'hui le cinéma propose à la revue une carte blanche composée de films d'animation qu'elle défend dans ce premier numéro."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2181,
@@ -760,7 +811,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "En 10 minutes, le baobab africain pousse de 0,008 mm, le lévrier, chien le plus rapide du monde, peut parcourir 12 km et la Terre parcourt 18 000 km autour du soleil. Mouvements est un film d'animation de 10 minutes que j'ai dessiné à raison de 2 secondes d'animation par jour. Nous marchons, regardons, travaillons, courons et nous arrêtons tous ensemble."
+                  "texte": "En 10 minutes, le baobab africain pousse de 0,008 mm, le lévrier, chien le plus rapide du monde, peut parcourir 12 km et la Terre parcourt 18 000 km autour du soleil. _Mouvements_ est un film d'animation de 10 minutes que j'ai dessiné à raison de 2 secondes d'animation par jour. Nous marchons, regardons, travaillons, courons et nous arrêtons tous ensemble."
                 }
               ],
               "duree": 10,
@@ -805,6 +856,12 @@
     {
       "titreSousCycle": "Judith Davis",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Premier long métrage d'une comédienne-réalisatrice talentueuse qui signe une comédie politique enlevée qui questionne de manière simple et directe le quotidien en l'interpellant. La séance est suivie d'une rencontre avec la cinéaste et d'une carte blanche, le bouleversant _À bout de course_ de Sidney Lumet."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2172,
@@ -892,6 +949,12 @@
     {
       "titreSousCycle": "Le cinéma d'animation 2020",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Retour de notre programmation annuelle sur le meilleur du cinéma d'animation court avec la complicité de Francis Gavelle, coordinateur du prix André-Martin au Festival d'Annecy."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2183,
@@ -1080,6 +1143,12 @@
     {
       "titreSousCycle": "Prix André-Martin 2019",
       "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Le prix André-Martin a été créé en 2015 pour rendre hommage à André Martin, également critique de cinéma, réalisateur de films d'animation. En 2019, le prix a été decerné au film _Le Procès contre Mandela et les autres_, documentaire rigoureux comprenant des témoignages exceptionnels des coaccusés de Mandela en 1963, et des archives sonores de l'époque mises en relief par le travail d'animation."
+        }
+      ],
       "items": [
         {
           "idCategorie": 2196,

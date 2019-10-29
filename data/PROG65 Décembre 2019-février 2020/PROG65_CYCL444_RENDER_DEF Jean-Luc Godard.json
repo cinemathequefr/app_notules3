@@ -25,21 +25,21 @@
         "tri": 3
       },
       {
-        "titre": "Expérimentations vidéographiques",
+        "titre": "Expérimentations vidéo",
         "cats": [
           2176
         ],
         "tri": 3
       },
       {
-        "titre": "Soft Talk Between Seven Arts",
+        "titre": "Dialogue entre les arts",
         "cats": [
           2177
         ],
         "tri": 3
       },
       {
-        "titre": "Véritables histoires du cinéma",
+        "titre": "Méditations historiques",
         "cats": [
           2178
         ],
@@ -132,6 +132,7 @@
     {
       "titreSousCycle": "Nouvelle vague",
       "tri": 3,
+      "textes": [],
       "items": [
         {
           "idCategorie": 2173,
@@ -155,7 +156,7 @@
                 "Jean-Luc Godard"
               ],
               "duree": 20,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "",
               "ageMinimal": null,
               "ordre": 1
@@ -277,470 +278,6 @@
         },
         {
           "idCategorie": 2173,
-          "idEvenement": 19845,
-          "titreEvenement": "Programme 2",
-          "films": [
-            {
-              "idFilm": 143004,
-              "titre": "À bout de souffle (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1959,
-              "pays": "France",
-              "textes": [],
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 48837,
-              "titre": "À bout de souffle",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1959,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« – Que pensez-vous de la phrase de Rilke selon laquelle la vie moderne séparera de plus en plus l'homme et la femme ? – Rilke était un grand poète, il a donc certainement raison. » (JLG, 1960)"
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Prix Jean Vigo 1960."
-                }
-              ],
-              "generique": [
-                "Jean-Paul Belmondo",
-                "Jean Seberg",
-                "Henri-Jacques Huet",
-                "Jean-Pierre Melville"
-              ],
-              "duree": 90,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-10T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-02-19T17:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2173,
-          "idEvenement": 19942,
-          "titreEvenement": "Programme 3",
-          "films": [
-            {
-              "idFilm": 142851,
-              "titre": "Petit soldat (bande-annonce)",
-              "art": "Le",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1960,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 48859,
-              "titre": "Petit soldat",
-              "art": "Le",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1960,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« J'ai la nostalgie d'une certaine époque, où Malraux écrivait _L'Espoir,_ l'époque d'Hemingway. J'ai voulu lui rendre hommage. Ils avaient un idéal. » (JLG, 1960)"
-                }
-              ],
-              "generique": [
-                "Michel Subor",
-                "Anna Karina",
-                "Henri-Jacques Huet"
-              ],
-              "duree": 88,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-10T21:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
-              "mention": "Séance présentée par Jean Narboni"
-            },
-            {
-              "dateHeure": "2020-02-20T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2173,
-          "idEvenement": 20363,
-          "titreEvenement": "Programme 4",
-          "films": [
-            {
-              "idFilm": 48866,
-              "titre": "Sept péchés capitaux : La Paresse",
-              "art": "Les",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1961,
-              "pays": "France-Italie",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« soudain au loin le pas la voix rien puis soudain quelque chose quelque chose puis soudain rien soudain au loin le silence » (Samuel Beckett / JLG, 1961)"
-                }
-              ],
-              "generique": [
-                "Eddie Constantine",
-                "Nicole Mirel"
-              ],
-              "duree": 15,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 142850,
-              "titre": "Une femme est une femme (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1960,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 48870,
-              "titre": "Une femme est une femme",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1960,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« C'est un regret que la vie ne soit pas en musique... Voilà le sentiment qu'on éprouvait en tournant le film. » (JLG, 1965)"
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Prix spécial du jury, Berlin, 1961."
-                }
-              ],
-              "generique": [
-                "Anna Karina",
-                "Jean-Paul Belmondo",
-                "Jean-Claude Brialy"
-              ],
-              "duree": 88,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-11T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-02-20T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2173,
-          "idEvenement": 21447,
-          "titreEvenement": "Programme 5",
-          "films": [
-            {
-              "idFilm": 48863,
-              "titre": "Plus vieux métier du monde : Anticipation, ou l'amour en l'an 2000",
-              "art": "Le",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1966,
-              "pays": "France-Italie-RFA",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Pourcentage radioactif, normal. Couleurs, soviétiques. Affirmatif. Deux passagers galaxiques. Styles, masculin. Féminin » (JLG, 1967)"
-                }
-              ],
-              "generique": [
-                "Jacques Charrier",
-                "Jean-Pierre Léaud",
-                "Anna Karina"
-              ],
-              "duree": 20,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 48873,
-              "titre": "Vivre sa vie",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1962,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Un - Une / Film - Série / Sur - D'Aventures / La - Qui / Prostitution - Lui / Qui - Font / Raconte - Connaître / Comment - Tous / Une - Les / Jeune - Sentiments / Et - Humains / Jolie - Profonds / Vendeuse - Possibles » (JLG, 1962)"
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Prix spécial du jury, Venise, 1962."
-                }
-              ],
-              "generique": [
-                "Anna Karina",
-                "Sady Rebbot",
-                "André S. Labarthe"
-              ],
-              "duree": 90,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 2
-            },
-            {
-              "idFilm": 142852,
-              "titre": "Vivre sa vie (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1962,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-08T20:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
-              "mention": "Ouverture de la rétrospective"
-            },
-            {
-              "dateHeure": "2020-01-24T15:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-02-20T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2173,
-          "idEvenement": 19855,
-          "titreEvenement": "Programme 6",
-          "films": [
-            {
-              "idFilm": 53436,
-              "titre": "RoGoPaG : Le Nouveau monde",
-              "titreVo": "RoGoPaG : Il Nuovo mondo",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1962,
-              "pays": "Italie-France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« J'aurais dû comprendre que tout cela n'était que la conséquence de la fin du monde. » (JLG, 1962)"
-                }
-              ],
-              "generique": [
-                "Jean-Marc Bory",
-                "Alexandra Stewart"
-              ],
-              "duree": 20,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 142853,
-              "titre": "Carabiniers (bande-annonce)",
-              "art": "Les",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1962,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "35 mm",
-              "version": "VF",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 48841,
-              "titre": "Carabiniers",
-              "art": "Les",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1962,
-              "pays": "France-Italie",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« C'est l'histoire de deux paysans qui voient arriver les carabiniers. Ils ne viennent pas les arrêter, mais leur apporter une lettre du roi. En fait, c'est un ordre de mobilisation. Ils sont ennuyés, mais les carabiniers leur disent : c'est formidable la guerre, on peut tout faire, on peut tout faire. » (JLG, 1963)"
-                }
-              ],
-              "generique": [
-                "Marino Masé",
-                "Geneviève Galéa",
-                "Catherine Ribeiro"
-              ],
-              "duree": 80,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-11T16:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-02-21T14:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2173,
-          "idEvenement": 19921,
-          "titreEvenement": "Programme 7",
-          "films": [
-            {
-              "idFilm": 48813,
-              "titre": "Mépris",
-              "art": "Le",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1963,
-              "pays": "France-Italie",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Le sujet du _Mépris_, ce sont des gens qui se regardent et se jugent, puis sont à leur tour regardés et jugés par le cinéma, lequel est représenté par Fritz Lang, en somme la conscience du film. » (JLG, 1963)"
-                }
-              ],
-              "generique": [
-                "Brigitte Bardot",
-                "Michel Piccoli",
-                "Jack Palance",
-                "Fritz Lang"
-              ],
-              "duree": 110,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 142855,
-              "titre": "Mépris (bande-annonce)",
-              "art": "Le",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1963,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-22T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-02-21T16:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2173,
           "idEvenement": 21257,
           "titreEvenement": "Programme 8",
           "films": [
@@ -821,98 +358,12 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-01-15T21:45:00",
+              "dateHeure": "2020-01-15T19:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ],
               "mention": "Séance présentée par Jean-François Rauger"
-            }
-          ]
-        },
-        {
-          "idCategorie": 2173,
-          "idEvenement": 19852,
-          "titreEvenement": "Programme 9",
-          "films": [
-            {
-              "idFilm": 48838,
-              "titre": "Bande à part",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1964,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Ce sont des gens réels, et c'est le monde qui fait bande à part, c'est le monde qui se fait du cinéma, qui n'est pas synchrone. » (JLG, 1964)"
-                }
-              ],
-              "generique": [
-                "Sami Frey",
-                "Claude Brasseur",
-                "Anna Karina"
-              ],
-              "duree": 95,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 1
-            },
-            {
-              "idFilm": 142856,
-              "titre": "Bande à part (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1964,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 48861,
-              "titre": "Plus belles escroqueries du monde : Le Grand escroc",
-              "art": "Les",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1963,
-              "pays": "France-Italie-Japon-Pays-Bas",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Pourquoi est-ce que l'argent que vous fabriquez, vous le donnez aux mendiants ? » (JLG, 1963)"
-                }
-              ],
-              "generique": [
-                "Jean Seberg",
-                "Charles Denner",
-                "Laszlo Szabo"
-              ],
-              "duree": 25,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-11T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-02-23T20:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
             }
           ]
         },
@@ -942,7 +393,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-01-15T19:00:00",
+              "dateHeure": "2020-01-15T21:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -952,83 +403,80 @@
         },
         {
           "idCategorie": 2173,
-          "idEvenement": 20259,
-          "titreEvenement": "Programme 11",
+          "idEvenement": 21567,
           "films": [
             {
-              "idFilm": 142854,
-              "titre": "Une femme mariée (bande-annonce)",
+              "idFilm": 48863,
+              "titre": "Plus vieux métier du monde : Anticipation, ou l'amour en l'an 2000",
+              "art": "Le",
               "titreVo": "",
               "realisateurs": "Jean-Luc Godard",
-              "annee": 1964,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "",
+              "annee": 1966,
+              "pays": "France-Italie-RFA",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Pourcentage radioactif, normal. Couleurs, soviétiques. Affirmatif. Deux passagers galaxiques. Styles, masculin. Féminin » (JLG, 1967)"
+                }
+              ],
+              "generique": [
+                "Jacques Charrier",
+                "Jean-Pierre Léaud",
+                "Anna Karina"
+              ],
+              "duree": 20,
+              "format": "DCP",
               "version": "",
               "ageMinimal": null,
               "ordre": 1
             },
             {
-              "idFilm": 48849,
-              "titre": "Paris vu par : Montparnasse-Levallois",
+              "idFilm": 48873,
+              "titre": "Vivre sa vie",
               "titreVo": "",
               "realisateurs": "Jean-Luc Godard",
-              "annee": 1964,
+              "annee": 1962,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« C'est l'histoire que raconte Belmondo dans _Une femme est une femme_. » (JLG, 1965)"
+                  "texte": "« Un - Une / Film - Série / Sur - D'Aventures / La - Qui / Prostitution - Lui / Qui - Font / Raconte - Connaître / Comment - Tous / Une - Les / Jeune - Sentiments / Et - Humains / Jolie - Profonds / Vendeuse - Possibles » (JLG, 1962)"
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Prix spécial du jury, Venise, 1962."
                 }
               ],
               "generique": [
-                "Joanna Shimkus",
-                "Philippe Hiquily",
-                "Serge Davri"
+                "Anna Karina",
+                "Sady Rebbot",
+                "André S. Labarthe"
               ],
-              "duree": 18,
-              "format": "35 mm",
+              "duree": 90,
+              "format": "DCP",
               "version": "",
               "ageMinimal": 0,
               "ordre": 2
-            },
-            {
-              "idFilm": 48871,
-              "titre": "Une femme mariée",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1964,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Ceci est l'histoire d'une femme, son histoire très particulière pendant un temps très court, 24 heures exactement. Ce film commence par un baiser : celui qu'échangent, un après-midi, Charlotte et un homme dans un meublé d'un quartier anonyme. Lui est acteur. Elle, rédactrice féminine dans une revue de mode. » (JLG, 1964)"
-                }
-              ],
-              "generique": [
-                "Macha Méril",
-                "Bernard Noël",
-                "Philippe Leroy"
-              ],
-              "duree": 95,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
             }
           ],
           "seance": [
             {
-              "dateHeure": "2020-01-12T18:45:00",
+              "dateHeure": "2020-01-08T20:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
               ],
-              "mention": "Séance présentée par Macha Méril"
+              "mention": "Ouverture de la rétrospective"
             },
             {
-              "dateHeure": "2020-02-24T14:30:00",
+              "dateHeure": "2020-01-24T15:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-02-20T19:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1038,8 +486,102 @@
         },
         {
           "idCategorie": 2173,
-          "idEvenement": 19848,
-          "titreEvenement": "Programme 12",
+          "idEvenement": 21643,
+          "films": [
+            {
+              "idFilm": 48813,
+              "titre": "Mépris",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1963,
+              "pays": "France-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Le sujet du _Mépris_, ce sont des gens qui se regardent et se jugent, puis sont à leur tour regardés et jugés par le cinéma, lequel est représenté par Fritz Lang, en somme la conscience du film. » (JLG, 1963)"
+                }
+              ],
+              "generique": [
+                "Brigitte Bardot",
+                "Michel Piccoli",
+                "Jack Palance",
+                "Fritz Lang"
+              ],
+              "duree": 110,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-22T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-02-21T16:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2173,
+          "idEvenement": 21580,
+          "films": [
+            {
+              "idFilm": 48860,
+              "titre": "Pierrot le fou",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1965,
+              "pays": "France-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« _Pierrot le fou_ c'est : – Stuart Heisler revu par Raymond Queneau, – Le dernier film romantique, – Le Techniscope héritier de Renoir et Sisley – Le premier film moderne d'avant Griffith. » (JLG, 1965)"
+                }
+              ],
+              "generique": [
+                "Jean-Paul Belmondo",
+                "Anna Karina",
+                "Raymond Devos",
+                "Dirk Sanders"
+              ],
+              "duree": 111,
+              "format": "35 mm",
+              "version": "VO",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-09T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-02-26T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2173,
+          "idEvenement": 21578,
           "films": [
             {
               "idFilm": 48840,
@@ -1065,25 +607,11 @@
               "version": "",
               "ageMinimal": null,
               "ordre": 1
-            },
-            {
-              "idFilm": 142857,
-              "titre": "Alphaville, une étrange aventure de Lemmy Caution (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1965,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
             }
           ],
           "seance": [
             {
-              "dateHeure": "2020-01-12T21:30:00",
+              "dateHeure": "2020-01-12T21:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1100,59 +628,382 @@
         },
         {
           "idCategorie": 2173,
-          "idEvenement": 19944,
-          "titreEvenement": "Programme 13",
+          "idEvenement": 21576,
           "films": [
             {
-              "idFilm": 142861,
-              "titre": "Pierrot le fou (bande-annonce)",
+              "idFilm": 48849,
+              "titre": "Paris vu par : Montparnasse-Levallois",
               "titreVo": "",
               "realisateurs": "Jean-Luc Godard",
-              "annee": 1965,
+              "annee": 1964,
               "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 48860,
-              "titre": "Pierrot le fou",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1965,
-              "pays": "France-Italie",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« _Pierrot le fou_ c'est : – Stuart Heisler revu par Raymond Queneau, – Le dernier film romantique, – Le Techniscope héritier de Renoir et Sisley – Le premier film moderne d'avant Griffith. » (JLG, 1965)"
+                  "texte": "« C'est l'histoire que raconte Belmondo dans _Une femme est une femme_. » (JLG, 1965)"
                 }
               ],
               "generique": [
-                "Jean-Paul Belmondo",
-                "Anna Karina",
-                "Raymond Devos",
-                "Dirk Sanders"
+                "Joanna Shimkus",
+                "Philippe Hiquily",
+                "Serge Davri"
               ],
-              "duree": 111,
+              "duree": 18,
               "format": "35 mm",
-              "version": "VO",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 1
+            },
+            {
+              "idFilm": 48871,
+              "titre": "Une femme mariée",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1964,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Ceci est l'histoire d'une femme, son histoire très particulière pendant un temps très court, 24 heures exactement. Ce film commence par un baiser : celui qu'échangent, un après-midi, Charlotte et un homme dans un meublé d'un quartier anonyme. Lui est acteur. Elle, rédactrice féminine dans une revue de mode. » (JLG, 1964)"
+                }
+              ],
+              "generique": [
+                "Macha Méril",
+                "Bernard Noël",
+                "Philippe Leroy"
+              ],
+              "duree": 95,
+              "format": "35 mm",
+              "version": "",
               "ageMinimal": null,
               "ordre": 2
             }
           ],
           "seance": [
             {
-              "dateHeure": "2020-01-09T19:00:00",
+              "dateHeure": "2020-01-12T18:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Macha Méril"
+            },
+            {
+              "dateHeure": "2020-02-24T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2173,
+          "idEvenement": 21572,
+          "films": [
+            {
+              "idFilm": 48861,
+              "titre": "Plus belles escroqueries du monde : Le Grand escroc",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1963,
+              "pays": "France-Italie-Japon-Pays-Bas",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Pourquoi est-ce que l'argent que vous fabriquez, vous le donnez aux mendiants ? » (JLG, 1963)"
+                }
+              ],
+              "generique": [
+                "Jean Seberg",
+                "Charles Denner",
+                "Laszlo Szabo"
+              ],
+              "duree": 25,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 48838,
+              "titre": "Bande à part",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1964,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Ce sont des gens réels, et c'est le monde qui fait bande à part, c'est le monde qui se fait du cinéma, qui n'est pas synchrone. » (JLG, 1964)"
+                }
+              ],
+              "generique": [
+                "Sami Frey",
+                "Claude Brasseur",
+                "Anna Karina"
+              ],
+              "duree": 95,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-11T19:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
               ]
             },
             {
-              "dateHeure": "2020-02-26T17:00:00",
+              "dateHeure": "2020-02-23T20:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2173,
+          "idEvenement": 21569,
+          "films": [
+            {
+              "idFilm": 53436,
+              "titre": "RoGoPaG : Le Nouveau monde",
+              "titreVo": "RoGoPaG : Il Nuovo mondo",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1962,
+              "pays": "Italie-France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« J'aurais dû comprendre que tout cela n'était que la conséquence de la fin du monde. » (JLG, 1962)"
+                }
+              ],
+              "generique": [
+                "Jean-Marc Bory",
+                "Alexandra Stewart"
+              ],
+              "duree": 20,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 48841,
+              "titre": "Carabiniers",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1962,
+              "pays": "France-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« C'est l'histoire de deux paysans qui voient arriver les carabiniers. Ils ne viennent pas les arrêter, mais leur apporter une lettre du roi. En fait, c'est un ordre de mobilisation. Ils sont ennuyés, mais les carabiniers leur disent : c'est formidable la guerre, on peut tout faire, on peut tout faire. » (JLG, 1963)"
+                }
+              ],
+              "generique": [
+                "Marino Masé",
+                "Geneviève Galéa",
+                "Catherine Ribeiro"
+              ],
+              "duree": 80,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-11T16:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-02-21T14:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2173,
+          "idEvenement": 21559,
+          "films": [
+            {
+              "idFilm": 48837,
+              "titre": "À bout de souffle",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1959,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« – Que pensez-vous de la phrase de Rilke selon laquelle la vie moderne séparera de plus en plus l'homme et la femme ? – Rilke était un grand poète, il a donc certainement raison. » (JLG, 1960)"
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Prix Jean Vigo 1960."
+                }
+              ],
+              "generique": [
+                "Jean-Paul Belmondo",
+                "Jean Seberg",
+                "Henri-Jacques Huet",
+                "Jean-Pierre Melville"
+              ],
+              "duree": 90,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-10T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-02-19T17:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2173,
+          "idEvenement": 21564,
+          "films": [
+            {
+              "idFilm": 48866,
+              "titre": "Sept péchés capitaux : La Paresse",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1961,
+              "pays": "France-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« soudain au loin le pas la voix rien puis soudain quelque chose quelque chose puis soudain rien soudain au loin le silence » (Samuel Beckett / JLG, 1961)"
+                }
+              ],
+              "generique": [
+                "Eddie Constantine",
+                "Nicole Mirel"
+              ],
+              "duree": 15,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 48870,
+              "titre": "Une femme est une femme",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1960,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« C'est un regret que la vie ne soit pas en musique... Voilà le sentiment qu'on éprouvait en tournant le film. » (JLG, 1965)"
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Prix spécial du jury, Berlin, 1961."
+                }
+              ],
+              "generique": [
+                "Anna Karina",
+                "Jean-Paul Belmondo",
+                "Jean-Claude Brialy"
+              ],
+              "duree": 88,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-11T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-02-20T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2173,
+          "idEvenement": 21561,
+          "films": [
+            {
+              "idFilm": 48859,
+              "titre": "Petit soldat",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1960,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« J'ai la nostalgie d'une certaine époque, où Malraux écrivait _L'Espoir,_ l'époque d'Hemingway. J'ai voulu lui rendre hommage. Ils avaient un idéal. » (JLG, 1960)"
+                }
+              ],
+              "generique": [
+                "Michel Subor",
+                "Anna Karina",
+                "Henri-Jacques Huet"
+              ],
+              "duree": 88,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-10T21:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Jean Narboni"
+            },
+            {
+              "dateHeure": "2020-02-20T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1165,199 +1016,8 @@
     {
       "titreSousCycle": "Fables sociologiques",
       "tri": 3,
+      "textes": [],
       "items": [
-        {
-          "idCategorie": 2175,
-          "idEvenement": 19918,
-          "titreEvenement": "Programme 14",
-          "films": [
-            {
-              "idFilm": 142868,
-              "titre": "Masculin féminin (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1965,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 48812,
-              "titre": "Masculin féminin",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1965,
-              "pays": "France-Suède",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Bien sûr un film interdit aux moins de 18 ans puisqu'il parle d'eux. » (JLG, 1966)"
-                }
-              ],
-              "adaptation": "D'après les nouvelles _La Femme de Paul_ et _Le Signe_ de Guy de Maupassant.",
-              "generique": [
-                "Jean-Pierre Léaud",
-                "Chantal Goya",
-                "Marlène Jobert",
-                "Françoise Hardy"
-              ],
-              "duree": 110,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 2
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-17T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
-              "mention": "Séance présentée par Jean-Pierre Léaud"
-            },
-            {
-              "dateHeure": "2020-02-27T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2175,
-          "idEvenement": 19917,
-          "titreEvenement": "Programme 15",
-          "films": [
-            {
-              "idFilm": 142863,
-              "titre": "Made in U.S.A. (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1966,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 48845,
-              "titre": "Made in U.S.A.",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1966,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Ça se passe en France, à Atlantic City. L'histoire ressemble étrangement à une ténébreuse affaire autour d'un nommé Ben Barka. » (JLG, 1966)"
-                }
-              ],
-              "generique": [
-                "Jean-Pierre Léaud",
-                "Anna Karina",
-                "Laszlo Szabo"
-              ],
-              "duree": 90,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-17T21:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-02-27T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2175,
-          "idEvenement": 19874,
-          "titreEvenement": "Programme 16",
-          "films": [
-            {
-              "idFilm": 142869,
-              "titre": "Deux ou trois choses que je sais d'elle (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1966,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 48844,
-              "titre": "Deux ou trois choses que je sais d'elle",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1966,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« ELLE, la cruauté du néo-capitalisme. ELLE, la mort de la beauté moderne. ELLE, la Gestapo des structures. » (JLG, 1966)"
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Restauré par Argos Films avec le soutien du CNC aux Laboratoire Eclair et L.E. Diapason."
-                }
-              ],
-              "generique": [
-                "Marina Vlady",
-                "Anny Duperey",
-                "Roger Montsoret"
-              ],
-              "duree": 90,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 2
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-18T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
-              "mention": "Séance présentée par Marina Vlady"
-            },
-            {
-              "dateHeure": "2020-02-27T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
-              "mention": "Séance présentée par Jean Narboni"
-            }
-          ]
-        },
         {
           "idCategorie": 2175,
           "idEvenement": 21449,
@@ -1412,199 +1072,161 @@
               ]
             }
           ]
+        },
+        {
+          "idCategorie": 2175,
+          "idEvenement": 21586,
+          "films": [
+            {
+              "idFilm": 48844,
+              "titre": "Deux ou trois choses que je sais d'elle",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1966,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« ELLE, la cruauté du néo-capitalisme. ELLE, la mort de la beauté moderne. ELLE, la Gestapo des structures. » (JLG, 1966)"
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Restauré par Argos Films avec le soutien du CNC aux Laboratoire Eclair et L.E. Diapason."
+                }
+              ],
+              "generique": [
+                "Marina Vlady",
+                "Anny Duperey",
+                "Roger Montsoret"
+              ],
+              "duree": 90,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-18T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Marina Vlady"
+            },
+            {
+              "dateHeure": "2020-02-27T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Jean Narboni"
+            }
+          ]
+        },
+        {
+          "idCategorie": 2175,
+          "idEvenement": 21584,
+          "films": [
+            {
+              "idFilm": 48845,
+              "titre": "Made in U.S.A.",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1966,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Ça se passe en France, à Atlantic City. L'histoire ressemble étrangement à une ténébreuse affaire autour d'un nommé Ben Barka. » (JLG, 1966)"
+                }
+              ],
+              "generique": [
+                "Jean-Pierre Léaud",
+                "Anna Karina",
+                "Laszlo Szabo"
+              ],
+              "duree": 90,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-17T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-02-27T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2175,
+          "idEvenement": 21582,
+          "films": [
+            {
+              "idFilm": 48812,
+              "titre": "Masculin féminin",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1965,
+              "pays": "France-Suède",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Bien sûr un film interdit aux moins de 18 ans puisqu'il parle d'eux. » (JLG, 1966)"
+                }
+              ],
+              "adaptation": "D'après les nouvelles _La Femme de Paul_ et _Le Signe_ de Guy de Maupassant.",
+              "generique": [
+                "Jean-Pierre Léaud",
+                "Chantal Goya",
+                "Marlène Jobert",
+                "Françoise Hardy"
+              ],
+              "duree": 110,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-17T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Jean-Pierre Léaud"
+            },
+            {
+              "dateHeure": "2020-02-27T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
         }
       ]
     },
     {
       "titreSousCycle": "Travaux révolutionnaires",
       "tri": 3,
+      "textes": [],
       "items": [
-        {
-          "idCategorie": 2174,
-          "idEvenement": 19860,
-          "titreEvenement": "Programme 18",
-          "films": [
-            {
-              "idFilm": 79602,
-              "titre": "Loin du Vietnam : Caméra-œil",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1967,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Comment parler des bombes alors qu'on ne les reçoit pas sur la tête ? » (JLG, 1967)"
-                }
-              ],
-              "generique": [
-                "Jean-Luc Godard"
-              ],
-              "duree": 15,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 143007,
-              "titre": "Mouchette (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1966,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 142858,
-              "titre": "Chinoise (bande-annonce)",
-              "art": "La",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1967,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            },
-            {
-              "idFilm": 48842,
-              "titre": "Chinoise",
-              "art": "La",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1967,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Ces jeunes gens représentent, comme autrefois les personnages des _Bas-fonds_ de Gorki, 5 niveaux particuliers de la société. » (JLG, 1967)"
-                }
-              ],
-              "generique": [
-                "Anne Wiazemsky",
-                "Jean-Pierre Léaud",
-                "Juliet Berto",
-                "Michel Semeniako"
-              ],
-              "duree": 99,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 4
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-19T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-02-27T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2174,
-          "idEvenement": 20353,
-          "titreEvenement": "Programme 19",
-          "films": [
-            {
-              "idFilm": 71006,
-              "titre": "Contestation : L'Amour",
-              "art": "La",
-              "titreVo": "Amore e rabbia : L'Amore",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1967,
-              "pays": "Italie-France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Peut-être un film de Berthe Morisot, peut-être un film de Christian Dior, en tous cas oui c'est en Scope, et en couleurs. » (JLG, 1967)"
-                }
-              ],
-              "generique": [
-                "Catherine Jourdan",
-                "Nino Castelnuovo",
-                "Christiane Guého"
-              ],
-              "duree": 26,
-              "format": "Vidéo",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 142862,
-              "titre": "Week-end (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1967,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 48874,
-              "titre": "Week-end",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1967,
-              "pays": "France-Italie",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Nos deux héros, dont on commence à voir la méchanceté et la bêtise, s'enfuient. _Week-end_ est un film d'ethnologue sur un monde imaginaire. » (JLG, 1967)"
-                }
-              ],
-              "generique": [
-                "Jean Yanne",
-                "Mireille Darc",
-                "Jean-Pierre Kalfon"
-              ],
-              "duree": 95,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-18T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-02-28T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
         {
           "idCategorie": 2174,
           "idEvenement": 20233,
@@ -1878,7 +1500,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-01-26T17:00:00",
+              "dateHeure": "2020-01-26T17:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -1918,7 +1540,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-01-26T19:30:00",
+              "dateHeure": "2020-01-26T20:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -1957,7 +1579,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-01-26T21:45:00",
+              "dateHeure": "2020-01-26T22:15:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -2030,87 +1652,6 @@
         },
         {
           "idCategorie": 2174,
-          "idEvenement": 20257,
-          "titreEvenement": "Programme 28",
-          "films": [
-            {
-              "idFilm": 142865,
-              "titre": "Tout va bien (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1972,
-              "pays": "France",
-              "textes": [],
-              "duree": 5,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 143011,
-              "titre": "Giornate del Cinema di Venezia 1972",
-              "art": "Le",
-              "titreVo": "",
-              "realisateurs": "Anonyme",
-              "annee": 1972,
-              "pays": "Italie",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Jean-Luc Godard débat avec les spectateurs italiens de l'interdiction de projeter _Tout va bien_."
-                }
-              ],
-              "generique": [
-                "Jean-Luc Godard",
-                "Jean-Pierre Gorin"
-              ],
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 48839,
-              "titre": "Tout va bien",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard, Jean-Pierre Gorin",
-              "annee": 1972,
-              "pays": "France-Italie",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Les jours passent. Des événements sociaux se passent, et quelques émissions pirates aussi, dont les gens discutent, et elle et lui aussi. » (JLG, synopsis)"
-                }
-              ],
-              "generique": [
-                "Jane Fonda",
-                "Yves Montand"
-              ],
-              "duree": 95,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-16T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-02-28T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2174,
           "idEvenement": 20251,
           "titreEvenement": "Programme 29",
           "films": [
@@ -2168,12 +1709,234 @@
               "mention": "Séance présentée par Elias Sanbar"
             }
           ]
+        },
+        {
+          "idCategorie": 2174,
+          "idEvenement": 21597,
+          "films": [
+            {
+              "idFilm": 143011,
+              "titre": "Giornate del Cinema di Venezia 1972",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Anonyme",
+              "annee": 1972,
+              "pays": "Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Jean-Luc Godard débat avec les spectateurs italiens de l'interdiction de projeter _Tout va bien_."
+                }
+              ],
+              "generique": [
+                "Jean-Luc Godard",
+                "Jean-Pierre Gorin"
+              ],
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 48839,
+              "titre": "Tout va bien",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard, Jean-Pierre Gorin",
+              "annee": 1972,
+              "pays": "France-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Les jours passent. Des événements sociaux se passent, et quelques émissions pirates aussi, dont les gens discutent, et elle et lui aussi. » (JLG, synopsis)"
+                }
+              ],
+              "generique": [
+                "Jane Fonda",
+                "Yves Montand"
+              ],
+              "duree": 95,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-16T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-02-28T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2174,
+          "idEvenement": 21593,
+          "films": [
+            {
+              "idFilm": 71006,
+              "titre": "Contestation : L'Amour",
+              "art": "La",
+              "titreVo": "Amore e rabbia : L'Amore",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1967,
+              "pays": "Italie-France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Peut-être un film de Berthe Morisot, peut-être un film de Christian Dior, en tous cas oui c'est en Scope, et en couleurs. » (JLG, 1967)"
+                }
+              ],
+              "generique": [
+                "Catherine Jourdan",
+                "Nino Castelnuovo",
+                "Christiane Guého"
+              ],
+              "duree": 26,
+              "format": "Vidéo",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 48874,
+              "titre": "Week-end",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1967,
+              "pays": "France-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Nos deux héros, dont on commence à voir la méchanceté et la bêtise, s'enfuient. _Week-end_ est un film d'ethnologue sur un monde imaginaire. » (JLG, 1967)"
+                }
+              ],
+              "generique": [
+                "Jean Yanne",
+                "Mireille Darc",
+                "Jean-Pierre Kalfon"
+              ],
+              "duree": 95,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-18T21:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-02-28T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2174,
+          "idEvenement": 21588,
+          "films": [
+            {
+              "idFilm": 79602,
+              "titre": "Loin du Vietnam : Caméra-œil",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1967,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Comment parler des bombes alors qu'on ne les reçoit pas sur la tête ? » (JLG, 1967)"
+                }
+              ],
+              "generique": [
+                "Jean-Luc Godard"
+              ],
+              "duree": 15,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 143007,
+              "titre": "Mouchette (bande-annonce)",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1966,
+              "pays": "France",
+              "textes": [],
+              "duree": 2,
+              "format": "",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            },
+            {
+              "idFilm": 48842,
+              "titre": "Chinoise",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1967,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Ces jeunes gens représentent, comme autrefois les personnages des _Bas-fonds_ de Gorki, 5 niveaux particuliers de la société. » (JLG, 1967)"
+                }
+              ],
+              "generique": [
+                "Anne Wiazemsky",
+                "Jean-Pierre Léaud",
+                "Juliet Berto",
+                "Michel Semeniako"
+              ],
+              "duree": 99,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-19T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-02-27T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "titreSousCycle": "Expérimentations vidéographiques",
+      "titreSousCycle": "Expérimentations vidéo",
       "tri": 3,
+      "textes": [],
       "items": [
         {
           "idCategorie": 2176,
@@ -2230,7 +1993,7 @@
           "films": [
             {
               "idFilm": 57303,
-              "titre": "Comment ça va ?",
+              "titre": "Comment ça va",
               "titreVo": "",
               "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
               "annee": 1975,
@@ -2873,192 +2636,10 @@
       ]
     },
     {
-      "titreSousCycle": "Soft Talk Between Seven Arts",
+      "titreSousCycle": "Dialogue entre les arts",
       "tri": 3,
+      "textes": [],
       "items": [
-        {
-          "idCategorie": 2177,
-          "idEvenement": 19958,
-          "titreEvenement": "Programme 41",
-          "films": [
-            {
-              "idFilm": 48865,
-              "titre": "Sauve qui peut (la vie)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1979,
-              "pays": "France-Suisse-RFA-Autriche",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Qu'un plan ne suive pas un autre plan (un cadre, disaient Eisenstein et Dovjenko) parce que c'est écrit (_mektoub_) mais parce que le plan qui précède doit se changer dans un autre pour poursuivre son mouvement, comme dans un jeu ou dans une société les gens s'accordent ou pas pour stopper ou continuer un mouvement social. » (JLG, lettre n° 2 à l'avance sur recettes, 1979)"
-                }
-              ],
-              "generique": [
-                "Isabelle Huppert",
-                "Jacques Dutronc",
-                "Nathalie Baye"
-              ],
-              "duree": 87,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 142870,
-              "titre": "Sauve qui peut (la vie) (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1979,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 79609,
-              "titre": "Scénario de Sauve qui peut (la vie). Quelques remarques sur la réalisation et la production du film",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1979,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Je voudrais ralentir, filmer ce qu'on ne voit pas ordinairement, je vais essayer de vous montrer ça sur une vidéo cassette, pas ralentir exactement, un peu décomposer ce passé dans l'instant où il compose le présent des personnages. » (JLG, lettre n° 1 à l'avance sur recettes, 1979)"
-                }
-              ],
-              "duree": 21,
-              "format": "Numérique",
-              "version": "STF",
-              "ageMinimal": 0,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-29T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ],
-              "mention": "Séance présentée par Nathalie Baye"
-            },
-            {
-              "dateHeure": "2020-02-29T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2177,
-          "idEvenement": 20283,
-          "titreEvenement": "Programme 42",
-          "films": [
-            {
-              "idFilm": 142346,
-              "titre": "Une bonne à tout faire",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1981,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Paul Cézanne, le premier peintre qui face à une toile blanche ne savait pas encore ce qu'il allait peindre. » (JLG, 1981)"
-                }
-              ],
-              "generique": [
-                "Andreï Kontchalovski",
-                "Vittorio Storaro"
-              ],
-              "duree": 0,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 53158,
-              "titre": "Lettre à Freddy Buache. À propos d'un court métrage sur la ville de Lausanne",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1984,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« On a donné de l'argent pour un film sur, et ça, c'est un film de. Il n'arrive pas encore à la sur-face. » (JLG, 1981)"
-                }
-              ],
-              "duree": 11,
-              "format": "Numérique",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 2
-            },
-            {
-              "idFilm": 142866,
-              "titre": "Passion (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1981,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            },
-            {
-              "idFilm": 48850,
-              "titre": "Passion",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1981,
-              "pays": "France-Suisse",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« J'ai essayé de montrer la peinture dans sa forme métaphorique. Les chevaliers sont les métaphores des patrons, les fusillés de Goya les métaphores des filles qui vont à l'usine. » (JLG, 1982)"
-                }
-              ],
-              "generique": [
-                "Isabelle Huppert",
-                "Hanna Schygulla",
-                "Michel Piccoli"
-              ],
-              "duree": 87,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 4
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-31T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ],
-              "mention": "Séance présentée par Isabelle Huppert (sous réserve)"
-            },
-            {
-              "dateHeure": "2020-02-29T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
         {
           "idCategorie": 2177,
           "idEvenement": 21331,
@@ -3168,173 +2749,9 @@
         },
         {
           "idCategorie": 2177,
-          "idEvenement": 21396,
-          "titreEvenement": "Programme 44",
-          "films": [
-            {
-              "idFilm": 142873,
-              "titre": "Prénom Carmen (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1983,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 48864,
-              "titre": "Prénom Carmen",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1983,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Je vous prête ma nouvelle caméra si vous voulez. Elle fait de la musique, je l'ai fabriqué ici avec les ouvriers de la cuisine. » (JLG)"
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Lion d'or, Venise, 1983."
-                }
-              ],
-              "generique": [
-                "Maruschka Detmers",
-                "Jacques Bonnaffé",
-                "Jean-Luc Godard"
-              ],
-              "duree": 83,
-              "format": "35 mm",
-              "version": "VO",
-              "ageMinimal": null,
-              "ordre": 2
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-31T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ],
-              "mention": "Séance présentée par Maruschka Detmers (sous réserve) et Jacques Bonnaffé"
-            },
-            {
-              "dateHeure": "2020-02-29T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2177,
-          "idEvenement": 19902,
-          "titreEvenement": "Programme 45",
-          "films": [
-            {
-              "idFilm": 79612,
-              "titre": "Petites notes à propos du film Je vous salue, Marie",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1983,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Loué soit le cinéma : la loi n'est pas dite, elle est vue et entendue. Une histoire nous est née et nous est donnée. C'est ainsi qu'à travers une image ressuscite la vie. » (JLG, 1985)"
-                }
-              ],
-              "generique": [
-                "Jean-Luc Godard",
-                "Myriem Roussel",
-                "Anne-Marie Miéville"
-              ],
-              "duree": 20,
-              "format": "Numérique",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 142874,
-              "titre": "Je vous salue, Marie (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1984,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 2
-            },
-            {
-              "idFilm": 54038,
-              "titre": "Je vous salue, Marie",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1984,
-              "pays": "France-Suisse-Grande-Bretagne",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« L'Enfant aux Parents : il faut que je m'occupe des affaires de mon Père. C'est aussi l'histoire d'une fille, Marie, qui se demanderait si un événement surviendrait dans sa vie, proche de l'amour absolu. » (JLG, 1985)"
-                }
-              ],
-              "generique": [
-                "Myriem Roussel",
-                "Thierry Rode",
-                "Philippe Lacoste",
-                "Juliette Binoche"
-              ],
-              "duree": 78,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-02-06T16:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2177,
           "idEvenement": 21450,
           "titreEvenement": "Programme 46",
           "films": [
-            {
-              "idFilm": 143099,
-              "titre": "Duras/Godard",
-              "titreVo": "",
-              "realisateurs": "Pierre-André Boutang, Jean-Daniel Verhaeghe",
-              "annee": 1987,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« MD : – Alors on commence ? JLG : – On a déjà commencé. »"
-                }
-              ],
-              "duree": 62,
-              "format": "Numérique",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
             {
               "idFilm": 141457,
               "titre": "Godard-Sollers : l'entretien",
@@ -3349,6 +2766,25 @@
                 }
               ],
               "duree": 75,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 143099,
+              "titre": "Duras/Godard",
+              "titreVo": "",
+              "realisateurs": "Pierre-André Boutang, Jean-Daniel Verhaeghe",
+              "annee": 1987,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« MD : – Alors on commence ? JLG : – On a déjà commencé. »"
+                }
+              ],
+              "duree": 62,
               "format": "Numérique",
               "version": "",
               "ageMinimal": null,
@@ -3423,7 +2859,7 @@
               ]
             },
             {
-              "dateHeure": "2020-03-01T18:00:00",
+              "dateHeure": "2020-02-29T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -3533,89 +2969,6 @@
         },
         {
           "idCategorie": 2177,
-          "idEvenement": 21087,
-          "titreEvenement": "Programme 50",
-          "films": [
-            {
-              "idFilm": 79619,
-              "titre": "Armide",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1986,
-              "pays": "Grande-Bretagne",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Il semble fait pour l'amour. » (Philippe Quinault, Jean-Baptiste Lully, 1686)"
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Épisode du film collectif _Aria."
-                }
-              ],
-              "generique": [
-                "Marion Peterson",
-                "Valérie Allain"
-              ],
-              "duree": 12,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 1
-            },
-            {
-              "idFilm": 142872,
-              "titre": "Soigne ta droite (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1987,
-              "pays": "France",
-              "textes": [],
-              "duree": 2,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 48867,
-              "titre": "Soigne ta droite",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1987,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Qui nous a donné la force pour effacer tout à l'horizon ? La nuit rassemble ses forces pour vaincre la lumière, mais c'est dans le dos que la lumière va frapper la nuit. » (JLG, 1987)"
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Prix Louis-Delluc 1987."
-                }
-              ],
-              "generique": [
-                "Jean-Luc Godard",
-                "Jacques Villeret",
-                "François Périer"
-              ],
-              "duree": 81,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-02-13T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2177,
           "idEvenement": 19907,
           "titreEvenement": "Programme 51",
           "films": [
@@ -3645,7 +2998,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-02-10T14:30:00",
+              "dateHeure": "2020-02-09T19:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -3684,7 +3037,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-02-09T19:00:00",
+              "dateHeure": "2020-02-10T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -3847,97 +3200,6 @@
         },
         {
           "idCategorie": 2177,
-          "idEvenement": 19927,
-          "titreEvenement": "Programme 55",
-          "films": [
-            {
-              "idFilm": 142342,
-              "titre": "Publicités Métamorphojean",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1990,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Cinq clips de 20 à 30 secondes chacun pour Marithé et François Girbaud."
-                }
-              ],
-              "duree": 2,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 142341,
-              "titre": "Publicité Pue Lulla",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1990,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Réclame pour Nike."
-                }
-              ],
-              "duree": 1,
-              "format": "Numérique",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 142871,
-              "titre": "Nouvelle vague (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1989,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            },
-            {
-              "idFilm": 39240,
-              "titre": "Nouvelle vague",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1989,
-              "pays": "France-Suisse",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Dans un premier temps – l'Ancien Testament – un être humain (un homme) est sauvé de la chute par un autre être humain (une femme). Dans un deuxième temps – le Nouveau Testament – un être humain (une femme) (la même) est sauvée de la chute par un autre être humain (un autre homme). Mais la femme découvre que l'autre homme est aussi le même que le premier, que le deuxième est (encore et toujours) le même que le premier. C'est donc une révélation, et si l'homme a dit le mystère, la femme a révélé le secret. » (JLG, 1990)"
-                }
-              ],
-              "generique": [
-                "Alain Delon",
-                "Domiziana Giordano"
-              ],
-              "duree": 89,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 4
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-30T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2177,
           "idEvenement": 20374,
           "titreEvenement": "Programme 56",
           "films": [
@@ -4037,23 +3299,73 @@
         },
         {
           "idCategorie": 2177,
-          "idEvenement": 19891,
-          "titreEvenement": "Programme 57",
+          "idEvenement": 21602,
           "films": [
             {
-              "idFilm": 142876,
-              "titre": "Hélas pour moi (bande-annonce)",
+              "idFilm": 48865,
+              "titre": "Sauve qui peut (la vie)",
               "titreVo": "",
               "realisateurs": "Jean-Luc Godard",
-              "annee": 1992,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "35 mm",
+              "annee": 1979,
+              "pays": "France-Suisse-RFA-Autriche",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Qu'un plan ne suive pas un autre plan (un cadre, disaient Eisenstein et Dovjenko) parce que c'est écrit (_mektoub_) mais parce que le plan qui précède doit se changer dans un autre pour poursuivre son mouvement, comme dans un jeu ou dans une société les gens s'accordent ou pas pour stopper ou continuer un mouvement social. » (JLG, lettre n° 2 à l'avance sur recettes, 1979)"
+                }
+              ],
+              "generique": [
+                "Isabelle Huppert",
+                "Jacques Dutronc",
+                "Nathalie Baye"
+              ],
+              "duree": 87,
+              "format": "DCP",
               "version": "",
               "ageMinimal": null,
               "ordre": 1
             },
+            {
+              "idFilm": 79609,
+              "titre": "Scénario de Sauve qui peut (la vie). Quelques remarques sur la réalisation et la production du film",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1979,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Je voudrais ralentir, filmer ce qu'on ne voit pas ordinairement, je vais essayer de vous montrer ça sur une vidéo cassette, pas ralentir exactement, un peu décomposer ce passé dans l'instant où il compose le présent des personnages. » (JLG, lettre n° 1 à l'avance sur recettes, 1979)"
+                }
+              ],
+              "duree": 21,
+              "format": "Numérique",
+              "version": "STF",
+              "ageMinimal": 0,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-29T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Nathalie Baye"
+            },
+            {
+              "dateHeure": "2020-02-29T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2177,
+          "idEvenement": 21621,
+          "films": [
             {
               "idFilm": 52163,
               "titre": "Hélas pour moi",
@@ -4076,7 +3388,7 @@
               "format": "35 mm",
               "version": "",
               "ageMinimal": null,
-              "ordre": 2
+              "ordre": 1
             }
           ],
           "seance": [
@@ -4089,105 +3401,76 @@
               "mention": "Séance présentée par Caroline Champetier"
             }
           ]
-        }
-      ]
-    },
-    {
-      "titreSousCycle": "Véritables histoires du cinéma",
-      "tri": 3,
-      "items": [
+        },
         {
-          "idCategorie": 2178,
-          "idEvenement": 19878,
-          "titreEvenement": "Programme 58",
+          "idCategorie": 2177,
+          "idEvenement": 21617,
           "films": [
             {
-              "idFilm": 142875,
-              "titre": "JLG/JLG, autoportrait de décembre (bande-annonce)",
+              "idFilm": 142342,
+              "titre": "Publicités Métamorphojean",
               "titreVo": "",
               "realisateurs": "Jean-Luc Godard",
-              "annee": 1994,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "",
-              "version": "",
-              "ageMinimal": 0,
-              "ordre": 1
-            },
-            {
-              "idFilm": 103422,
-              "titre": "Je vous salue, Sarajevo",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1993,
+              "annee": 1990,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« Il y a la culture, qui est de la règle, il y a l'exception, qui est de l'art. » (JLG)"
+                  "texte": "Cinq clips de 20 à 30 secondes chacun pour Marithé et François Girbaud."
                 }
               ],
-              "generique": [
-                "Jean-Luc Godard"
-              ],
               "duree": 2,
-              "format": "Vidéo",
+              "format": "",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 142341,
+              "titre": "Publicité Pue Lulla",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1990,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Réclame pour Nike."
+                }
+              ],
+              "duree": 1,
+              "format": "Numérique",
               "version": "",
               "ageMinimal": null,
               "ordre": 2
             },
             {
-              "idFilm": 76849,
-              "titre": "Enfants jouent à la Russie",
-              "art": "Les",
+              "idFilm": 39240,
+              "titre": "Nouvelle vague",
               "titreVo": "",
               "realisateurs": "Jean-Luc Godard",
-              "annee": 1993,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« bienvenue / camarade Medvedkin / camarade Paradjanov / entrez / camarade Tarkovsky /bienvenue, entrez / les icônes / la métamorphose / la fiction » (JLG, 1993)"
-                }
-              ],
-              "generique": [
-                "László Szabó",
-                "Jean-Luc Godard",
-                "Bernard Eisenschitz",
-                "André S. Labarthe"
-              ],
-              "duree": 58,
-              "format": "Vidéo",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            },
-            {
-              "idFilm": 59818,
-              "titre": "JLG/JLG, autoportrait de décembre",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1994,
+              "annee": 1989,
               "pays": "France-Suisse",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« _JLG/JLG_ est un autoportrait, chose qui me semble impensable à faire au cinéma, mais le cinéma est fait pour penser l'impensable, donc je me suis dévoué. » (JLG, 1995)"
+                  "texte": "« Dans un premier temps – l'Ancien Testament – un être humain (un homme) est sauvé de la chute par un autre être humain (une femme). Dans un deuxième temps – le Nouveau Testament – un être humain (une femme) (la même) est sauvée de la chute par un autre être humain (un autre homme). Mais la femme découvre que l'autre homme est aussi le même que le premier, que le deuxième est (encore et toujours) le même que le premier. C'est donc une révélation, et si l'homme a dit le mystère, la femme a révélé le secret. » (JLG, 1990)"
                 }
               ],
               "generique": [
-                "Jean-Luc Godard"
+                "Alain Delon",
+                "Domiziana Giordano"
               ],
-              "duree": 55,
+              "duree": 89,
               "format": "35 mm",
               "version": "",
-              "ageMinimal": 0,
-              "ordre": 4
+              "ageMinimal": null,
+              "ordre": 3
             }
           ],
           "seance": [
             {
-              "dateHeure": "2020-02-08T14:30:00",
+              "dateHeure": "2020-01-30T19:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -4195,6 +3478,284 @@
             }
           ]
         },
+        {
+          "idCategorie": 2177,
+          "idEvenement": 21615,
+          "films": [
+            {
+              "idFilm": 79619,
+              "titre": "Armide",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1986,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Il semble fait pour l'amour. » (Philippe Quinault, Jean-Baptiste Lully, 1686)"
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Épisode du film collectif _Aria."
+                }
+              ],
+              "generique": [
+                "Marion Peterson",
+                "Valérie Allain"
+              ],
+              "duree": 12,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 1
+            },
+            {
+              "idFilm": 48867,
+              "titre": "Soigne ta droite",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1987,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Qui nous a donné la force pour effacer tout à l'horizon ? La nuit rassemble ses forces pour vaincre la lumière, mais c'est dans le dos que la lumière va frapper la nuit. » (JLG, 1987)"
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Prix Louis-Delluc 1987."
+                }
+              ],
+              "generique": [
+                "Jean-Luc Godard",
+                "Jacques Villeret",
+                "François Périer"
+              ],
+              "duree": 81,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-13T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2177,
+          "idEvenement": 21611,
+          "films": [
+            {
+              "idFilm": 79612,
+              "titre": "Petites notes à propos du film Je vous salue, Marie",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1983,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Loué soit le cinéma : la loi n'est pas dite, elle est vue et entendue. Une histoire nous est née et nous est donnée. C'est ainsi qu'à travers une image ressuscite la vie. » (JLG, 1985)"
+                }
+              ],
+              "generique": [
+                "Jean-Luc Godard",
+                "Myriem Roussel",
+                "Anne-Marie Miéville"
+              ],
+              "duree": 20,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 54038,
+              "titre": "Je vous salue, Marie",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1984,
+              "pays": "France-Suisse-Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« L'Enfant aux Parents : il faut que je m'occupe des affaires de mon Père. C'est aussi l'histoire d'une fille, Marie, qui se demanderait si un événement surviendrait dans sa vie, proche de l'amour absolu. » (JLG, 1985)"
+                }
+              ],
+              "generique": [
+                "Myriem Roussel",
+                "Thierry Rode",
+                "Philippe Lacoste",
+                "Juliette Binoche"
+              ],
+              "duree": 78,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-06T16:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2177,
+          "idEvenement": 21609,
+          "films": [
+            {
+              "idFilm": 48864,
+              "titre": "Prénom Carmen",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1983,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Je vous prête ma nouvelle caméra si vous voulez. Elle fait de la musique, je l'ai fabriqué ici avec les ouvriers de la cuisine. » (JLG)"
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Lion d'or, Venise, 1983."
+                }
+              ],
+              "generique": [
+                "Maruschka Detmers",
+                "Jacques Bonnaffé",
+                "Jean-Luc Godard"
+              ],
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-31T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Maruschka Detmers (sous réserve) et Jacques Bonnaffé"
+            },
+            {
+              "dateHeure": "2020-02-29T21:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2177,
+          "idEvenement": 21607,
+          "films": [
+            {
+              "idFilm": 142346,
+              "titre": "Une bonne à tout faire",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1981,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Paul Cézanne, le premier peintre qui face à une toile blanche ne savait pas encore ce qu'il allait peindre. » (JLG, 1981)"
+                }
+              ],
+              "generique": [
+                "Andreï Kontchalovski",
+                "Vittorio Storaro"
+              ],
+              "duree": 0,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 53158,
+              "titre": "Lettre à Freddy Buache. À propos d'un court métrage sur la ville de Lausanne",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1984,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« On a donné de l'argent pour un film sur, et ça, c'est un film de. Il n'arrive pas encore à la sur-face. » (JLG, 1981)"
+                }
+              ],
+              "duree": 11,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 2
+            },
+            {
+              "idFilm": 48850,
+              "titre": "Passion",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1981,
+              "pays": "France-Suisse",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« J'ai essayé de montrer la peinture dans sa forme métaphorique. Les chevaliers sont les métaphores des patrons, les fusillés de Goya les métaphores des filles qui vont à l'usine. » (JLG, 1982)"
+                }
+              ],
+              "generique": [
+                "Isabelle Huppert",
+                "Hanna Schygulla",
+                "Michel Piccoli"
+              ],
+              "duree": 87,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-31T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Isabelle Huppert (sous réserve)"
+            },
+            {
+              "dateHeure": "2020-02-29T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Méditations historiques",
+      "tri": 3,
+      "textes": [],
+      "items": [
         {
           "idCategorie": 2178,
           "idEvenement": 20225,
@@ -4264,89 +3825,6 @@
           "seance": [
             {
               "dateHeure": "2020-02-23T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2178,
-          "idEvenement": 21333,
-          "titreEvenement": "Programme 60",
-          "films": [
-            {
-              "idFilm": 142877,
-              "titre": "For Ever Mozart (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1995,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 143012,
-              "titre": "Adieu au TNS",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1996,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Acceptez la complainte d'un voyageur / Qui poursuivit une princesse / Dans un théâtre / Ah quel malheur » (JLG, 1996)"
-                }
-              ],
-              "generique": [
-                "Jean-Luc Godard"
-              ],
-              "duree": 7,
-              "format": "Numérique",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 59925,
-              "titre": "For Ever Mozart",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1995,
-              "pays": "France-Suisse",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Quatre films qui n'en font pas forcément un, tels les murs seuls d'une maison. Théâtre. _On ne pas badine pas avec l'amour_ à Sarajevo. Le film de l'intranquillité. For Ever Mozart. » (JLG, 1996)"
-                }
-              ],
-              "generique": [
-                "Madeleine Assas",
-                "Ghalia Lacroix",
-                "Bérangère Allaux"
-              ],
-              "duree": 80,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-02-14T21:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-03-01T20:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -4549,188 +4027,6 @@
         },
         {
           "idCategorie": 2178,
-          "idEvenement": 21354,
-          "titreEvenement": "Programme 64",
-          "films": [
-            {
-              "idFilm": 77379,
-              "titre": "De l'origine du XXIe siècle",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 2000,
-              "pays": "Suisse",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« À la recherche du siècle perdu. Quelle horreur. Quelle horreur. Qu'est-ce que c'est, dégueulasse ? » (JLG, 2000)"
-                }
-              ],
-              "generique": [
-                "Pierre Guyotat",
-                "Ronald Chammah"
-              ],
-              "duree": 13,
-              "format": "Numérique",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 79181,
-              "titre": "Dans le noir du temps",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
-              "annee": 2001,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Tous les corps ensemble et tous les esprits ensemble et toutes leurs productions ne valent pas le moindre mouvement de charité. Cela est d'un ordre infiniment plus élevé. » (Blaise Pascal / JLG)"
-                }
-              ],
-              "duree": 10,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 142867,
-              "titre": "Éloge de l'amour (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1999,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            },
-            {
-              "idFilm": 74022,
-              "titre": "Éloge de l'amour",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 1999,
-              "pays": "Suisse-France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Tout s'accomplit en 2 jours par des conversations des uns avec les autres. La vraie question est de savoir si une superproduction américaine a le droit de s'emparer des légendes des autres. » (JLG, 2001)"
-                }
-              ],
-              "generique": [
-                "Bruno Putzulu",
-                "Cécile Camp",
-                "Jean Davy"
-              ],
-              "duree": 94,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 4
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-03-02T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2178,
-          "idEvenement": 20290,
-          "titreEvenement": "Programme 65",
-          "films": [
-            {
-              "idFilm": 103421,
-              "titre": "Liberté et patrie",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
-              "annee": 2002,
-              "pays": "Suisse",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« En tant qu'ancien révolutionnaire, le père ne croyait pas au pouvoir des images, mais à celui des mots. » (JLG, Anne-Marie Miéville, 2002)"
-                }
-              ],
-              "generique": [
-                "Jean-Pierre Gos",
-                "Geneviève Pasquier"
-              ],
-              "duree": 22,
-              "format": "Numérique",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 142860,
-              "titre": "Notre musique (bande-annonce)",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 2003,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
-              "idFilm": 90885,
-              "titre": "Notre musique",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 2003,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "« Voici les musiques le reste est imposture / Voici le contre-champ le reste est procédure / Et vers le paradis voici l'achèvement / Et voici notre amour et notre entendement. » (JLG, 2004)"
-                }
-              ],
-              "generique": [
-                "Sarah Adler",
-                "Nade Dieu",
-                "Rony Kramer",
-                "Jean-Luc Godard"
-              ],
-              "duree": 80,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-02-09T21:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
-              "mention": "Séance présentée par Julien Hirsch"
-            },
-            {
-              "dateHeure": "2020-03-02T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2178,
           "idEvenement": 19922,
           "titreEvenement": "Programme 66",
           "films": [
@@ -4915,6 +4211,9 @@
                   "texte": "« Ah, c'est ce qu'on a eu de meilleur, dit Frédéric, oui. » (Gustave Flaubert, 1869 / JLG, 2010)"
                 }
               ],
+              "duree": 4,
+              "format": "",
+              "version": "",
               "ageMinimal": null,
               "ordre": 3
             },
@@ -5044,7 +4343,7 @@
             },
             {
               "idFilm": 143022,
-              "titre": "Quod erat Demonstrandum",
+              "titre": "Quod erat demonstrandum",
               "titreVo": "",
               "realisateurs": "Fabrice Aragno",
               "annee": 2012,
@@ -5228,8 +4527,7 @@
         },
         {
           "idCategorie": 2178,
-          "idEvenement": 21312,
-          "titreEvenement": "Programme 71",
+          "idEvenement": 21637,
           "films": [
             {
               "idFilm": 143026,
@@ -5251,21 +4549,6 @@
               "ordre": 1
             },
             {
-              "idFilm": 142859,
-              "titre": "Livre d'image (bande-annonce)",
-              "art": "Le",
-              "titreVo": "",
-              "realisateurs": "Jean-Luc Godard",
-              "annee": 2017,
-              "pays": "France",
-              "textes": [],
-              "duree": 1,
-              "format": "",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
-            },
-            {
               "idFilm": 143027,
               "titre": "Poussières",
               "titreVo": "",
@@ -5282,7 +4565,7 @@
               "format": "Numérique",
               "version": "",
               "ageMinimal": null,
-              "ordre": 3
+              "ordre": 2
             },
             {
               "idFilm": 142878,
@@ -5296,7 +4579,7 @@
               "format": "",
               "version": "",
               "ageMinimal": null,
-              "ordre": 4
+              "ordre": 3
             },
             {
               "idFilm": 143028,
@@ -5314,7 +4597,7 @@
               "format": "Numérique",
               "version": "",
               "ageMinimal": 0,
-              "ordre": 5
+              "ordre": 4
             },
             {
               "idFilm": 139247,
@@ -5338,12 +4621,302 @@
               "format": "DCP",
               "version": "",
               "ageMinimal": null,
-              "ordre": 6
+              "ordre": 5
             }
           ],
           "seance": [
             {
               "dateHeure": "2020-03-01T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2178,
+          "idEvenement": 21635,
+          "films": [
+            {
+              "idFilm": 103421,
+              "titre": "Liberté et patrie",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
+              "annee": 2002,
+              "pays": "Suisse",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« En tant qu'ancien révolutionnaire, le père ne croyait pas au pouvoir des images, mais à celui des mots. » (JLG, Anne-Marie Miéville, 2002)"
+                }
+              ],
+              "generique": [
+                "Jean-Pierre Gos",
+                "Geneviève Pasquier"
+              ],
+              "duree": 22,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 90885,
+              "titre": "Notre musique",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 2003,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Voici les musiques le reste est imposture / Voici le contre-champ le reste est procédure / Et vers le paradis voici l'achèvement / Et voici notre amour et notre entendement. » (JLG, 2004)"
+                }
+              ],
+              "generique": [
+                "Sarah Adler",
+                "Nade Dieu",
+                "Rony Kramer",
+                "Jean-Luc Godard"
+              ],
+              "duree": 80,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-09T21:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Julien Hirsch"
+            }
+          ]
+        },
+        {
+          "idCategorie": 2178,
+          "idEvenement": 21630,
+          "films": [
+            {
+              "idFilm": 77379,
+              "titre": "De l'origine du XXIe siècle",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 2000,
+              "pays": "Suisse",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« À la recherche du siècle perdu. Quelle horreur. Quelle horreur. Qu'est-ce que c'est, dégueulasse ? » (JLG, 2000)"
+                }
+              ],
+              "generique": [
+                "Pierre Guyotat",
+                "Ronald Chammah"
+              ],
+              "duree": 13,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 79181,
+              "titre": "Dans le noir du temps",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
+              "annee": 2001,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Tous les corps ensemble et tous les esprits ensemble et toutes leurs productions ne valent pas le moindre mouvement de charité. Cela est d'un ordre infiniment plus élevé. » (Blaise Pascal / JLG)"
+                }
+              ],
+              "duree": 10,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            },
+            {
+              "idFilm": 74022,
+              "titre": "Éloge de l'amour",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1999,
+              "pays": "Suisse-France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Tout s'accomplit en 2 jours par des conversations des uns avec les autres. La vraie question est de savoir si une superproduction américaine a le droit de s'emparer des légendes des autres. » (JLG, 2001)"
+                }
+              ],
+              "generique": [
+                "Bruno Putzulu",
+                "Cécile Camp",
+                "Jean Davy"
+              ],
+              "duree": 94,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-17T16:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2178,
+          "idEvenement": 21629,
+          "films": [
+            {
+              "idFilm": 143012,
+              "titre": "Adieu au TNS",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1996,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Acceptez la complainte d'un voyageur / Qui poursuivit une princesse / Dans un théâtre / Ah quel malheur » (JLG, 1996)"
+                }
+              ],
+              "generique": [
+                "Jean-Luc Godard"
+              ],
+              "duree": 7,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 59925,
+              "titre": "For Ever Mozart",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1995,
+              "pays": "France-Suisse",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Quatre films qui n'en font pas forcément un, tels les murs seuls d'une maison. Théâtre. _On ne pas badine pas avec l'amour_ à Sarajevo. Le film de l'intranquillité. For Ever Mozart. » (JLG, 1996)"
+                }
+              ],
+              "generique": [
+                "Madeleine Assas",
+                "Ghalia Lacroix",
+                "Bérangère Allaux"
+              ],
+              "duree": 80,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-14T21:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2178,
+          "idEvenement": 21623,
+          "films": [
+            {
+              "idFilm": 103422,
+              "titre": "Je vous salue, Sarajevo",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1993,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Il y a la culture, qui est de la règle, il y a l'exception, qui est de l'art. » (JLG)"
+                }
+              ],
+              "generique": [
+                "Jean-Luc Godard"
+              ],
+              "duree": 2,
+              "format": "Vidéo",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 76849,
+              "titre": "Enfants jouent à la Russie",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1993,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« bienvenue / camarade Medvedkin / camarade Paradjanov / entrez / camarade Tarkovsky /bienvenue, entrez / les icônes / la métamorphose / la fiction » (JLG, 1993)"
+                }
+              ],
+              "generique": [
+                "László Szabó",
+                "Jean-Luc Godard",
+                "Bernard Eisenschitz",
+                "André S. Labarthe"
+              ],
+              "duree": 58,
+              "format": "Vidéo",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            },
+            {
+              "idFilm": 59818,
+              "titre": "JLG/JLG, autoportrait de décembre",
+              "realisateurs": "Jean-Luc Godard",
+              "annee": 1994,
+              "pays": "France-Suisse",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« _JLG/JLG_ est un autoportrait, chose qui me semble impensable à faire au cinéma, mais le cinéma est fait pour penser l'impensable, donc je me suis dévoué. » (JLG, 1995)"
+                }
+              ],
+              "generique": [
+                "Jean-Luc Godard"
+              ],
+              "duree": 55,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-08T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -5356,6 +4929,7 @@
     {
       "titreSousCycle": "Rencontres et conférences",
       "tri": 4,
+      "textes": [],
       "items": [
         {
           "idCategorie": 2139,
@@ -5530,12 +5104,13 @@
                   "texte": "Nicole Brenez est professeur à l'université Sorbonne-Nouvelle, directrice du Département analyse et culture à la Fémis, et programme les séances d'avant-garde de la Cinémathèque française. Parmi ses livres : _De la Figure en général et du corps en particulier : l'invention figurative au cinéma_, _Cinémas d'avant-garde, mode d'emploi_, _Jean-Luc Godard, théoricien des images_. Elle a codirigé l'ouvrage _Jean-Luc Godard : Documents_ et a contribué au _Livre d'image_."
                 }
               ],
-              "duree": 60
+              "duree": 60,
+              "ordre": 6
             }
           ],
           "seance": [
             {
-              "dateHeure": "2020-03-01T16:30:00",
+              "dateHeure": "2020-03-01T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"

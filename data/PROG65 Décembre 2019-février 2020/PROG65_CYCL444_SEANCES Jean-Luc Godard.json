@@ -2,7 +2,7 @@
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 21447,
+    "idEvenement": 21567,
     "idSeance": 32361,
     "dateHeure": "2020-01-08T20:00:00",
     "idSalle": [
@@ -30,25 +30,14 @@
         "version": "",
         "format": "DCP",
         "valide": 0
-      },
-      {
-        "idFilm": 142852,
-        "ordre": 3,
-        "idSeance": 32361,
-        "idCopie": 19874,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
       }
     ],
-    "titreEvenement": "Programme 5",
     "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19944,
+    "idEvenement": 21580,
     "idSeance": 32369,
     "dateHeure": "2020-01-09T19:00:00",
     "idSalle": [
@@ -59,18 +48,8 @@
     "typeAssoc": 117,
     "items": [
       {
-        "idFilm": 142861,
-        "ordre": 1,
-        "idSeance": 32369,
-        "idCopie": 19892,
-        "duree": 1,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48860,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32369,
         "idCopie": 7614,
         "duree": 111,
@@ -78,8 +57,7 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 13"
+    ]
   },
   {
     "idCategorie": 2139,
@@ -112,10 +90,10 @@
         "idFilm": 48847,
         "ordre": 1,
         "idSeance": 32802,
-        "idCopie": 19359,
+        "idCopie": 20192,
         "duree": 20,
         "version": "",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       },
       {
@@ -164,7 +142,7 @@
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19845,
+    "idEvenement": 21559,
     "idSeance": 32803,
     "dateHeure": "2020-01-10T19:00:00",
     "idSalle": [
@@ -173,12 +151,8 @@
     ],
     "items": [
       {
-        "idFilm": 143004,
-        "ordre": 1
-      },
-      {
         "idFilm": 48837,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32803,
         "idCopie": 3347,
         "duree": 90,
@@ -186,13 +160,12 @@
         "format": "DCP",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 2"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19942,
+    "idEvenement": 21561,
     "idSeance": 32804,
     "dateHeure": "2020-01-10T21:00:00",
     "idSalle": [
@@ -201,18 +174,8 @@
     ],
     "items": [
       {
-        "idFilm": 142851,
-        "ordre": 1,
-        "idSeance": 32804,
-        "idCopie": 19875,
-        "duree": 1,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48859,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32804,
         "idCopie": 12277,
         "duree": 88,
@@ -221,13 +184,12 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 3",
     "mention": "Séance présentée par Jean Narboni"
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 20363,
+    "idEvenement": 21564,
     "idSeance": 32380,
     "dateHeure": "2020-01-11T14:30:00",
     "idSalle": [
@@ -246,18 +208,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142850,
-        "ordre": 2,
-        "idSeance": 32380,
-        "idCopie": 20042,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48870,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32380,
         "idCopie": 1045,
         "duree": 88,
@@ -265,13 +217,12 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 4"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19855,
+    "idEvenement": 21569,
     "idSeance": 32381,
     "dateHeure": "2020-01-11T16:45:00",
     "idSalle": [
@@ -290,18 +241,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142853,
-        "ordre": 2,
-        "idSeance": 32381,
-        "idCopie": 19879,
-        "duree": 2,
-        "version": "VF",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48841,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32381,
         "idCopie": 19748,
         "duree": 80,
@@ -309,13 +250,12 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 6"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19852,
+    "idEvenement": 21572,
     "idSeance": 32382,
     "dateHeure": "2020-01-11T19:00:00",
     "idSalle": [
@@ -324,62 +264,41 @@
     ],
     "items": [
       {
-        "idFilm": 48838,
-        "ordre": 1,
-        "idSeance": 32382,
-        "idCopie": 2410,
-        "duree": 95,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
-        "idFilm": 142856,
-        "ordre": 2,
-        "idSeance": 32382,
-        "idCopie": 19819,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48861,
-        "ordre": 3,
+        "ordre": 1,
         "idSeance": 32382,
         "idCopie": 19366,
         "duree": 25,
         "version": "",
         "format": "35 mm",
         "valide": 0
+      },
+      {
+        "idFilm": 48838,
+        "ordre": 2,
+        "idSeance": 32382,
+        "idCopie": 2410,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 9"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 20259,
+    "idEvenement": 21576,
     "idSeance": 32425,
-    "dateHeure": "2020-01-12T18:45:00",
+    "dateHeure": "2020-01-12T18:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "items": [
       {
-        "idFilm": 142854,
-        "ordre": 1,
-        "idSeance": 32425,
-        "idCopie": 19890,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48849,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32425,
         "idCopie": 19361,
         "duree": 18,
@@ -389,7 +308,7 @@
       },
       {
         "idFilm": 48871,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32425,
         "idCopie": 19397,
         "duree": 95,
@@ -398,15 +317,14 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 11",
     "mention": "Séance présentée par Macha Méril"
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19848,
+    "idEvenement": 21578,
     "idSeance": 32390,
-    "dateHeure": "2020-01-12T21:30:00",
+    "dateHeure": "2020-01-12T21:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -421,50 +339,15 @@
         "version": "",
         "format": "DCP",
         "valide": 0
-      },
-      {
-        "idFilm": 142857,
-        "ordre": 2,
-        "idSeance": 32390,
-        "idCopie": 19896,
-        "duree": 1,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 12"
-  },
-  {
-    "idCategorie": 2173,
-    "typeEvenement": 13,
-    "idEvenement": 21323,
-    "idSeance": 32817,
-    "dateHeure": "2020-01-15T19:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 143005,
-        "ordre": 1,
-        "idSeance": 32817,
-        "idCopie": 19947,
-        "duree": 133,
-        "version": "",
-        "format": "",
-        "valide": 0
-      }
-    ],
-    "titreEvenement": "Programme 10"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
     "idEvenement": 21257,
     "idSeance": 32407,
-    "dateHeure": "2020-01-15T21:45:00",
+    "dateHeure": "2020-01-15T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -505,9 +388,33 @@
     "mention": "Séance présentée par Jean-François Rauger"
   },
   {
+    "idCategorie": 2173,
+    "typeEvenement": 13,
+    "idEvenement": 21323,
+    "idSeance": 32817,
+    "dateHeure": "2020-01-15T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 143005,
+        "ordre": 1,
+        "idSeance": 32817,
+        "idCopie": 19947,
+        "duree": 133,
+        "version": "",
+        "format": "",
+        "valide": 1
+      }
+    ],
+    "titreEvenement": "Programme 10"
+  },
+  {
     "idCategorie": 2174,
     "typeEvenement": 13,
-    "idEvenement": 20257,
+    "idEvenement": 21597,
     "idSeance": 32412,
     "dateHeure": "2020-01-16T19:30:00",
     "idSalle": [
@@ -518,22 +425,12 @@
     "typeAssoc": 117,
     "items": [
       {
-        "idFilm": 142865,
-        "ordre": 1,
-        "idSeance": 32412,
-        "idCopie": 19900,
-        "duree": 5,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 143011,
-        "ordre": 2
+        "ordre": 1
       },
       {
         "idFilm": 48839,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32412,
         "idCopie": 19392,
         "duree": 95,
@@ -541,8 +438,7 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 28"
+    ]
   },
   {
     "idCategorie": 2139,
@@ -563,7 +459,7 @@
   {
     "idCategorie": 2175,
     "typeEvenement": 13,
-    "idEvenement": 19918,
+    "idEvenement": 21582,
     "idSeance": 32419,
     "dateHeure": "2020-01-17T19:00:00",
     "idSalle": [
@@ -572,18 +468,8 @@
     ],
     "items": [
       {
-        "idFilm": 142868,
-        "ordre": 1,
-        "idSeance": 32419,
-        "idCopie": 19893,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48812,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32419,
         "idCopie": 939,
         "duree": 110,
@@ -592,33 +478,22 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 14",
     "mention": "Séance présentée par Jean-Pierre Léaud"
   },
   {
     "idCategorie": 2175,
     "typeEvenement": 13,
-    "idEvenement": 19917,
+    "idEvenement": 21584,
     "idSeance": 32433,
-    "dateHeure": "2020-01-17T21:45:00",
+    "dateHeure": "2020-01-17T21:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "items": [
       {
-        "idFilm": 142863,
-        "ordre": 1,
-        "idSeance": 32433,
-        "idCopie": 19894,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48845,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32433,
         "idCopie": 19588,
         "duree": 90,
@@ -626,8 +501,7 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 15"
+    ]
   },
   {
     "idCategorie": 2174,
@@ -676,7 +550,7 @@
   {
     "idCategorie": 2175,
     "typeEvenement": 13,
-    "idEvenement": 19874,
+    "idEvenement": 21586,
     "idSeance": 32434,
     "dateHeure": "2020-01-18T19:00:00",
     "idSalle": [
@@ -685,18 +559,8 @@
     ],
     "items": [
       {
-        "idFilm": 142869,
-        "ordre": 1,
-        "idSeance": 32434,
-        "idCopie": 19895,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48844,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32434,
         "idCopie": 13951,
         "duree": 90,
@@ -705,13 +569,12 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 16",
     "mention": "Séance présentée par Marina Vlady"
   },
   {
     "idCategorie": 2174,
     "typeEvenement": 13,
-    "idEvenement": 20353,
+    "idEvenement": 21593,
     "idSeance": 32462,
     "dateHeure": "2020-01-18T21:15:00",
     "idSalle": [
@@ -730,18 +593,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142862,
-        "ordre": 2,
-        "idSeance": 32462,
-        "idCopie": 19899,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48874,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32462,
         "idCopie": 14752,
         "duree": 95,
@@ -749,13 +602,12 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 19"
+    ]
   },
   {
     "idCategorie": 2174,
     "typeEvenement": 13,
-    "idEvenement": 19860,
+    "idEvenement": 21588,
     "idSeance": 32461,
     "dateHeure": "2020-01-19T19:30:00",
     "idSalle": [
@@ -784,18 +636,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142858,
-        "ordre": 3,
-        "idSeance": 32461,
-        "idCopie": 19898,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48842,
-        "ordre": 4,
+        "ordre": 3,
         "idSeance": 32461,
         "idCopie": 4537,
         "duree": 99,
@@ -803,13 +645,12 @@
         "format": "DCP",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 18"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19921,
+    "idEvenement": 21643,
     "idSeance": 32794,
     "dateHeure": "2020-01-22T19:30:00",
     "idSalle": [
@@ -826,19 +667,8 @@
         "version": "",
         "format": "35 mm",
         "valide": 0
-      },
-      {
-        "idFilm": 142855,
-        "ordre": 2,
-        "idSeance": 32794,
-        "idCopie": 19882,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 7"
+    ]
   },
   {
     "idCategorie": 2178,
@@ -895,7 +725,7 @@
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 21447,
+    "idEvenement": 21567,
     "idSeance": 32470,
     "dateHeure": "2020-01-24T15:00:00",
     "idSalle": [
@@ -922,19 +752,8 @@
         "version": "",
         "format": "DCP",
         "valide": 0
-      },
-      {
-        "idFilm": 142852,
-        "ordre": 3,
-        "idSeance": 32470,
-        "idCopie": 19874,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 5"
+    ]
   },
   {
     "idCategorie": 2174,
@@ -989,7 +808,7 @@
         "duree": 60,
         "version": "",
         "format": "Numérique",
-        "valide": 0
+        "valide": 1
       }
     ],
     "titreEvenement": "Programme 17"
@@ -1058,7 +877,7 @@
     "typeEvenement": 13,
     "idEvenement": 20253,
     "idSeance": 32481,
-    "dateHeure": "2020-01-26T17:00:00",
+    "dateHeure": "2020-01-26T17:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1092,7 +911,7 @@
     "typeEvenement": 13,
     "idEvenement": 20293,
     "idSeance": 32824,
-    "dateHeure": "2020-01-26T19:30:00",
+    "dateHeure": "2020-01-26T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1116,7 +935,7 @@
     "typeEvenement": 13,
     "idEvenement": 20230,
     "idSeance": 32484,
-    "dateHeure": "2020-01-26T21:45:00",
+    "dateHeure": "2020-01-26T22:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1231,7 +1050,7 @@
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 19958,
+    "idEvenement": 21602,
     "idSeance": 32826,
     "dateHeure": "2020-01-29T21:30:00",
     "idSalle": [
@@ -1250,18 +1069,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142870,
-        "ordre": 2,
-        "idSeance": 32826,
-        "idCopie": 19901,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 79609,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32826,
         "idCopie": 19385,
         "duree": 21,
@@ -1270,13 +1079,12 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 41",
     "mention": "Séance présentée par Nathalie Baye"
   },
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 19927,
+    "idEvenement": 21617,
     "idSeance": 32498,
     "dateHeure": "2020-01-30T19:30:00",
     "idSalle": [
@@ -1307,18 +1115,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142871,
-        "ordre": 3,
-        "idSeance": 32498,
-        "idCopie": 19915,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 39240,
-        "ordre": 4,
+        "ordre": 3,
         "idSeance": 32498,
         "idCopie": 19355,
         "duree": 89,
@@ -1326,8 +1124,7 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 55"
+    ]
   },
   {
     "idCategorie": 2139,
@@ -1348,7 +1145,7 @@
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 20283,
+    "idEvenement": 21607,
     "idSeance": 32827,
     "dateHeure": "2020-01-31T19:00:00",
     "idSalle": [
@@ -1377,18 +1174,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142866,
-        "ordre": 3,
-        "idSeance": 32827,
-        "idCopie": 19902,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48850,
-        "ordre": 4,
+        "ordre": 3,
         "idSeance": 32827,
         "idCopie": 2182,
         "duree": 87,
@@ -1397,13 +1184,12 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 42",
     "mention": "Séance présentée par Isabelle Huppert (sous réserve)"
   },
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 21396,
+    "idEvenement": 21609,
     "idSeance": 32828,
     "dateHeure": "2020-01-31T21:30:00",
     "idSalle": [
@@ -1412,18 +1198,8 @@
     ],
     "items": [
       {
-        "idFilm": 142873,
-        "ordre": 1,
-        "idSeance": 32828,
-        "idCopie": 19903,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48864,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32828,
         "idCopie": 13571,
         "duree": 83,
@@ -1432,7 +1208,6 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 44",
     "mention": "Séance présentée par Maruschka Detmers (sous réserve) et Jacques Bonnaffé"
   },
   {
@@ -1507,7 +1282,7 @@
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 19902,
+    "idEvenement": 21611,
     "idSeance": 32576,
     "dateHeure": "2020-02-06T16:30:00",
     "idSalle": [
@@ -1526,18 +1301,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142874,
-        "ordre": 2,
-        "idSeance": 32576,
-        "idCopie": 19830,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 54038,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32576,
         "idCopie": 19343,
         "duree": 78,
@@ -1545,8 +1310,7 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 45"
+    ]
   },
   {
     "idCategorie": 2177,
@@ -1577,7 +1341,7 @@
         "duree": 10,
         "version": "",
         "format": "Numérique",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143015,
@@ -1605,7 +1369,7 @@
   {
     "idCategorie": 2178,
     "typeEvenement": 13,
-    "idEvenement": 19878,
+    "idEvenement": 21623,
     "idSeance": 32597,
     "dateHeure": "2020-02-08T14:30:00",
     "idSalle": [
@@ -1616,18 +1380,8 @@
     "typeAssoc": 117,
     "items": [
       {
-        "idFilm": 142875,
-        "ordre": 1,
-        "idSeance": 32597,
-        "idCopie": 19920,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 103422,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32597,
         "idCopie": 19344,
         "duree": 2,
@@ -1637,7 +1391,7 @@
       },
       {
         "idFilm": 76849,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32597,
         "idCopie": 19406,
         "duree": 58,
@@ -1647,7 +1401,7 @@
       },
       {
         "idFilm": 59818,
-        "ordre": 4,
+        "ordre": 3,
         "idSeance": 32597,
         "idCopie": 19345,
         "duree": 55,
@@ -1655,8 +1409,7 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 58"
+    ]
   },
   {
     "idCategorie": 2139,
@@ -1693,7 +1446,7 @@
         "duree": 4,
         "version": "",
         "format": "Numérique",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143130,
@@ -1849,8 +1602,8 @@
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 21296,
-    "idSeance": 32939,
+    "idEvenement": 19907,
+    "idSeance": 33026,
     "dateHeure": "2020-02-09T19:00:00",
     "idSalle": [
       "HL",
@@ -1860,20 +1613,20 @@
       {
         "idFilm": 56813,
         "ordre": 1,
-        "idSeance": 32939,
-        "idCopie": 19914,
+        "idSeance": 33026,
+        "idCopie": 19346,
         "duree": 90,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 52"
+    "titreEvenement": "Programme 51"
   },
   {
     "idCategorie": 2178,
     "typeEvenement": 13,
-    "idEvenement": 20290,
+    "idEvenement": 21635,
     "idSeance": 32856,
     "dateHeure": "2020-02-09T21:00:00",
     "idSalle": [
@@ -1892,18 +1645,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142860,
-        "ordre": 2,
-        "idSeance": 32856,
-        "idCopie": 19928,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 90885,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32856,
         "idCopie": 19354,
         "duree": 80,
@@ -1912,14 +1655,13 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 65",
     "mention": "Séance présentée par Julien Hirsch"
   },
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 19907,
-    "idSeance": 32568,
+    "idEvenement": 21296,
+    "idSeance": 33027,
     "dateHeure": "2020-02-10T14:30:00",
     "idSalle": [
       "HL",
@@ -1929,15 +1671,15 @@
       {
         "idFilm": 56813,
         "ordre": 1,
-        "idSeance": 32568,
-        "idCopie": 19346,
+        "idSeance": 33027,
+        "idCopie": 19914,
         "duree": 90,
-        "version": "VOSTF",
-        "format": "35 mm",
+        "version": "",
+        "format": "",
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 51"
+    "titreEvenement": "Programme 52"
   },
   {
     "idCategorie": 2177,
@@ -2000,7 +1742,7 @@
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 21087,
+    "idEvenement": 21615,
     "idSeance": 32880,
     "dateHeure": "2020-02-13T21:30:00",
     "idSalle": [
@@ -2016,30 +1758,19 @@
         "duree": 12,
         "version": "",
         "format": "35 mm",
-        "valide": 0
-      },
-      {
-        "idFilm": 142872,
-        "ordre": 2,
-        "idSeance": 32880,
-        "idCopie": 19913,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 48867,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32880,
-        "idCopie": 1309,
+        "idCopie": 2548,
         "duree": 81,
         "version": "",
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 50"
+    ]
   },
   {
     "idCategorie": 2177,
@@ -2094,7 +1825,7 @@
         "duree": 8,
         "version": "",
         "format": "Numérique",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 67946,
@@ -2120,7 +1851,7 @@
         "idFilm": 57068,
         "ordre": 4,
         "idSeance": 32605,
-        "idCopie": 19311,
+        "idCopie": 19312,
         "duree": 62,
         "version": "VOSTF",
         "format": "35 mm",
@@ -2132,7 +1863,7 @@
   {
     "idCategorie": 2178,
     "typeEvenement": 13,
-    "idEvenement": 21333,
+    "idEvenement": 21629,
     "idSeance": 32854,
     "dateHeure": "2020-02-14T21:00:00",
     "idSalle": [
@@ -2141,18 +1872,8 @@
     ],
     "items": [
       {
-        "idFilm": 142877,
-        "ordre": 1,
-        "idSeance": 32854,
-        "idCopie": 19925,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 143012,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32854,
         "idCopie": 19961,
         "duree": 7,
@@ -2162,7 +1883,7 @@
       },
       {
         "idFilm": 59925,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32854,
         "idCopie": 19330,
         "duree": 80,
@@ -2170,8 +1891,7 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 60"
+    ]
   },
   {
     "idCategorie": 2176,
@@ -2382,10 +2102,53 @@
         "duree": 17,
         "version": "",
         "format": "Numérique",
-        "valide": 1
+        "valide": 0
       }
     ],
     "titreEvenement": "Programme 37"
+  },
+  {
+    "idCategorie": 2178,
+    "typeEvenement": 13,
+    "idEvenement": 21630,
+    "idSeance": 33034,
+    "dateHeure": "2020-02-17T16:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 77379,
+        "ordre": 1,
+        "idSeance": 33034,
+        "idCopie": 19360,
+        "duree": 13,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 79181,
+        "ordre": 2,
+        "idSeance": 33034,
+        "idCopie": 19322,
+        "duree": 10,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 74022,
+        "ordre": 3,
+        "idSeance": 33034,
+        "idCopie": 19325,
+        "duree": 94,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCategorie": 2177,
@@ -2399,24 +2162,24 @@
     ],
     "items": [
       {
-        "idFilm": 143099,
-        "ordre": 1,
-        "idSeance": 32836,
-        "idCopie": 20039,
-        "duree": 62,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
         "idFilm": 141457,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32836,
         "idCopie": 19904,
         "duree": 75,
         "version": "",
         "format": "Numérique",
         "valide": 0
+      },
+      {
+        "idFilm": 143099,
+        "ordre": 2,
+        "idSeance": 32836,
+        "idCopie": 20039,
+        "duree": 62,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
       }
     ],
     "titreEvenement": "Programme 46"
@@ -2494,7 +2257,7 @@
         "duree": 12,
         "version": "",
         "format": "Numérique",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 142345,
@@ -2512,7 +2275,7 @@
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19845,
+    "idEvenement": 21559,
     "idSeance": 32882,
     "dateHeure": "2020-02-19T17:30:00",
     "idSalle": [
@@ -2521,12 +2284,8 @@
     ],
     "items": [
       {
-        "idFilm": 143004,
-        "ordre": 1
-      },
-      {
         "idFilm": 48837,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32882,
         "idCopie": 3347,
         "duree": 90,
@@ -2534,13 +2293,12 @@
         "format": "DCP",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 2"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19942,
+    "idEvenement": 21561,
     "idSeance": 32625,
     "dateHeure": "2020-02-20T14:30:00",
     "idSalle": [
@@ -2549,18 +2307,8 @@
     ],
     "items": [
       {
-        "idFilm": 142851,
-        "ordre": 1,
-        "idSeance": 32625,
-        "idCopie": 19875,
-        "duree": 1,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48859,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32625,
         "idCopie": 12277,
         "duree": 88,
@@ -2568,13 +2316,12 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 3"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 20363,
+    "idEvenement": 21564,
     "idSeance": 32860,
     "dateHeure": "2020-02-20T17:00:00",
     "idSalle": [
@@ -2593,18 +2340,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142850,
-        "ordre": 2,
-        "idSeance": 32860,
-        "idCopie": 20042,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48870,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32860,
         "idCopie": 1045,
         "duree": 88,
@@ -2612,13 +2349,12 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 4"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 21447,
+    "idEvenement": 21567,
     "idSeance": 32628,
     "dateHeure": "2020-02-20T19:30:00",
     "idSalle": [
@@ -2645,19 +2381,8 @@
         "version": "",
         "format": "DCP",
         "valide": 0
-      },
-      {
-        "idFilm": 142852,
-        "ordre": 3,
-        "idSeance": 32628,
-        "idCopie": 19874,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 5"
+    ]
   },
   {
     "idCategorie": 2178,
@@ -2692,7 +2417,13 @@
       },
       {
         "idFilm": 143021,
-        "ordre": 3
+        "ordre": 3,
+        "idSeance": 32627,
+        "idCopie": 20193,
+        "duree": 4,
+        "version": "",
+        "format": "",
+        "valide": 0
       },
       {
         "idFilm": 110985,
@@ -2710,7 +2441,7 @@
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19855,
+    "idEvenement": 21569,
     "idSeance": 32631,
     "dateHeure": "2020-02-21T14:15:00",
     "idSalle": [
@@ -2729,18 +2460,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142853,
-        "ordre": 2,
-        "idSeance": 32631,
-        "idCopie": 19879,
-        "duree": 2,
-        "version": "VF",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48841,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32631,
         "idCopie": 19748,
         "duree": 80,
@@ -2748,13 +2469,12 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 6"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19921,
+    "idEvenement": 21643,
     "idSeance": 32861,
     "dateHeure": "2020-02-21T16:30:00",
     "idSalle": [
@@ -2771,19 +2491,8 @@
         "version": "",
         "format": "35 mm",
         "valide": 0
-      },
-      {
-        "idFilm": 142855,
-        "ordre": 2,
-        "idSeance": 32861,
-        "idCopie": 19882,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 7"
+    ]
   },
   {
     "idCategorie": 2178,
@@ -3102,10 +2811,10 @@
         "idFilm": 48847,
         "ordre": 1,
         "idSeance": 32921,
-        "idCopie": 19359,
+        "idCopie": 20192,
         "duree": 20,
         "version": "",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       },
       {
@@ -3198,7 +2907,7 @@
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19852,
+    "idEvenement": 21572,
     "idSeance": 32649,
     "dateHeure": "2020-02-23T20:30:00",
     "idSalle": [
@@ -3207,42 +2916,31 @@
     ],
     "items": [
       {
-        "idFilm": 48838,
-        "ordre": 1,
-        "idSeance": 32649,
-        "idCopie": 2410,
-        "duree": 95,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
-        "idFilm": 142856,
-        "ordre": 2,
-        "idSeance": 32649,
-        "idCopie": 19819,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48861,
-        "ordre": 3,
+        "ordre": 1,
         "idSeance": 32649,
         "idCopie": 19366,
         "duree": 25,
         "version": "",
         "format": "35 mm",
         "valide": 0
+      },
+      {
+        "idFilm": 48838,
+        "ordre": 2,
+        "idSeance": 32649,
+        "idCopie": 2410,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 9"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 20259,
+    "idEvenement": 21576,
     "idSeance": 32654,
     "dateHeure": "2020-02-24T14:30:00",
     "idSalle": [
@@ -3251,18 +2949,8 @@
     ],
     "items": [
       {
-        "idFilm": 142854,
-        "ordre": 1,
-        "idSeance": 32654,
-        "idCopie": 19890,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48849,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32654,
         "idCopie": 19361,
         "duree": 18,
@@ -3272,7 +2960,7 @@
       },
       {
         "idFilm": 48871,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32654,
         "idCopie": 19397,
         "duree": 95,
@@ -3280,13 +2968,12 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 11"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19848,
+    "idEvenement": 21578,
     "idSeance": 32885,
     "dateHeure": "2020-02-24T17:00:00",
     "idSalle": [
@@ -3303,24 +2990,13 @@
         "version": "",
         "format": "DCP",
         "valide": 0
-      },
-      {
-        "idFilm": 142857,
-        "ordre": 2,
-        "idSeance": 32885,
-        "idCopie": 19896,
-        "duree": 1,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 12"
+    ]
   },
   {
     "idCategorie": 2173,
     "typeEvenement": 13,
-    "idEvenement": 19944,
+    "idEvenement": 21580,
     "idSeance": 32886,
     "dateHeure": "2020-02-26T17:00:00",
     "idSalle": [
@@ -3329,18 +3005,8 @@
     ],
     "items": [
       {
-        "idFilm": 142861,
-        "ordre": 1,
-        "idSeance": 32886,
-        "idCopie": 19892,
-        "duree": 1,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48860,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32886,
         "idCopie": 7614,
         "duree": 111,
@@ -3348,13 +3014,12 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 13"
+    ]
   },
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 19891,
+    "idEvenement": 21621,
     "idSeance": 32661,
     "dateHeure": "2020-02-26T19:30:00",
     "idSalle": [
@@ -3363,18 +3028,8 @@
     ],
     "items": [
       {
-        "idFilm": 142876,
-        "ordre": 1,
-        "idSeance": 32661,
-        "idCopie": 19916,
-        "duree": 1,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 52163,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32661,
         "idCopie": 19342,
         "duree": 84,
@@ -3383,13 +3038,12 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 57",
     "mention": "Séance présentée par Caroline Champetier"
   },
   {
     "idCategorie": 2175,
     "typeEvenement": 13,
-    "idEvenement": 19918,
+    "idEvenement": 21582,
     "idSeance": 32668,
     "dateHeure": "2020-02-27T14:30:00",
     "idSalle": [
@@ -3398,18 +3052,8 @@
     ],
     "items": [
       {
-        "idFilm": 142868,
-        "ordre": 1,
-        "idSeance": 32668,
-        "idCopie": 19893,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48812,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32668,
         "idCopie": 939,
         "duree": 110,
@@ -3417,13 +3061,12 @@
         "format": "DCP",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 14"
+    ]
   },
   {
     "idCategorie": 2175,
     "typeEvenement": 13,
-    "idEvenement": 19917,
+    "idEvenement": 21584,
     "idSeance": 32670,
     "dateHeure": "2020-02-27T17:00:00",
     "idSalle": [
@@ -3432,18 +3075,8 @@
     ],
     "items": [
       {
-        "idFilm": 142863,
-        "ordre": 1,
-        "idSeance": 32670,
-        "idCopie": 19894,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
         "idFilm": 48845,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32670,
         "idCopie": 19588,
         "duree": 90,
@@ -3451,13 +3084,12 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 15"
+    ]
   },
   {
     "idCategorie": 2175,
     "typeEvenement": 13,
-    "idEvenement": 19874,
+    "idEvenement": 21586,
     "idSeance": 32669,
     "dateHeure": "2020-02-27T19:00:00",
     "idSalle": [
@@ -3466,18 +3098,8 @@
     ],
     "items": [
       {
-        "idFilm": 142869,
-        "ordre": 1,
-        "idSeance": 32669,
-        "idCopie": 19895,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48844,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32669,
         "idCopie": 13951,
         "duree": 90,
@@ -3486,13 +3108,12 @@
         "valide": 0
       }
     ],
-    "titreEvenement": "Programme 16",
     "mention": "Séance présentée par Jean Narboni"
   },
   {
     "idCategorie": 2174,
     "typeEvenement": 13,
-    "idEvenement": 19860,
+    "idEvenement": 21588,
     "idSeance": 32671,
     "dateHeure": "2020-02-27T21:30:00",
     "idSalle": [
@@ -3521,18 +3142,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142858,
-        "ordre": 3,
-        "idSeance": 32671,
-        "idCopie": 19898,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48842,
-        "ordre": 4,
+        "ordre": 3,
         "idSeance": 32671,
         "idCopie": 4537,
         "duree": 99,
@@ -3540,13 +3151,12 @@
         "format": "DCP",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 18"
+    ]
   },
   {
     "idCategorie": 2174,
     "typeEvenement": 13,
-    "idEvenement": 20353,
+    "idEvenement": 21593,
     "idSeance": 32674,
     "dateHeure": "2020-02-28T14:30:00",
     "idSalle": [
@@ -3565,18 +3175,8 @@
         "valide": 0
       },
       {
-        "idFilm": 142862,
-        "ordre": 2,
-        "idSeance": 32674,
-        "idCopie": 19899,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 48874,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32674,
         "idCopie": 14752,
         "duree": 95,
@@ -3584,8 +3184,7 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 19"
+    ]
   },
   {
     "idCategorie": 2174,
@@ -3614,7 +3213,7 @@
   {
     "idCategorie": 2174,
     "typeEvenement": 13,
-    "idEvenement": 20257,
+    "idEvenement": 21597,
     "idSeance": 32676,
     "dateHeure": "2020-02-28T19:30:00",
     "idSalle": [
@@ -3623,22 +3222,12 @@
     ],
     "items": [
       {
-        "idFilm": 142865,
-        "ordre": 1,
-        "idSeance": 32676,
-        "idCopie": 19900,
-        "duree": 5,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 143011,
-        "ordre": 2
+        "ordre": 1
       },
       {
         "idFilm": 48839,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 32676,
         "idCopie": 19392,
         "duree": 95,
@@ -3646,8 +3235,7 @@
         "format": "35 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 28"
+    ]
   },
   {
     "idCategorie": 2176,
@@ -3676,233 +3264,9 @@
   {
     "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 19958,
-    "idSeance": 32869,
-    "dateHeure": "2020-02-29T17:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 48865,
-        "ordre": 1,
-        "idSeance": 32869,
-        "idCopie": 19579,
-        "duree": 87,
-        "version": "",
-        "format": "DCP",
-        "valide": 0
-      },
-      {
-        "idFilm": 142870,
-        "ordre": 2,
-        "idSeance": 32869,
-        "idCopie": 19901,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 79609,
-        "ordre": 3,
-        "idSeance": 32869,
-        "idCopie": 19385,
-        "duree": 21,
-        "version": "STF",
-        "format": "Numérique",
-        "valide": 0
-      }
-    ],
-    "titreEvenement": "Programme 41"
-  },
-  {
-    "idCategorie": 2177,
-    "typeEvenement": 13,
-    "idEvenement": 20283,
-    "idSeance": 32870,
-    "dateHeure": "2020-02-29T19:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 142346,
-        "ordre": 1,
-        "idSeance": 32870,
-        "idCopie": 19394,
-        "duree": 0,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
-        "idFilm": 53158,
-        "ordre": 2,
-        "idSeance": 32870,
-        "idCopie": 19348,
-        "duree": 11,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
-        "idFilm": 142866,
-        "ordre": 3,
-        "idSeance": 32870,
-        "idCopie": 19902,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 48850,
-        "ordre": 4,
-        "idSeance": 32870,
-        "idCopie": 2182,
-        "duree": 87,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ],
-    "titreEvenement": "Programme 42"
-  },
-  {
-    "idCategorie": 2177,
-    "typeEvenement": 13,
-    "idEvenement": 21396,
-    "idSeance": 32871,
-    "dateHeure": "2020-02-29T21:15:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 142873,
-        "ordre": 1,
-        "idSeance": 32871,
-        "idCopie": 19903,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 48864,
-        "ordre": 2,
-        "idSeance": 32871,
-        "idCopie": 13571,
-        "duree": 83,
-        "version": "VO",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ],
-    "titreEvenement": "Programme 44"
-  },
-  {
-    "idCategorie": 2178,
-    "typeEvenement": 13,
-    "idEvenement": 21312,
-    "idSeance": 32689,
-    "dateHeure": "2020-03-01T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "idSeanceAssoc": 32690,
-    "typeAssoc": 117,
-    "items": [
-      {
-        "idFilm": 143026,
-        "ordre": 1,
-        "idSeance": 32689,
-        "idCopie": 19970,
-        "duree": 5,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
-        "idFilm": 142859,
-        "ordre": 2,
-        "idSeance": 32689,
-        "idCopie": 19932,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 143027,
-        "ordre": 3,
-        "idSeance": 32689,
-        "idCopie": 19971,
-        "duree": 1,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
-        "idFilm": 142878,
-        "ordre": 4,
-        "idSeance": 32689,
-        "idCopie": 19818,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 143028,
-        "ordre": 5,
-        "idSeance": 32689,
-        "idCopie": 19969,
-        "duree": 10,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
-        "idFilm": 139247,
-        "ordre": 6,
-        "idSeance": 32689,
-        "idCopie": 19831,
-        "duree": 85,
-        "version": "",
-        "format": "DCP",
-        "valide": 0
-      }
-    ],
-    "titreEvenement": "Programme 71"
-  },
-  {
-    "idCategorie": 2139,
-    "typeEvenement": 14,
-    "idEvenement": 21011,
-    "idSeance": 32690,
-    "dateHeure": "2020-03-01T16:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "idSeanceAssoc": 32689,
-    "typeAssoc": 117,
-    "items": [
-      {}
-    ]
-  },
-  {
-    "idCategorie": 2177,
-    "typeEvenement": 13,
     "idEvenement": 19872,
     "idSeance": 32872,
-    "dateHeure": "2020-03-01T18:00:00",
+    "dateHeure": "2020-02-29T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -3932,145 +3296,183 @@
     "titreEvenement": "Programme 47"
   },
   {
-    "idCategorie": 2178,
+    "idCategorie": 2177,
     "typeEvenement": 13,
-    "idEvenement": 21333,
-    "idSeance": 32948,
-    "dateHeure": "2020-03-01T20:15:00",
+    "idEvenement": 21602,
+    "idSeance": 32869,
+    "dateHeure": "2020-02-29T17:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "items": [
       {
-        "idFilm": 142877,
+        "idFilm": 48865,
         "ordre": 1,
-        "idSeance": 32948,
-        "idCopie": 19925,
+        "idSeance": 32869,
+        "idCopie": 19579,
+        "duree": 87,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 79609,
+        "ordre": 2,
+        "idSeance": 32869,
+        "idCopie": 19385,
+        "duree": 21,
+        "version": "STF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2177,
+    "typeEvenement": 13,
+    "idEvenement": 21607,
+    "idSeance": 32870,
+    "dateHeure": "2020-02-29T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 142346,
+        "ordre": 1,
+        "idSeance": 32870,
+        "idCopie": 19394,
+        "duree": 0,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 53158,
+        "ordre": 2,
+        "idSeance": 32870,
+        "idCopie": 19348,
+        "duree": 11,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 48850,
+        "ordre": 3,
+        "idSeance": 32870,
+        "idCopie": 2182,
+        "duree": 87,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2177,
+    "typeEvenement": 13,
+    "idEvenement": 21609,
+    "idSeance": 32871,
+    "dateHeure": "2020-02-29T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 48864,
+        "ordre": 1,
+        "idSeance": 32871,
+        "idCopie": 13571,
+        "duree": 83,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2178,
+    "typeEvenement": 13,
+    "idEvenement": 21637,
+    "idSeance": 32689,
+    "dateHeure": "2020-03-01T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 143026,
+        "ordre": 1,
+        "idSeance": 32689,
+        "idCopie": 19970,
+        "duree": 5,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 143027,
+        "ordre": 2,
+        "idSeance": 32689,
+        "idCopie": 19971,
+        "duree": 1,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 142878,
+        "ordre": 3,
+        "idSeance": 32689,
+        "idCopie": 19818,
         "duree": 1,
         "version": "",
         "format": "",
         "valide": 0
       },
       {
-        "idFilm": 143012,
-        "ordre": 2,
-        "idSeance": 32948,
-        "idCopie": 19961,
-        "duree": 7,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
-        "idFilm": 59925,
-        "ordre": 3,
-        "idSeance": 32948,
-        "idCopie": 19330,
-        "duree": 80,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ],
-    "titreEvenement": "Programme 60"
-  },
-  {
-    "idCategorie": 2178,
-    "typeEvenement": 13,
-    "idEvenement": 21354,
-    "idSeance": 32950,
-    "dateHeure": "2020-03-02T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 77379,
-        "ordre": 1,
-        "idSeance": 32950,
-        "idCopie": 19360,
-        "duree": 13,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
-        "idFilm": 79181,
-        "ordre": 2,
-        "idSeance": 32950,
-        "idCopie": 19322,
+        "idFilm": 143028,
+        "ordre": 4,
+        "idSeance": 32689,
+        "idCopie": 19969,
         "duree": 10,
         "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
-        "idFilm": 142867,
-        "ordre": 3,
-        "idSeance": 32950,
-        "idCopie": 19822,
-        "duree": 1,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
-        "idFilm": 74022,
-        "ordre": 4,
-        "idSeance": 32950,
-        "idCopie": 19325,
-        "duree": 94,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ],
-    "titreEvenement": "Programme 64"
-  },
-  {
-    "idCategorie": 2178,
-    "typeEvenement": 13,
-    "idEvenement": 20290,
-    "idSeance": 32949,
-    "dateHeure": "2020-03-02T17:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 103421,
-        "ordre": 1,
-        "idSeance": 32949,
-        "idCopie": 19349,
-        "duree": 22,
-        "version": "",
         "format": "Numérique",
         "valide": 0
       },
       {
-        "idFilm": 142860,
-        "ordre": 2,
-        "idSeance": 32949,
-        "idCopie": 19928,
-        "duree": 1,
+        "idFilm": 139247,
+        "ordre": 5,
+        "idSeance": 32689,
+        "idCopie": 19831,
+        "duree": 85,
         "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 90885,
-        "ordre": 3,
-        "idSeance": 32949,
-        "idCopie": 19354,
-        "duree": 80,
-        "version": "",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       }
+    ]
+  },
+  {
+    "idCategorie": 2139,
+    "typeEvenement": 14,
+    "idEvenement": 21011,
+    "idSeance": 32689,
+    "dateHeure": "2020-03-01T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
     ],
-    "titreEvenement": "Programme 65"
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 6
+      }
+    ]
   }
 ]
