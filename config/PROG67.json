@@ -1,0 +1,30 @@
+{
+  "idProg": 67,
+  "titre": "Mars-mai 2020",
+  "dateFrom": "",
+  "dateTo": "",
+  "cycles": [
+    {
+      "idCycleProg": 463,
+      "titreCycle": "Andreï Konchalovski",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2082],
+          "tri": 1
+        }
+      ]
+    },
+    {
+      "idCycleProg": 456,
+      "titreCycle": "Gérard Oury",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2050],
+          "tri": 1
+        }
+      ]
+    }
+  ]
+}

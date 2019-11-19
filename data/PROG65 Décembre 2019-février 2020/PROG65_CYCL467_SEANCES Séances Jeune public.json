@@ -11,8 +11,78 @@
     ],
     "items": [
       {
-        "idFilm": 63804,
+        "idFilm": 65791,
         "ordre": 1
+      },
+      {
+        "idFilm": 143284,
+        "ordre": 2,
+        "idSeance": 32970,
+        "idCopie": 20172,
+        "duree": 9,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 95713,
+        "ordre": 3,
+        "idSeance": 32970,
+        "idCopie": 20169,
+        "duree": 9,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 143269,
+        "ordre": 4,
+        "idSeance": 32970,
+        "idCopie": 20170,
+        "duree": 3,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 132699,
+        "ordre": 5,
+        "idSeance": 32970,
+        "idCopie": 20173,
+        "duree": 8,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 128282,
+        "ordre": 6,
+        "idSeance": 32970,
+        "idCopie": 20174,
+        "duree": 5,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 143285,
+        "ordre": 7,
+        "idSeance": 32970,
+        "idCopie": 20175,
+        "duree": 4,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 123252,
+        "ordre": 8,
+        "idSeance": 32970,
+        "idCopie": 20171,
+        "duree": 13,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -584,20 +654,34 @@
     ],
     "items": [
       {
-        "idFilm": 47696,
-        "ordre": 1
-      },
-      {
         "idFilm": 143065,
-        "ordre": 2
-      },
-      {
-        "idFilm": 111950,
-        "ordre": 3
+        "ordre": 1,
+        "idSeance": 32980,
+        "idCopie": 20176,
+        "duree": 8,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
       },
       {
         "idFilm": 119671,
-        "ordre": 4
+        "ordre": 2,
+        "idSeance": 32980,
+        "idCopie": 10909,
+        "duree": 13,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 47696,
+        "ordre": 3,
+        "idSeance": 32980,
+        "idCopie": 17557,
+        "duree": 0,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   },

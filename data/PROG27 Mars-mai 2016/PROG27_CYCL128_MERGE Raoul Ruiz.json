@@ -1,0 +1,4347 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idSeance": 16928,
+          "ordre": 1,
+          "dateHeure": "2016-05-21T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7900,
+          "typeEvenement": 13,
+          "idFilm": 126886,
+          "titre": "A TV Dante TV",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1991,
+          "pays": "Pays-Bas-Grande-Bretagne",
+          "duree": 66,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "generique": [
+            "Francisco Reyes",
+            "Fernando Bordeu"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Adaptation cinématographique des chants 9 à 14 de l' _Enfer_ de Dante."
+            }
+          ]
+        },
+        {
+          "idSeance": 16177,
+          "ordre": 1,
+          "dateHeure": "2016-05-16T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 9578,
+          "typeEvenement": 13,
+          "idFilm": 53411,
+          "titre": "A propos de Nice, la suite",
+          "titreVo": "",
+          "realisateurs": "Abbas Kiarostami, Catherine Breillat, Raymond Depardon, [etc.]",
+          "annee": 1994,
+          "pays": "France",
+          "duree": 100,
+          "version": "VO",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Laura Del Sol"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Soixante cinq ans après la sortie en 1930 du film de Jean Vigo « A propos de Nice », sept réalisateurs lui rendent hommage en revisitant la ville, sa façade et ses faces cachées."
+            }
+          ]
+        },
+        {
+          "idSeance": 16893,
+          "ordre": 1,
+          "dateHeure": "2016-04-16T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7914,
+          "typeEvenement": 13,
+          "idFilm": 126898,
+          "titre": "Agathopedia",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2008,
+          "pays": "Italie",
+          "duree": 52,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film réalisé avec les étudiants de L'Université de Calabre, dans le cadre d'une semaine pédagogique autour du thème « Construire un film »."
+            }
+          ]
+        },
+        {
+          "idSeance": 16039,
+          "ordre": 1,
+          "dateHeure": "2016-04-21T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7463,
+          "typeEvenement": 13,
+          "idFilm": 74010,
+          "art": "Les",
+          "titre": "Ames fortes",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2000,
+          "pays": "France-Belgique",
+          "duree": 119,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Laetitia Casta",
+            "Frédéric Diefenthal",
+            "Arielle Dombasle",
+            "John Malkovich"
+          ],
+          "adaptation": "D'après le roman _Les Ames fortes_ de Jean Giono.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au XIXème siècle, une jeune fille de la Drôme, Thérèse, s'enfuit de sa campagne avec son fiancé Firmin. En ville, elle découvre qu'elle a du pouvoir sur les autres et qu'elle est une âme forte."
+            }
+          ]
+        },
+        {
+          "idSeance": 16144,
+          "ordre": 1,
+          "dateHeure": "2016-05-11T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7463,
+          "typeEvenement": 13,
+          "idFilm": 74010,
+          "art": "Les",
+          "titre": "Ames fortes",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2000,
+          "pays": "France-Belgique",
+          "duree": 119,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Laetitia Casta",
+            "Frédéric Diefenthal",
+            "Arielle Dombasle",
+            "John Malkovich"
+          ],
+          "adaptation": "D'après le roman _Les Ames fortes_ de Jean Giono.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au XIXème siècle, une jeune fille de la Drôme, Thérèse, s'enfuit de sa campagne avec son fiancé Firmin. En ville, elle découvre qu'elle a du pouvoir sur les autres et qu'elle est une âme forte."
+            }
+          ]
+        },
+        {
+          "idSeance": 16893,
+          "ordre": 2,
+          "dateHeure": "2016-04-16T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7914,
+          "typeEvenement": 13,
+          "idFilm": 126913,
+          "art": "L'",
+          "titre": "Autel de l'amitié",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1989,
+          "pays": "France",
+          "duree": 57,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une série de dialogues philosophiques sur l'amitié, l'architecture, l'électricité, le cannibalisme, les droits de l'homme..."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Copie Duke University"
+            }
+          ]
+        },
+        {
+          "idSeance": 17071,
+          "ordre": 1,
+          "dateHeure": "2016-05-07T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7912,
+          "typeEvenement": 13,
+          "idFilm": 126896,
+          "titre": "Ballet aquatique",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2010,
+          "pays": "France",
+          "duree": 50,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une relecture de Painlevé avec un chat, un poisson et un poisson-chat, qui répond à la question : l'hybridation permet-elle de résoudre la guerre des espèces?"
+            }
+          ]
+        },
+        {
+          "idSeance": 16186,
+          "ordre": 1,
+          "dateHeure": "2016-05-18T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7912,
+          "typeEvenement": 13,
+          "idFilm": 126896,
+          "titre": "Ballet aquatique",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2010,
+          "pays": "France",
+          "duree": 50,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une relecture de Painlevé avec un chat, un poisson et un poisson-chat, qui répond à la question : l'hybridation permet-elle de résoudre la guerre des espèces?"
+            }
+          ]
+        },
+        {
+          "idSeance": 15983,
+          "ordre": 1,
+          "dateHeure": "2016-04-09T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 9579,
+          "typeEvenement": 13,
+          "idFilm": 78830,
+          "titre": "Brise-glace",
+          "titreVo": "",
+          "realisateurs": "Jean Rouch, Titte Törnroth, Raoul Ruiz",
+          "annee": 1987,
+          "pays": "France-Suède",
+          "duree": 89,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Titte Törnroth",
+            "Jacques Wenger"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sur le brise-glace « Frej », trois réalisateurs livrent leurs impressions : Rouch filme les travaux sur le navire, Törnroth laisse la parole à l'équipage et Ruiz introduit une touche fantastique..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16992,
+          "ordre": 1,
+          "dateHeure": "2016-05-09T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 9579,
+          "typeEvenement": 13,
+          "idFilm": 78830,
+          "titre": "Brise-glace",
+          "titreVo": "",
+          "realisateurs": "Jean Rouch, Titte Törnroth, Raoul Ruiz",
+          "annee": 1987,
+          "pays": "France-Suède",
+          "duree": 89,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Titte Törnroth",
+            "Jacques Wenger"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sur le brise-glace « Frej », trois réalisateurs livrent leurs impressions : Rouch filme les travaux sur le navire, Törnroth laisse la parole à l'équipage et Ruiz introduit une touche fantastique..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16848,
+          "ordre": 1,
+          "dateHeure": "2016-05-06T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7465,
+          "typeEvenement": 13,
+          "idFilm": 103642,
+          "titre": "Bérénice",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1983,
+          "pays": "France",
+          "duree": 105,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Anne Alvaro",
+            "Jean Badin",
+            "Frank Oger"
+          ],
+          "adaptation": "D'après la pièce _Bérénice_ de Jean Racine.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Libre adaptation de la pièce de Racine."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par François Ede pour la Cinémathèque française avec le concours de l'Ina."
+            }
+          ]
+        },
+        {
+          "idSeance": 16212,
+          "ordre": 1,
+          "dateHeure": "2016-05-22T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7465,
+          "typeEvenement": 13,
+          "idFilm": 103642,
+          "titre": "Bérénice",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1983,
+          "pays": "France",
+          "duree": 105,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Anne Alvaro",
+            "Jean Badin",
+            "Frank Oger"
+          ],
+          "adaptation": "D'après la pièce _Bérénice_ de Jean Racine.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Libre adaptation de la pièce de Racine."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par François Ede pour la Cinémathèque française avec le concours de l'Ina."
+            }
+          ]
+        },
+        {
+          "idSeance": 16892,
+          "ordre": 2,
+          "dateHeure": "2016-04-17T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7902,
+          "typeEvenement": 13,
+          "idFilm": 126888,
+          "titre": "Capitulo 66",
+          "titreVo": "",
+          "realisateurs": "Luis Ospina, Raoul Ruiz",
+          "annee": 1993,
+          "pays": "Colombie",
+          "duree": 25,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Vidéo expérimentale tournée à Bogota lors d'un atelier d'acteur dirigé par Raoul Ruiz, celui-ci cherche à combiner le style « telenovelas » avec le genre gothique, sans rien connaître de l'histoire, ni le début, ni la fin..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16764,
+          "ordre": 1,
+          "dateHeure": "2016-04-06T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7498,
+          "typeEvenement": 13,
+          "idFilm": 85590,
+          "titre": "Ce jour-là",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2002,
+          "pays": "France-Suisse",
+          "duree": 102,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Bernard Giraudeau",
+            "Elsa Zylberstein",
+            "Jean-Luc Bideau"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune fille riche et simple d'esprit hérite de la fortune de sa mère décédée. Les membres de sa famille tentent de récupérer l'héritage en question."
+            }
+          ]
+        },
+        {
+          "idSeance": 17047,
+          "ordre": 1,
+          "dateHeure": "2016-05-07T16:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7498,
+          "typeEvenement": 13,
+          "idFilm": 85590,
+          "titre": "Ce jour-là",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2002,
+          "pays": "France-Suisse",
+          "duree": 102,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Bernard Giraudeau",
+            "Elsa Zylberstein",
+            "Jean-Luc Bideau"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune fille riche et simple d'esprit hérite de la fortune de sa mère décédée. Les membres de sa famille tentent de récupérer l'héritage en question."
+            }
+          ]
+        },
+        {
+          "idSeance": 17469,
+          "ordre": 1,
+          "dateHeure": "2016-05-09T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7498,
+          "typeEvenement": 13,
+          "idFilm": 85590,
+          "titre": "Ce jour-là",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2002,
+          "pays": "France-Suisse",
+          "duree": 102,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Bernard Giraudeau",
+            "Elsa Zylberstein",
+            "Jean-Luc Bideau"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune fille riche et simple d'esprit hérite de la fortune de sa mère décédée. Les membres de sa famille tentent de récupérer l'héritage en question."
+            }
+          ]
+        },
+        {
+          "idSeance": 16892,
+          "ordre": 1,
+          "dateHeure": "2016-04-17T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7902,
+          "typeEvenement": 13,
+          "idFilm": 102158,
+          "titre": "Chacun son cinéma : Le Don",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2006,
+          "pays": "France",
+          "duree": 3,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "generique": [
+            "Michael Lonsdale",
+            "Miriam Heard"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un cinéphile (aveugle) raconte à sa nièce une histoire qui s'est déroulée cinquante ans auparavant : lorsqu'un évêque offrit un projecteur et une radio aux habitants d'Atacama..."
+            }
+          ]
+        },
+        {
+          "idSeance": 15982,
+          "ordre": 1,
+          "dateHeure": "2016-04-09T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Benoît Peeters",
+          "idCategorie": 525,
+          "idEvenement": 7473,
+          "typeEvenement": 13,
+          "idFilm": 74570,
+          "art": "La",
+          "titre": "Chouette aveugle",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1987,
+          "pays": "France-Suisse",
+          "duree": 93,
+          "version": "STF",
+          "format": "16 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "François Berthet",
+            "Jessica Forde",
+            "Jean-Marie Boëglin"
+          ],
+          "adaptation": "D'après le roman _Bouf-e Kour_ de Sadegh Hedayat.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les vicissitudes d'un jeune projectionniste dans un vieux cinéma, entre réalité et fiction."
+            }
+          ]
+        },
+        {
+          "idSeance": 16249,
+          "ordre": 1,
+          "dateHeure": "2016-05-29T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7473,
+          "typeEvenement": 13,
+          "idFilm": 74570,
+          "art": "La",
+          "titre": "Chouette aveugle",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1987,
+          "pays": "France-Suisse",
+          "duree": 93,
+          "version": "STF",
+          "format": "16 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "François Berthet",
+            "Jessica Forde",
+            "Jean-Marie Boëglin"
+          ],
+          "adaptation": "D'après le roman _Bouf-e Kour_ de Sadegh Hedayat.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les vicissitudes d'un jeune projectionniste dans un vieux cinéma, entre réalité et fiction."
+            }
+          ]
+        },
+        {
+          "idSeance": 16168,
+          "ordre": 1,
+          "dateHeure": "2016-05-14T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 740,
+          "idEvenement": 9638,
+          "typeEvenement": 13,
+          "idFilm": 129779,
+          "titre": "Cofralande 2 – Rostros y rincones",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2002,
+          "pays": "Chili",
+          "duree": 81,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": null,
+          "generique": [
+            "Bernard Pautrat",
+            "Malcolm Coad"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 16167,
+          "ordre": 1,
+          "dateHeure": "2016-05-14T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 740,
+          "idEvenement": 7907,
+          "typeEvenement": 13,
+          "idFilm": 126892,
+          "titre": "Cofralandes 1 : Hoy en dia",
+          "titreVo": "Cofralandes",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2002,
+          "pays": "Chili-France",
+          "duree": 83,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": 0,
+          "generique": [
+            "Bernard Pautrat",
+            "Malcolm Coad",
+            "Rainer Krause"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 16174,
+          "ordre": 1,
+          "dateHeure": "2016-05-15T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 740,
+          "idEvenement": 9639,
+          "typeEvenement": 13,
+          "idFilm": 129780,
+          "titre": "Cofralandes 3 – Museos y clubes en la Region Antartica",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2002,
+          "pays": "Chili",
+          "duree": 64,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": null,
+          "generique": [
+            "Bernard Pautrat",
+            "Ignacio Agüero",
+            "Marcial Edwards"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 16175,
+          "ordre": 1,
+          "dateHeure": "2016-05-15T21:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 740,
+          "idEvenement": 9640,
+          "typeEvenement": 13,
+          "idFilm": 129781,
+          "titre": "Cofralandes 4 – Evocaciones y valses",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2002,
+          "pays": "Chili",
+          "duree": 87,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": null,
+          "generique": [
+            "Amparo Noguera",
+            "Francisco Reyes",
+            "Néstor Cantillana"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Voyage onirique dans un pays imaginaire, Cofralandes, aux confins du monde, en 4 chapitres."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par la Cinémathèque chilienne avec le soutien du Conseil National de la Culture et des Arts du Chili."
+            }
+          ]
+        },
+        {
+          "idSeance": 16851,
+          "ordre": 1,
+          "dateHeure": "2016-04-27T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 9576,
+          "typeEvenement": 13,
+          "idFilm": 55021,
+          "titre": "Colloque de chiens",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1977,
+          "pays": "France",
+          "duree": 22,
+          "version": "VO",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Eva Simonet",
+            "Robert Darmel",
+            "Silke Humel"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "César du meilleur court-métrage de fiction 1980. Monique apprend que sa mère n'est pas sa vraie mère, à partir de maintenant plus rien ne sera pareil."
+            }
+          ]
+        },
+        {
+          "idSeance": 16800,
+          "ordre": 1,
+          "dateHeure": "2016-05-06T21:15:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7514,
+          "typeEvenement": 13,
+          "idFilm": 88837,
+          "art": "La",
+          "titre": "Colonie pénitentière",
+          "artVo": "La",
+          "titreVo": "Colonia penal",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1970,
+          "pays": "Chili",
+          "duree": 65,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": 0,
+          "generique": [
+            "Mónica Echeverría",
+            "Luis Alarcón",
+            "Aníbal Reyna"
+          ],
+          "adaptation": "D'après le roman _ In der Strafkolonie_ de Franz Kafka.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une journaliste vient faire un reportage sur une île du Pacifique, ancienne colonie pénitentiaire qui s'est proclamée république indépendante."
+            }
+          ]
+        },
+        {
+          "idSeance": 16926,
+          "ordre": 1,
+          "dateHeure": "2016-05-28T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7514,
+          "typeEvenement": 13,
+          "idFilm": 88837,
+          "art": "La",
+          "titre": "Colonie pénitentière",
+          "artVo": "La",
+          "titreVo": "Colonia penal",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1970,
+          "pays": "Chili",
+          "duree": 65,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": 0,
+          "generique": [
+            "Mónica Echeverría",
+            "Luis Alarcón",
+            "Aníbal Reyna"
+          ],
+          "adaptation": "D'après le roman _ In der Strafkolonie_ de Franz Kafka.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une journaliste vient faire un reportage sur une île du Pacifique, ancienne colonie pénitentiaire qui s'est proclamée république indépendante."
+            }
+          ]
+        },
+        {
+          "idSeance": 15990,
+          "ordre": 1,
+          "dateHeure": "2016-04-10T20:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7513,
+          "typeEvenement": 13,
+          "idFilm": 71691,
+          "titre": "Combat d'amour en songe",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2000,
+          "pays": "France-Portugal",
+          "duree": 127,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Melvil Poupaud",
+            "Elsa Zylberstein",
+            "Lambert Wilson",
+            "Christian Vadim"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un conte pour enfants qui se transforme rapidement en une fable philosophique."
+            }
+          ]
+        },
+        {
+          "idSeance": 16152,
+          "ordre": 1,
+          "dateHeure": "2016-05-12T16:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7513,
+          "typeEvenement": 13,
+          "idFilm": 71691,
+          "titre": "Combat d'amour en songe",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2000,
+          "pays": "France-Portugal",
+          "duree": 127,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Melvil Poupaud",
+            "Elsa Zylberstein",
+            "Lambert Wilson",
+            "Christian Vadim"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un conte pour enfants qui se transforme rapidement en une fable philosophique."
+            }
+          ]
+        },
+        {
+          "idSeance": 16766,
+          "ordre": 1,
+          "dateHeure": "2016-04-06T21:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Françoise Dumas",
+          "idCategorie": 525,
+          "idEvenement": 7516,
+          "typeEvenement": 13,
+          "idFilm": 72541,
+          "titre": "Comédie de l'innocence",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1999,
+          "pays": "France",
+          "duree": 103,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Isabelle Huppert",
+            "Jeanne Balibar",
+            "Charles Berling"
+          ],
+          "adaptation": "D'après le roman _Comédie de l'innocence : fils de deux mères_ de Massimo Bontempelli.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un garçon de neuf ans demande à sa mère de le conduire chez une femme dont il dit qu'elle est sa vraie mère."
+            }
+          ]
+        },
+        {
+          "idSeance": 16915,
+          "ordre": 1,
+          "dateHeure": "2016-04-28T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7516,
+          "typeEvenement": 13,
+          "idFilm": 72541,
+          "titre": "Comédie de l'innocence",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1999,
+          "pays": "France",
+          "duree": 103,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Isabelle Huppert",
+            "Jeanne Balibar",
+            "Charles Berling"
+          ],
+          "adaptation": "D'après le roman _Comédie de l'innocence : fils de deux mères_ de Massimo Bontempelli.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un garçon de neuf ans demande à sa mère de le conduire chez une femme dont il dit qu'elle est sa vraie mère."
+            }
+          ]
+        },
+        {
+          "idSeance": 17470,
+          "ordre": 1,
+          "dateHeure": "2016-05-23T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7516,
+          "typeEvenement": 13,
+          "idFilm": 72541,
+          "titre": "Comédie de l'innocence",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1999,
+          "pays": "France",
+          "duree": 103,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Isabelle Huppert",
+            "Jeanne Balibar",
+            "Charles Berling"
+          ],
+          "adaptation": "D'après le roman _Comédie de l'innocence : fils de deux mères_ de Massimo Bontempelli.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un garçon de neuf ans demande à sa mère de le conduire chez une femme dont il dit qu'elle est sa vraie mère."
+            }
+          ]
+        },
+        {
+          "idSeance": 16851,
+          "ordre": 3,
+          "dateHeure": "2016-04-27T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 9576,
+          "typeEvenement": 13,
+          "idFilm": 126454,
+          "art": "Le",
+          "titre": "Corps dispersé et le monde à l'envers",
+          "titreVo": "Mensch verstreut und Welt verkehrt TV",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1975,
+          "pays": "RFA",
+          "duree": 67,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "generique": [
+            "Eduardo Barr",
+            "Fosi Bendek",
+            "Germán Leitzelar"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux commis voyageurs parcourent un pays d'Amérique latine. Ils cherchent les morceaux dispersés d'un cadavre."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Version TV."
+            }
+          ]
+        },
+        {
+          "idSeance": 16892,
+          "ordre": 3,
+          "dateHeure": "2016-04-17T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7902,
+          "typeEvenement": 13,
+          "idFilm": 126831,
+          "titre": "Dans un miroir",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1984,
+          "pays": "France",
+          "duree": 65,
+          "version": "",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Anne Alvaro",
+            "Jean-Claude Wino"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un homme vient visiter une connaissance supposée être malade et parle à sa sœur pendant l'attente."
+            }
+          ]
+        },
+        {
+          "idSeance": 16942,
+          "ordre": 2,
+          "dateHeure": "2016-05-23T21:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7507,
+          "typeEvenement": 13,
+          "idFilm": 126912,
+          "titre": "Derrière le mur",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1989,
+          "pays": "France",
+          "duree": 70,
+          "version": "",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Eric Affergan",
+            "Jérôme Bel",
+            "Catherine Berbessou"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Libre adaptation de la pièce « Derrière le mur » de Bouvier-Obadia."
+            }
+          ]
+        },
+        {
+          "idSeance": 16037,
+          "ordre": 2,
+          "dateHeure": "2016-04-20T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7743,
+          "typeEvenement": 13,
+          "idFilm": 126617,
+          "titre": "Des grands événements et des gens ordinaires",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1978,
+          "pays": "France",
+          "duree": 60,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En 1978, l'INA a commandé à Ruiz un documentaire sur les élections législatives dans le 11e arrondissement de Paris."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+            }
+          ]
+        },
+        {
+          "idSeance": 16984,
+          "ordre": 1,
+          "dateHeure": "2016-04-21T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 8554,
+          "typeEvenement": 13,
+          "idFilm": 51146,
+          "art": "Les",
+          "titre": "Destins de Manoel TV",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1985,
+          "pays": "France-Portugal",
+          "duree": 138,
+          "version": "VOSTF",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Ruben de Freitas",
+            "Armanda Bacelar",
+            "Marco Paulo de Freitas",
+            "Aurélie Chazelle"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Version télévision portugaise. Quatre moments de la vie de Manoël."
+            }
+          ]
+        },
+        {
+          "idSeance": 16916,
+          "ordre": 1,
+          "dateHeure": "2016-05-02T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 8554,
+          "typeEvenement": 13,
+          "idFilm": 51146,
+          "art": "Les",
+          "titre": "Destins de Manoel TV",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1985,
+          "pays": "France-Portugal",
+          "duree": 138,
+          "version": "VOSTF",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Ruben de Freitas",
+            "Armanda Bacelar",
+            "Marco Paulo de Freitas",
+            "Aurélie Chazelle"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Version télévision portugaise. Quatre moments de la vie de Manoël."
+            }
+          ]
+        },
+        {
+          "idSeance": 16894,
+          "ordre": 1,
+          "dateHeure": "2016-05-13T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7520,
+          "typeEvenement": 13,
+          "idFilm": 60316,
+          "titre": "Dialogue d'exilés",
+          "titreVo": "Diálogos de exiliados",
+          "realisateurs": "Raúl Ruiz",
+          "annee": 1974,
+          "pays": "Chili-France",
+          "duree": 104,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Daniel Gélin",
+            "Françoise Arnoul",
+            "Carla Cristi",
+            "Sergio Hernández"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ruiz s'inspire d'un texte de Bertolt Brecht, et met en scène des réfugiés politiques chiliens qui racontent leur existence d'exilés."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauraté par la Cinémathèque française et le laboratoire Mikros avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 16224,
+          "ordre": 1,
+          "dateHeure": "2016-05-26T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7520,
+          "typeEvenement": 13,
+          "idFilm": 60316,
+          "titre": "Dialogue d'exilés",
+          "titreVo": "Diálogos de exiliados",
+          "realisateurs": "Raúl Ruiz",
+          "annee": 1974,
+          "pays": "Chili-France",
+          "duree": 104,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Daniel Gélin",
+            "Françoise Arnoul",
+            "Carla Cristi",
+            "Sergio Hernández"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ruiz s'inspire d'un texte de Bertolt Brecht, et met en scène des réfugiés politiques chiliens qui racontent leur existence d'exilés."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauraté par la Cinémathèque française et le laboratoire Mikros avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 16037,
+          "ordre": 1,
+          "dateHeure": "2016-04-20T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7743,
+          "typeEvenement": 13,
+          "idFilm": 126618,
+          "art": "Les",
+          "titre": "Divisions de la nature : quatre regards sur le château de Chambord",
+          "artVo": "Les",
+          "titreVo": "Divisions de la nature TV",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1978,
+          "pays": "France",
+          "duree": 30,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Détournement d'une commande de film traitant du château de Chambord. Ce qui intéresse le cinéaste? Montrer le château sous différentes perspectives idéologiques"
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+            }
+          ]
+        },
+        {
+          "idSeance": 15981,
+          "ordre": 1,
+          "dateHeure": "2016-04-09T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7504,
+          "typeEvenement": 13,
+          "idFilm": 96596,
+          "art": "Le",
+          "titre": "Domaine perdu",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2004,
+          "pays": "France-Roumanie-Italie-Espagne",
+          "duree": 107,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "François Cluzet",
+            "Grégoire Colin",
+            "Christian Colin",
+            "Julie Delarme"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Max a cinquante ans passés lors du coup d'état de 1973 au Chili. Terré chez lui pour éviter les balles des militaires, les souvenirs commencent à jaillir..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16221,
+          "ordre": 1,
+          "dateHeure": "2016-05-25T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7504,
+          "typeEvenement": 13,
+          "idFilm": 96596,
+          "art": "Le",
+          "titre": "Domaine perdu",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2004,
+          "pays": "France-Roumanie-Italie-Espagne",
+          "duree": 107,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "François Cluzet",
+            "Grégoire Colin",
+            "Christian Colin",
+            "Julie Delarme"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Max a cinquante ans passés lors du coup d'état de 1973 au Chili. Terré chez lui pour éviter les balles des militaires, les souvenirs commencent à jaillir..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16942,
+          "ordre": 1,
+          "dateHeure": "2016-05-23T21:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7507,
+          "typeEvenement": 13,
+          "idFilm": 88838,
+          "titre": "Désormais nous pouvons t'appeler frère",
+          "titreVo": "Ahora te vamos a llamar hermano",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1971,
+          "pays": "Chili",
+          "duree": 16,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le film a pour sujet la première loi proclamée par Allende à son arrivée au pouvoir, visant à rendre les indiens Mapuchi des citoyens à part entière."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par la Fondazione La Biennale di Venezia à partir des éléments conservés par l'Archivio Storico delle Arti Contemporanee (ASAC). La restauration a été effectuée par le laboratoire 'L'Immagine Ritrovata' de Bologna en 2012."
+            }
+          ]
+        },
+        {
+          "idSeance": 16946,
+          "ordre": 1,
+          "dateHeure": "2016-05-04T21:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7916,
+          "typeEvenement": 13,
+          "idFilm": 126906,
+          "titre": "Edipo",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2004,
+          "pays": "Italie",
+          "duree": 80,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": null,
+          "generique": [
+            "Silvio Castiglioni",
+            "Marco Cavicchioli",
+            "Laura Colombo"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le film a été réalisé à partir du spectacle _Edipo Iperboreo_ (1989), mis en scène par Ruiz pour la Fondazione Pontedera Teatro."
+            }
+          ]
+        },
+        {
+          "idSeance": 16938,
+          "ordre": 1,
+          "dateHeure": "2016-05-29T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7916,
+          "typeEvenement": 13,
+          "idFilm": 126906,
+          "titre": "Edipo",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2004,
+          "pays": "Italie",
+          "duree": 80,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": null,
+          "generique": [
+            "Silvio Castiglioni",
+            "Marco Cavicchioli",
+            "Laura Colombo"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le film a été réalisé à partir du spectacle _Edipo Iperboreo_ (1989), mis en scène par Ruiz pour la Fondazione Pontedera Teatro."
+            }
+          ]
+        },
+        {
+          "idSeance": 17114,
+          "ordre": 1,
+          "dateHeure": "2016-04-09T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7896,
+          "typeEvenement": 13,
+          "idFilm": 55581,
+          "art": "L'",
+          "titre": "Eveillé du pont de l'Alma",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1985,
+          "pays": "France",
+          "duree": 76,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Michael Lonsdale",
+            "Jean-Bernard Guillard",
+            "Olympia Carlisi",
+            "Melvil Poupaud"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une nuit, deux promeneurs insomniaques, un boxeur bossu et un professeur libidineux, se rencontrent par hasard sur le pont de l'Alma. Ils discutent et se mettent à observer un couple qui erre le long des quais..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16191,
+          "ordre": 1,
+          "dateHeure": "2016-05-19T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7896,
+          "typeEvenement": 13,
+          "idFilm": 55581,
+          "art": "L'",
+          "titre": "Eveillé du pont de l'Alma",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1985,
+          "pays": "France",
+          "duree": 76,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Michael Lonsdale",
+            "Jean-Bernard Guillard",
+            "Olympia Carlisi",
+            "Melvil Poupaud"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une nuit, deux promeneurs insomniaques, un boxeur bossu et un professeur libidineux, se rencontrent par hasard sur le pont de l'Alma. Ils discutent et se mettent à observer un couple qui erre le long des quais..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16978,
+          "ordre": 1,
+          "dateHeure": "2016-05-02T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7899,
+          "typeEvenement": 13,
+          "idFilm": 126883,
+          "art": "L'",
+          "titre": "Exote",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1991,
+          "pays": "Suisse-France",
+          "duree": 45,
+          "version": "",
+          "format": "16 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Hercli Bundi",
+            "Albert Blanc",
+            "Elisabeth Blanc"
+          ],
+          "adaptation": "D'après l'ouvrage _Sur l'exotisme_ de Victor Segalen.  \nD'après l'ouvrage _Traité des sensations_ d'Etienne Bonnot de Condillac.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un _exote_ est une personne qui trouve que le plus exotique des pays est celui où elle est née..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16909,
+          "ordre": 1,
+          "dateHeure": "2016-05-14T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7899,
+          "typeEvenement": 13,
+          "idFilm": 126883,
+          "art": "L'",
+          "titre": "Exote",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1991,
+          "pays": "Suisse-France",
+          "duree": 45,
+          "version": "",
+          "format": "16 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Hercli Bundi",
+            "Albert Blanc",
+            "Elisabeth Blanc"
+          ],
+          "adaptation": "D'après l'ouvrage _Sur l'exotisme_ de Victor Segalen.  \nD'après l'ouvrage _Traité des sensations_ d'Etienne Bonnot de Condillac.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un _exote_ est une personne qui trouve que le plus exotique des pays est celui où elle est née..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16791,
+          "ordre": 1,
+          "dateHeure": "2016-04-16T14:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7510,
+          "typeEvenement": 13,
+          "idFilm": 58709,
+          "titre": "Fado majeur et mineur",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1993,
+          "pays": "France-Portugal",
+          "duree": 115,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Jean-Luc Bideau",
+            "Melvil Poupaud",
+            "Ana Padrão"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les rapports troubles entre des personnages dont le fil conducteur est un homme devenu subitement amnésique."
+            }
+          ]
+        },
+        {
+          "idSeance": 16914,
+          "ordre": 1,
+          "dateHeure": "2016-04-27T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7510,
+          "typeEvenement": 13,
+          "idFilm": 58709,
+          "titre": "Fado majeur et mineur",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1993,
+          "pays": "France-Portugal",
+          "duree": 115,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Jean-Luc Bideau",
+            "Melvil Poupaud",
+            "Ana Padrão"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les rapports troubles entre des personnages dont le fil conducteur est un homme devenu subitement amnésique."
+            }
+          ]
+        },
+        {
+          "idSeance": 16038,
+          "ordre": 1,
+          "dateHeure": "2016-04-20T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7922,
+          "typeEvenement": 13,
+          "idFilm": 126914,
+          "art": "Le",
+          "titre": "Film à venir",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1997,
+          "pays": "Suisse",
+          "duree": 9,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Gérard Vincent",
+            "Margot Marguerite",
+            "Edouard Waintrop"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A la recherche de sa fille, un homme découvre les rituels des Philokinètes, secte qui s'adonne au visionnage hallucinatoire d'un fragment de film de 23 secondes projeté en boucle."
+            }
+          ]
+        },
+        {
+          "idSeance": 16975,
+          "ordre": 1,
+          "dateHeure": "2016-04-18T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7508,
+          "typeEvenement": 13,
+          "idFilm": 77016,
+          "art": "The",
+          "titre": "Golden Boat",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1989,
+          "pays": "Belgique-États-Unis",
+          "duree": 83,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Michael Kirby",
+            "Federico Muchnik",
+            "Jim Jarmusch",
+            "Barbet Schroeder"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le film s'inspire de séries policières américaines, mélangées à des soaps opéras mexicaines; tout cela plongé dans le contexte artistique de l'underground New-yorkais."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré numériquement par Exchange/Strand Releasing."
+            }
+          ]
+        },
+        {
+          "idSeance": 15940,
+          "ordre": 1,
+          "dateHeure": "2016-04-02T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 525,
+          "idEvenement": 7518,
+          "typeEvenement": 13,
+          "idFilm": 56068,
+          "titre": "Généalogies d'un crime",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1996,
+          "pays": "France-Portugal",
+          "duree": 114,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Catherine Deneuve",
+            "Michel Piccoli",
+            "Melvil Poupaud",
+            "Andrzej Seweryn"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A Vienne, quelque temps avant la guerre, une psychanalyste pour enfants est persuadée que son neveu âgé de cinq ans a des pulsions meurtrières."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 2K par Le Petit Bureau avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 16196,
+          "ordre": 1,
+          "dateHeure": "2016-05-20T21:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7518,
+          "typeEvenement": 13,
+          "idFilm": 56068,
+          "titre": "Généalogies d'un crime",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1996,
+          "pays": "France-Portugal",
+          "duree": 114,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Catherine Deneuve",
+            "Michel Piccoli",
+            "Melvil Poupaud",
+            "Andrzej Seweryn"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A Vienne, quelque temps avant la guerre, une psychanalyste pour enfants est persuadée que son neveu âgé de cinq ans a des pulsions meurtrières."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 2K par Le Petit Bureau avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 15989,
+          "ordre": 1,
+          "dateHeure": "2016-04-10T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7503,
+          "typeEvenement": 13,
+          "idFilm": 51147,
+          "art": "L'",
+          "titre": "Hypothèse du tableau volé",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1978,
+          "pays": "France",
+          "duree": 63,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Jean Rougeul",
+            "Anne Debois",
+            "Chantal Paley",
+            "Jean Narboni"
+          ],
+          "adaptation": "D'après le roman _Le Baphomet_ de Pierre Klossowski.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un collectionneur examine une série de tableaux, qui cache une énigme à résoudre."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+            }
+          ]
+        },
+        {
+          "idSeance": 16181,
+          "ordre": 1,
+          "dateHeure": "2016-05-18T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7503,
+          "typeEvenement": 13,
+          "idFilm": 51147,
+          "art": "L'",
+          "titre": "Hypothèse du tableau volé",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1978,
+          "pays": "France",
+          "duree": 63,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Jean Rougeul",
+            "Anne Debois",
+            "Chantal Paley",
+            "Jean Narboni"
+          ],
+          "adaptation": "D'après le roman _Le Baphomet_ de Pierre Klossowski.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un collectionneur examine une série de tableaux, qui cache une énigme à résoudre."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+            }
+          ]
+        },
+        {
+          "idSeance": 16190,
+          "ordre": 1,
+          "dateHeure": "2016-05-18T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7502,
+          "typeEvenement": 13,
+          "idFilm": 52262,
+          "art": "L'",
+          "titre": "Ile au trésor",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1985,
+          "pays": "France-Grande-Bretagne-États-Unis",
+          "duree": 115,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Melvil Poupaud",
+            "Martin Landau",
+            "Lou Castel",
+            "Jean-Pierre Léaud"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jim Hawkins rêve de partir à la chasse au trésor. Il découvre une carte indiquant l'emplacement de légendaires richesses cachées sur une île."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par Argos Films avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 16248,
+          "ordre": 1,
+          "dateHeure": "2016-05-29T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7502,
+          "typeEvenement": 13,
+          "idFilm": 52262,
+          "art": "L'",
+          "titre": "Ile au trésor",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1985,
+          "pays": "France-Grande-Bretagne-États-Unis",
+          "duree": 115,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Melvil Poupaud",
+            "Martin Landau",
+            "Lou Castel",
+            "Jean-Pierre Léaud"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jim Hawkins rêve de partir à la chasse au trésor. Il découvre une carte indiquant l'emplacement de légendaires richesses cachées sur une île."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par Argos Films avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 17048,
+          "ordre": 1,
+          "dateHeure": "2016-04-29T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7464,
+          "typeEvenement": 13,
+          "idFilm": 64217,
+          "titre": "Jessie",
+          "titreVo": "Shattered Image",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1997,
+          "pays": "Grande-Bretagne-États-Unis-Canada",
+          "duree": 120,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Anne Parillaud",
+            "Lisanne Falk",
+            "Billy Wilmott",
+            "William Baldwin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Qui est Jessie Markham? Une jeune héritière? Ou bien une ravissante tueuse à gages? Chacune de ces versions semble sortie d'un fantasme..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16189,
+          "ordre": 1,
+          "dateHeure": "2016-05-19T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7464,
+          "typeEvenement": 13,
+          "idFilm": 64217,
+          "titre": "Jessie",
+          "titreVo": "Shattered Image",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1997,
+          "pays": "Grande-Bretagne-États-Unis-Canada",
+          "duree": 120,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Anne Parillaud",
+            "Lisanne Falk",
+            "Billy Wilmott",
+            "William Baldwin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Qui est Jessie Markham? Une jeune héritière? Ou bien une ravissante tueuse à gages? Chacune de ces versions semble sortie d'un fantasme..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16912,
+          "ordre": 1,
+          "dateHeure": "2016-04-18T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "mention": "Séance présentée par François Margolin",
+          "idCategorie": 525,
+          "idEvenement": 7499,
+          "typeEvenement": 13,
+          "idFilm": 94552,
+          "titre": "Journées à la campagne",
+          "titreVo": "Dias de campo",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2003,
+          "pays": "Chili-France",
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Marcial Edwards",
+            "Mario Montilles",
+            "Bélgica Castro",
+            "Ignacio Agüero"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un bar de Santiago, don Federico se met à évoquer le temps de sa jeunesse, jadis, quand il vivait à la campagne..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16102,
+          "ordre": 1,
+          "dateHeure": "2016-05-02T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7499,
+          "typeEvenement": 13,
+          "idFilm": 94552,
+          "titre": "Journées à la campagne",
+          "titreVo": "Dias de campo",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2003,
+          "pays": "Chili-France",
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Marcial Edwards",
+            "Mario Montilles",
+            "Bélgica Castro",
+            "Ignacio Agüero"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un bar de Santiago, don Federico se met à évoquer le temps de sa jeunesse, jadis, quand il vivait à la campagne..."
+            }
+          ]
+        },
+        {
+          "idSeance": 17110,
+          "ordre": 1,
+          "dateHeure": "2016-04-01T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7497,
+          "typeEvenement": 13,
+          "idFilm": 99441,
+          "titre": "Klimt",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2005,
+          "pays": "Autriche-France-Allemagne-Grande-Bretagne",
+          "duree": 131,
+          "version": "VFSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "John Malkovich",
+            "Veronica Ferres",
+            "Saffron Burrows",
+            "Nikolai Kinski"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Klimt n'est pas un _biopic_, mais un film tournant autour des images emblématiques de l'existence du peintre viennois."
+            }
+          ]
+        },
+        {
+          "idSeance": 16184,
+          "ordre": 1,
+          "dateHeure": "2016-05-18T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7497,
+          "typeEvenement": 13,
+          "idFilm": 99441,
+          "titre": "Klimt",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2005,
+          "pays": "Autriche-France-Allemagne-Grande-Bretagne",
+          "duree": 131,
+          "version": "VFSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "John Malkovich",
+            "Veronica Ferres",
+            "Saffron Burrows",
+            "Nikolai Kinski"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Klimt n'est pas un _biopic_, mais un film tournant autour des images emblématiques de l'existence du peintre viennois."
+            }
+          ]
+        },
+        {
+          "idSeance": 16921,
+          "ordre": 1,
+          "dateHeure": "2016-04-25T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 8542,
+          "typeEvenement": 13,
+          "idFilm": 127563,
+          "titre": "Litoral, cuentos del mar TV",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2008,
+          "pays": "Chili",
+          "duree": 208,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "generique": [
+            "Bélgica Castro",
+            "Hugo Medina",
+            "Mario Montilles",
+            "Santiago Meneghello"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Basée sur des contes de marins, de pêcheurs, et d'habitants du littoral des îles chiliennes, l'histoire se déroule autour d'un bateau fantôme appelé Lucerna."
+            }
+          ]
+        },
+        {
+          "idSeance": 16879,
+          "ordre": 1,
+          "dateHeure": "2016-05-11T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 8542,
+          "typeEvenement": 13,
+          "idFilm": 127563,
+          "titre": "Litoral, cuentos del mar TV",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2008,
+          "pays": "Chili",
+          "duree": 208,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "generique": [
+            "Bélgica Castro",
+            "Hugo Medina",
+            "Mario Montilles",
+            "Santiago Meneghello"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Basée sur des contes de marins, de pêcheurs, et d'habitants du littoral des îles chiliennes, l'histoire se déroule autour d'un bateau fantôme appelé Lucerna."
+            }
+          ]
+        },
+        {
+          "idSeance": 16919,
+          "ordre": 1,
+          "dateHeure": "2016-05-08T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7517,
+          "typeEvenement": 13,
+          "idFilm": 108114,
+          "art": "La",
+          "titre": "Maison Nucingen",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2007,
+          "pays": "France-Roumanie",
+          "duree": 98,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Elsa Zylberstein",
+            "Jean-Marc Barr",
+            "Thomas Durand",
+            "Miriam Heard"
+          ],
+          "adaptation": "D'après le roman _La Maison Nucingen_ de Honoré de Balzac.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un homme gagne une maison au poker, s'y rend avec sa femme et est accueilli par des étranges personnages..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16178,
+          "ordre": 1,
+          "dateHeure": "2016-05-16T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7517,
+          "typeEvenement": 13,
+          "idFilm": 108114,
+          "art": "La",
+          "titre": "Maison Nucingen",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2007,
+          "pays": "France-Roumanie",
+          "duree": 98,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Elsa Zylberstein",
+            "Jean-Marc Barr",
+            "Thomas Durand",
+            "Miriam Heard"
+          ],
+          "adaptation": "D'après le roman _La Maison Nucingen_ de Honoré de Balzac.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un homme gagne une maison au poker, s'y rend avec sa femme et est accueilli par des étranges personnages..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16890,
+          "ordre": 2,
+          "dateHeure": "2016-05-05T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7495,
+          "typeEvenement": 13,
+          "idFilm": 39481,
+          "titre": "Mammame",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1985,
+          "pays": "France",
+          "duree": 66,
+          "version": "",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Jean-Claude Gallotta",
+            "Eric Alfieri",
+            "Mathilde Altaraz",
+            "Muriel Boulay"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une troupe volubile, le corps bruni comme sous l'effet d'une grande chaleur, danse en s'invectivant dans un dédale de parois, mobiles et bleutées, et festoie dans le vent au bord d'une falaise."
+            }
+          ]
+        },
+        {
+          "idSeance": 16980,
+          "ordre": 1,
+          "dateHeure": "2016-05-05T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7905,
+          "typeEvenement": 13,
+          "idFilm": 126890,
+          "titre": "Miotte vu par Raúl Ruiz",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2001,
+          "pays": "France",
+          "duree": 80,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un documentaire sur le peintre abstrait Jean Miotte."
+            }
+          ]
+        },
+        {
+          "idSeance": 16882,
+          "ordre": 1,
+          "dateHeure": "2016-05-28T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7905,
+          "typeEvenement": 13,
+          "idFilm": 126890,
+          "titre": "Miotte vu par Raúl Ruiz",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2001,
+          "pays": "France",
+          "duree": 80,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un documentaire sur le peintre abstrait Jean Miotte."
+            }
+          ]
+        },
+        {
+          "idSeance": 15948,
+          "ordre": 1,
+          "dateHeure": "2016-04-03T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7485,
+          "typeEvenement": 13,
+          "idFilm": 112044,
+          "art": "Les",
+          "titre": "Mystères de Lisbonne",
+          "titreVo": "Mistérios de Lisboa",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2009,
+          "pays": "Portugal",
+          "duree": 272,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Adriano Luz",
+            "Maria João Bastos",
+            "Ricardo Pereira",
+            "Clotilde Hesme"
+          ],
+          "adaptation": "D'après le roman _Les Mystères de Lisbonne_ de Camilo Castelo Branco.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un voyage tumultueux, fait d'amour et d'aventures, à travers le Portugal, la France, l'Italie et le Brésil du XIXe siècle."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "1ème partie 120 ' – entr'acte de 30 minutes – 2ème partie 158'"
+            }
+          ]
+        },
+        {
+          "idSeance": 16814,
+          "ordre": 1,
+          "dateHeure": "2016-04-03T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 525,
+          "idEvenement": 7485,
+          "typeEvenement": 13,
+          "idFilm": 112044,
+          "art": "Les",
+          "titre": "Mystères de Lisbonne",
+          "titreVo": "Mistérios de Lisboa",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2009,
+          "pays": "Portugal",
+          "duree": 272,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Adriano Luz",
+            "Maria João Bastos",
+            "Ricardo Pereira",
+            "Clotilde Hesme"
+          ],
+          "adaptation": "D'après le roman _Les Mystères de Lisbonne_ de Camilo Castelo Branco.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un voyage tumultueux, fait d'amour et d'aventures, à travers le Portugal, la France, l'Italie et le Brésil du XIXe siècle."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "1ème partie 120 ' – entr'acte de 30 minutes – 2ème partie 158'"
+            }
+          ]
+        },
+        {
+          "idSeance": 16979,
+          "ordre": 1,
+          "dateHeure": "2016-05-04T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7493,
+          "typeEvenement": 13,
+          "idFilm": 73368,
+          "titre": "Mémoire des apparences",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1986,
+          "pays": "France",
+          "duree": 104,
+          "version": "",
+          "format": "16 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Sylvain Thirolle",
+            "Roch Leibovici",
+            "Bénédicte Sire"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Préparation d'un pièce de théâtre qui raconte l'histoire d'un homme qui, s'endormant plusieurs fois lors de séances de cinéma, se met à rêver et se surprend à vivre une réalité proche de ses songes."
+            }
+          ]
+        },
+        {
+          "idSeance": 16895,
+          "ordre": 1,
+          "dateHeure": "2016-05-13T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7493,
+          "typeEvenement": 13,
+          "idFilm": 73368,
+          "titre": "Mémoire des apparences",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1986,
+          "pays": "France",
+          "duree": 104,
+          "version": "",
+          "format": "16 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Sylvain Thirolle",
+            "Roch Leibovici",
+            "Bénédicte Sire"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Préparation d'un pièce de théâtre qui raconte l'histoire d'un homme qui, s'endormant plusieurs fois lors de séances de cinéma, se met à rêver et se surprend à vivre une réalité proche de ses songes."
+            }
+          ]
+        },
+        {
+          "idSeance": 16771,
+          "ordre": 1,
+          "dateHeure": "2016-04-04T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par François Margolin et Chamila Rodríguez",
+          "idCategorie": 525,
+          "idEvenement": 7519,
+          "typeEvenement": 13,
+          "idFilm": 116557,
+          "art": "La",
+          "titre": "Nuit d'en face",
+          "artVo": "La",
+          "titreVo": "Noche de enfrente",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2011,
+          "pays": "Chili-France",
+          "duree": 110,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Christian Vadim",
+            "Valentina Vargas",
+            "Sergio Hernández"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Trois âges d'un homme, qui voit la mort venir; s'entrecroisent. Le film-testament de Raoul Ruiz."
+            }
+          ]
+        },
+        {
+          "idSeance": 16233,
+          "ordre": 1,
+          "dateHeure": "2016-05-27T21:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7519,
+          "typeEvenement": 13,
+          "idFilm": 116557,
+          "art": "La",
+          "titre": "Nuit d'en face",
+          "artVo": "La",
+          "titreVo": "Noche de enfrente",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2011,
+          "pays": "Chili-France",
+          "duree": 110,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Christian Vadim",
+            "Valentina Vargas",
+            "Sergio Hernández"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Trois âges d'un homme, qui voit la mort venir; s'entrecroisent. Le film-testament de Raoul Ruiz."
+            }
+          ]
+        },
+        {
+          "idSeance": 16890,
+          "ordre": 1,
+          "dateHeure": "2016-05-05T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7495,
+          "typeEvenement": 13,
+          "idFilm": 126880,
+          "titre": "Paya e tala, une visite chez Farid Belkahia",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1988,
+          "pays": "France",
+          "duree": 30,
+          "version": "VOSTF",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Portrait de l'artiste marocain Farid Belkahia, l'un des plus importants artistes contemporains marocains."
+            }
+          ]
+        },
+        {
+          "idSeance": 16981,
+          "ordre": 1,
+          "dateHeure": "2016-04-28T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7489,
+          "typeEvenement": 13,
+          "idFilm": 88839,
+          "titre": "Personne n'a rien dit",
+          "titreVo": "Nadie dijo nada TV",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1971,
+          "pays": "Chili-Italie",
+          "duree": 126,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": 0,
+          "generique": [
+            "Jaime Vadell",
+            "Carlos Solanos",
+            "Luis Vilches"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'univers nocturne de Santiago, symbole de la marginalité des intellectuels au début des années 70."
+            }
+          ]
+        },
+        {
+          "idSeance": 16231,
+          "ordre": 1,
+          "dateHeure": "2016-05-27T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7489,
+          "typeEvenement": 13,
+          "idFilm": 88839,
+          "titre": "Personne n'a rien dit",
+          "titreVo": "Nadie dijo nada TV",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1971,
+          "pays": "Chili-Italie",
+          "duree": 126,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": 0,
+          "generique": [
+            "Jaime Vadell",
+            "Carlos Solanos",
+            "Luis Vilches"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'univers nocturne de Santiago, symbole de la marginalité des intellectuels au début des années 70."
+            }
+          ]
+        },
+        {
+          "idSeance": 16911,
+          "ordre": 1,
+          "dateHeure": "2016-04-17T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7876,
+          "typeEvenement": 13,
+          "idFilm": 126806,
+          "titre": "Point de fuite",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1983,
+          "pays": "France-Portugal",
+          "duree": 80,
+          "version": "STF",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Steve Baës",
+            "Rebecca Pauly",
+            "Paulo Branco",
+            "Anne Alvaro"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un Américain et un Portugais jouent au poker une île qui n'existe que dans leurs rêves, leurs souvenirs et leurs spéculations."
+            }
+          ]
+        },
+        {
+          "idSeance": 16194,
+          "ordre": 1,
+          "dateHeure": "2016-05-20T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7876,
+          "typeEvenement": 13,
+          "idFilm": 126806,
+          "titre": "Point de fuite",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1983,
+          "pays": "France-Portugal",
+          "duree": 80,
+          "version": "STF",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Steve Baës",
+            "Rebecca Pauly",
+            "Paulo Branco",
+            "Anne Alvaro"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un Américain et un Portugais jouent au poker une île qui n'existe que dans leurs rêves, leurs souvenirs et leurs spéculations."
+            }
+          ]
+        },
+        {
+          "idSeance": 16891,
+          "ordre": 1,
+          "dateHeure": "2016-05-07T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7929,
+          "typeEvenement": 13,
+          "idFilm": 126920,
+          "art": "Le",
+          "titre": "Professeur Taranne",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1987,
+          "pays": "France-Belgique",
+          "duree": 53,
+          "version": "",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Jacqueline Bollen",
+            "Marie-Luce Bonfanti",
+            "Ionna Gkizas"
+          ],
+          "adaptation": "D'après la pièce _Le Professeur Taranne_ d'Athur Adamov.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un professeur d'Université vaniteux est soumis à une série de confrontations absurdes et inquiétantes."
+            }
+          ]
+        },
+        {
+          "idSeance": 16891,
+          "ordre": 2,
+          "dateHeure": "2016-05-07T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7929,
+          "typeEvenement": 13,
+          "idFilm": 51154,
+          "art": "La",
+          "titre": "Présence réelle TV",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1984,
+          "pays": "France",
+          "duree": 62,
+          "version": "",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Frank Oger",
+            "Nadège Clair",
+            "Camila Mora"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "« L'INA m'avait demandé une vision personnelle du Festival d'Avignon et c'est devenu une fiction autour du théâtre » (Ruiz)"
+            }
+          ]
+        },
+        {
+          "idSeance": 16241,
+          "ordre": 1,
+          "dateHeure": "2016-05-28T18:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7470,
+          "typeEvenement": 13,
+          "idFilm": 77390,
+          "titre": "Richard III",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1984,
+          "pays": "France-Suisse",
+          "duree": 135,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": 0,
+          "generique": [
+            "Ariel Garcia Valdés",
+            "Gilles Arbona",
+            "Marc Betton"
+          ],
+          "adaptation": "D'après la pièce _Richard III_ de William Shakespeare.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Adaptation de la célèbre pièce de Shakespeare, librement inspirée de la mise en scène de Georges Lavaudant (festival d'Avignon,1984)"
+            },
+            {
+              "typeTexte": 99,
+              "texte": "_Sous réserve._"
+            }
+          ]
+        },
+        {
+          "idSeance": 17070,
+          "ordre": 1,
+          "dateHeure": "2016-04-14T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7501,
+          "typeEvenement": 13,
+          "idFilm": 54221,
+          "titre": "Régime sans pain",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1984,
+          "pays": "France",
+          "duree": 74,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Anne Alvaro",
+            "Olivier Angèle",
+            "Gérard Maimone"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une comédie musicale narrant les péripéties de Jason III, souverain de la principauté rock du Vercors, qui doit être prochainement destitué."
+            }
+          ]
+        },
+        {
+          "idSeance": 16977,
+          "ordre": 1,
+          "dateHeure": "2016-04-27T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7501,
+          "typeEvenement": 13,
+          "idFilm": 54221,
+          "titre": "Régime sans pain",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1984,
+          "pays": "France",
+          "duree": 74,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Anne Alvaro",
+            "Olivier Angèle",
+            "Gérard Maimone"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une comédie musicale narrant les péripéties de Jason III, souverain de la principauté rock du Vercors, qui doit être prochainement destitué."
+            }
+          ]
+        },
+        {
+          "idSeance": 16038,
+          "ordre": 3,
+          "dateHeure": "2016-04-20T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7922,
+          "typeEvenement": 13,
+          "idFilm": 126889,
+          "art": "Las",
+          "titre": "Soledades",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1992,
+          "pays": "Grande-Bretagne",
+          "duree": 20,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": 0,
+          "generique": [
+            "Jean Badin"
+          ],
+          "adaptation": "D'après l'ouvrage _ Las Soledades_ de Luis de Góngora y Argote.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "« La nuit du 25 août 1992, je fus réveillé par des bruits dans la salle à manger de mon appartement parisien. J'eus alors la surprise d'y voir mon oncle, Juan Ruiz, mort 25 ans auparavant au Chili... »(Raoul Ruiz)"
+            }
+          ]
+        },
+        {
+          "idSeance": 16768,
+          "ordre": 1,
+          "dateHeure": "2016-04-08T20:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Paulo Branco",
+          "idCategorie": 525,
+          "idEvenement": 7480,
+          "typeEvenement": 13,
+          "idFilm": 64267,
+          "art": "Le",
+          "titre": "Temps retrouvé",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1998,
+          "pays": "France-Italie",
+          "duree": 169,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Catherine Deneuve",
+            "Emmanuelle Béart",
+            "Vincent Perez",
+            "John Malkovich"
+          ],
+          "adaptation": "D'après le roman _A la recherche du temps perdu_ de Marcel Proust.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sur son lit de mort, Marcel Proust se remémore chacune de ses rencontres, auxquelles viennent se mêler les personnages qu'il a lui-même inventé."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 2K par Le Petit Bureau avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 16201,
+          "ordre": 1,
+          "dateHeure": "2016-05-21T19:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7480,
+          "typeEvenement": 13,
+          "idFilm": 64267,
+          "art": "Le",
+          "titre": "Temps retrouvé",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1998,
+          "pays": "France-Italie",
+          "duree": 169,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Catherine Deneuve",
+            "Emmanuelle Béart",
+            "Vincent Perez",
+            "John Malkovich"
+          ],
+          "adaptation": "D'après le roman _A la recherche du temps perdu_ de Marcel Proust.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sur son lit de mort, Marcel Proust se remémore chacune de ses rencontres, auxquelles viennent se mêler les personnages qu'il a lui-même inventé."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 2K par Le Petit Bureau avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 16982,
+          "ordre": 1,
+          "dateHeure": "2016-04-30T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "mention": "Séance présentée par Joël Daire",
+          "idCategorie": 525,
+          "idEvenement": 7915,
+          "typeEvenement": 13,
+          "idFilm": 126899,
+          "titre": "Terre de sorciers",
+          "artVo": "La",
+          "titreVo": "Recta provincia TV",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2007,
+          "pays": "Chili-France",
+          "duree": 160,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Bélgica Castro",
+            "Ignacio Agüero",
+            "Ángel Parra"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La Recta Provincia est une sorte de secte conduite par des sorcières, sur la plus grande île d'Amérique su Sud, berceau des mythes fondateurs de la culture chilienne."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Postproduction de la version cinématographique par la Cinémathèque française avec le soutien du Conseil National de la Culture et des Arts du Chili."
+            }
+          ]
+        },
+        {
+          "idSeance": 16923,
+          "ordre": 1,
+          "dateHeure": "2016-05-30T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7915,
+          "typeEvenement": 13,
+          "idFilm": 126899,
+          "titre": "Terre de sorciers",
+          "artVo": "La",
+          "titreVo": "Recta provincia TV",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2007,
+          "pays": "Chili-France",
+          "duree": 160,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Bélgica Castro",
+            "Ignacio Agüero",
+            "Ángel Parra"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La Recta Provincia est une sorte de secte conduite par des sorcières, sur la plus grande île d'Amérique su Sud, berceau des mythes fondateurs de la culture chilienne."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Postproduction de la version cinématographique par la Cinémathèque française avec le soutien du Conseil National de la Culture et des Arts du Chili."
+            }
+          ]
+        },
+        {
+          "idSeance": 16179,
+          "ordre": 1,
+          "dateHeure": "2016-05-16T21:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7515,
+          "typeEvenement": 13,
+          "idFilm": 44145,
+          "art": "Le",
+          "titre": "Territoire",
+          "artVo": "O",
+          "titreVo": "Territorio",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1981,
+          "pays": "Portugal",
+          "duree": 104,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Rebecca Pauly",
+            "Geoffrey Carey"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un groupe de vacanciers part en randonnée dans les bois. Très vite leur guide les abandonne. Ils se retrouvent perdus dans « le territoire », une zone qui résiste à l'entendement."
+            }
+          ]
+        },
+        {
+          "idSeance": 16220,
+          "ordre": 1,
+          "dateHeure": "2016-05-25T21:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7515,
+          "typeEvenement": 13,
+          "idFilm": 44145,
+          "art": "Le",
+          "titre": "Territoire",
+          "artVo": "O",
+          "titreVo": "Territorio",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1981,
+          "pays": "Portugal",
+          "duree": 104,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Rebecca Pauly",
+            "Geoffrey Carey"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un groupe de vacanciers part en randonnée dans les bois. Très vite leur guide les abandonne. Ils se retrouvent perdus dans « le territoire », une zone qui résiste à l'entendement."
+            }
+          ]
+        },
+        {
+          "idSeance": 16211,
+          "ordre": 1,
+          "dateHeure": "2016-05-22T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7478,
+          "typeEvenement": 13,
+          "idFilm": 56615,
+          "art": "Le",
+          "titre": "Toit de la baleine",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1981,
+          "pays": "France-Pays-Bas",
+          "duree": 93,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Jean Badin",
+            "Fernando Bordeu",
+            "Willeke Van Ammelrooy"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Parodie de l'impérialisme : un anthropologue tente d'apprendre le langage d'un des derniers survivants d'une tribu indienne de Patagonie."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Numérisé par la Cinémathèque française."
+            }
+          ]
+        },
+        {
+          "idSeance": 16939,
+          "ordre": 1,
+          "dateHeure": "2016-05-29T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7478,
+          "typeEvenement": 13,
+          "idFilm": 56615,
+          "art": "Le",
+          "titre": "Toit de la baleine",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1981,
+          "pays": "France-Pays-Bas",
+          "duree": 93,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Jean Badin",
+            "Fernando Bordeu",
+            "Willeke Van Ammelrooy"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Parodie de l'impérialisme : un anthropologue tente d'apprendre le langage d'un des derniers survivants d'une tribu indienne de Patagonie."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Numérisé par la Cinémathèque française."
+            }
+          ]
+        },
+        {
+          "idSeance": 16038,
+          "ordre": 4,
+          "dateHeure": "2016-04-20T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7922,
+          "typeEvenement": 13,
+          "idFilm": 126919,
+          "titre": "Tous les nuages sont des horloges",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1988,
+          "pays": "France-Suisse",
+          "duree": 62,
+          "version": "",
+          "format": "16 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Jessica Forde",
+            "Alain Sachs"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une maison de campagne, le soir. Un couple rentre chez lui et trouve à l'intérieur de sa maison un huissier occupé à dresser un état des lieux."
+            }
+          ]
+        },
+        {
+          "idSeance": 15924,
+          "ordre": 1,
+          "dateHeure": "2016-03-30T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "mention": "Ouverture de la rétrospective",
+          "idCategorie": 525,
+          "idEvenement": 10164,
+          "typeEvenement": 13,
+          "idFilm": 51155,
+          "art": "Les",
+          "titre": "Trois couronnes du matelot",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1982,
+          "pays": "France",
+          "duree": 117,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Jean-Bernard Guillard",
+            "Philippe Deplanche",
+            "Jean Badin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lors d'une nuit brumeuse, un marin accepte de raconter ses incroyables aventures à un jeune étudiant de passage pour la modique somme de trois couronnes."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+            }
+          ]
+        },
+        {
+          "idSeance": 16219,
+          "ordre": 1,
+          "dateHeure": "2016-05-25T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 10164,
+          "typeEvenement": 13,
+          "idFilm": 51155,
+          "art": "Les",
+          "titre": "Trois couronnes du matelot",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1982,
+          "pays": "France",
+          "duree": 117,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Jean-Bernard Guillard",
+            "Philippe Deplanche",
+            "Jean Badin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lors d'une nuit brumeuse, un marin accepte de raconter ses incroyables aventures à un jeune étudiant de passage pour la modique somme de trois couronnes."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+            }
+          ]
+        },
+        {
+          "idSeance": 16886,
+          "ordre": 1,
+          "dateHeure": "2016-05-19T21:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7477,
+          "typeEvenement": 13,
+          "idFilm": 43953,
+          "titre": "Trois tristes tigres",
+          "titreVo": "Tres tristes tigres",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1968,
+          "pays": "Chili",
+          "duree": 105,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Shenda Román",
+            "Nelson Villagra",
+            "Luis Alarcón"
+          ],
+          "adaptation": "D'après la pièce _Tres tristes tigres_ d'Alejandro Sieveking.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A Santiago, trois personnages marginaux (un frère, sa sœur et un ami) dans leurs pérégrinations nocturnes à la recherche d'un travail, d'une rencontre, d'eux-mêmes..."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par l'Association des Amis de Raoul Ruiz avec le soutien du Conseil National de la Culture et des Arts du Chili."
+            }
+          ]
+        },
+        {
+          "idSeance": 16240,
+          "ordre": 1,
+          "dateHeure": "2016-05-28T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7477,
+          "typeEvenement": 13,
+          "idFilm": 43953,
+          "titre": "Trois tristes tigres",
+          "titreVo": "Tres tristes tigres",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1968,
+          "pays": "Chili",
+          "duree": 105,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Shenda Román",
+            "Nelson Villagra",
+            "Luis Alarcón"
+          ],
+          "adaptation": "D'après la pièce _Tres tristes tigres_ d'Alejandro Sieveking.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A Santiago, trois personnages marginaux (un frère, sa sœur et un ami) dans leurs pérégrinations nocturnes à la recherche d'un travail, d'une rencontre, d'eux-mêmes..."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par l'Association des Amis de Raoul Ruiz avec le soutien du Conseil National de la Culture et des Arts du Chili."
+            }
+          ]
+        },
+        {
+          "idSeance": 17111,
+          "ordre": 1,
+          "dateHeure": "2016-04-03T20:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 9577,
+          "typeEvenement": 13,
+          "idFilm": 59924,
+          "titre": "Trois vies et une seule mort",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1995,
+          "pays": "France-Portugal",
+          "duree": 123,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Marcello Mastroianni",
+            "Anna Galiena",
+            "Marisa Paredes",
+            "Melvil Poupaud"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'histoire d'un homme aux personnalités multiples. S'il dispose de trois vies, il n'a qu'une seule mort, tragique, car on ne vit pas impunément plusieurs vies."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 2K par Le Petit Bureau avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 16195,
+          "ordre": 1,
+          "dateHeure": "2016-05-20T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 9577,
+          "typeEvenement": 13,
+          "idFilm": 59924,
+          "titre": "Trois vies et une seule mort",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1995,
+          "pays": "France-Portugal",
+          "duree": 123,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Marcello Mastroianni",
+            "Anna Galiena",
+            "Marisa Paredes",
+            "Melvil Poupaud"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'histoire d'un homme aux personnalités multiples. S'il dispose de trois vies, il n'a qu'une seule mort, tragique, car on ne vit pas impunément plusieurs vies."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 2K par Le Petit Bureau avec le soutien du CNC."
+            }
+          ]
+        },
+        {
+          "idSeance": 16885,
+          "ordre": 1,
+          "dateHeure": "2016-05-14T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7494,
+          "typeEvenement": 13,
+          "idFilm": 87316,
+          "titre": "Une place parmi les vivants",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2003,
+          "pays": "France",
+          "duree": 105,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Christian Vadim",
+            "Thierry Gibault",
+            "Valérie Kaprisky"
+          ],
+          "adaptation": "D'après le roman _Une place parmi les vivants_ de Jean-Pierre Gattegno.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans le Montmartre des années 50, Ernest Ripper, un écrivain qui doute de son talent, est contacté par Arcimboldo, un homme étrange qui prétend être le tueur en série qui défraie la chronique à Paris. Celui-ci lui propose de rédiger ses mémoires..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16229,
+          "ordre": 1,
+          "dateHeure": "2016-05-26T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7494,
+          "typeEvenement": 13,
+          "idFilm": 87316,
+          "titre": "Une place parmi les vivants",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2003,
+          "pays": "France",
+          "duree": 105,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Christian Vadim",
+            "Thierry Gibault",
+            "Valérie Kaprisky"
+          ],
+          "adaptation": "D'après le roman _Une place parmi les vivants_ de Jean-Pierre Gattegno.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans le Montmartre des années 50, Ernest Ripper, un écrivain qui doute de son talent, est contacté par Arcimboldo, un homme étrange qui prétend être le tueur en série qui défraie la chronique à Paris. Celui-ci lui propose de rédiger ses mémoires..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16928,
+          "ordre": 2,
+          "dateHeure": "2016-05-21T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7900,
+          "typeEvenement": 13,
+          "idFilm": 126430,
+          "art": "La",
+          "titre": "Valise",
+          "artVo": "La",
+          "titreVo": "Maleta",
+          "realisateurs": "Raúl Ruiz",
+          "annee": 1960,
+          "pays": "Chili",
+          "duree": 25,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": 0,
+          "generique": [
+            "Hector Duvauchelle",
+            "Gastón Duvauchelle",
+            "Orietta Escámez"
+          ],
+          "adaptation": "D'après la pièce de théâtre _La Maleta_ de Raoul Ruiz.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un homme se promène dans la ville avec une valise contenant un homme beaucoup plus petit que lui..."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Premier film de Ruiz considéré comme perdu. Le négatif original a été retrouvé et réédité par le cinéaste en 2007. Conservé par la Cineteca de la Universidad de Chile."
+            }
+          ]
+        },
+        {
+          "idSeance": 17113,
+          "ordre": 1,
+          "dateHeure": "2016-04-07T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 9146,
+          "typeEvenement": 13,
+          "idFilm": 126894,
+          "titre": "Vertige de la page blanche",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2003,
+          "pays": "Belgique",
+          "duree": 81,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "generique": [
+            "Pascale Anin",
+            "Patrick Azam",
+            "Philippe Bombled"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Exercice cinématographique qui cherche à briser les règles de la narration traditionnelle. Le thème principal est la justice et les jurés, l'acte de juger à tous les niveaux possibles."
+            }
+          ]
+        },
+        {
+          "idSeance": 16881,
+          "ordre": 1,
+          "dateHeure": "2016-05-12T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 9146,
+          "typeEvenement": 13,
+          "idFilm": 126894,
+          "titre": "Vertige de la page blanche",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 2003,
+          "pays": "Belgique",
+          "duree": 81,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "generique": [
+            "Pascale Anin",
+            "Patrick Azam",
+            "Philippe Bombled"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Exercice cinématographique qui cherche à briser les règles de la narration traditionnelle. Le thème principal est la justice et les jurés, l'acte de juger à tous les niveaux possibles."
+            }
+          ]
+        },
+        {
+          "idSeance": 17026,
+          "ordre": 1,
+          "dateHeure": "2016-04-16T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7926,
+          "typeEvenement": 13,
+          "idFilm": 126918,
+          "titre": "Viaggio clandestino – Vite di santi e di peccatori",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1994,
+          "pays": "Italie",
+          "duree": 59,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": 0,
+          "generique": [
+            "Donato Castellaneta",
+            "Marco Cavicchioli",
+            "Marco Manchisi"
+          ],
+          "adaptation": "D'après l'ouvrage _La vie est un songe_ de Pedro Calderón de la Barca.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Mario est un homme banal qui erre dans la campagne. Sur son chemin il rencontre Jésus Christ..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16924,
+          "ordre": 1,
+          "dateHeure": "2016-05-22T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7926,
+          "typeEvenement": 13,
+          "idFilm": 126918,
+          "titre": "Viaggio clandestino – Vite di santi e di peccatori",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1994,
+          "pays": "Italie",
+          "duree": 59,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "ageMinimal": 0,
+          "generique": [
+            "Donato Castellaneta",
+            "Marco Cavicchioli",
+            "Marco Manchisi"
+          ],
+          "adaptation": "D'après l'ouvrage _La vie est un songe_ de Pedro Calderón de la Barca.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Mario est un homme banal qui erre dans la campagne. Sur son chemin il rencontre Jésus Christ..."
+            }
+          ]
+        },
+        {
+          "idSeance": 16738,
+          "ordre": 1,
+          "dateHeure": "2016-03-31T21:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 15933,
+          "idCategorie": 525,
+          "idEvenement": 7505,
+          "typeEvenement": 13,
+          "idFilm": 54676,
+          "art": "La",
+          "titre": "Ville des pirates",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1983,
+          "pays": "France-Portugal",
+          "duree": 111,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Hugues Quester",
+            "Anne Alvaro",
+            "Melvil Poupaud"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un univers onirique, l'amour impossible entre une jeune femme et un petit garçon criminel, incarnation du Mal."
+            }
+          ]
+        },
+        {
+          "idSeance": 16232,
+          "ordre": 1,
+          "dateHeure": "2016-05-27T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7505,
+          "typeEvenement": 13,
+          "idFilm": 54676,
+          "art": "La",
+          "titre": "Ville des pirates",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1983,
+          "pays": "France-Portugal",
+          "duree": 111,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Hugues Quester",
+            "Anne Alvaro",
+            "Melvil Poupaud"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un univers onirique, l'amour impossible entre une jeune femme et un petit garçon criminel, incarnation du Mal."
+            }
+          ]
+        },
+        {
+          "idSeance": 16851,
+          "ordre": 2,
+          "dateHeure": "2016-04-27T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 9576,
+          "typeEvenement": 13,
+          "idFilm": 126887,
+          "titre": "Visions et merveilles de la religion chrétienne",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1991,
+          "pays": "France-Italie",
+          "duree": 21,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": 0,
+          "adaptation": "D'après l'ouvrage _Arcana Celestia_ d'Emanuel Swedenborg.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les personnages sont tous en enfer, jouant comme s'il étaient dans une sitcom."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par l'Association des amis de Raoul Ruiz."
+            }
+          ]
+        },
+        {
+          "idSeance": 16880,
+          "ordre": 1,
+          "dateHeure": "2016-05-12T19:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7474,
+          "typeEvenement": 13,
+          "idFilm": 51148,
+          "art": "La",
+          "titre": "Vocation suspendue TV",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1977,
+          "pays": "France",
+          "duree": 93,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Didier Flamand",
+            "Gabriel Gascon"
+          ],
+          "adaptation": "D'après le roman _La Vocation Suspendue_ de Pierre Klossowski.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un abbé voit sa vocation troublée par les querelles idéologiques qui frappent sa communauté religieuse."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+            }
+          ]
+        },
+        {
+          "idSeance": 16226,
+          "ordre": 1,
+          "dateHeure": "2016-05-26T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7474,
+          "typeEvenement": 13,
+          "idFilm": 51148,
+          "art": "La",
+          "titre": "Vocation suspendue TV",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1977,
+          "pays": "France",
+          "duree": 93,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Didier Flamand",
+            "Gabriel Gascon"
+          ],
+          "adaptation": "D'après le roman _La Vocation Suspendue_ de Pierre Klossowski.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un abbé voit sa vocation troublée par les querelles idéologiques qui frappent sa communauté religieuse."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+            }
+          ]
+        },
+        {
+          "idSeance": 16038,
+          "ordre": 2,
+          "dateHeure": "2016-04-20T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 731,
+          "idEvenement": 7922,
+          "typeEvenement": 13,
+          "idFilm": 126917,
+          "titre": "Wind Water",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1995,
+          "pays": "Grande-Bretagne",
+          "duree": 5,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": null,
+          "generique": [
+            "Jean Badin",
+            "Chin Cheung",
+            "Abdelwahab Meddeb"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "_Wind and water_ met en scène un dialogue à trois entre la culture chinoise, arabe et occidentale. Les cultures interagissent et se testent mutuellement; le résultat, une insoluble dispute."
+            }
+          ]
+        },
+        {
+          "idSeance": 16789,
+          "ordre": 1,
+          "dateHeure": "2016-04-18T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7506,
+          "typeEvenement": 13,
+          "idFilm": 51153,
+          "art": "L'",
+          "titre": "Œil qui ment",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1992,
+          "pays": "France-Portugal",
+          "duree": 101,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "John Hurt",
+            "Didier Bourdon",
+            "Lorraine Evanoff",
+            "David Warner"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A la fin de la Grande Guerre, à Paris, Félicien, médecin spécialisé dans les guérisons inexplicables apprend, à la mort de son père, que la fortune familiale a été investie au Portugal. Il décide de se rendre sur place."
+            }
+          ]
+        },
+        {
+          "idSeance": 16214,
+          "ordre": 1,
+          "dateHeure": "2016-05-23T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 525,
+          "idEvenement": 7506,
+          "typeEvenement": 13,
+          "idFilm": 51153,
+          "art": "L'",
+          "titre": "Œil qui ment",
+          "titreVo": "",
+          "realisateurs": "Raoul Ruiz",
+          "annee": 1992,
+          "pays": "France-Portugal",
+          "duree": 101,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "John Hurt",
+            "Didier Bourdon",
+            "Lorraine Evanoff",
+            "David Warner"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A la fin de la Grande Guerre, à Paris, Félicien, médecin spécialisé dans les guérisons inexplicables apprend, à la mort de son père, que la fortune familiale a été investie au Portugal. Il décide de se rendre sur place."
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Autour de Raoul Ruiz",
+      "tri": 1,
+      "items": [
+        {
+          "idSeance": 16927,
+          "ordre": 2,
+          "dateHeure": "2016-04-07T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 544,
+          "idEvenement": 8797,
+          "typeEvenement": 13,
+          "idFilm": 127906,
+          "titre": "Raoul Not Making",
+          "titreVo": "",
+          "realisateurs": "Salvo Cuccia, Gaspare Pasciuta",
+          "annee": 1994,
+          "pays": "Italie",
+          "duree": 23,
+          "version": "VOSTF",
+          "format": "Vidéo",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Making of du tournage de L_e Voyage clandestin : vies de saints et de pécheurs_, contenant des interviews de Raoul Ruiz."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "En collaboration avec CRICD Filmoteca Regionale Siciliana et Abra&Cadabra."
+            }
+          ]
+        },
+        {
+          "idSeance": 16727,
+          "ordre": 1,
+          "dateHeure": "2016-04-02T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "mention": "Séance présentée par Alejandra Rojo",
+          "idCategorie": 544,
+          "idEvenement": 9582,
+          "typeEvenement": 13,
+          "idFilm": 129751,
+          "titre": "Raoul Ruiz, contre l'ignorance fiction.",
+          "titreVo": "",
+          "realisateurs": "Alejandra Rojo",
+          "annee": 2015,
+          "pays": "France",
+          "duree": 63,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "« A partir de nombreux extraits de films, d'interviews ainsi que de témoignages de collaborateurs et acteurs, ce documentaire dessine le portrait d'un grand artiste du XXe siècle qui a lutté contre l'uniformisation des imaginaires en construisant une œuvre ironique et inclassable » (A. Rojo)"
+            },
+            {
+              "typeTexte": 99,
+              "texte": "En avant-première."
+            }
+          ]
+        },
+        {
+          "idSeance": 16927,
+          "ordre": 1,
+          "dateHeure": "2016-04-07T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 544,
+          "idEvenement": 8797,
+          "typeEvenement": 13,
+          "idFilm": 128939,
+          "titre": "Raoul Ruiz, un portrait chilien",
+          "titreVo": "",
+          "realisateurs": "Jérôme Prieur",
+          "annee": 2006,
+          "pays": "France",
+          "duree": 60,
+          "version": "",
+          "format": "Vidéo",
+          "ageMinimal": null,
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 15933,
+          "dateHeure": "2016-03-31T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 16738,
+          "idCategorie": 736,
+          "idEvenement": 9624,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Cartographies maritimes imaginaires de Raoul Ruiz : « Nitrates d'outre-mer ! »",
+          "sousTitre": "Conférence de Gabriela Trujillo",
+          "duree": 90,
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "Périples, errances, jeux de l'oie et voyages initiatiques : Raoul Ruiz, fils de marin, est sans conteste l'un des grands maîtres dans l'art de la navigation. Son cinéma tresse faits divers, légendes, superstitions et adaptations-« poursuites » des grands classiques (Stevenson, Homère, Proust, Balzac) pour renouveler l'imaginaire de la traversée."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Docteure en cinéma, ancien professeur à l'École du Louvre et la New York University, **Gabriela Trujillo** est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille actuellement à l'Action culturelle de la Cinémathèque française."
+            },
+            {
+              "typeTexte": 114,
+              "texte": "Tarifs conférence : PT 4 €, TR 3 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 8.5 € (au lieu de 10.5 €)."
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Gabriela Trujillo",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        },
+        {
+          "idSeance": 16814,
+          "ordre": 2,
+          "dateHeure": "2016-04-03T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 736,
+          "idEvenement": 9684,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Paulo Branco",
+          "duree": 45,
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "« Quand Paulo Branco m'a proposé de réaliser les _Mystères de Lisbonne_, j'ai compris que j'attendais en fait ce genre de proposition depuis des années (depuis une éternité, diraient Vargas Vila et Nene Cascallar à l'unisson). Cette avalanche, cette cataracte d'avanies, de crimes et de désastres inattendus, ce fleuve d'amours douloureuses et d'espérances meurtries qui arrosait la vallée de larmes fertile que peuplaient les personnages de Camilo, je les connaissais depuis toujours. » (Raoul Ruiz)"
+            },
+            {
+              "typeTexte": 114,
+              "texte": "Tarifs séance : PT 6.5 €, TR 5.5 €, Libre Pass accès libre."
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Paulo Branco",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Gabriela Trujillo",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Gabriela Trujillo"
+        },
+        {
+          "idSeance": 15940,
+          "ordre": 2,
+          "dateHeure": "2016-04-02T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 736,
+          "idEvenement": 9625,
+          "typeEvenement": 14,
+          "idTypeConference": 19,
+          "typeConference": "Table ronde",
+          "titre": "Table ronde « Raoul Ruiz, un cinéaste sans limites »",
+          "duree": 60,
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "A l'occasion de la rétrospective Raoul Ruiz et à l'issue de la projection de _Généalogies d'un crime_, cette table ronde réunit  plusieurs collaborateurs du cinéaste: **Valeria Sarmiento**, monteuse, **Jorge Arriagada**, compositeur, **Pascal Bonitzer**, acteur et scénariste, **Benoît Peeters**, biographe et scénariste, ainsi que **Melvil Poupaud**, l'un de ses acteurs fétiches. Table ronde animée par **Frédéric Bonnaud**, directeur général de la Cinémathèque française."
+            },
+            {
+              "typeTexte": 114,
+              "texte": "Tarifs séance : PT 6.5 €, TR 5.5 €, Libre Pass accès libre."
+            }
+          ],
+          "intervenants": []
+        }
+      ],
+      "textes": []
+    }
+  ],
+  "info": {}
+}

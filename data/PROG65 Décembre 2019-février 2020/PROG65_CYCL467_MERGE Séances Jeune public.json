@@ -35,6 +35,10 @@
           ],
           "textes": [
             {
+              "typeTexte": 203,
+              "texte": "Des touristes anglais en voyage au Maroc sont témoin d'un meurtre. Juste avant de mourir le Français assassiné devant eux, essaie de leur communiquer un secret pour déjouer un attentat. Sauront-ils résoudre l'énigme à temps ?"
+            },
+            {
               "typeTexte": 9,
               "texte": "Les McKenna, en vacances au Maroc, rencontrent un français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, la fille McKenna est enlevée."
             },
@@ -73,6 +77,10 @@
           "adaptation": "D'après le roman _A shilling for candles_ de Josephine Tey.",
           "textes": [
             {
+              "typeTexte": 203,
+              "texte": "Tout semble accuser ce jeune homme dont la fiancée a été retrouvée assassinée. Mais grâce à la persévérance de la fille du chef de la police, il parviendra à déjouer les apparences !"
+            },
+            {
               "typeTexte": 9,
               "texte": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable."
             }
@@ -107,6 +115,10 @@
           "adaptation": "D'après le roman _A shilling for candles_ de Josephine Tey.",
           "textes": [
             {
+              "typeTexte": 203,
+              "texte": "Tout semble accuser ce jeune homme dont la fiancée a été retrouvée assassinée. Mais grâce à la persévérance de la fille du chef de la police, il parviendra à déjouer les apparences !"
+            },
+            {
               "typeTexte": 9,
               "texte": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable."
             }
@@ -140,6 +152,10 @@
           ],
           "adaptation": "D'après le roman _A shilling for candles_ de Josephine Tey.",
           "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Tout semble accuser ce jeune homme dont la fiancée a été retrouvée assassinée. Mais grâce à la persévérance de la fille du chef de la police, il parviendra à déjouer les apparences !"
+            },
             {
               "typeTexte": 9,
               "texte": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable."
@@ -282,6 +298,10 @@
             {
               "typeTexte": 9,
               "texte": "Confondu avec un membre du contre-espionnage américain, le publicitaire Roger O. Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Roger Thornhill a des problèmes d'identité. Il ne sait plus vraiment comment il s'appelle. Il se retrouve contraint de fuir à travers tout le pays dans une grande course qui le mènera jusqu'au Mont Rushmore, cette montagne où ont été sculptés les visages des premiers présidents des États-Unis."
             }
           ]
         },
@@ -316,6 +336,10 @@
             {
               "typeTexte": 9,
               "texte": "Confondu avec un membre du contre-espionnage américain, le publicitaire Roger O. Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Roger Thornhill a des problèmes d'identité. Il ne sait plus vraiment comment il s'appelle. Il se retrouve contraint de fuir à travers tout le pays dans une grande course qui le mènera jusqu'au Mont Rushmore, cette montagne où ont été sculptés les visages des premiers présidents des États-Unis."
             }
           ]
         },
@@ -350,6 +374,10 @@
             {
               "typeTexte": 9,
               "texte": "Confondu avec un membre du contre-espionnage américain, le publicitaire Roger O. Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Roger Thornhill a des problèmes d'identité. Il ne sait plus vraiment comment il s'appelle. Il se retrouve contraint de fuir à travers tout le pays dans une grande course qui le mènera jusqu'au Mont Rushmore, cette montagne où ont été sculptés les visages des premiers présidents des États-Unis."
             }
           ]
         },
@@ -381,6 +409,10 @@
             "Macdonald Carey"
           ],
           "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Charlie est à la fois la nièce et la filleule de son oncle Charlie. C'est pour cette raison qu'ils portent le même prénom, et c'est par ce lien invisible que Charlie, la nièce, va réussir à percer le secret de Charlie, l'oncle."
+            },
             {
               "typeTexte": 9,
               "texte": "Recherché pour meurtre par la police, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais la jeune fille commence peu à peu à avoir des soupçons le concernant."
@@ -416,6 +448,10 @@
           ],
           "textes": [
             {
+              "typeTexte": 203,
+              "texte": "Charlie est à la fois la nièce et la filleule de son oncle Charlie. C'est pour cette raison qu'ils portent le même prénom, et c'est par ce lien invisible que Charlie, la nièce, va réussir à percer le secret de Charlie, l'oncle."
+            },
+            {
               "typeTexte": 9,
               "texte": "Recherché pour meurtre par la police, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais la jeune fille commence peu à peu à avoir des soupçons le concernant."
             }
@@ -450,12 +486,17 @@
           ],
           "textes": [
             {
+              "typeTexte": 203,
+              "texte": "Charlie est à la fois la nièce et la filleule de son oncle Charlie. C'est pour cette raison qu'ils portent le même prénom, et c'est par ce lien invisible que Charlie, la nièce, va réussir à percer le secret de Charlie, l'oncle."
+            },
+            {
               "typeTexte": 9,
               "texte": "Recherché pour meurtre par la police, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais la jeune fille commence peu à peu à avoir des soupçons le concernant."
             }
           ]
         }
-      ]
+      ],
+      "textes": []
     },
     {
       "titreSousCycle": "De Sica junior",
@@ -492,6 +533,10 @@
           "adaptation": "D'après le roman _Toto il buono_ de Cesare Zavattini.",
           "textes": [
             {
+              "typeTexte": 203,
+              "texte": "Malgré la misère, le jeune Toto est toujours heureux. Quand il doit emménager dans un bidonville, il entreprend de le transformer en un lieu enchanté !"
+            },
+            {
               "typeTexte": 9,
               "texte": "À peine sorti de l'orphelinat, Totò rejoint les clochards d'un bidonville, qu'il essaie d'aménager au mieux, dans la bonne humeur. Mais un homme d'affaires, ayant découvert du pétrole sur leur terrain, les menace d'expulsion."
             }
@@ -526,12 +571,17 @@
           "adaptation": "D'après le roman _Toto il buono_ de Cesare Zavattini.",
           "textes": [
             {
+              "typeTexte": 203,
+              "texte": "Malgré la misère, le jeune Toto est toujours heureux. Quand il doit emménager dans un bidonville, il entreprend de le transformer en un lieu enchanté !"
+            },
+            {
               "typeTexte": 9,
               "texte": "À peine sorti de l'orphelinat, Totò rejoint les clochards d'un bidonville, qu'il essaie d'aménager au mieux, dans la bonne humeur. Mais un homme d'affaires, ayant découvert du pétrole sur leur terrain, les menace d'expulsion."
             }
           ]
         }
-      ]
+      ],
+      "textes": []
     },
     {
       "titreSousCycle": "Les inventeurs fous",
@@ -558,7 +608,12 @@
           "version": "VF",
           "format": "DCP",
           "ageMinimal": null,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Simon Hart et le professeur Roch sont deux chercheurs très brillants et imaginatifs. Tombés entre les mains du terrible Comte d'Argilas, leurs recherches sur la désintégration de la matière pourraient s'avérer dangereuses pour l'ensemble de la planète !"
+            }
+          ]
         },
         {
           "idSeance": 33013,
@@ -586,7 +641,16 @@
             "Philippe Katerine",
             "Jean Rochefort"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Dans ce monde étrange où deux tours Eiffel dominent Paris, Avril devra faire preuve de ruse et de courage pour arriver retrouver ses parents deux scientifiques qui ont mystérieusement disparu."
+            },
+            {
+              "typeTexte": 203,
+              "texte": "Dans ce monde étrange où deux tours Eiffel dominent Paris,Avril devra faire preuve de ruse et de courage pour arriver retrouver ses parents qui ont mystérieusement disparu. Elle est aidée de son chat Darwin, doué de parole et d'esprit, de Pops son grand-père excentrique et de Julius qui deviendra un peu plus qu'un ami. Les dessins nous entraînent dans l'univers des bandes dessinées de Tardi et l'histoire évoque les plus incroyables trouvailles de Jules Verne, le tout compose un grand film d'aventures."
+            }
+          ]
         },
         {
           "idSeance": 33009,
@@ -611,7 +675,12 @@
           "format": "DCP",
           "ageMinimal": 10,
           "adaptation": "D'après le roman _Howl's moving castle_ de Diana Wynne Jones.",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Sophie fait la rencontre d'un jeune sorcier mystérieux. Jalouse de cette rencontre, la sorcière des Landes va transformer Sophie en vieille dame de quatre-vingt-dix ans. Pour cacher cette transformation jusqu'à la fin du sortilège, elle s'enfuit de chez elle et se réfugie dans une incroyable machine volante."
+            }
+          ]
         },
         {
           "idSeance": 32436,
@@ -640,7 +709,12 @@
             "Charles Coburn",
             "Marilyn Monroe"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un brillant chimiste cherche à fabriquer un élixir qui permettrait de rajeunir. Une guenon, présente dans le laboratoire, trouve la bonne formule. Un vent de folie se met alors à souffler dans le laboratoire."
+            }
+          ]
         },
         {
           "idSeance": 32565,
@@ -668,7 +742,12 @@
             "Winona Ryder",
             "Dianne Wiest"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "« Il était une fois un homme qui avait des ciseaux à la place des mains... » Et à l'approche de la nuit de Noël, d'étranges souvenirs lui reviennent en mémoire. Il se souvient de son inventeur de père, mort trop tôt pour terminer son œuvre."
+            }
+          ]
         },
         {
           "idSeance": 32651,
@@ -699,7 +778,12 @@
             "Elsa Lanchester"
           ],
           "adaptation": "D'après le roman _Frankenstein or The Modern Prometheus_ de Mary Shelley.",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Une nouvelle expérience s'organise dans le laboratoire d'un savant fou : cette fois, le professeur Pretorius veut créer un être féminin. Cette belle fiancée, à la coiffure étonnante, trouvera-t-elle l'homme de sa vie ?"
+            }
+          ]
         },
         {
           "idSeance": 32608,
@@ -722,7 +806,12 @@
           "version": "VF",
           "format": "DCP",
           "ageMinimal": 8,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Victor Frankenstein se passionne pour ses cours de science, surtout depuis que son chien Saparky, est mort. Il ne rêve plus que d'une chose : le ramener à la vie grâce à l'énergie de la foudre."
+            }
+          ]
         },
         {
           "idSeance": 32479,
@@ -750,7 +839,12 @@
             "Christopher Lloyd",
             "Lea Thompson"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Doc, un scientifique farfelu a inventé une machine à voyager dans le temps. Marty, son jeune acolyte va l'utiliser et être ramené à l'époque où ses parents ne se connaissaient pas. Sans le vouloir, il va empêcher leur rencontre et donc, sa future naissance ! Le bal de fin d'année de leur lycée va être décisif pour essayer de tout remettre en ordre..."
+            }
+          ]
         },
         {
           "idSeance": 32659,
@@ -780,7 +874,12 @@
             "Philippe Derrez"
           ],
           "adaptation": "D'après le conte _La Bergère et la ramoneur_ de Hans Christian Andersen.",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Une bergère et un petit ramoneur s'aiment du plus grand des amours, ce qui déplaît au Roi Charles V et Trois font Huit et huit font Seize. Alors que les amoureux tentent de fuir le royaume de Takicardie, le roi lance à leur poursuite un gigantesque robot."
+            }
+          ]
         },
         {
           "idSeance": 32981,
@@ -809,9 +908,15 @@
             "Paulette Goddard",
             "Henry Bergman"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Le monde moderne est sans pitié pour les plus pauvres, on pense même à inventer une machine pour manger tout en continuant à travailler ! Pauvre Charlot qui lui préférerait prendre le temps de conter fleurette à son amoureuse !"
+            }
+          ]
         }
-      ]
+      ],
+      "textes": []
     },
     {
       "titreSousCycle": "Programme de courts métrages : Folles inventions",
@@ -819,7 +924,7 @@
       "items": [
         {
           "idSeance": 32980,
-          "ordre": 1,
+          "ordre": 3,
           "dateHeure": "2020-02-19T15:00:00",
           "idSalle": [
             "HL",
@@ -834,7 +939,10 @@
           "realisateurs": "René Clair",
           "annee": 1923,
           "pays": "France",
-          "ageMinimal": 0,
+          "duree": 0,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "ageMinimal": 6,
           "generique": [
             "Henri Rollan",
             "Madeleine Rodrigue",
@@ -844,7 +952,7 @@
         },
         {
           "idSeance": 32980,
-          "ordre": 2,
+          "ordre": 1,
           "dateHeure": "2020-02-19T15:00:00",
           "idSalle": [
             "HL",
@@ -859,32 +967,15 @@
           "realisateurs": "Emmanuel Clot",
           "annee": 1980,
           "pays": "France",
+          "duree": 8,
+          "version": "",
+          "format": "35 mm",
           "ageMinimal": null,
           "textes": []
         },
         {
           "idSeance": 32980,
-          "ordre": 3,
-          "dateHeure": "2020-02-19T15:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 2192,
-          "idEvenement": 21407,
-          "typeEvenement": 13,
-          "idFilm": 111950,
-          "titre": "Plastic and glass",
-          "titreVo": "",
-          "realisateurs": "Tessa Joosse",
-          "annee": 2009,
-          "pays": "France",
-          "ageMinimal": 6,
-          "textes": []
-        },
-        {
-          "idSeance": 32980,
-          "ordre": 4,
+          "ordre": 2,
           "dateHeure": "2020-02-19T15:00:00",
           "idSalle": [
             "HL",
@@ -900,8 +991,17 @@
           "realisateurs": "Michel Ocelot",
           "annee": 1979,
           "pays": "France",
+          "duree": 13,
+          "version": "VF",
+          "format": "DCP",
           "ageMinimal": null,
           "textes": []
+        }
+      ],
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Les inventeurs ont parfois de bien curieuses idées : une machine qui endort tout le monde, un manège incroyable en plein milieu de la forêt ou encore des drôles de machines qui servent à s'envoler."
         }
       ]
     },
@@ -909,6 +1009,29 @@
       "titreSousCycle": "Programme de courts métrages : Le bonhomme de neige",
       "tri": 4,
       "items": [
+        {
+          "idSeance": 32970,
+          "ordre": 6,
+          "dateHeure": "2019-11-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2193,
+          "idEvenement": 21436,
+          "typeEvenement": 13,
+          "idFilm": 128282,
+          "titre": "Bon voyage, Dimitri ! : Flocon de neige",
+          "titreVo": "",
+          "realisateurs": "Natalia Chernysheva",
+          "annee": 2012,
+          "pays": "Russie",
+          "duree": 5,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        },
         {
           "idSeance": 32970,
           "ordre": 1,
@@ -920,15 +1043,162 @@
           "idCategorie": 2193,
           "idEvenement": 21436,
           "typeEvenement": 13,
-          "idFilm": 63804,
-          "art": "L'",
-          "titre": "Enfant au grelot",
+          "idFilm": 65791,
+          "art": "Le",
+          "titre": "Bonhomme de neige",
           "titreVo": "",
-          "realisateurs": "Janet Perlman, Sarah Roper, Jacques-Rémy Girerd, [etc.]",
-          "annee": 1997,
-          "pays": "France-Canada",
-          "ageMinimal": 4,
+          "realisateurs": "Anonyme",
+          "annee": 1909,
+          "pays": "France",
+          "ageMinimal": null,
           "textes": []
+        },
+        {
+          "idSeance": 32970,
+          "ordre": 3,
+          "dateHeure": "2019-11-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2193,
+          "idEvenement": 21436,
+          "typeEvenement": 13,
+          "idFilm": 95713,
+          "titre": "Fables d'été, fables d'hiver : Bonhommes",
+          "titreVo": "",
+          "realisateurs": "Cecilia Marreiros Marum",
+          "annee": 2003,
+          "pays": "France-Belgique",
+          "duree": 9,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        },
+        {
+          "idSeance": 32970,
+          "ordre": 8,
+          "dateHeure": "2019-11-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2193,
+          "idEvenement": 21436,
+          "typeEvenement": 13,
+          "idFilm": 123252,
+          "titre": "Histoires d'ours",
+          "titreVo": "Medvezhyi istoriyi",
+          "realisateurs": "Mikhail Aldashin",
+          "annee": 2009,
+          "pays": "Russie",
+          "duree": 13,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        },
+        {
+          "idSeance": 32970,
+          "ordre": 4,
+          "dateHeure": "2019-11-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2193,
+          "idEvenement": 21436,
+          "typeEvenement": 13,
+          "idFilm": 143269,
+          "art": "La",
+          "titre": "Luge et dragon",
+          "titreVo": "Devotchka drakon i papa",
+          "realisateurs": "Eugenia Zhirkova",
+          "annee": 2017,
+          "pays": "Russie",
+          "duree": 3,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        },
+        {
+          "idSeance": 32970,
+          "ordre": 5,
+          "dateHeure": "2019-11-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2193,
+          "idEvenement": 21436,
+          "typeEvenement": 13,
+          "idFilm": 132699,
+          "art": "La",
+          "titre": "Moufle",
+          "titreVo": "",
+          "realisateurs": "Clémentine Robach",
+          "annee": 2014,
+          "pays": "France",
+          "duree": 8,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        },
+        {
+          "idSeance": 32970,
+          "ordre": 2,
+          "dateHeure": "2019-11-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2193,
+          "idEvenement": 21436,
+          "typeEvenement": 13,
+          "idFilm": 143284,
+          "art": "Le",
+          "titre": "Réveilleur",
+          "titreVo": "Awaker",
+          "realisateurs": "Filip Diviak",
+          "annee": 2017,
+          "pays": "République tchèque",
+          "duree": 9,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        },
+        {
+          "idSeance": 32970,
+          "ordre": 7,
+          "dateHeure": "2019-11-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2193,
+          "idEvenement": 21436,
+          "typeEvenement": 13,
+          "idFilm": 143285,
+          "titre": "Une maison",
+          "titreVo": "Karo to Piyobuto Ochi",
+          "realisateurs": "Kôji Yamamura",
+          "annee": 1993,
+          "pays": "Japon",
+          "duree": 4,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": []
+        }
+      ],
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "C'est l'hiver et la neige a étendu son blanc manteau sur tous les paysages. C'est le moment de faire des bonshommes ou des batailles de boules de neige, de la luge ou encore de trouver un abri où se mettre au chaud avec ses amis."
         }
       ]
     },
@@ -959,7 +1229,12 @@
           "version": "VF",
           "format": "DCP",
           "ageMinimal": null,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "L'eau a disparu, la sécheresse règne dans la forêt. C'est le Roi des Ours qui la retient pour son seul plaisir. Il faudra une bonne dose de courage mais aussi pas mal d'insouciance à une jeune hérissonne accompagnée d'un petit écureuil pour libérer l'eau, rassembler les animaux et sauver la vie dans la forêt. Une fable écologique adaptée d'un livre de 1956 qui reste d'une très grande actualité."
+            }
+          ]
         },
         {
           "idSeance": 32143,
@@ -982,14 +1257,21 @@
           "version": "",
           "format": "DCP",
           "ageMinimal": null,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "4 films espiègles où l'on fait d'étonnantes rencontres, où l'on apprend à être attentifs à la nature mais aussi à ceux qui l'habitent. Dans Neige, une incroyable tempête se déclenche juste à la veille des grandes vacances et soudain c'est l'hiver en plein cœur de l'été ! Durée totale : 51 min"
+            }
+          ]
         }
-      ]
+      ],
+      "textes": []
     },
     {
       "titreSousCycle": "Les 4 saisons de Marie Bobine",
       "tri": 4,
-      "items": []
+      "items": [],
+      "textes": []
     }
   ],
   "info": {}

@@ -1,0 +1,2689 @@
+[
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 10164,
+    "idSeance": 15924,
+    "dateHeure": "2016-03-30T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeSeance": 44,
+    "items": [
+      {
+        "idFilm": 51155,
+        "ordre": 1,
+        "idSeance": 15924,
+        "idCopie": 7237,
+        "duree": 117,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 736,
+    "typeEvenement": 14,
+    "idEvenement": 9624,
+    "idSeance": 15933,
+    "dateHeure": "2016-03-31T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "idSeanceAssoc": 16738,
+    "typeAssoc": 117,
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7505,
+    "idSeance": 16738,
+    "dateHeure": "2016-03-31T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "idSeanceAssoc": 15933,
+    "typeAssoc": 117,
+    "items": [
+      {
+        "idFilm": 54676,
+        "ordre": 1,
+        "idSeance": 16738,
+        "idCopie": 7752,
+        "duree": 111,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7497,
+    "idSeance": 17110,
+    "dateHeure": "2016-04-01T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 99441,
+        "ordre": 1,
+        "idSeance": 17110,
+        "idCopie": 7308,
+        "duree": 131,
+        "version": "VFSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7518,
+    "idSeance": 15940,
+    "dateHeure": "2016-04-02T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 56068,
+        "ordre": 1,
+        "idSeance": 15940,
+        "idCopie": 7352,
+        "duree": 114,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 736,
+    "typeEvenement": 14,
+    "idEvenement": 9625,
+    "idSeance": 15940,
+    "dateHeure": "2016-04-02T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 544,
+    "typeEvenement": 13,
+    "idEvenement": 9582,
+    "idSeance": 16727,
+    "dateHeure": "2016-04-02T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 129751,
+        "ordre": 1,
+        "idSeance": 16727,
+        "idCopie": 8671,
+        "duree": 63,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Alejandra Rojo"
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7485,
+    "idSeance": 15948,
+    "dateHeure": "2016-04-03T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 112044,
+        "ordre": 1,
+        "idSeance": 15948,
+        "idCopie": 7300,
+        "duree": 272,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7485,
+    "idSeance": 16814,
+    "dateHeure": "2016-04-03T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 112044,
+        "ordre": 1,
+        "idSeance": 16814,
+        "idCopie": 7300,
+        "duree": 272,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 736,
+    "typeEvenement": 14,
+    "idEvenement": 9684,
+    "idSeance": 16814,
+    "dateHeure": "2016-04-03T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 9577,
+    "idSeance": 17111,
+    "dateHeure": "2016-04-03T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 59924,
+        "ordre": 1,
+        "idSeance": 17111,
+        "idCopie": 7351,
+        "duree": 123,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7519,
+    "idSeance": 16771,
+    "dateHeure": "2016-04-04T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 116557,
+        "ordre": 1,
+        "idSeance": 16771,
+        "idCopie": 2162,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par François Margolin et Chamila Rodríguez"
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7498,
+    "idSeance": 16764,
+    "dateHeure": "2016-04-06T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 85590,
+        "ordre": 1,
+        "idSeance": 16764,
+        "idCopie": 7291,
+        "duree": 102,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7516,
+    "idSeance": 16766,
+    "dateHeure": "2016-04-06T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 72541,
+        "ordre": 1,
+        "idSeance": 16766,
+        "idCopie": 7284,
+        "duree": 103,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Françoise Dumas"
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 9146,
+    "idSeance": 17113,
+    "dateHeure": "2016-04-07T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126894,
+        "ordre": 1,
+        "idSeance": 17113,
+        "idCopie": 7298,
+        "duree": 81,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 544,
+    "typeEvenement": 13,
+    "idEvenement": 8797,
+    "idSeance": 16927,
+    "dateHeure": "2016-04-07T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 128939,
+        "ordre": 1,
+        "idSeance": 16927,
+        "idCopie": 8584,
+        "duree": 60,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 1
+      },
+      {
+        "idFilm": 127906,
+        "ordre": 2,
+        "idSeance": 16927,
+        "idCopie": 7868,
+        "duree": 23,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7480,
+    "idSeance": 16768,
+    "dateHeure": "2016-04-08T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 64267,
+        "ordre": 1,
+        "idSeance": 16768,
+        "idCopie": 5917,
+        "duree": 169,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Paulo Branco"
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7504,
+    "idSeance": 15981,
+    "dateHeure": "2016-04-09T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 96596,
+        "ordre": 1,
+        "idSeance": 15981,
+        "idCopie": 7792,
+        "duree": 107,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7896,
+    "idSeance": 17114,
+    "dateHeure": "2016-04-09T17:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 55581,
+        "ordre": 1,
+        "idSeance": 17114,
+        "idCopie": 7253,
+        "duree": 76,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7473,
+    "idSeance": 15982,
+    "dateHeure": "2016-04-09T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 74570,
+        "ordre": 1,
+        "idSeance": 15982,
+        "idCopie": 7342,
+        "duree": 93,
+        "version": "STF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Benoît Peeters"
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 9579,
+    "idSeance": 15983,
+    "dateHeure": "2016-04-09T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 78830,
+        "ordre": 1,
+        "idSeance": 15983,
+        "idCopie": 8668,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7503,
+    "idSeance": 15989,
+    "dateHeure": "2016-04-10T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 51147,
+        "ordre": 1,
+        "idSeance": 15989,
+        "idCopie": 7220,
+        "duree": 63,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7513,
+    "idSeance": 15990,
+    "dateHeure": "2016-04-10T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 71691,
+        "ordre": 1,
+        "idSeance": 15990,
+        "idCopie": 7838,
+        "duree": 127,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7501,
+    "idSeance": 17070,
+    "dateHeure": "2016-04-14T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 54221,
+        "ordre": 1,
+        "idSeance": 17070,
+        "idCopie": 7754,
+        "duree": 74,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7510,
+    "idSeance": 16791,
+    "dateHeure": "2016-04-16T14:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 58709,
+        "ordre": 1,
+        "idSeance": 16791,
+        "idCopie": 7647,
+        "duree": 115,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7926,
+    "idSeance": 17026,
+    "dateHeure": "2016-04-16T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126918,
+        "ordre": 1,
+        "idSeance": 17026,
+        "idCopie": 7334,
+        "duree": 59,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 731,
+    "typeEvenement": 13,
+    "idEvenement": 7914,
+    "idSeance": 16893,
+    "dateHeure": "2016-04-16T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126898,
+        "ordre": 1,
+        "idSeance": 16893,
+        "idCopie": 7305,
+        "duree": 52,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      },
+      {
+        "idFilm": 126913,
+        "ordre": 2,
+        "idSeance": 16893,
+        "idCopie": 7851,
+        "duree": 57,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7876,
+    "idSeance": 16911,
+    "dateHeure": "2016-04-17T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126806,
+        "ordre": 1,
+        "idSeance": 16911,
+        "idCopie": 7242,
+        "duree": 80,
+        "version": "STF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 731,
+    "typeEvenement": 13,
+    "idEvenement": 7902,
+    "idSeance": 16892,
+    "dateHeure": "2016-04-17T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 102158,
+        "ordre": 1,
+        "idSeance": 16892,
+        "idCopie": 7307,
+        "duree": 3,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 126888,
+        "ordre": 2,
+        "idSeance": 16892,
+        "idCopie": 7273,
+        "duree": 25,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 126831,
+        "ordre": 3,
+        "idSeance": 16892,
+        "idCopie": 7250,
+        "duree": 65,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7506,
+    "idSeance": 16789,
+    "dateHeure": "2016-04-18T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 51153,
+        "ordre": 1,
+        "idSeance": 16789,
+        "idCopie": 7271,
+        "duree": 101,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7508,
+    "idSeance": 16975,
+    "dateHeure": "2016-04-18T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 77016,
+        "ordre": 1,
+        "idSeance": 16975,
+        "idCopie": 7787,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7499,
+    "idSeance": 16912,
+    "dateHeure": "2016-04-18T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 94552,
+        "ordre": 1,
+        "idSeance": 16912,
+        "idCopie": 7299,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par François Margolin"
+  },
+  {
+    "idCategorie": 731,
+    "typeEvenement": 13,
+    "idEvenement": 7743,
+    "idSeance": 16037,
+    "dateHeure": "2016-04-20T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126618,
+        "ordre": 1,
+        "idSeance": 16037,
+        "idCopie": 7219,
+        "duree": 30,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 126617,
+        "ordre": 2,
+        "idSeance": 16037,
+        "idCopie": 7218,
+        "duree": 60,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 731,
+    "typeEvenement": 13,
+    "idEvenement": 7922,
+    "idSeance": 16038,
+    "dateHeure": "2016-04-20T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126914,
+        "ordre": 1,
+        "idSeance": 16038,
+        "idCopie": 8242,
+        "duree": 9,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 126917,
+        "ordre": 2,
+        "idSeance": 16038,
+        "idCopie": 8583,
+        "duree": 5,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      },
+      {
+        "idFilm": 126889,
+        "ordre": 3,
+        "idSeance": 16038,
+        "idCopie": 8630,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      },
+      {
+        "idFilm": 126919,
+        "ordre": 4,
+        "idSeance": 16038,
+        "idCopie": 7335,
+        "duree": 62,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7463,
+    "idSeance": 16039,
+    "dateHeure": "2016-04-21T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 74010,
+        "ordre": 1,
+        "idSeance": 16039,
+        "idCopie": 7277,
+        "duree": 119,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 8554,
+    "idSeance": 16984,
+    "dateHeure": "2016-04-21T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 51146,
+        "ordre": 1,
+        "idSeance": 16984,
+        "idCopie": 7820,
+        "duree": 138,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 8542,
+    "idSeance": 16921,
+    "dateHeure": "2016-04-25T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 127563,
+        "ordre": 1,
+        "idSeance": 16921,
+        "idCopie": 7795,
+        "duree": 208,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7510,
+    "idSeance": 16914,
+    "dateHeure": "2016-04-27T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 58709,
+        "ordre": 1,
+        "idSeance": 16914,
+        "idCopie": 7647,
+        "duree": 115,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7501,
+    "idSeance": 16977,
+    "dateHeure": "2016-04-27T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 54221,
+        "ordre": 1,
+        "idSeance": 16977,
+        "idCopie": 7754,
+        "duree": 74,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 731,
+    "typeEvenement": 13,
+    "idEvenement": 9576,
+    "idSeance": 16851,
+    "dateHeure": "2016-04-27T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 55021,
+        "ordre": 1,
+        "idSeance": 16851,
+        "idCopie": 7215,
+        "duree": 22,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 126887,
+        "ordre": 2,
+        "idSeance": 16851,
+        "idCopie": 7269,
+        "duree": 21,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 126454,
+        "ordre": 3,
+        "idSeance": 16851,
+        "idCopie": 7656,
+        "duree": 67,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7516,
+    "idSeance": 16915,
+    "dateHeure": "2016-04-28T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 72541,
+        "ordre": 1,
+        "idSeance": 16915,
+        "idCopie": 7284,
+        "duree": 103,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7489,
+    "idSeance": 16981,
+    "dateHeure": "2016-04-28T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 88839,
+        "ordre": 1,
+        "idSeance": 16981,
+        "idCopie": 7665,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7464,
+    "idSeance": 17048,
+    "dateHeure": "2016-04-29T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 64217,
+        "ordre": 1,
+        "idSeance": 17048,
+        "idCopie": 7843,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7915,
+    "idSeance": 16982,
+    "dateHeure": "2016-04-30T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126899,
+        "ordre": 1,
+        "idSeance": 16982,
+        "idCopie": 7306,
+        "duree": 160,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Joël Daire"
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7499,
+    "idSeance": 16102,
+    "dateHeure": "2016-05-02T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 94552,
+        "ordre": 1,
+        "idSeance": 16102,
+        "idCopie": 7299,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7899,
+    "idSeance": 16978,
+    "dateHeure": "2016-05-02T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126883,
+        "ordre": 1,
+        "idSeance": 16978,
+        "idCopie": 7832,
+        "duree": 45,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 8554,
+    "idSeance": 16916,
+    "dateHeure": "2016-05-02T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 51146,
+        "ordre": 1,
+        "idSeance": 16916,
+        "idCopie": 7820,
+        "duree": 138,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7493,
+    "idSeance": 16979,
+    "dateHeure": "2016-05-04T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 73368,
+        "ordre": 1,
+        "idSeance": 16979,
+        "idCopie": 7759,
+        "duree": 104,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7916,
+    "idSeance": 16946,
+    "dateHeure": "2016-05-04T21:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126906,
+        "ordre": 1,
+        "idSeance": 16946,
+        "idCopie": 7312,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7905,
+    "idSeance": 16980,
+    "dateHeure": "2016-05-05T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126890,
+        "ordre": 1,
+        "idSeance": 16980,
+        "idCopie": 7287,
+        "duree": 80,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 731,
+    "typeEvenement": 13,
+    "idEvenement": 7495,
+    "idSeance": 16890,
+    "dateHeure": "2016-05-05T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126880,
+        "ordre": 1,
+        "idSeance": 16890,
+        "idCopie": 7259,
+        "duree": 30,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 39481,
+        "ordre": 2,
+        "idSeance": 16890,
+        "idCopie": 7341,
+        "duree": 66,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7465,
+    "idSeance": 16848,
+    "dateHeure": "2016-05-06T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 103642,
+        "ordre": 1,
+        "idSeance": 16848,
+        "idCopie": 7239,
+        "duree": 105,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7514,
+    "idSeance": 16800,
+    "dateHeure": "2016-05-06T21:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 88837,
+        "ordre": 1,
+        "idSeance": 16800,
+        "idCopie": 7212,
+        "duree": 65,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7498,
+    "idSeance": 17047,
+    "dateHeure": "2016-05-07T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 85590,
+        "ordre": 1,
+        "idSeance": 17047,
+        "idCopie": 7291,
+        "duree": 102,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7912,
+    "idSeance": 17071,
+    "dateHeure": "2016-05-07T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126896,
+        "ordre": 1,
+        "idSeance": 17071,
+        "idCopie": 7869,
+        "duree": 50,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 731,
+    "typeEvenement": 13,
+    "idEvenement": 7929,
+    "idSeance": 16891,
+    "dateHeure": "2016-05-07T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126920,
+        "ordre": 1,
+        "idSeance": 16891,
+        "idCopie": 7339,
+        "duree": 53,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 51154,
+        "ordre": 2,
+        "idSeance": 16891,
+        "idCopie": 7227,
+        "duree": 62,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7517,
+    "idSeance": 16919,
+    "dateHeure": "2016-05-08T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 108114,
+        "ordre": 1,
+        "idSeance": 16919,
+        "idCopie": 7655,
+        "duree": 98,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 9579,
+    "idSeance": 16992,
+    "dateHeure": "2016-05-09T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 78830,
+        "ordre": 1,
+        "idSeance": 16992,
+        "idCopie": 8668,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7498,
+    "idSeance": 17469,
+    "dateHeure": "2016-05-09T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 85590,
+        "ordre": 1,
+        "idSeance": 17469,
+        "idCopie": 7291,
+        "duree": 102,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7463,
+    "idSeance": 16144,
+    "dateHeure": "2016-05-11T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 74010,
+        "ordre": 1,
+        "idSeance": 16144,
+        "idCopie": 7277,
+        "duree": 119,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 8542,
+    "idSeance": 16879,
+    "dateHeure": "2016-05-11T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 127563,
+        "ordre": 1,
+        "idSeance": 16879,
+        "idCopie": 7795,
+        "duree": 208,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7513,
+    "idSeance": 16152,
+    "dateHeure": "2016-05-12T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 71691,
+        "ordre": 1,
+        "idSeance": 16152,
+        "idCopie": 7838,
+        "duree": 127,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7474,
+    "idSeance": 16880,
+    "dateHeure": "2016-05-12T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 51148,
+        "ordre": 1,
+        "idSeance": 16880,
+        "idCopie": 7217,
+        "duree": 93,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 9146,
+    "idSeance": 16881,
+    "dateHeure": "2016-05-12T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126894,
+        "ordre": 1,
+        "idSeance": 16881,
+        "idCopie": 7298,
+        "duree": 81,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7520,
+    "idSeance": 16894,
+    "dateHeure": "2016-05-13T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 60316,
+        "ordre": 1,
+        "idSeance": 16894,
+        "idCopie": 7214,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7493,
+    "idSeance": 16895,
+    "dateHeure": "2016-05-13T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 73368,
+        "ordre": 1,
+        "idSeance": 16895,
+        "idCopie": 7759,
+        "duree": 104,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7494,
+    "idSeance": 16885,
+    "dateHeure": "2016-05-14T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 87316,
+        "ordre": 1,
+        "idSeance": 16885,
+        "idCopie": 7296,
+        "duree": 105,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7899,
+    "idSeance": 16909,
+    "dateHeure": "2016-05-14T17:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126883,
+        "ordre": 1,
+        "idSeance": 16909,
+        "idCopie": 7832,
+        "duree": 45,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 740,
+    "typeEvenement": 13,
+    "idEvenement": 7907,
+    "idSeance": 16167,
+    "dateHeure": "2016-05-14T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126892,
+        "ordre": 1,
+        "idSeance": 16167,
+        "idCopie": 7295,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 740,
+    "typeEvenement": 13,
+    "idEvenement": 9638,
+    "idSeance": 16168,
+    "dateHeure": "2016-05-14T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 129779,
+        "ordre": 1,
+        "idSeance": 16168,
+        "idCopie": 8705,
+        "duree": 81,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 740,
+    "typeEvenement": 13,
+    "idEvenement": 9639,
+    "idSeance": 16174,
+    "dateHeure": "2016-05-15T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 129780,
+        "ordre": 1,
+        "idSeance": 16174,
+        "idCopie": 8706,
+        "duree": 64,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 740,
+    "typeEvenement": 13,
+    "idEvenement": 9640,
+    "idSeance": 16175,
+    "dateHeure": "2016-05-15T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 129781,
+        "ordre": 1,
+        "idSeance": 16175,
+        "idCopie": 8707,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 9578,
+    "idSeance": 16177,
+    "dateHeure": "2016-05-16T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 53411,
+        "ordre": 1,
+        "idSeance": 16177,
+        "idCopie": 8667,
+        "duree": 100,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7517,
+    "idSeance": 16178,
+    "dateHeure": "2016-05-16T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 108114,
+        "ordre": 1,
+        "idSeance": 16178,
+        "idCopie": 7655,
+        "duree": 98,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7515,
+    "idSeance": 16179,
+    "dateHeure": "2016-05-16T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 44145,
+        "ordre": 1,
+        "idSeance": 16179,
+        "idCopie": 7748,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7497,
+    "idSeance": 16184,
+    "dateHeure": "2016-05-18T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 99441,
+        "ordre": 1,
+        "idSeance": 16184,
+        "idCopie": 7308,
+        "duree": 131,
+        "version": "VFSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7503,
+    "idSeance": 16181,
+    "dateHeure": "2016-05-18T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 51147,
+        "ordre": 1,
+        "idSeance": 16181,
+        "idCopie": 7220,
+        "duree": 63,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7502,
+    "idSeance": 16190,
+    "dateHeure": "2016-05-18T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 52262,
+        "ordre": 1,
+        "idSeance": 16190,
+        "idCopie": 7651,
+        "duree": 115,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7912,
+    "idSeance": 16186,
+    "dateHeure": "2016-05-18T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126896,
+        "ordre": 1,
+        "idSeance": 16186,
+        "idCopie": 7869,
+        "duree": 50,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7464,
+    "idSeance": 16189,
+    "dateHeure": "2016-05-19T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 64217,
+        "ordre": 1,
+        "idSeance": 16189,
+        "idCopie": 7843,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7896,
+    "idSeance": 16191,
+    "dateHeure": "2016-05-19T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 55581,
+        "ordre": 1,
+        "idSeance": 16191,
+        "idCopie": 7253,
+        "duree": 76,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7477,
+    "idSeance": 16886,
+    "dateHeure": "2016-05-19T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 43953,
+        "ordre": 1,
+        "idSeance": 16886,
+        "idCopie": 7740,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7876,
+    "idSeance": 16194,
+    "dateHeure": "2016-05-20T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126806,
+        "ordre": 1,
+        "idSeance": 16194,
+        "idCopie": 7242,
+        "duree": 80,
+        "version": "STF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 9577,
+    "idSeance": 16195,
+    "dateHeure": "2016-05-20T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 59924,
+        "ordre": 1,
+        "idSeance": 16195,
+        "idCopie": 7351,
+        "duree": 123,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7518,
+    "idSeance": 16196,
+    "dateHeure": "2016-05-20T21:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 56068,
+        "ordre": 1,
+        "idSeance": 16196,
+        "idCopie": 7352,
+        "duree": 114,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 731,
+    "typeEvenement": 13,
+    "idEvenement": 7900,
+    "idSeance": 16928,
+    "dateHeure": "2016-05-21T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126886,
+        "ordre": 1,
+        "idSeance": 16928,
+        "idCopie": 8354,
+        "duree": 66,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 126430,
+        "ordre": 2,
+        "idSeance": 16928,
+        "idCopie": 7208,
+        "duree": 25,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7480,
+    "idSeance": 16201,
+    "dateHeure": "2016-05-21T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 64267,
+        "ordre": 1,
+        "idSeance": 16201,
+        "idCopie": 5917,
+        "duree": 169,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7926,
+    "idSeance": 16924,
+    "dateHeure": "2016-05-22T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126918,
+        "ordre": 1,
+        "idSeance": 16924,
+        "idCopie": 7334,
+        "duree": 59,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7478,
+    "idSeance": 16211,
+    "dateHeure": "2016-05-22T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 56615,
+        "ordre": 1,
+        "idSeance": 16211,
+        "idCopie": 7819,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7465,
+    "idSeance": 16212,
+    "dateHeure": "2016-05-22T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 103642,
+        "ordre": 1,
+        "idSeance": 16212,
+        "idCopie": 7239,
+        "duree": 105,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7506,
+    "idSeance": 16214,
+    "dateHeure": "2016-05-23T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 51153,
+        "ordre": 1,
+        "idSeance": 16214,
+        "idCopie": 7271,
+        "duree": 101,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7516,
+    "idSeance": 17470,
+    "dateHeure": "2016-05-23T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 72541,
+        "ordre": 1,
+        "idSeance": 17470,
+        "idCopie": 7284,
+        "duree": 103,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 731,
+    "typeEvenement": 13,
+    "idEvenement": 7507,
+    "idSeance": 16942,
+    "dateHeure": "2016-05-23T21:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 88838,
+        "ordre": 1,
+        "idSeance": 16942,
+        "idCopie": 6896,
+        "duree": 16,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 126912,
+        "ordre": 2,
+        "idSeance": 16942,
+        "idCopie": 7318,
+        "duree": 70,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7504,
+    "idSeance": 16221,
+    "dateHeure": "2016-05-25T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 96596,
+        "ordre": 1,
+        "idSeance": 16221,
+        "idCopie": 7792,
+        "duree": 107,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 10164,
+    "idSeance": 16219,
+    "dateHeure": "2016-05-25T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 51155,
+        "ordre": 1,
+        "idSeance": 16219,
+        "idCopie": 7237,
+        "duree": 117,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7515,
+    "idSeance": 16220,
+    "dateHeure": "2016-05-25T21:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 44145,
+        "ordre": 1,
+        "idSeance": 16220,
+        "idCopie": 7748,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7474,
+    "idSeance": 16226,
+    "dateHeure": "2016-05-26T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 51148,
+        "ordre": 1,
+        "idSeance": 16226,
+        "idCopie": 7217,
+        "duree": 93,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7494,
+    "idSeance": 16229,
+    "dateHeure": "2016-05-26T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 87316,
+        "ordre": 1,
+        "idSeance": 16229,
+        "idCopie": 7296,
+        "duree": 105,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7520,
+    "idSeance": 16224,
+    "dateHeure": "2016-05-26T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 60316,
+        "ordre": 1,
+        "idSeance": 16224,
+        "idCopie": 7214,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7489,
+    "idSeance": 16231,
+    "dateHeure": "2016-05-27T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 88839,
+        "ordre": 1,
+        "idSeance": 16231,
+        "idCopie": 7665,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7505,
+    "idSeance": 16232,
+    "dateHeure": "2016-05-27T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 54676,
+        "ordre": 1,
+        "idSeance": 16232,
+        "idCopie": 7752,
+        "duree": 111,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7519,
+    "idSeance": 16233,
+    "dateHeure": "2016-05-27T21:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 116557,
+        "ordre": 1,
+        "idSeance": 16233,
+        "idCopie": 2162,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7477,
+    "idSeance": 16240,
+    "dateHeure": "2016-05-28T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 43953,
+        "ordre": 1,
+        "idSeance": 16240,
+        "idCopie": 7740,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7514,
+    "idSeance": 16926,
+    "dateHeure": "2016-05-28T17:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 88837,
+        "ordre": 1,
+        "idSeance": 16926,
+        "idCopie": 7212,
+        "duree": 65,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7470,
+    "idSeance": 16241,
+    "dateHeure": "2016-05-28T18:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 77390,
+        "ordre": 1,
+        "idSeance": 16241,
+        "idCopie": 7823,
+        "duree": 135,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7905,
+    "idSeance": 16882,
+    "dateHeure": "2016-05-28T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126890,
+        "ordre": 1,
+        "idSeance": 16882,
+        "idCopie": 7287,
+        "duree": 80,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7478,
+    "idSeance": 16939,
+    "dateHeure": "2016-05-29T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 56615,
+        "ordre": 1,
+        "idSeance": 16939,
+        "idCopie": 7819,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7916,
+    "idSeance": 16938,
+    "dateHeure": "2016-05-29T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 126906,
+        "ordre": 1,
+        "idSeance": 16938,
+        "idCopie": 7312,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7502,
+    "idSeance": 16248,
+    "dateHeure": "2016-05-29T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 52262,
+        "ordre": 1,
+        "idSeance": 16248,
+        "idCopie": 7651,
+        "duree": 115,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7473,
+    "idSeance": 16249,
+    "dateHeure": "2016-05-29T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 74570,
+        "ordre": 1,
+        "idSeance": 16249,
+        "idCopie": 7342,
+        "duree": 93,
+        "version": "STF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 525,
+    "typeEvenement": 13,
+    "idEvenement": 7915,
+    "idSeance": 16923,
+    "dateHeure": "2016-05-30T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 126899,
+        "ordre": 1,
+        "idSeance": 16923,
+        "idCopie": 7306,
+        "duree": 160,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  }
+]

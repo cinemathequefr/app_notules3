@@ -6,7 +6,13 @@
     "ageMinimal": null,
     "realisateurs": "Karel Zeman",
     "annee": 1958,
-    "pays": "Tchécoslovaquie"
+    "pays": "Tchécoslovaquie",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Simon Hart et le professeur Roch sont deux chercheurs très brillants et imaginatifs. Tombés entre les mains du terrible Comte d'Argilas, leurs recherches sur la désintégration de la matière pourraient s'avérer dangereuses pour l'ensemble de la planète !"
+      }
+    ]
   },
   {
     "titre": "Avril et le monde truqué",
@@ -16,11 +22,40 @@
     "realisateurs": "Franck Ekinci, Christian Desmares",
     "annee": 2014,
     "pays": "France-Canada-Belgique",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Dans ce monde étrange où deux tours Eiffel dominent Paris, Avril devra faire preuve de ruse et de courage pour arriver retrouver ses parents deux scientifiques qui ont mystérieusement disparu."
+      },
+      {
+        "typeTexte": 203,
+        "texte": "Dans ce monde étrange où deux tours Eiffel dominent Paris,Avril devra faire preuve de ruse et de courage pour arriver retrouver ses parents qui ont mystérieusement disparu. Elle est aidée de son chat Darwin, doué de parole et d'esprit, de Pops son grand-père excentrique et de Julius qui deviendra un peu plus qu'un ami. Les dessins nous entraînent dans l'univers des bandes dessinées de Tardi et l'histoire évoque les plus incroyables trouvailles de Jules Verne, le tout compose un grand film d'aventures."
+      }
+    ],
     "generique": [
       "Marion Cotillard",
       "Philippe Katerine",
       "Jean Rochefort"
     ]
+  },
+  {
+    "titre": "Bon voyage, Dimitri ! : Flocon de neige",
+    "titreVo": "",
+    "idFilm": 128282,
+    "ageMinimal": null,
+    "realisateurs": "Natalia Chernysheva",
+    "annee": 2012,
+    "pays": "Russie"
+  },
+  {
+    "titre": "Bonhomme de neige",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 65791,
+    "ageMinimal": null,
+    "realisateurs": "Anonyme",
+    "annee": 1909,
+    "pays": "France"
   },
   {
     "titre": "Château ambulant",
@@ -31,6 +66,12 @@
     "realisateurs": "Hayao Miyazaki",
     "annee": 2004,
     "pays": "Japon",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Sophie fait la rencontre d'un jeune sorcier mystérieux. Jalouse de cette rencontre, la sorcière des Landes va transformer Sophie en vieille dame de quatre-vingt-dix ans. Pour cacher cette transformation jusqu'à la fin du sortilège, elle s'enfuit de chez elle et se réfugie dans une incroyable machine volante."
+      }
+    ],
     "adaptation": "D'après le roman _Howl's moving castle_ de Diana Wynne Jones."
   },
   {
@@ -41,6 +82,12 @@
     "realisateurs": "Howard Hawks",
     "annee": 1952,
     "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un brillant chimiste cherche à fabriquer un élixir qui permettrait de rajeunir. Une guenon, présente dans le laboratoire, trouve la bonne formule. Un vent de folie se met alors à souffler dans le laboratoire."
+      }
+    ],
     "generique": [
       "Cary Grant",
       "Ginger Rogers",
@@ -56,7 +103,13 @@
     "ageMinimal": null,
     "realisateurs": "Nina Wels,  Regina Welker",
     "annee": 2017,
-    "pays": "Allemagne-France-Belgique"
+    "pays": "Allemagne-France-Belgique",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "L'eau a disparu, la sécheresse règne dans la forêt. C'est le Roi des Ours qui la retient pour son seul plaisir. Il faudra une bonne dose de courage mais aussi pas mal d'insouciance à une jeune hérissonne accompagnée d'un petit écureuil pour libérer l'eau, rassembler les animaux et sauver la vie dans la forêt. Une fable écologique adaptée d'un livre de 1956 qui reste d'une très grande actualité."
+      }
+    ]
   },
   {
     "titre": "Edward aux mains d'argent",
@@ -66,6 +119,12 @@
     "realisateurs": "Tim Burton",
     "annee": 1990,
     "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "« Il était une fois un homme qui avait des ciseaux à la place des mains... » Et à l'approche de la nuit de Noël, d'étranges souvenirs lui reviennent en mémoire. Il se souvient de son inventeur de père, mort trop tôt pour terminer son œuvre."
+      }
+    ],
     "generique": [
       "Johnny Depp",
       "Winona Ryder",
@@ -73,14 +132,13 @@
     ]
   },
   {
-    "titre": "Enfant au grelot",
-    "art": "L'",
+    "titre": "Fables d'été, fables d'hiver : Bonhommes",
     "titreVo": "",
-    "idFilm": 63804,
-    "ageMinimal": 4,
-    "realisateurs": "Janet Perlman, Sarah Roper, Jacques-Rémy Girerd, [etc.]",
-    "annee": 1997,
-    "pays": "France-Canada"
+    "idFilm": 95713,
+    "ageMinimal": null,
+    "realisateurs": "Cecilia Marreiros Marum",
+    "annee": 2003,
+    "pays": "France-Belgique"
   },
   {
     "titre": "Fiancée de Frankenstein",
@@ -92,6 +150,12 @@
     "realisateurs": "James Whale",
     "annee": 1935,
     "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Une nouvelle expérience s'organise dans le laboratoire d'un savant fou : cette fois, le professeur Pretorius veut créer un être féminin. Cette belle fiancée, à la coiffure étonnante, trouvera-t-elle l'homme de sa vie ?"
+      }
+    ],
     "generique": [
       "Boris Karloff",
       "Colin Clive",
@@ -106,7 +170,22 @@
     "ageMinimal": 8,
     "realisateurs": "Tim Burton",
     "annee": 2011,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Victor Frankenstein se passionne pour ses cours de science, surtout depuis que son chien Saparky, est mort. Il ne rêve plus que d'une chose : le ramener à la vie grâce à l'énergie de la foudre."
+      }
+    ]
+  },
+  {
+    "titre": "Histoires d'ours",
+    "titreVo": "Medvezhyi istoriyi",
+    "idFilm": 123252,
+    "ageMinimal": null,
+    "realisateurs": "Mikhail Aldashin",
+    "annee": 2009,
+    "pays": "Russie"
   },
   {
     "titre": "Homme qui en savait trop",
@@ -126,6 +205,10 @@
       {
         "typeTexte": 99,
         "texte": "Copie 35mm en Technicolor original (tirage par imbibition). Projection exceptionelle avec son dimensionnel. Hitchcock utilisa de manière remarquable toutes les potentialités de l'espace sonore stéréophonique du son Perspecta en parfaite adéquation avec les nouvelles possibilités de l'espace scénique visuel offertes par la VistaVision, le procédé préféré d'Hitchcock. Remake de la version de 1934."
+      },
+      {
+        "typeTexte": 203,
+        "texte": "Des touristes anglais en voyage au Maroc sont témoin d'un meurtre. Juste avant de mourir le Français assassiné devant eux, essaie de leur communiquer un secret pour déjouer un attentat. Sauront-ils résoudre l'énigme à temps ?"
       }
     ],
     "generique": [
@@ -147,6 +230,10 @@
       {
         "typeTexte": 9,
         "texte": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable."
+      },
+      {
+        "typeTexte": 203,
+        "texte": "Tout semble accuser ce jeune homme dont la fiancée a été retrouvée assassinée. Mais grâce à la persévérance de la fille du chef de la police, il parviendra à déjouer les apparences !"
       }
     ],
     "generique": [
@@ -155,6 +242,16 @@
       "Edward Rigby"
     ],
     "adaptation": "D'après le roman _A shilling for candles_ de Josephine Tey."
+  },
+  {
+    "titre": "Luge et dragon",
+    "art": "La",
+    "titreVo": "Devotchka drakon i papa",
+    "idFilm": 143269,
+    "ageMinimal": null,
+    "realisateurs": "Eugenia Zhirkova",
+    "annee": 2017,
+    "pays": "Russie"
   },
   {
     "titre": "Main au collet",
@@ -190,6 +287,10 @@
       {
         "typeTexte": 9,
         "texte": "À peine sorti de l'orphelinat, Totò rejoint les clochards d'un bidonville, qu'il essaie d'aménager au mieux, dans la bonne humeur. Mais un homme d'affaires, ayant découvert du pétrole sur leur terrain, les menace d'expulsion."
+      },
+      {
+        "typeTexte": 203,
+        "texte": "Malgré la misère, le jeune Toto est toujours heureux. Quand il doit emménager dans un bidonville, il entreprend de le transformer en un lieu enchanté !"
       }
     ],
     "generique": [
@@ -212,6 +313,10 @@
       {
         "typeTexte": 9,
         "texte": "Confondu avec un membre du contre-espionnage américain, le publicitaire Roger O. Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Roger Thornhill a des problèmes d'identité. Il ne sait plus vraiment comment il s'appelle. Il se retrouve contraint de fuir à travers tout le pays dans une grande course qui le mènera jusqu'au Mont Rushmore, cette montagne où ont été sculptés les visages des premiers présidents des États-Unis."
       }
     ],
     "generique": [
@@ -221,13 +326,29 @@
     ]
   },
   {
+    "titre": "Moufle",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 132699,
+    "ageMinimal": null,
+    "realisateurs": "Clémentine Robach",
+    "annee": 2014,
+    "pays": "France"
+  },
+  {
     "titre": "Neige et les arbres magiques",
     "titreVo": "",
     "idFilm": 128984,
     "ageMinimal": null,
     "realisateurs": "Antoine Lanciaux, Sophie Roze, Benoît Chieux",
     "annee": 2014,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "4 films espiègles où l'on fait d'étonnantes rencontres, où l'on apprend à être attentifs à la nature mais aussi à ceux qui l'habitent. Dans Neige, une incroyable tempête se déclenche juste à la veille des grandes vacances et soudain c'est l'hiver en plein cœur de l'été ! Durée totale : 51 min"
+      }
+    ]
   },
   {
     "titre": "Ombre d'un doute",
@@ -242,6 +363,10 @@
       {
         "typeTexte": 9,
         "texte": "Recherché pour meurtre par la police, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais la jeune fille commence peu à peu à avoir des soupçons le concernant."
+      },
+      {
+        "typeTexte": 203,
+        "texte": "Charlie est à la fois la nièce et la filleule de son oncle Charlie. C'est pour cette raison qu'ils portent le même prénom, et c'est par ce lien invisible que Charlie, la nièce, va réussir à percer le secret de Charlie, l'oncle."
       }
     ],
     "generique": [
@@ -254,7 +379,7 @@
     "titre": "Paris qui dort",
     "titreVo": "",
     "idFilm": 47696,
-    "ageMinimal": 0,
+    "ageMinimal": 6,
     "realisateurs": "René Clair",
     "annee": 1923,
     "pays": "France",
@@ -274,15 +399,6 @@
     "pays": "France"
   },
   {
-    "titre": "Plastic and glass",
-    "titreVo": "",
-    "idFilm": 111950,
-    "ageMinimal": 6,
-    "realisateurs": "Tessa Joosse",
-    "annee": 2009,
-    "pays": "France"
-  },
-  {
     "titre": "Retour vers le futur",
     "titreVo": "Back to the Future",
     "idFilm": 37985,
@@ -290,11 +406,27 @@
     "realisateurs": "Robert Zemeckis",
     "annee": 1984,
     "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Doc, un scientifique farfelu a inventé une machine à voyager dans le temps. Marty, son jeune acolyte va l'utiliser et être ramené à l'époque où ses parents ne se connaissaient pas. Sans le vouloir, il va empêcher leur rencontre et donc, sa future naissance ! Le bal de fin d'année de leur lycée va être décisif pour essayer de tout remettre en ordre..."
+      }
+    ],
     "generique": [
       "Michael J. Fox",
       "Christopher Lloyd",
       "Lea Thompson"
     ]
+  },
+  {
+    "titre": "Réveilleur",
+    "art": "Le",
+    "titreVo": "Awaker",
+    "idFilm": 143284,
+    "ageMinimal": null,
+    "realisateurs": "Filip Diviak",
+    "annee": 2017,
+    "pays": "République tchèque"
   },
   {
     "titre": "Roi et l'oiseau",
@@ -305,6 +437,12 @@
     "realisateurs": "Paul Grimault",
     "annee": 1948,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Une bergère et un petit ramoneur s'aiment du plus grand des amours, ce qui déplaît au Roi Charles V et Trois font Huit et huit font Seize. Alors que les amoureux tentent de fuir le royaume de Takicardie, le roi lance à leur poursuite un gigantesque robot."
+      }
+    ],
     "generique": [
       "Roger Blin",
       "Raymond Bussières",
@@ -321,6 +459,12 @@
     "realisateurs": "Charles Chaplin",
     "annee": 1935,
     "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Le monde moderne est sans pitié pour les plus pauvres, on pense même à inventer une machine pour manger tout en continuant à travailler ! Pauvre Charlot qui lui préférerait prendre le temps de conter fleurette à son amoureuse !"
+      }
+    ],
     "generique": [
       "Charles Chaplin",
       "Paulette Goddard",
@@ -336,5 +480,14 @@
     "realisateurs": "Michel Ocelot",
     "annee": 1979,
     "pays": "France"
+  },
+  {
+    "titre": "Une maison",
+    "titreVo": "Karo to Piyobuto Ochi",
+    "idFilm": 143285,
+    "ageMinimal": null,
+    "realisateurs": "Kôji Yamamura",
+    "annee": 1993,
+    "pays": "Japon"
   }
 ]

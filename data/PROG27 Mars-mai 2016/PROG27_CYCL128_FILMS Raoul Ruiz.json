@@ -1,0 +1,1712 @@
+[
+  {
+    "titre": "A propos de Nice, la suite",
+    "titreVo": "",
+    "idFilm": 53411,
+    "ageMinimal": null,
+    "realisateurs": "Abbas Kiarostami, Catherine Breillat, Raymond Depardon, [etc.]",
+    "annee": 1994,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Soixante cinq ans après la sortie en 1930 du film de Jean Vigo « A propos de Nice », sept réalisateurs lui rendent hommage en revisitant la ville, sa façade et ses faces cachées."
+      }
+    ],
+    "generique": [
+      "Laura Del Sol"
+    ]
+  },
+  {
+    "titre": "A TV Dante TV",
+    "titreVo": "",
+    "idFilm": 126886,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1991,
+    "pays": "Pays-Bas-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Adaptation cinématographique des chants 9 à 14 de l' _Enfer_ de Dante."
+      }
+    ],
+    "generique": [
+      "Francisco Reyes",
+      "Fernando Bordeu"
+    ]
+  },
+  {
+    "titre": "Agathopedia",
+    "titreVo": "",
+    "idFilm": 126898,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2008,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Film réalisé avec les étudiants de L'Université de Calabre, dans le cadre d'une semaine pédagogique autour du thème « Construire un film »."
+      }
+    ]
+  },
+  {
+    "titre": "Aîné des Ferchaux",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 50135,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Pierre Melville",
+    "annee": 1962,
+    "pays": "France-Italie",
+    "generique": [
+      "Jean-Paul Belmondo",
+      "Michèle Mercier",
+      "Charles Vanel"
+    ],
+    "adaptation": "D'après le roman _L'Aîné des Ferchaux_ de Georges Simenon."
+  },
+  {
+    "titre": "Ames fortes",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 74010,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2000,
+    "pays": "France-Belgique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au XIXème siècle, une jeune fille de la Drôme, Thérèse, s'enfuit de sa campagne avec son fiancé Firmin. En ville, elle découvre qu'elle a du pouvoir sur les autres et qu'elle est une âme forte."
+      }
+    ],
+    "generique": [
+      "Laetitia Casta",
+      "Frédéric Diefenthal",
+      "Arielle Dombasle",
+      "John Malkovich"
+    ],
+    "adaptation": "D'après le roman _Les Ames fortes_ de Jean Giono."
+  },
+  {
+    "titre": "Autel de l'amitié",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 126913,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1989,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une série de dialogues philosophiques sur l'amitié, l'architecture, l'électricité, le cannibalisme, les droits de l'homme..."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie Duke University"
+      }
+    ]
+  },
+  {
+    "titre": "Ballet aquatique",
+    "titreVo": "",
+    "idFilm": 126896,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2010,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une relecture de Painlevé avec un chat, un poisson et un poisson-chat, qui répond à la question : l'hybridation permet-elle de résoudre la guerre des espèces?"
+      }
+    ]
+  },
+  {
+    "titre": "Belle et la bête",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 47711,
+    "ageMinimal": 6,
+    "realisateurs": "Jean Cocteau",
+    "annee": 1945,
+    "pays": "France",
+    "generique": [
+      "Josette Day",
+      "Jean Marais",
+      "Marcel André"
+    ],
+    "adaptation": "D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont."
+  },
+  {
+    "titre": "Bérénice",
+    "titreVo": "",
+    "idFilm": 103642,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1983,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Libre adaptation de la pièce de Racine."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par François Ede pour la Cinémathèque française avec le concours de l'Ina."
+      }
+    ],
+    "generique": [
+      "Anne Alvaro",
+      "Jean Badin",
+      "Frank Oger"
+    ],
+    "adaptation": "D'après la pièce _Bérénice_ de Jean Racine."
+  },
+  {
+    "titre": "Brise-glace",
+    "titreVo": "",
+    "idFilm": 78830,
+    "ageMinimal": null,
+    "realisateurs": "Jean Rouch, Titte Törnroth, Raoul Ruiz",
+    "annee": 1987,
+    "pays": "France-Suède",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sur le brise-glace « Frej », trois réalisateurs livrent leurs impressions : Rouch filme les travaux sur le navire, Törnroth laisse la parole à l'équipage et Ruiz introduit une touche fantastique..."
+      }
+    ],
+    "generique": [
+      "Titte Törnroth",
+      "Jacques Wenger"
+    ]
+  },
+  {
+    "titre": "Capitulo 66",
+    "titreVo": "",
+    "idFilm": 126888,
+    "ageMinimal": null,
+    "realisateurs": "Luis Ospina, Raoul Ruiz",
+    "annee": 1993,
+    "pays": "Colombie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Vidéo expérimentale tournée à Bogota lors d'un atelier d'acteur dirigé par Raoul Ruiz, celui-ci cherche à combiner le style « telenovelas » avec le genre gothique, sans rien connaître de l'histoire, ni le début, ni la fin..."
+      }
+    ]
+  },
+  {
+    "titre": "Ce jour-là",
+    "titreVo": "",
+    "idFilm": 85590,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2002,
+    "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune fille riche et simple d'esprit hérite de la fortune de sa mère décédée. Les membres de sa famille tentent de récupérer l'héritage en question."
+      }
+    ],
+    "generique": [
+      "Bernard Giraudeau",
+      "Elsa Zylberstein",
+      "Jean-Luc Bideau"
+    ]
+  },
+  {
+    "titre": "Chacun son cinéma : Le Don",
+    "titreVo": "",
+    "idFilm": 102158,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2006,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un cinéphile (aveugle) raconte à sa nièce une histoire qui s'est déroulée cinquante ans auparavant : lorsqu'un évêque offrit un projecteur et une radio aux habitants d'Atacama..."
+      }
+    ],
+    "generique": [
+      "Michael Lonsdale",
+      "Miriam Heard"
+    ]
+  },
+  {
+    "titre": "Chouette aveugle",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 74570,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1987,
+    "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les vicissitudes d'un jeune projectionniste dans un vieux cinéma, entre réalité et fiction."
+      }
+    ],
+    "generique": [
+      "François Berthet",
+      "Jessica Forde",
+      "Jean-Marie Boëglin"
+    ],
+    "adaptation": "D'après le roman _Bouf-e Kour_ de Sadegh Hedayat."
+  },
+  {
+    "titre": "Cofralande 2 – Rostros y rincones",
+    "titreVo": "",
+    "idFilm": 129779,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2002,
+    "pays": "Chili",
+    "generique": [
+      "Bernard Pautrat",
+      "Malcolm Coad"
+    ]
+  },
+  {
+    "titre": "Cofralandes 1 : Hoy en dia",
+    "titreVo": "Cofralandes",
+    "idFilm": 126892,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2002,
+    "pays": "Chili-France",
+    "generique": [
+      "Bernard Pautrat",
+      "Malcolm Coad",
+      "Rainer Krause"
+    ]
+  },
+  {
+    "titre": "Cofralandes 3 – Museos y clubes en la Region Antartica",
+    "titreVo": "",
+    "idFilm": 129780,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2002,
+    "pays": "Chili",
+    "generique": [
+      "Bernard Pautrat",
+      "Ignacio Agüero",
+      "Marcial Edwards"
+    ]
+  },
+  {
+    "titre": "Cofralandes 4 – Evocaciones y valses",
+    "titreVo": "",
+    "idFilm": 129781,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2002,
+    "pays": "Chili",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Voyage onirique dans un pays imaginaire, Cofralandes, aux confins du monde, en 4 chapitres."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par la Cinémathèque chilienne avec le soutien du Conseil National de la Culture et des Arts du Chili."
+      }
+    ],
+    "generique": [
+      "Amparo Noguera",
+      "Francisco Reyes",
+      "Néstor Cantillana"
+    ]
+  },
+  {
+    "titre": "Colloque de chiens",
+    "titreVo": "",
+    "idFilm": 55021,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1977,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "César du meilleur court-métrage de fiction 1980. Monique apprend que sa mère n'est pas sa vraie mère, à partir de maintenant plus rien ne sera pareil."
+      }
+    ],
+    "generique": [
+      "Eva Simonet",
+      "Robert Darmel",
+      "Silke Humel"
+    ]
+  },
+  {
+    "titre": "Colonie pénitentière",
+    "art": "La",
+    "titreVo": "Colonia penal",
+    "artVo": "La",
+    "idFilm": 88837,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1970,
+    "pays": "Chili",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une journaliste vient faire un reportage sur une île du Pacifique, ancienne colonie pénitentiaire qui s'est proclamée république indépendante."
+      }
+    ],
+    "generique": [
+      "Mónica Echeverría",
+      "Luis Alarcón",
+      "Aníbal Reyna"
+    ],
+    "adaptation": "D'après le roman _ In der Strafkolonie_ de Franz Kafka."
+  },
+  {
+    "titre": "Combat d'amour en songe",
+    "titreVo": "",
+    "idFilm": 71691,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2000,
+    "pays": "France-Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un conte pour enfants qui se transforme rapidement en une fable philosophique."
+      }
+    ],
+    "generique": [
+      "Melvil Poupaud",
+      "Elsa Zylberstein",
+      "Lambert Wilson",
+      "Christian Vadim"
+    ]
+  },
+  {
+    "titre": "Comédie de l'innocence",
+    "titreVo": "",
+    "idFilm": 72541,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1999,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un garçon de neuf ans demande à sa mère de le conduire chez une femme dont il dit qu'elle est sa vraie mère."
+      }
+    ],
+    "generique": [
+      "Isabelle Huppert",
+      "Jeanne Balibar",
+      "Charles Berling"
+    ],
+    "adaptation": "D'après le roman _Comédie de l'innocence : fils de deux mères_ de Massimo Bontempelli."
+  },
+  {
+    "titre": "Corps dispersé et le monde à l'envers",
+    "art": "Le",
+    "titreVo": "Mensch verstreut und Welt verkehrt TV",
+    "idFilm": 126454,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1975,
+    "pays": "RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux commis voyageurs parcourent un pays d'Amérique latine. Ils cherchent les morceaux dispersés d'un cadavre."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version TV."
+      }
+    ],
+    "generique": [
+      "Eduardo Barr",
+      "Fosi Bendek",
+      "Germán Leitzelar"
+    ]
+  },
+  {
+    "titre": "Dans un miroir",
+    "titreVo": "",
+    "idFilm": 126831,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1984,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme vient visiter une connaissance supposée être malade et parle à sa sœur pendant l'attente."
+      }
+    ],
+    "generique": [
+      "Anne Alvaro",
+      "Jean-Claude Wino"
+    ]
+  },
+  {
+    "titre": "Derrière le mur",
+    "titreVo": "",
+    "idFilm": 126912,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1989,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Libre adaptation de la pièce « Derrière le mur » de Bouvier-Obadia."
+      }
+    ],
+    "generique": [
+      "Eric Affergan",
+      "Jérôme Bel",
+      "Catherine Berbessou"
+    ]
+  },
+  {
+    "titre": "Des grands événements et des gens ordinaires",
+    "titreVo": "",
+    "idFilm": 126617,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1978,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1978, l'INA a commandé à Ruiz un documentaire sur les élections législatives dans le 11e arrondissement de Paris."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+      }
+    ]
+  },
+  {
+    "titre": "Désormais nous pouvons t'appeler frère",
+    "titreVo": "Ahora te vamos a llamar hermano",
+    "idFilm": 88838,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1971,
+    "pays": "Chili",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le film a pour sujet la première loi proclamée par Allende à son arrivée au pouvoir, visant à rendre les indiens Mapuchi des citoyens à part entière."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par la Fondazione La Biennale di Venezia à partir des éléments conservés par l'Archivio Storico delle Arti Contemporanee (ASAC). La restauration a été effectuée par le laboratoire 'L'Immagine Ritrovata' de Bologna en 2012."
+      }
+    ]
+  },
+  {
+    "titre": "Destins de Manoel TV",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 51146,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1985,
+    "pays": "France-Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Version télévision portugaise. Quatre moments de la vie de Manoël."
+      }
+    ],
+    "generique": [
+      "Ruben de Freitas",
+      "Armanda Bacelar",
+      "Marco Paulo de Freitas",
+      "Aurélie Chazelle"
+    ]
+  },
+  {
+    "titre": "Deuxième souffle",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 50140,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Pierre Melville",
+    "annee": 1966,
+    "pays": "France",
+    "adaptation": "D'après le roman _Le Deuxième souffle_ de José Giovanni."
+  },
+  {
+    "titre": "Dialogue d'exilés",
+    "titreVo": "Diálogos de exiliados",
+    "idFilm": 60316,
+    "ageMinimal": 0,
+    "realisateurs": "Raúl Ruiz",
+    "annee": 1974,
+    "pays": "Chili-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ruiz s'inspire d'un texte de Bertolt Brecht, et met en scène des réfugiés politiques chiliens qui racontent leur existence d'exilés."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauraté par la Cinémathèque française et le laboratoire Mikros avec le soutien du CNC."
+      }
+    ],
+    "generique": [
+      "Daniel Gélin",
+      "Françoise Arnoul",
+      "Carla Cristi",
+      "Sergio Hernández"
+    ]
+  },
+  {
+    "titre": "Divisions de la nature : quatre regards sur le château de Chambord",
+    "art": "Les",
+    "titreVo": "Divisions de la nature TV",
+    "artVo": "Les",
+    "idFilm": 126618,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1978,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Détournement d'une commande de film traitant du château de Chambord. Ce qui intéresse le cinéaste? Montrer le château sous différentes perspectives idéologiques"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+      }
+    ]
+  },
+  {
+    "titre": "Domaine perdu",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 96596,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2004,
+    "pays": "France-Roumanie-Italie-Espagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Max a cinquante ans passés lors du coup d'état de 1973 au Chili. Terré chez lui pour éviter les balles des militaires, les souvenirs commencent à jaillir..."
+      }
+    ],
+    "generique": [
+      "François Cluzet",
+      "Grégoire Colin",
+      "Christian Colin",
+      "Julie Delarme"
+    ]
+  },
+  {
+    "titre": "Edipo",
+    "titreVo": "",
+    "idFilm": 126906,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2004,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le film a été réalisé à partir du spectacle _Edipo Iperboreo_ (1989), mis en scène par Ruiz pour la Fondazione Pontedera Teatro."
+      }
+    ],
+    "generique": [
+      "Silvio Castiglioni",
+      "Marco Cavicchioli",
+      "Laura Colombo"
+    ]
+  },
+  {
+    "titre": "Enfants terribles",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 50142,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Pierre Melville",
+    "annee": 1949,
+    "pays": "France",
+    "generique": [
+      "Nicole Stéphane",
+      "Edouard Dermit",
+      "Jacques Bernard"
+    ],
+    "adaptation": "D'après le roman _Les Enfants terribles_ de Jean Cocteau."
+  },
+  {
+    "titre": "Eveillé du pont de l'Alma",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 55581,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1985,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une nuit, deux promeneurs insomniaques, un boxeur bossu et un professeur libidineux, se rencontrent par hasard sur le pont de l'Alma. Ils discutent et se mettent à observer un couple qui erre le long des quais..."
+      }
+    ],
+    "generique": [
+      "Michael Lonsdale",
+      "Jean-Bernard Guillard",
+      "Olympia Carlisi",
+      "Melvil Poupaud"
+    ]
+  },
+  {
+    "titre": "Exote",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 126883,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1991,
+    "pays": "Suisse-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un _exote_ est une personne qui trouve que le plus exotique des pays est celui où elle est née..."
+      }
+    ],
+    "generique": [
+      "Hercli Bundi",
+      "Albert Blanc",
+      "Elisabeth Blanc"
+    ],
+    "adaptation": "D'après l'ouvrage _Sur l'exotisme_ de Victor Segalen.  \nD'après l'ouvrage _Traité des sensations_ d'Etienne Bonnot de Condillac."
+  },
+  {
+    "titre": "Fado majeur et mineur",
+    "titreVo": "",
+    "idFilm": 58709,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1993,
+    "pays": "France-Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les rapports troubles entre des personnages dont le fil conducteur est un homme devenu subitement amnésique."
+      }
+    ],
+    "generique": [
+      "Jean-Luc Bideau",
+      "Melvil Poupaud",
+      "Ana Padrão"
+    ]
+  },
+  {
+    "titre": "Film à venir",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 126914,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1997,
+    "pays": "Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la recherche de sa fille, un homme découvre les rituels des Philokinètes, secte qui s'adonne au visionnage hallucinatoire d'un fragment de film de 23 secondes projeté en boucle."
+      }
+    ],
+    "generique": [
+      "Gérard Vincent",
+      "Margot Marguerite",
+      "Edouard Waintrop"
+    ]
+  },
+  {
+    "titre": "Généalogies d'un crime",
+    "titreVo": "",
+    "idFilm": 56068,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1996,
+    "pays": "France-Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Vienne, quelque temps avant la guerre, une psychanalyste pour enfants est persuadée que son neveu âgé de cinq ans a des pulsions meurtrières."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré en 2K par Le Petit Bureau avec le soutien du CNC."
+      }
+    ],
+    "generique": [
+      "Catherine Deneuve",
+      "Michel Piccoli",
+      "Melvil Poupaud",
+      "Andrzej Seweryn"
+    ]
+  },
+  {
+    "titre": "Golden Boat",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 77016,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1989,
+    "pays": "Belgique-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le film s'inspire de séries policières américaines, mélangées à des soaps opéras mexicaines; tout cela plongé dans le contexte artistique de l'underground New-yorkais."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré numériquement par Exchange/Strand Releasing."
+      }
+    ],
+    "generique": [
+      "Michael Kirby",
+      "Federico Muchnik",
+      "Jim Jarmusch",
+      "Barbet Schroeder"
+    ]
+  },
+  {
+    "titre": "Hypothèse du tableau volé",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 51147,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1978,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un collectionneur examine une série de tableaux, qui cache une énigme à résoudre."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+      }
+    ],
+    "generique": [
+      "Jean Rougeul",
+      "Anne Debois",
+      "Chantal Paley",
+      "Jean Narboni"
+    ],
+    "adaptation": "D'après le roman _Le Baphomet_ de Pierre Klossowski."
+  },
+  {
+    "titre": "Ile au trésor",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 52262,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1985,
+    "pays": "France-Grande-Bretagne-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jim Hawkins rêve de partir à la chasse au trésor. Il découvre une carte indiquant l'emplacement de légendaires richesses cachées sur une île."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par Argos Films avec le soutien du CNC."
+      }
+    ],
+    "generique": [
+      "Melvil Poupaud",
+      "Martin Landau",
+      "Lou Castel",
+      "Jean-Pierre Léaud"
+    ]
+  },
+  {
+    "titre": "Jessie",
+    "titreVo": "Shattered Image",
+    "idFilm": 64217,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1997,
+    "pays": "Grande-Bretagne-États-Unis-Canada",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Qui est Jessie Markham? Une jeune héritière? Ou bien une ravissante tueuse à gages? Chacune de ces versions semble sortie d'un fantasme..."
+      }
+    ],
+    "generique": [
+      "Anne Parillaud",
+      "Lisanne Falk",
+      "Billy Wilmott",
+      "William Baldwin"
+    ]
+  },
+  {
+    "titre": "Journées à la campagne",
+    "titreVo": "Dias de campo",
+    "idFilm": 94552,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2003,
+    "pays": "Chili-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un bar de Santiago, don Federico se met à évoquer le temps de sa jeunesse, jadis, quand il vivait à la campagne..."
+      }
+    ],
+    "generique": [
+      "Marcial Edwards",
+      "Mario Montilles",
+      "Bélgica Castro",
+      "Ignacio Agüero"
+    ]
+  },
+  {
+    "titre": "Klimt",
+    "titreVo": "",
+    "idFilm": 99441,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2005,
+    "pays": "Autriche-France-Allemagne-Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Klimt n'est pas un _biopic_, mais un film tournant autour des images emblématiques de l'existence du peintre viennois."
+      }
+    ],
+    "generique": [
+      "John Malkovich",
+      "Veronica Ferres",
+      "Saffron Burrows",
+      "Nikolai Kinski"
+    ]
+  },
+  {
+    "titre": "Léon Morin prêtre",
+    "titreVo": "",
+    "idFilm": 50147,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Pierre Melville",
+    "annee": 1961,
+    "pays": "France-Italie",
+    "generique": [
+      "Jean-Paul Belmondo",
+      "Emmanuelle Riva",
+      "Irène Tunc"
+    ],
+    "adaptation": "D'après le roman _Léon Morin, prêtre_ de Béatrix Beck."
+  },
+  {
+    "titre": "Lettre d'Atom Egoyan",
+    "titreVo": "",
+    "idFilm": 131017,
+    "ageMinimal": null,
+    "realisateurs": "Atom Egoyan",
+    "annee": 2015,
+    "pays": "Canada-France"
+  },
+  {
+    "titre": "Litoral, cuentos del mar TV",
+    "titreVo": "",
+    "idFilm": 127563,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2008,
+    "pays": "Chili",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Basée sur des contes de marins, de pêcheurs, et d'habitants du littoral des îles chiliennes, l'histoire se déroule autour d'un bateau fantôme appelé Lucerna."
+      }
+    ],
+    "generique": [
+      "Bélgica Castro",
+      "Hugo Medina",
+      "Mario Montilles",
+      "Santiago Meneghello"
+    ]
+  },
+  {
+    "titre": "Maison Nucingen",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 108114,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2007,
+    "pays": "France-Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme gagne une maison au poker, s'y rend avec sa femme et est accueilli par des étranges personnages..."
+      }
+    ],
+    "generique": [
+      "Elsa Zylberstein",
+      "Jean-Marc Barr",
+      "Thomas Durand",
+      "Miriam Heard"
+    ],
+    "adaptation": "D'après le roman _La Maison Nucingen_ de Honoré de Balzac."
+  },
+  {
+    "titre": "Mammame",
+    "titreVo": "",
+    "idFilm": 39481,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1985,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une troupe volubile, le corps bruni comme sous l'effet d'une grande chaleur, danse en s'invectivant dans un dédale de parois, mobiles et bleutées, et festoie dans le vent au bord d'une falaise."
+      }
+    ],
+    "generique": [
+      "Jean-Claude Gallotta",
+      "Eric Alfieri",
+      "Mathilde Altaraz",
+      "Muriel Boulay"
+    ]
+  },
+  {
+    "titre": "Mémoire des apparences",
+    "titreVo": "",
+    "idFilm": 73368,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1986,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Préparation d'un pièce de théâtre qui raconte l'histoire d'un homme qui, s'endormant plusieurs fois lors de séances de cinéma, se met à rêver et se surprend à vivre une réalité proche de ses songes."
+      }
+    ],
+    "generique": [
+      "Sylvain Thirolle",
+      "Roch Leibovici",
+      "Bénédicte Sire"
+    ]
+  },
+  {
+    "titre": "Miotte vu par Raúl Ruiz",
+    "titreVo": "",
+    "idFilm": 126890,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2001,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un documentaire sur le peintre abstrait Jean Miotte."
+      }
+    ]
+  },
+  {
+    "titre": "Mystères de Lisbonne",
+    "art": "Les",
+    "titreVo": "Mistérios de Lisboa",
+    "idFilm": 112044,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2009,
+    "pays": "Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un voyage tumultueux, fait d'amour et d'aventures, à travers le Portugal, la France, l'Italie et le Brésil du XIXe siècle."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "1ème partie 120 ' – entr'acte de 30 minutes – 2ème partie 158'"
+      }
+    ],
+    "generique": [
+      "Adriano Luz",
+      "Maria João Bastos",
+      "Ricardo Pereira",
+      "Clotilde Hesme"
+    ],
+    "adaptation": "D'après le roman _Les Mystères de Lisbonne_ de Camilo Castelo Branco."
+  },
+  {
+    "titre": "Nuit d'en face",
+    "art": "La",
+    "titreVo": "Noche de enfrente",
+    "artVo": "La",
+    "idFilm": 116557,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2011,
+    "pays": "Chili-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Trois âges d'un homme, qui voit la mort venir; s'entrecroisent. Le film-testament de Raoul Ruiz."
+      }
+    ],
+    "generique": [
+      "Christian Vadim",
+      "Valentina Vargas",
+      "Sergio Hernández"
+    ]
+  },
+  {
+    "titre": "Œil qui ment",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 51153,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1992,
+    "pays": "France-Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la fin de la Grande Guerre, à Paris, Félicien, médecin spécialisé dans les guérisons inexplicables apprend, à la mort de son père, que la fortune familiale a été investie au Portugal. Il décide de se rendre sur place."
+      }
+    ],
+    "generique": [
+      "John Hurt",
+      "Didier Bourdon",
+      "Lorraine Evanoff",
+      "David Warner"
+    ]
+  },
+  {
+    "titre": "Paya e tala, une visite chez Farid Belkahia",
+    "titreVo": "",
+    "idFilm": 126880,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1988,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Portrait de l'artiste marocain Farid Belkahia, l'un des plus importants artistes contemporains marocains."
+      }
+    ]
+  },
+  {
+    "titre": "Personne n'a rien dit",
+    "titreVo": "Nadie dijo nada TV",
+    "idFilm": 88839,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1971,
+    "pays": "Chili-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'univers nocturne de Santiago, symbole de la marginalité des intellectuels au début des années 70."
+      }
+    ],
+    "generique": [
+      "Jaime Vadell",
+      "Carlos Solanos",
+      "Luis Vilches"
+    ]
+  },
+  {
+    "titre": "Petite colombe blanche",
+    "titreVo": "Palomita blanca",
+    "idFilm": 88844,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1973,
+    "pays": "Chili",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire d'amour de Maria, fille d'un milieu pauvre et socialiste, et Juan carlos, homme d'extrême droite des quartiers riches."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par la Cinémathèque chilienne avec le soutien du Conseil National de la Culture et des Arts du Chili. La restauration a été supervisée par le directeur de la photographie Silvio Caiozzi."
+      }
+    ],
+    "generique": [
+      "Beatriz Lapido",
+      "Rodrigo Ureta",
+      "Bélgica Castro"
+    ],
+    "adaptation": "D'après le roman _Palomita blanca_ d'Enrique Lafourcade."
+  },
+  {
+    "titre": "Point de fuite",
+    "titreVo": "",
+    "idFilm": 126806,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1983,
+    "pays": "France-Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un Américain et un Portugais jouent au poker une île qui n'existe que dans leurs rêves, leurs souvenirs et leurs spéculations."
+      }
+    ],
+    "generique": [
+      "Steve Baës",
+      "Rebecca Pauly",
+      "Paulo Branco",
+      "Anne Alvaro"
+    ]
+  },
+  {
+    "titre": "Présence réelle TV",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 51154,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1984,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "« L'INA m'avait demandé une vision personnelle du Festival d'Avignon et c'est devenu une fiction autour du théâtre » (Ruiz)"
+      }
+    ],
+    "generique": [
+      "Frank Oger",
+      "Nadège Clair",
+      "Camila Mora"
+    ]
+  },
+  {
+    "titre": "Professeur Taranne",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 126920,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1987,
+    "pays": "France-Belgique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un professeur d'Université vaniteux est soumis à une série de confrontations absurdes et inquiétantes."
+      }
+    ],
+    "generique": [
+      "Jacqueline Bollen",
+      "Marie-Luce Bonfanti",
+      "Ionna Gkizas"
+    ],
+    "adaptation": "D'après la pièce _Le Professeur Taranne_ d'Athur Adamov."
+  },
+  {
+    "titre": "Raoul Not Making",
+    "titreVo": "",
+    "idFilm": 127906,
+    "ageMinimal": null,
+    "realisateurs": "Salvo Cuccia, Gaspare Pasciuta",
+    "annee": 1994,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Making of du tournage de L_e Voyage clandestin : vies de saints et de pécheurs_, contenant des interviews de Raoul Ruiz."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "En collaboration avec CRICD Filmoteca Regionale Siciliana et Abra&Cadabra."
+      }
+    ]
+  },
+  {
+    "titre": "Raoul Ruiz, contre l'ignorance fiction.",
+    "titreVo": "",
+    "idFilm": 129751,
+    "ageMinimal": null,
+    "realisateurs": "Alejandra Rojo",
+    "annee": 2015,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "« A partir de nombreux extraits de films, d'interviews ainsi que de témoignages de collaborateurs et acteurs, ce documentaire dessine le portrait d'un grand artiste du XXe siècle qui a lutté contre l'uniformisation des imaginaires en construisant une œuvre ironique et inclassable » (A. Rojo)"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "En avant-première."
+      }
+    ]
+  },
+  {
+    "titre": "Raoul Ruiz, un portrait chilien",
+    "titreVo": "",
+    "idFilm": 128939,
+    "ageMinimal": null,
+    "realisateurs": "Jérôme Prieur",
+    "annee": 2006,
+    "pays": "France"
+  },
+  {
+    "titre": "Régime sans pain",
+    "titreVo": "",
+    "idFilm": 54221,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1984,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une comédie musicale narrant les péripéties de Jason III, souverain de la principauté rock du Vercors, qui doit être prochainement destitué."
+      }
+    ],
+    "generique": [
+      "Anne Alvaro",
+      "Olivier Angèle",
+      "Gérard Maimone"
+    ]
+  },
+  {
+    "titre": "Richard III",
+    "titreVo": "",
+    "idFilm": 77390,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1984,
+    "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Adaptation de la célèbre pièce de Shakespeare, librement inspirée de la mise en scène de Georges Lavaudant (festival d'Avignon,1984)"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "_Sous réserve._"
+      }
+    ],
+    "generique": [
+      "Ariel Garcia Valdés",
+      "Gilles Arbona",
+      "Marc Betton"
+    ],
+    "adaptation": "D'après la pièce _Richard III_ de William Shakespeare."
+  },
+  {
+    "titre": "Soledades",
+    "art": "Las",
+    "titreVo": "",
+    "idFilm": 126889,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1992,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "« La nuit du 25 août 1992, je fus réveillé par des bruits dans la salle à manger de mon appartement parisien. J'eus alors la surprise d'y voir mon oncle, Juan Ruiz, mort 25 ans auparavant au Chili... »(Raoul Ruiz)"
+      }
+    ],
+    "generique": [
+      "Jean Badin"
+    ],
+    "adaptation": "D'après l'ouvrage _ Las Soledades_ de Luis de Góngora y Argote."
+  },
+  {
+    "titre": "Temps retrouvé",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 64267,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1998,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sur son lit de mort, Marcel Proust se remémore chacune de ses rencontres, auxquelles viennent se mêler les personnages qu'il a lui-même inventé."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré en 2K par Le Petit Bureau avec le soutien du CNC."
+      }
+    ],
+    "generique": [
+      "Catherine Deneuve",
+      "Emmanuelle Béart",
+      "Vincent Perez",
+      "John Malkovich"
+    ],
+    "adaptation": "D'après le roman _A la recherche du temps perdu_ de Marcel Proust."
+  },
+  {
+    "titre": "Terre de sorciers",
+    "titreVo": "Recta provincia TV",
+    "artVo": "La",
+    "idFilm": 126899,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2007,
+    "pays": "Chili-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La Recta Provincia est une sorte de secte conduite par des sorcières, sur la plus grande île d'Amérique su Sud, berceau des mythes fondateurs de la culture chilienne."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Postproduction de la version cinématographique par la Cinémathèque française avec le soutien du Conseil National de la Culture et des Arts du Chili."
+      }
+    ],
+    "generique": [
+      "Bélgica Castro",
+      "Ignacio Agüero",
+      "Ángel Parra"
+    ]
+  },
+  {
+    "titre": "Territoire",
+    "art": "Le",
+    "titreVo": "Territorio",
+    "artVo": "O",
+    "idFilm": 44145,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1981,
+    "pays": "Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un groupe de vacanciers part en randonnée dans les bois. Très vite leur guide les abandonne. Ils se retrouvent perdus dans « le territoire », une zone qui résiste à l'entendement."
+      }
+    ],
+    "generique": [
+      "Rebecca Pauly",
+      "Geoffrey Carey"
+    ]
+  },
+  {
+    "titre": "Toit de la baleine",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 56615,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1981,
+    "pays": "France-Pays-Bas",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Parodie de l'impérialisme : un anthropologue tente d'apprendre le langage d'un des derniers survivants d'une tribu indienne de Patagonie."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Numérisé par la Cinémathèque française."
+      }
+    ],
+    "generique": [
+      "Jean Badin",
+      "Fernando Bordeu",
+      "Willeke Van Ammelrooy"
+    ]
+  },
+  {
+    "titre": "Tous les nuages sont des horloges",
+    "titreVo": "",
+    "idFilm": 126919,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1988,
+    "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une maison de campagne, le soir. Un couple rentre chez lui et trouve à l'intérieur de sa maison un huissier occupé à dresser un état des lieux."
+      }
+    ],
+    "generique": [
+      "Jessica Forde",
+      "Alain Sachs"
+    ]
+  },
+  {
+    "titre": "Trois couronnes du matelot",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 51155,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1982,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lors d'une nuit brumeuse, un marin accepte de raconter ses incroyables aventures à un jeune étudiant de passage pour la modique somme de trois couronnes."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+      }
+    ],
+    "generique": [
+      "Jean-Bernard Guillard",
+      "Philippe Deplanche",
+      "Jean Badin"
+    ]
+  },
+  {
+    "titre": "Trois tristes tigres",
+    "titreVo": "Tres tristes tigres",
+    "idFilm": 43953,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1968,
+    "pays": "Chili",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Santiago, trois personnages marginaux (un frère, sa sœur et un ami) dans leurs pérégrinations nocturnes à la recherche d'un travail, d'une rencontre, d'eux-mêmes..."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par l'Association des Amis de Raoul Ruiz avec le soutien du Conseil National de la Culture et des Arts du Chili."
+      }
+    ],
+    "generique": [
+      "Shenda Román",
+      "Nelson Villagra",
+      "Luis Alarcón"
+    ],
+    "adaptation": "D'après la pièce _Tres tristes tigres_ d'Alejandro Sieveking."
+  },
+  {
+    "titre": "Trois vies et une seule mort",
+    "titreVo": "",
+    "idFilm": 59924,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1995,
+    "pays": "France-Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire d'un homme aux personnalités multiples. S'il dispose de trois vies, il n'a qu'une seule mort, tragique, car on ne vit pas impunément plusieurs vies."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré en 2K par Le Petit Bureau avec le soutien du CNC."
+      }
+    ],
+    "generique": [
+      "Marcello Mastroianni",
+      "Anna Galiena",
+      "Marisa Paredes",
+      "Melvil Poupaud"
+    ]
+  },
+  {
+    "titre": "Un flic",
+    "titreVo": "",
+    "idFilm": 57739,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Pierre Melville",
+    "annee": 1971,
+    "pays": "France-Italie"
+  },
+  {
+    "titre": "Une place parmi les vivants",
+    "titreVo": "",
+    "idFilm": 87316,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2003,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans le Montmartre des années 50, Ernest Ripper, un écrivain qui doute de son talent, est contacté par Arcimboldo, un homme étrange qui prétend être le tueur en série qui défraie la chronique à Paris. Celui-ci lui propose de rédiger ses mémoires..."
+      }
+    ],
+    "generique": [
+      "Christian Vadim",
+      "Thierry Gibault",
+      "Valérie Kaprisky"
+    ],
+    "adaptation": "D'après le roman _Une place parmi les vivants_ de Jean-Pierre Gattegno."
+  },
+  {
+    "titre": "Valise",
+    "art": "La",
+    "titreVo": "Maleta",
+    "artVo": "La",
+    "idFilm": 126430,
+    "ageMinimal": 0,
+    "realisateurs": "Raúl Ruiz",
+    "annee": 1960,
+    "pays": "Chili",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme se promène dans la ville avec une valise contenant un homme beaucoup plus petit que lui..."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Premier film de Ruiz considéré comme perdu. Le négatif original a été retrouvé et réédité par le cinéaste en 2007. Conservé par la Cineteca de la Universidad de Chile."
+      }
+    ],
+    "generique": [
+      "Hector Duvauchelle",
+      "Gastón Duvauchelle",
+      "Orietta Escámez"
+    ],
+    "adaptation": "D'après la pièce de théâtre _La Maleta_ de Raoul Ruiz."
+  },
+  {
+    "titre": "Vertige de la page blanche",
+    "titreVo": "",
+    "idFilm": 126894,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 2003,
+    "pays": "Belgique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Exercice cinématographique qui cherche à briser les règles de la narration traditionnelle. Le thème principal est la justice et les jurés, l'acte de juger à tous les niveaux possibles."
+      }
+    ],
+    "generique": [
+      "Pascale Anin",
+      "Patrick Azam",
+      "Philippe Bombled"
+    ]
+  },
+  {
+    "titre": "Viaggio clandestino – Vite di santi e di peccatori",
+    "titreVo": "",
+    "idFilm": 126918,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1994,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mario est un homme banal qui erre dans la campagne. Sur son chemin il rencontre Jésus Christ..."
+      }
+    ],
+    "generique": [
+      "Donato Castellaneta",
+      "Marco Cavicchioli",
+      "Marco Manchisi"
+    ],
+    "adaptation": "D'après l'ouvrage _La vie est un songe_ de Pedro Calderón de la Barca."
+  },
+  {
+    "titre": "Ville des pirates",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 54676,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1983,
+    "pays": "France-Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un univers onirique, l'amour impossible entre une jeune femme et un petit garçon criminel, incarnation du Mal."
+      }
+    ],
+    "generique": [
+      "Hugues Quester",
+      "Anne Alvaro",
+      "Melvil Poupaud"
+    ]
+  },
+  {
+    "titre": "Visions et merveilles de la religion chrétienne",
+    "titreVo": "",
+    "idFilm": 126887,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1991,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les personnages sont tous en enfer, jouant comme s'il étaient dans une sitcom."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par l'Association des amis de Raoul Ruiz."
+      }
+    ],
+    "adaptation": "D'après l'ouvrage _Arcana Celestia_ d'Emanuel Swedenborg."
+  },
+  {
+    "titre": "Vocation suspendue TV",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 51148,
+    "ageMinimal": 0,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1977,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un abbé voit sa vocation troublée par les querelles idéologiques qui frappent sa communauté religieuse."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par le service de l'exploitation technique de l'Ina."
+      }
+    ],
+    "generique": [
+      "Didier Flamand",
+      "Gabriel Gascon"
+    ],
+    "adaptation": "D'après le roman _La Vocation Suspendue_ de Pierre Klossowski."
+  },
+  {
+    "titre": "Wind Water",
+    "titreVo": "",
+    "idFilm": 126917,
+    "ageMinimal": null,
+    "realisateurs": "Raoul Ruiz",
+    "annee": 1995,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "_Wind and water_ met en scène un dialogue à trois entre la culture chinoise, arabe et occidentale. Les cultures interagissent et se testent mutuellement; le résultat, une insoluble dispute."
+      }
+    ],
+    "generique": [
+      "Jean Badin",
+      "Chin Cheung",
+      "Abdelwahab Meddeb"
+    ]
+  }
+]

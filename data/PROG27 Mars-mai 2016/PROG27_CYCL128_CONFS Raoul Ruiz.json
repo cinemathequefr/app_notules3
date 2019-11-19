@@ -1,0 +1,117 @@
+[
+  {
+    "idCategorie": 736,
+    "idEvenement": 9624,
+    "titre": "Cartographies maritimes imaginaires de Raoul Ruiz : « Nitrates d'outre-mer ! »",
+    "duree": 90,
+    "idTypeConference": 55,
+    "typeConference": "Conférence",
+    "textes": [
+      {
+        "typeTexte": 114,
+        "texte": "Tarifs conférence : PT 4 €, TR 3 €, Libre Pass accès libre. Possibilité billet couplé conférence + séance : 8.5 € (au lieu de 10.5 €)."
+      },
+      {
+        "typeTexte": 156,
+        "texte": "Docteure en cinéma, ancien professeur à l'École du Louvre et la New York University, **Gabriela Trujillo** est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille actuellement à l'Action culturelle de la Cinémathèque française."
+      },
+      {
+        "typeTexte": 8,
+        "texte": "Périples, errances, jeux de l'oie et voyages initiatiques : Raoul Ruiz, fils de marin, est sans conteste l'un des grands maîtres dans l'art de la navigation. Son cinéma tresse faits divers, légendes, superstitions et adaptations-« poursuites » des grands classiques (Stevenson, Homère, Proust, Balzac) pour renouveler l'imaginaire de la traversée."
+      }
+    ],
+    "intervenants": [
+      {
+        "nomComplet": "Gabriela Trujillo",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 1
+      }
+    ],
+    "sousTitre": "Conférence de Gabriela Trujillo"
+  },
+  {
+    "idCategorie": 736,
+    "idEvenement": 9625,
+    "titre": "Table ronde « Raoul Ruiz, un cinéaste sans limites »",
+    "duree": 60,
+    "idTypeConference": 19,
+    "typeConference": "Table ronde",
+    "textes": [
+      {
+        "typeTexte": 114,
+        "texte": "Tarifs séance : PT 6.5 €, TR 5.5 €, Libre Pass accès libre."
+      },
+      {
+        "typeTexte": 8,
+        "texte": "A l'occasion de la rétrospective Raoul Ruiz et à l'issue de la projection de _Généalogies d'un crime_, cette table ronde réunit  plusieurs collaborateurs du cinéaste: **Valeria Sarmiento**, monteuse, **Jorge Arriagada**, compositeur, **Pascal Bonitzer**, acteur et scénariste, **Benoît Peeters**, biographe et scénariste, ainsi que **Melvil Poupaud**, l'un de ses acteurs fétiches. Table ronde animée par **Frédéric Bonnaud**, directeur général de la Cinémathèque française."
+      }
+    ],
+    "intervenants": []
+  },
+  {
+    "idCategorie": 736,
+    "idEvenement": 9636,
+    "titre": "Présentation de La Chouette aveugle",
+    "duree": 15,
+    "idTypeConference": 147,
+    "typeConference": "Présentation de séance"
+  },
+  {
+    "idCategorie": 736,
+    "idEvenement": 9684,
+    "titre": "Dialogue avec Paulo Branco",
+    "duree": 45,
+    "idTypeConference": 16,
+    "typeConference": "Dialogue",
+    "textes": [
+      {
+        "typeTexte": 114,
+        "texte": "Tarifs séance : PT 6.5 €, TR 5.5 €, Libre Pass accès libre."
+      },
+      {
+        "typeTexte": 8,
+        "texte": "« Quand Paulo Branco m'a proposé de réaliser les _Mystères de Lisbonne_, j'ai compris que j'attendais en fait ce genre de proposition depuis des années (depuis une éternité, diraient Vargas Vila et Nene Cascallar à l'unisson). Cette avalanche, cette cataracte d'avanies, de crimes et de désastres inattendus, ce fleuve d'amours douloureuses et d'espérances meurtries qui arrosait la vallée de larmes fertile que peuplaient les personnages de Camilo, je les connaissais depuis toujours. » (Raoul Ruiz)"
+      }
+    ],
+    "intervenants": [
+      {
+        "nomComplet": "Paulo Branco",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Gabriela Trujillo",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
+      }
+    ],
+    "mentionAnimation": "Rencontre animée par Gabriela Trujillo"
+  },
+  {
+    "idCategorie": 736,
+    "idEvenement": 9692,
+    "titre": "Présentation de Le Temps retrouvé",
+    "duree": 0,
+    "idTypeConference": 147,
+    "typeConference": "Présentation de séance"
+  },
+  {
+    "idCategorie": 736,
+    "idEvenement": 9693,
+    "titre": "Présentation La Maison Nucingen",
+    "duree": 0,
+    "idTypeConference": 147,
+    "typeConference": "Présentation de séance"
+  },
+  {
+    "idCategorie": 736,
+    "idEvenement": 9694,
+    "titre": "Présentation La Nuit d'en face",
+    "duree": 0,
+    "idTypeConference": 147,
+    "typeConference": "Présentation de séance"
+  }
+]
