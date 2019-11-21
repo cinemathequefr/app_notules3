@@ -10,8 +10,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Fils de militants actifs, le jeune Danny Pope est sans cesse obligé de fuir avec sa famille et de changer d'identité. Alors qu'il a 17 ans, qu'il rêve de devenir pianiste et rencontre une fille, celui-ci va cependant devoir faire le choix de rester ou fuir de nouveau avec sa famille."
+        "texte": "Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie."
       }
+    ],
+    "generique": [
+      "Christine Lahti",
+      "River Phoenix",
+      "Judd Hirsch",
+      "Martha Plimpton"
     ]
   },
   {
@@ -26,7 +32,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Au début du XXe siècle, une équipe d'explorateurs partent en montagne, à la recherche de l'arche de Noé biblique."
+        "texte": "Au début du XXe siècle, une équipe d'explorateurs partent en montagne, à la recherche de l'Arche de Noé biblique."
       }
     ]
   },
@@ -36,12 +42,12 @@
     "idFilm": 143178,
     "ageMinimal": null,
     "realisateurs": "Gabriel Martins, Maurilio Martins",
-    "annee": 2019,
+    "annee": 2018,
     "pays": "Brésil",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "A Contagem, ville populaire du Minas Gerais Brésilien, un coup de feu retentit lors d'une soirée d'anniversaire et lie les destins de Selma, Ana, Marcos, Beto et Miro. Tous se démènent pour améliorer leur vie et trouver leur place « au cœur du monde »."
+        "texte": "À Contagem, ville populaire du Minas Gerais, au Brésil, un coup de feu retentit lors d'une soirée d'anniversaire et lie les destins de Selma, Ana, Marcos, Beto et Miro. Tous se démènent pour améliorer leur vie et trouver leur place « au cœur du monde »."
       }
     ],
     "generique": [
@@ -77,7 +83,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Algérie, 1961. Alors que la France vient de faire exploser sa quatrième bombe atomique, un groupe de sept soldats est envoyé jusqu'au point d'impact afin d'y effectuer des prélèvements et des mesures de la radioactivité́."
+        "texte": "Algérie, 1961. Alors que la France vient de faire exploser sa quatrième bombe atomique, un groupe de sept soldats est envoyé jusqu'au point d'impact afin d'y effectuer des prélèvements et des mesures de la radioactivité."
       }
     ],
     "generique": [
@@ -99,7 +105,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La « Casa Verdi » de Milan est à la fois le thème et le décor de ce film à caractère documentaire – une maison de retraite pour artistes, fondée par Giuseppe Verdi, où vivent environ 65 chanteurs, musiciens et compositeurs. Leur âge varie entre 80 et 96 ans : des stars des années 30. _Restauré par la Cinémathèque suisse et Memoriav._"
+        "texte": "À la _Casa di riposo per musicisti_ de Milan, maison  de retraite fondée par Giuseppe Verdi, vivent une soixantaine de chanteurs, musiciens et compositeurs qui ont connu la gloire dans les années 30."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par la Cinémathèque suisse et Memoriav."
       }
     ]
   },
@@ -114,7 +124,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "_Le Secret de Brokeback Mountain_ est passé hier soir à la télé. Vincent l'a vu et ça l'a bouleversé. Il profite de la récréation pour raconter le film à Moussa. De l'autre côté du mur, dans les toilettes des filles, Jessica, elle aussi très affectée, en profite pour poser pas mal de questions sur le papa homosexuel de Nadia."
+        "texte": "_Le Secret de Brokeback Mountain_ est passé hier soir à la télévision. Bouleversé par cette découverte, Vincent raconte le film à son copain de lycée Moussa."
       }
     ],
     "generique": [
@@ -133,11 +143,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Pendant un an, Élodie Fonnard, chanteuse lyrique et parisienne, a accueilli chez elle et pris soin d'Ahmad, jeune Afghan réfugié en France. Devant la caméra, Élodie et Ahmad rejouent leur vie commune et le partage de leurs cultures respectives."
+        "texte": "Pendant un an, Élodie Fonnard, chanteuse lyrique parisienne, a hébergé Ahmad, un jeune Afghan réfugié en France. Devant la caméra, ils rejouent leur vie commune et la rencontre de leurs deux cultures."
       },
       {
         "typeTexte": 99,
-        "texte": "Film inédit qui a remporté le Prix Georges de Beauregard National & le Prix Renaud Victor au Festival International de Cinéma – Marseille."
+        "texte": "Film inédit qui a remporté le Prix Georges de Beauregard National et le Prix Renaud Victor au FID (Festival International de Cinéma de Marseille)."
       }
     ],
     "generique": [
@@ -155,8 +165,27 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Chloé, une vieille dame, organise des projections dans un espace souterrain. Elle fait visiter à un journaliste ses galeries où s'entrepose sa collection de films argentiques. Au fil de la descente, nous plongeons avec elle dans son univers altéré."
+        "texte": "Chloé, une vieille dame, organise des projections dans un espace souterrain. Elle fait visiter à un journaliste les galeries où est entreposée sa collection de films argentiques."
       }
+    ]
+  },
+  {
+    "titre": "Dans la jungle des villes",
+    "titreVo": "",
+    "idFilm": 143274,
+    "ageMinimal": null,
+    "realisateurs": "Stéphane Demoustier",
+    "annee": 2010,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jérôme habite depuis peu à Paris. Il est un peu perdu et croit avoir trouvé en Jean un nouvel ami. Ses espoirs sont vite refroidis par Jean qui prend ses distances. Jérôme reporte ses élans affectifs sur Laura, l'amie de Jean. Un dérèglement est à l'œuvre. Jérôme va vouloir s'immiscer dans la vie du couple. Il traque Laura, cherche à la rencontrer, au-delà de toute mesure."
+      }
+    ],
+    "generique": [
+      "Denis Eyriey",
+      "Anaïs Demoustier"
     ]
   },
   {
@@ -171,7 +200,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Craignant de perdre sa femme, Horacio en crée une réplique, qu'il appelle Hortensia. Mais tout ne se passe pas comme prévu..."
+        "texte": "Craignant de perdre sa femme, Horacio en crée une réplique, qu'il appelle Hortensia. Mais tout ne se passe pas comme prévu."
       },
       {
         "typeTexte": 99,
@@ -191,7 +220,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Vincent a 20 ans, c'est un jeune comédien à succès à qui on vient d'offrir le premier rôle dans le film de l'année : le biopic sur la jeunesse de Charles de Gaulle. Au même moment, ses parents partent vivre à Orléans et le poussent à emménager seul."
+        "texte": "Vincent a 20 ans, c'est un jeune comédien à succès à qui on vient d'offrir le premier rôle dans le film de l'année : un biopic sur la jeunesse de Charles de Gaulle. Au même moment, ses parents partent vivre à Orléans et le poussent à emménager seul."
       }
     ],
     "generique": [
@@ -210,7 +239,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Esperança, quinze ans, vient d'arriver d'Angola avec sa mère. À la gare d'Amiens, elles ne savent pas où dormir et cherchent quelqu'un qui pourrait les aider. Esperança nous raconte son histoire. Parole documentaire, dessins animés."
+        "texte": "Esperança, quinze ans, vient d'arriver d'Angola avec sa mère. À la gare d'Amiens, elles ne savent pas où dormir et cherchent quelqu'un pour les aider."
       }
     ]
   },
@@ -226,7 +255,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "C'est l'été, dans un camping en Dordogne, des jeunes gens disparaissent. Les rumeurs les plus folles circulent, on parle d'une panthère qui rôde... Un sentiment de danger permanent au cœur duquel s'épanouit Laura, 17 ans. La rencontre avec Paul, un écrivain aussi attirant qu'inquiétant, la bouleverse. Une relation ambigüe se noue."
+        "texte": "C'est l'été. Dans un camping en Dordogne, des jeunes gens disparaissent et les rumeurs les plus folles circulent. Au cœur de ce danger, Laura, 17 ans, s'épanouit."
       }
     ],
     "generique": [
@@ -255,7 +284,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Adèle, une jeune trentenaire, décide de rentrer en contact avec Vidal, un musicien qu'elle admire. À sa grande surprise, celui-ci lui répond. Quelques messages sont échangés et une date de rendez-vous est fixée. Avec beaucoup d'enthousiasme, Adèle va à la rencontre de Vidal. Mais il y a une chose qu'elle n'a pas précisée : elle est enceinte."
+        "texte": "Adèle, trente ans, se décide à rentrer en contact avec Vidal, un chanteur qu'elle admire. Après quelques échanges, il lui donne rendezvous. Mais il ignore qu'Adèle est enceinte."
       }
     ],
     "generique": [
@@ -276,7 +305,16 @@
       {
         "typeTexte": 9,
         "texte": "Selon la légende, la Llorona est un fantôme qui cherche et pleure ses enfants. Le général responsable du génocide des mayas est hanté par elle : est-elle venue punir celui que la justice n'a pas condamné ?"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Avant-première avec ARP Sélection."
       }
+    ],
+    "generique": [
+      "María Mercedes Coroy",
+      "Sabrina de la Hoz",
+      "Margarita Kenefic"
     ]
   },
   {
@@ -295,6 +333,21 @@
     ]
   },
   {
+    "titre": "Mon juke-box",
+    "titreVo": "",
+    "idFilm": 143275,
+    "ageMinimal": null,
+    "realisateurs": "Florentine Grelier",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "J'ai entendu une musique par hasard, l'autre jour. Un vieux titre de rock'n'roll. Ça me dit quelque chose. C'est sûrement un morceau qui passait sur une des machines infernales de mon père, l'aventurier, l'homme aux mille vies, le roi du juke-box."
+      }
+    ]
+  },
+  {
     "titre": "Movements",
     "titreVo": "",
     "idFilm": 143181,
@@ -305,7 +358,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En 10 minutes, le baobab africain pousse de 0,008 mm, le lévrier, chien le plus rapide du monde, peut parcourir 12 km et la Terre parcourt 18 000 km autour du soleil. Mouvements est un film d'animation de 10 minutes que j'ai dessiné à raison de 2 secondes d'animation par jour. Nous marchons, regardons, travaillons, courons et nous arrêtons tous ensemble."
+        "texte": "« En 10 minutes, le baobab africain pousse de 0,008 mm, le lévrier, chien le plus rapide du monde, peut courir 12 km et la Terre parcourt 18 000 km autour du soleil. Mouvements est un film d'animation de 10 minutes que j'ai dessiné à raison de 2 secondes d'animation par jour. Nous marchons, regardons, travaillons, courons et nous arrêtons tous ensemble. »"
       }
     ]
   },
@@ -320,7 +373,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un ours pense trop et broie du noir ; il n'arrive pas à dormir. Lorsqu'un singe blanc lui propose d'aller manger du miel chez sa tante pour lui changer les idées, une belle et étrange nuit s'ouvre à eux."
+        "texte": "Un ours pense trop et broie du noir. Il n'arrive pas à dormir. Lorsqu'un singe blanc lui propose d'aller manger du miel chez sa tante pour lui changer les idées, une belle et étrange nuit s'ouvre à eux."
       }
     ]
   },
@@ -336,8 +389,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Tandis que P.A. et sa bande vivent leur dernière année au lycée, celui-ci commence à observer des phénomènes étranges, des modifications dans l'environnement, de façon imperceptible d'abord, puis c'est tout son monde qui semble basculer..."
+        "texte": "C'est la dernière année de lycée pour P. A. et sa bande. À cent mètres sous leurs pieds se trouve le LHC, le plus grand accélérateur de particules au monde. P. A. commence à observer des phénomènes étranges, qu'il semble être le seul à remarquer."
       }
+    ],
+    "generique": [
+      "Thomas Daloz",
+      "Néa Lüders"
     ]
   },
   {
@@ -351,7 +408,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un inconnu navigue à travers ses souvenirs de jeunesse en Bulgarie, lesquels le ramènent à la mélancolie et au déracinement croissants qui plombent son existence d'adulte au Canada."
+        "texte": "Un homme, émigré au Canade, navigue avec mélancolie à travers ses souvenirs de jeunesse en Bulgarie."
       }
     ]
   },
@@ -366,7 +423,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Chaque soir, « Poupée » écume les sites de rencontres pour enfin trouver l'amour. Après une discussion virtuelle avec un nouvel inconnu, la jeune femme franchit le pas et se rend chez lui en pleine nuit. Comme toujours elle y croit..."
+        "texte": "Chaque soir, « Poupée » écume les sites de rencontres pour enfin trouver l'amour. Après une discussion virtuelle avec un nouvel inconnu, elle accepte de se rendre chez lui en pleine nuit."
       }
     ],
     "generique": [
@@ -386,7 +443,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'histoire de la lutte contre l'apartheid ne retient qu'un seul homme : Nelson Mandela. Il s'est révélé au cours d'un procès historique en 1963 et 1964. Sur le banc des accusés, huit de ses camarades de lutte risquaient aussi la peine de mort. Face à un procureur zélé, ils décident ensemble de transformer leur procès en tribune contre l'apartheid."
+        "texte": "L'histoire de la lutte contre l'apartheid n'a retenu qu'un seul nom : Nelson Mandela. En 1963, sur le banc des accusés, lui et ses huit camarades de combat risquaient la peine de mort. Ensemble, ils transformèrent leur procès en tribune contre l'apartheid."
       }
     ]
   },
@@ -401,7 +458,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Les pilotes d'une modeste compagnie ont pour coutume de se retrouver tous les soirs au bar de l'aérodrome. Un soir, une musicienne en escale s'invite au comptoir et ne tarde pas à tomber amoureuse de l'ombrageux directeur de la compagnie."
+        "texte": "Les pilotes d'une modeste flotte aéropostale d'Amérique du Sud ont l'habitude de se retrouver au bar de l'aérodrome. Un soir, une musicienne en escale s'invite au comptoir et ne tarde pas à tomber amoureuse de l'ombrageux directeur de la compagnie."
       }
     ],
     "generique": [
@@ -422,7 +479,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Trois sœurs doivent affronter un cataclysme : la submersion prochaine des terres où elles vivent par la mer. Face au chaos, l'union sororelle est bouleversée et chacune vit l'imminence de la mort, en son for intérieur, de manière différente."
+        "texte": "Trois sœurs doivent affronter un cataclysme : la submersion prochaine par la mer des terres où elles vivent."
       }
     ]
   },
@@ -437,7 +494,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Au cœur des forêts tropicales, arborant leurs plus beaux ramages, des paradisiers chantent et livrent un véritable spectacle. Mais la forêt prend une autre tonalité lorsque la main de l'homme vient perturber cette harmonie et cette richesse."
+        "texte": "Au cœur des forêts tropicales, arborant leurs plus beaux ramages, des paradisiers chantent et livrent un véritable spectacle. Mais la forêt prend une autre tonalité lorsque l'homme vient perturber cette harmonie."
       }
     ]
   },
@@ -452,7 +509,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une réflexion sur l'homme moderne à l'époque où la technologie est omniprésente."
+        "texte": "Une réflexion sur l'homme moderne à l'époque de la technologie omniprésente."
       }
     ]
   },
@@ -467,7 +524,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Des joueurs en ligne racontent leur difficulté à échapper au swatting, un phénomène de cyberharcèlement qui menace leur vie à chaque partie. Les événements prennent forme à travers des vidéos YouTube et des images vectorielles issues d'un jeu vidéo."
+        "texte": "Des joueurs en ligne racontent leur confrontation avec le _swatting_, un phénomène de cyberharcèlement qui menace leur vie à chaque partie."
       }
     ]
   },
@@ -483,12 +540,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans un quartier huppé du Connecticut où il a passé ses vacances d'été, Ned Merrill se met en tête de rentrer chez lui à la nage, en empruntant chaque piscine se trouvant sur son chemin. Ce parcours se transforme alors pour lui en un véritable voyage initiatique fait de rencontres et d'expériences."
+        "texte": "Un après-midi, dans un quartier résidentiel huppé du Connecticut, Ned Merrill se met en tête de rentrer chez lui à la nage en passant de piscine en piscine. Au fil des rencontres avec ses voisins, le parcours prend une tournure d'une étrange gravité."
       }
     ],
     "generique": [
       "Burt Lancaster",
-      "Janet Landgard"
+      "Janet Landgard",
+      "Marge Champion"
     ]
   },
   {
@@ -502,7 +560,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une femme trompée commence à enquêter sur les maîtresses de son mari. Sa jalousie est progressivement remplacée par de la curiosité."
+        "texte": "Une femme trompée commence à enquêter sur les maîtresses de son mari. Sa jalousie se teinte peu à peu de curiosité."
       }
     ]
   },
@@ -517,7 +575,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Ibrahim, Suleiman, Manar et Altayeb, cinéastes facétieux et idéalistes, sillonnent dans un van les routes du Soudan pour projeter des films en évitant la censure du pouvoir. Ces quatre amis de toujours se mettent à rêver d'organiser une grande projection publique dans la capitale Khartoum et de rénover une salle de cinéma à l'abandon. Son nom ? La Révolution ..."
+        "texte": "Quatre amis de toujours, passionnés de cinéma, sillonnent les routes du Soudan pour projeter des films en esquivant la censure. Ils rêvent d'organiser une grande projection publique dans la capitale, et de rénover une salle de cinéma à l'abandon. Son nom ? Le « Révolution »."
       },
       {
         "typeTexte": 99,
@@ -536,8 +594,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Que reste-t-il de la révolution ? En colère et déterminée, Angèle se bat contre la malédiction de sa génération : être né à l'heure de la déprime politique mondiale. Tantôt Don Quichotte, tantôt Bridget Jones, Angèle tente de trouver un équilibre..."
+        "texte": "Que reste-t-il de la révolution ? En colère et déterminée, Angèle se bat contre la malédiction de sa génération : être né à l'heure de la déprime politique mondiale. Tantôt Don Quichotte, tantôt Bridget Jones, Angèle cherche sa place."
       }
+    ],
+    "generique": [
+      "Judith Davis",
+      "Malik Zidi",
+      "Claire Dumas"
     ]
   }
 ]

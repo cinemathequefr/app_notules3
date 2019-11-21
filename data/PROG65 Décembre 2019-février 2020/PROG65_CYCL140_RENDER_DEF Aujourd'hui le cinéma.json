@@ -146,12 +146,12 @@
           ],
           "seance": [
             {
-              "dateHeure": "2019-12-02T20:30:00",
+              "dateHeure": "2019-12-02T19:30:00",
               "idSalle": [
-                "JE",
-                "Jean Epstein"
+                "GF",
+                "Georges Franju"
               ],
-              "mention": "Séance suivie d'une discussion avec Gabriel Martins et Marilio Martins"
+              "mention": "Avant-première. Séance suivie d'une discussion avec Gabriel Martins et Maurílio Martins"
             }
           ]
         }
@@ -203,12 +203,12 @@
           ],
           "seance": [
             {
-              "dateHeure": "2019-12-16T20:00:00",
+              "dateHeure": "2019-12-16T19:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ],
-              "mention": "Séance suivie d'une discussion avec Suhaib Gasmelbari"
+              "mention": "Avant-première. Séance suivie d'une discussion avec Suhaib Gasmelbari"
             }
           ]
         }
@@ -328,11 +328,12 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-01-13T20:00:00",
+              "dateHeure": "2020-01-13T19:30:00",
               "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Avant-première. Séance suivie d'une discussion avec Jayro Bustamante. Séance présentée par Jayro Bustamante"
             }
           ]
         }
@@ -350,30 +351,73 @@
       "items": [
         {
           "idCategorie": 2182,
-          "idEvenement": 21492,
+          "idEvenement": 21556,
           "films": [
             {
-              "idFilm": 116774,
-              "titre": "Ce n'est pas un film de cow-boys",
+              "idFilm": 143274,
+              "titre": "Dans la jungle des villes",
               "titreVo": "",
-              "realisateurs": "Benjamin Parent",
-              "annee": 2011,
+              "realisateurs": "Stéphane Demoustier",
+              "annee": 2010,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "_Le Secret de Brokeback Mountain_ est passé hier soir à la télé. Boulerversé par cette découverte, Vincent raconte le film à son copain de lycée Moussa."
+                  "texte": "Jérôme habite depuis peu à Paris et croit trouver en Jean un nouvel ami. Quand celui-ci prend ses distances, Jérôme reporte ses élans sur Laura, l'amie de Jean."
                 }
               ],
               "generique": [
-                "Finnegan Oldfield",
-                "Garance Marillier"
+                "Denis Eyriey",
+                "Anaïs Demoustier"
               ],
-              "duree": 12,
+              "duree": 29,
               "format": "DCP",
               "version": "",
               "ageMinimal": null,
               "ordre": 1
+            },
+            {
+              "idFilm": 104738,
+              "titre": "Il fait beau dans la plus belle ville du monde",
+              "titreVo": "",
+              "realisateurs": "Valérie Donzelli",
+              "annee": 2007,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Adèle, trente ans, se décide à rentrer en contact avec Vidal, un chanteur qu'elle admire. Après quelques échanges, il lui donne rendez-vous. Mais il ignore qu'Adèle est enceinte."
+                }
+              ],
+              "generique": [
+                "Valérie Donzelli",
+                "Serge Bozon"
+              ],
+              "duree": 12,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            },
+            {
+              "idFilm": 63701,
+              "titre": "Arche de Noé",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Jean-François Laguionie",
+              "annee": 1966,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Au début du XX<sup>e</sup> siècle, une équipe d'explorateurs part à la recherche de l'Arche de Noé biblique."
+                }
+              ],
+              "duree": 11,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 3
             },
             {
               "idFilm": 131549,
@@ -397,7 +441,7 @@
               "format": "DCP",
               "version": "",
               "ageMinimal": null,
-              "ordre": 2
+              "ordre": 4
             },
             {
               "idFilm": 143184,
@@ -417,60 +461,39 @@
                 "Virgile Bramly"
               ],
               "ageMinimal": null,
-              "ordre": 3
+              "ordre": 5
             },
             {
-              "idFilm": 104738,
-              "titre": "Il fait beau dans la plus belle ville du monde",
+              "idFilm": 116774,
+              "titre": "Ce n'est pas un film de cow-boys",
               "titreVo": "",
-              "realisateurs": "Valérie Donzelli",
-              "annee": 2007,
+              "realisateurs": "Benjamin Parent",
+              "annee": 2011,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Adèle, trente ans, se décide à rentrer en contact avec Vidal, un chanteur qu'elle admire. Après quelques échanges, il lui donne rendez-vous. Mais il ignore qu'Adèle est enceinte."
+                  "texte": "_Le Secret de Brokeback Mountain_ est passé hier soir à la télé. Boulerversé par cette découverte, Vincent raconte le film à son copain de lycée Moussa."
                 }
               ],
               "generique": [
-                "Valérie Donzelli",
-                "Serge Bozon"
+                "Finnegan Oldfield",
+                "Garance Marillier"
               ],
               "duree": 12,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "",
               "ageMinimal": null,
-              "ordre": 4
-            },
-            {
-              "idFilm": 63701,
-              "titre": "Arche de Noé",
-              "art": "L'",
-              "titreVo": "",
-              "realisateurs": "Jean-François Laguionie",
-              "annee": 1966,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Au début du XX<sup>e</sup> siècle, une équipe d'explorateurs part à la recherche de l'Arche de Noé biblique."
-                }
-              ],
-              "duree": 11,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 5
+              "ordre": 6
             }
           ],
           "seance": [
             {
-              "dateHeure": "2020-01-20T19:00:00",
+              "dateHeure": "2020-02-10T19:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Stéphane Kahn"
+              ]
             }
           ]
         }
@@ -558,7 +581,7 @@
                 "Leonida Bellon",
                 "Salvatore Locapo"
               ],
-              "duree": 0,
+              "duree": 63,
               "format": "DCP",
               "version": "VOSTF",
               "ageMinimal": null,
@@ -654,7 +677,7 @@
               ],
               "duree": 94,
               "format": "35 mm",
-              "version": "VO",
+              "version": "VOSTF",
               "ageMinimal": null,
               "ordre": 1
             }
@@ -714,12 +737,11 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-02-10T19:00:00",
+              "dateHeure": "2020-01-20T19:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
-              ],
-              "mention": "Séance suivie d'une discussion avec Blaise Harrison"
+              ]
             }
           ]
         }
@@ -796,7 +818,7 @@
                 }
               ],
               "duree": 21,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VOSTF",
               "ageMinimal": null,
               "ordre": 3
@@ -842,7 +864,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-02-10T21:30:00",
+              "dateHeure": "2020-02-10T21:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -887,7 +909,7 @@
               ],
               "duree": 88,
               "format": "DCP",
-              "version": "VF",
+              "version": "",
               "ageMinimal": null,
               "ordre": 1
             }
@@ -935,7 +957,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-02-17T21:30:00",
+              "dateHeure": "2020-02-17T21:15:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -1131,10 +1153,9 @@
             {
               "dateHeure": "2020-02-24T19:00:00",
               "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Francis Gavelle"
+                "GF",
+                "Georges Franju"
+              ]
             }
           ]
         }
@@ -1152,8 +1173,27 @@
       "items": [
         {
           "idCategorie": 2196,
-          "idEvenement": 21511,
+          "idEvenement": 21598,
           "films": [
+            {
+              "idFilm": 143275,
+              "titre": "Mon juke-box",
+              "titreVo": "",
+              "realisateurs": "Florentine Grelier",
+              "annee": 2019,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« J'ai entendu une musique par hasard, l'autre jour. Un vieux titre de rock'n'roll. Ça me dit quelque chose. C'est sûrement un morceau qui passait sur une des machines infernales de mon père, l'aventurier, l'homme aux mille vies, le roi du juke-box. »"
+                }
+              ],
+              "duree": 15,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
             {
               "idFilm": 139440,
               "titre": "Procès contre Mandela et les autres",
@@ -1172,15 +1212,15 @@
               "format": "DCP",
               "version": "VOSTF",
               "ageMinimal": null,
-              "ordre": 1
+              "ordre": 2
             }
           ],
           "seance": [
             {
               "dateHeure": "2020-02-24T21:15:00",
               "idSalle": [
-                "JE",
-                "Jean Epstein"
+                "GF",
+                "Georges Franju"
               ]
             }
           ]

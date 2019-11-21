@@ -4,11 +4,12 @@
     "typeEvenement": 13,
     "idEvenement": 21484,
     "idSeance": 32142,
-    "dateHeure": "2019-12-02T20:30:00",
+    "dateHeure": "2019-12-02T19:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
+    "typeSeance": 43,
     "items": [
       {
         "idFilm": 143178,
@@ -21,18 +22,19 @@
         "valide": 1
       }
     ],
-    "mention": "Séance suivie d'une discussion avec Gabriel Martins et Marilio Martins"
+    "mention": "Avant-première. Séance suivie d'une discussion avec Gabriel Martins et Maurílio Martins"
   },
   {
     "idCategorie": 2156,
     "typeEvenement": 13,
     "idEvenement": 21418,
     "idSeance": 32825,
-    "dateHeure": "2019-12-16T20:00:00",
+    "dateHeure": "2019-12-16T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
+    "typeSeance": 43,
     "items": [
       {
         "idFilm": 143066,
@@ -45,7 +47,7 @@
         "valide": 0
       }
     ],
-    "mention": "Séance suivie d'une discussion avec Suhaib Gasmelbari"
+    "mention": "Avant-première. Séance suivie d'une discussion avec Suhaib Gasmelbari"
   },
   {
     "idCategorie": 2152,
@@ -86,11 +88,12 @@
     "typeEvenement": 13,
     "idEvenement": 21453,
     "idSeance": 32400,
-    "dateHeure": "2020-01-13T20:00:00",
+    "dateHeure": "2020-01-13T19:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
+    "typeSeance": 43,
     "items": [
       {
         "idFilm": 143105,
@@ -102,13 +105,14 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Avant-première. Séance suivie d'une discussion avec Jayro Bustamante. Séance présentée par Jayro Bustamante"
   },
   {
-    "idCategorie": 2182,
+    "idCategorie": 2170,
     "typeEvenement": 13,
-    "idEvenement": 21492,
-    "idSeance": 32443,
+    "idEvenement": 21452,
+    "idSeance": 33028,
     "dateHeure": "2020-01-20T19:00:00",
     "idSalle": [
       "JE",
@@ -116,51 +120,16 @@
     ],
     "items": [
       {
-        "idFilm": 116774,
+        "idFilm": 141960,
         "ordre": 1,
-        "idSeance": 32443,
-        "idCopie": 14391,
-        "duree": 12,
-        "version": "",
+        "idSeance": 33028,
+        "idCopie": 20041,
+        "duree": 98,
+        "version": "VF",
         "format": "DCP",
-        "valide": 1
-      },
-      {
-        "idFilm": 131549,
-        "ordre": 2,
-        "idSeance": 32443,
-        "idCopie": 9448,
-        "duree": 15,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      },
-      {
-        "idFilm": 143184,
-        "ordre": 3
-      },
-      {
-        "idFilm": 104738,
-        "ordre": 4,
-        "idSeance": 32443,
-        "idCopie": 20106,
-        "duree": 12,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      },
-      {
-        "idFilm": 63701,
-        "ordre": 5,
-        "idSeance": 32443,
-        "idCopie": 9966,
-        "duree": 11,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
+        "valide": 0
       }
-    ],
-    "mention": "Séance présentée par Stéphane Kahn"
+    ]
   },
   {
     "idCategorie": 2166,
@@ -202,7 +171,7 @@
         "ordre": 1,
         "idSeance": 33004,
         "idCopie": 20111,
-        "duree": 0,
+        "duree": 63,
         "version": "VOSTF",
         "format": "DCP",
         "valide": 0
@@ -249,9 +218,9 @@
         "idFilm": 34637,
         "ordre": 1,
         "idSeance": 33005,
-        "idCopie": 19942,
+        "idCopie": 19943,
         "duree": 94,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
       }
@@ -259,10 +228,10 @@
     "mention": "Séance présentée par Vincent Mariette"
   },
   {
-    "idCategorie": 2170,
+    "idCategorie": 2182,
     "typeEvenement": 13,
-    "idEvenement": 21452,
-    "idSeance": 33006,
+    "idEvenement": 21556,
+    "idSeance": 33029,
     "dateHeure": "2020-02-10T19:00:00",
     "idSalle": [
       "JE",
@@ -270,24 +239,67 @@
     ],
     "items": [
       {
-        "idFilm": 141960,
+        "idFilm": 143274,
         "ordre": 1,
-        "idSeance": 33006,
-        "idCopie": 20041,
-        "duree": 98,
-        "version": "VF",
+        "idSeance": 33029,
+        "idCopie": 20162,
+        "duree": 29,
+        "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
+      },
+      {
+        "idFilm": 104738,
+        "ordre": 2,
+        "idSeance": 33029,
+        "idCopie": 20106,
+        "duree": 12,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 63701,
+        "ordre": 3,
+        "idSeance": 33029,
+        "idCopie": 9966,
+        "duree": 11,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 131549,
+        "ordre": 4,
+        "idSeance": 33029,
+        "idCopie": 9448,
+        "duree": 15,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 143184,
+        "ordre": 5
+      },
+      {
+        "idFilm": 116774,
+        "ordre": 6,
+        "idSeance": 33029,
+        "idCopie": 14391,
+        "duree": 12,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
-    ],
-    "mention": "Séance suivie d'une discussion avec Blaise Harrison"
+    ]
   },
   {
     "idCategorie": 2181,
     "typeEvenement": 13,
     "idEvenement": 21487,
     "idSeance": 32572,
-    "dateHeure": "2020-02-10T21:30:00",
+    "dateHeure": "2020-02-10T21:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -301,7 +313,7 @@
         "duree": 22,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143203,
@@ -320,7 +332,7 @@
         "idCopie": 20104,
         "duree": 21,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 1
       },
       {
@@ -350,7 +362,7 @@
     "idCategorie": 2172,
     "typeEvenement": 13,
     "idEvenement": 21454,
-    "idSeance": 32615,
+    "idSeance": 33030,
     "dateHeure": "2020-02-17T19:00:00",
     "idSalle": [
       "JE",
@@ -360,12 +372,12 @@
       {
         "idFilm": 140933,
         "ordre": 1,
-        "idSeance": 32615,
+        "idSeance": 33030,
         "idCopie": 20047,
         "duree": 88,
-        "version": "VF",
+        "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ],
     "mention": "Séance suivie d'une discussion avec Judith Davis"
@@ -374,8 +386,8 @@
     "idCategorie": 2172,
     "typeEvenement": 13,
     "idEvenement": 21515,
-    "idSeance": 33021,
-    "dateHeure": "2020-02-17T21:30:00",
+    "idSeance": 33031,
+    "dateHeure": "2020-02-17T21:15:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -384,7 +396,7 @@
       {
         "idFilm": 34786,
         "ordre": 1,
-        "idSeance": 33021,
+        "idSeance": 33031,
         "idCopie": 20137,
         "duree": 115,
         "version": "VOSTF",
@@ -398,17 +410,17 @@
     "idCategorie": 2183,
     "typeEvenement": 13,
     "idEvenement": 21510,
-    "idSeance": 33008,
+    "idSeance": 33033,
     "dateHeure": "2020-02-24T19:00:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
         "idFilm": 143205,
         "ordre": 1,
-        "idSeance": 33008,
+        "idSeance": 33033,
         "idCopie": 20122,
         "duree": 9,
         "version": "",
@@ -418,7 +430,7 @@
       {
         "idFilm": 143185,
         "ordre": 2,
-        "idSeance": 33008,
+        "idSeance": 33033,
         "idCopie": 20107,
         "duree": 17,
         "version": "",
@@ -428,7 +440,7 @@
       {
         "idFilm": 143186,
         "ordre": 3,
-        "idSeance": 33008,
+        "idSeance": 33033,
         "idCopie": 20108,
         "duree": 14,
         "version": "",
@@ -438,7 +450,7 @@
       {
         "idFilm": 143187,
         "ordre": 4,
-        "idSeance": 33008,
+        "idSeance": 33033,
         "idCopie": 20109,
         "duree": 13,
         "version": "",
@@ -448,7 +460,7 @@
       {
         "idFilm": 143206,
         "ordre": 5,
-        "idSeance": 33008,
+        "idSeance": 33033,
         "idCopie": 20123,
         "duree": 4,
         "version": "",
@@ -458,7 +470,7 @@
       {
         "idFilm": 143189,
         "ordre": 6,
-        "idSeance": 33008,
+        "idSeance": 33033,
         "idCopie": 20110,
         "duree": 15,
         "version": "",
@@ -468,7 +480,7 @@
       {
         "idFilm": 143198,
         "ordre": 7,
-        "idSeance": 33008,
+        "idSeance": 33033,
         "idCopie": 20115,
         "duree": 7,
         "version": "",
@@ -478,7 +490,7 @@
       {
         "idFilm": 143200,
         "ordre": 8,
-        "idSeance": 33008,
+        "idSeance": 33033,
         "idCopie": 20113,
         "duree": 5,
         "version": "",
@@ -488,31 +500,40 @@
       {
         "idFilm": 143197,
         "ordre": 9,
-        "idSeance": 33008,
+        "idSeance": 33033,
         "idCopie": 20114,
         "duree": 14,
         "version": "",
         "format": "DCP",
         "valide": 0
       }
-    ],
-    "mention": "Séance présentée par Francis Gavelle"
+    ]
   },
   {
     "idCategorie": 2196,
     "typeEvenement": 13,
-    "idEvenement": 21511,
-    "idSeance": 33007,
+    "idEvenement": 21598,
+    "idSeance": 33032,
     "dateHeure": "2020-02-24T21:15:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
-        "idFilm": 139440,
+        "idFilm": 143275,
         "ordre": 1,
-        "idSeance": 33007,
+        "idSeance": 33032,
+        "idCopie": 20164,
+        "duree": 15,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 139440,
+        "ordre": 2,
+        "idSeance": 33032,
         "idCopie": 20124,
         "duree": 103,
         "version": "VOSTF",

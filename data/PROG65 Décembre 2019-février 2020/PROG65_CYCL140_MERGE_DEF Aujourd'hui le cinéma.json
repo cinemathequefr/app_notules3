@@ -7,12 +7,12 @@
         {
           "idSeance": 32142,
           "ordre": 1,
-          "dateHeure": "2019-12-02T20:30:00",
+          "dateHeure": "2019-12-02T19:30:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
-          "mention": "Séance suivie d'une discussion avec Gabriel Martins et Marilio Martins",
+          "mention": "Avant-première. Séance suivie d'une discussion avec Gabriel Martins et Maurílio Martins",
           "idCategorie": 2191,
           "idEvenement": 21484,
           "typeEvenement": 13,
@@ -59,12 +59,12 @@
         {
           "idSeance": 32825,
           "ordre": 1,
-          "dateHeure": "2019-12-16T20:00:00",
+          "dateHeure": "2019-12-16T19:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
-          "mention": "Séance suivie d'une discussion avec Suhaib Gasmelbari",
+          "mention": "Avant-première. Séance suivie d'une discussion avec Suhaib Gasmelbari",
           "idCategorie": 2156,
           "idEvenement": 21418,
           "typeEvenement": 13,
@@ -185,11 +185,12 @@
         {
           "idSeance": 32400,
           "ordre": 1,
-          "dateHeure": "2020-01-13T20:00:00",
+          "dateHeure": "2020-01-13T19:30:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
+          "mention": "Avant-première. Séance suivie d'une discussion avec Jayro Bustamante. Séance présentée par Jayro Bustamante",
           "idCategorie": 2171,
           "idEvenement": 21453,
           "typeEvenement": 13,
@@ -224,16 +225,15 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 32443,
-          "ordre": 5,
-          "dateHeure": "2020-01-20T19:00:00",
+          "idSeance": 33029,
+          "ordre": 3,
+          "dateHeure": "2020-02-10T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
-          "mention": "Séance présentée par Stéphane Kahn",
           "idCategorie": 2182,
-          "idEvenement": 21492,
+          "idEvenement": 21556,
           "typeEvenement": 13,
           "idFilm": 63701,
           "art": "L'",
@@ -254,16 +254,15 @@
           ]
         },
         {
-          "idSeance": 32443,
-          "ordre": 1,
-          "dateHeure": "2020-01-20T19:00:00",
+          "idSeance": 33029,
+          "ordre": 6,
+          "dateHeure": "2020-02-10T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
-          "mention": "Séance présentée par Stéphane Kahn",
           "idCategorie": 2182,
-          "idEvenement": 21492,
+          "idEvenement": 21556,
           "typeEvenement": 13,
           "idFilm": 116774,
           "titre": "Ce n'est pas un film de cow-boys",
@@ -287,16 +286,47 @@
           ]
         },
         {
-          "idSeance": 32443,
-          "ordre": 2,
-          "dateHeure": "2020-01-20T19:00:00",
+          "idSeance": 33029,
+          "ordre": 1,
+          "dateHeure": "2020-02-10T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
-          "mention": "Séance présentée par Stéphane Kahn",
           "idCategorie": 2182,
-          "idEvenement": 21492,
+          "idEvenement": 21556,
+          "typeEvenement": 13,
+          "idFilm": 143274,
+          "titre": "Dans la jungle des villes",
+          "titreVo": "",
+          "realisateurs": "Stéphane Demoustier",
+          "annee": 2010,
+          "pays": "France",
+          "duree": 29,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Denis Eyriey",
+            "Anaïs Demoustier"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jérôme habite depuis peu à Paris et croit trouver en Jean un nouvel ami. Quand celui-ci prend ses distances, Jérôme reporte ses élans sur Laura, l'amie de Jean."
+            }
+          ]
+        },
+        {
+          "idSeance": 33029,
+          "ordre": 4,
+          "dateHeure": "2020-02-10T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2182,
+          "idEvenement": 21556,
           "typeEvenement": 13,
           "idFilm": 131549,
           "art": "L'",
@@ -321,16 +351,15 @@
           ]
         },
         {
-          "idSeance": 32443,
-          "ordre": 4,
-          "dateHeure": "2020-01-20T19:00:00",
+          "idSeance": 33029,
+          "ordre": 2,
+          "dateHeure": "2020-02-10T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
-          "mention": "Séance présentée par Stéphane Kahn",
           "idCategorie": 2182,
-          "idEvenement": 21492,
+          "idEvenement": 21556,
           "typeEvenement": 13,
           "idFilm": 104738,
           "titre": "Il fait beau dans la plus belle ville du monde",
@@ -354,16 +383,15 @@
           ]
         },
         {
-          "idSeance": 32443,
-          "ordre": 3,
-          "dateHeure": "2020-01-20T19:00:00",
+          "idSeance": 33029,
+          "ordre": 5,
+          "dateHeure": "2020-02-10T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
-          "mention": "Séance présentée par Stéphane Kahn",
           "idCategorie": 2182,
-          "idEvenement": 21492,
+          "idEvenement": 21556,
           "typeEvenement": 13,
           "idFilm": 143184,
           "titre": "Poupée",
@@ -421,7 +449,7 @@
           "realisateurs": "Daniel Schmid",
           "annee": 1983,
           "pays": "Suisse",
-          "duree": 0,
+          "duree": 63,
           "version": "VOSTF",
           "format": "DCP",
           "ageMinimal": null,
@@ -540,7 +568,7 @@
           "annee": 1966,
           "pays": "États-Unis-Grande-Bretagne",
           "duree": 94,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -568,14 +596,13 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 33006,
+          "idSeance": 33028,
           "ordre": 1,
-          "dateHeure": "2020-02-10T19:00:00",
+          "dateHeure": "2020-01-20T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
-          "mention": "Séance suivie d'une discussion avec Blaise Harrison",
           "idCategorie": 2170,
           "idEvenement": 21452,
           "typeEvenement": 13,
@@ -617,7 +644,7 @@
         {
           "idSeance": 32572,
           "ordre": 3,
-          "dateHeure": "2020-02-10T21:30:00",
+          "dateHeure": "2020-02-10T21:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -635,7 +662,7 @@
           "pays": "Grande-Bretagne-Japon-Allemagne",
           "duree": 21,
           "version": "VOSTF",
-          "format": "DCP",
+          "format": "35 mm",
           "ageMinimal": null,
           "textes": [
             {
@@ -651,7 +678,7 @@
         {
           "idSeance": 32572,
           "ordre": 4,
-          "dateHeure": "2020-02-10T21:30:00",
+          "dateHeure": "2020-02-10T21:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -680,7 +707,7 @@
         {
           "idSeance": 32572,
           "ordre": 5,
-          "dateHeure": "2020-02-10T21:30:00",
+          "dateHeure": "2020-02-10T21:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -709,7 +736,7 @@
         {
           "idSeance": 32572,
           "ordre": 2,
-          "dateHeure": "2020-02-10T21:30:00",
+          "dateHeure": "2020-02-10T21:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -738,7 +765,7 @@
         {
           "idSeance": 32572,
           "ordre": 1,
-          "dateHeure": "2020-02-10T21:30:00",
+          "dateHeure": "2020-02-10T21:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -777,7 +804,7 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 32615,
+          "idSeance": 33030,
           "ordre": 1,
           "dateHeure": "2020-02-17T19:00:00",
           "idSalle": [
@@ -795,7 +822,7 @@
           "annee": 2017,
           "pays": "France",
           "duree": 88,
-          "version": "VF",
+          "version": "",
           "format": "DCP",
           "ageMinimal": null,
           "generique": [
@@ -811,9 +838,9 @@
           ]
         },
         {
-          "idSeance": 33021,
+          "idSeance": 33031,
           "ordre": 1,
-          "dateHeure": "2020-02-17T21:30:00",
+          "dateHeure": "2020-02-17T21:15:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -858,14 +885,13 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 33008,
+          "idSeance": 33033,
           "ordre": 5,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
-          "mention": "Séance présentée par Francis Gavelle",
           "idCategorie": 2183,
           "idEvenement": 21510,
           "typeEvenement": 13,
@@ -887,14 +913,13 @@
           ]
         },
         {
-          "idSeance": 33008,
+          "idSeance": 33033,
           "ordre": 2,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
-          "mention": "Séance présentée par Francis Gavelle",
           "idCategorie": 2183,
           "idEvenement": 21510,
           "typeEvenement": 13,
@@ -916,14 +941,13 @@
           ]
         },
         {
-          "idSeance": 33008,
+          "idSeance": 33033,
           "ordre": 8,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
-          "mention": "Séance présentée par Francis Gavelle",
           "idCategorie": 2183,
           "idEvenement": 21510,
           "typeEvenement": 13,
@@ -945,14 +969,13 @@
           ]
         },
         {
-          "idSeance": 33008,
+          "idSeance": 33033,
           "ordre": 3,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
-          "mention": "Séance présentée par Francis Gavelle",
           "idCategorie": 2183,
           "idEvenement": 21510,
           "typeEvenement": 13,
@@ -969,14 +992,13 @@
           "textes": []
         },
         {
-          "idSeance": 33008,
+          "idSeance": 33033,
           "ordre": 1,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
-          "mention": "Séance présentée par Francis Gavelle",
           "idCategorie": 2183,
           "idEvenement": 21510,
           "typeEvenement": 13,
@@ -998,14 +1020,13 @@
           ]
         },
         {
-          "idSeance": 33008,
+          "idSeance": 33033,
           "ordre": 9,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
-          "mention": "Séance présentée par Francis Gavelle",
           "idCategorie": 2183,
           "idEvenement": 21510,
           "typeEvenement": 13,
@@ -1027,14 +1048,13 @@
           ]
         },
         {
-          "idSeance": 33008,
+          "idSeance": 33033,
           "ordre": 6,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
-          "mention": "Séance présentée par Francis Gavelle",
           "idCategorie": 2183,
           "idEvenement": 21510,
           "typeEvenement": 13,
@@ -1056,14 +1076,13 @@
           ]
         },
         {
-          "idSeance": 33008,
+          "idSeance": 33033,
           "ordre": 7,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
-          "mention": "Séance présentée par Francis Gavelle",
           "idCategorie": 2183,
           "idEvenement": 21510,
           "typeEvenement": 13,
@@ -1085,14 +1104,13 @@
           ]
         },
         {
-          "idSeance": 33008,
+          "idSeance": 33033,
           "ordre": 4,
           "dateHeure": "2020-02-24T19:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
-          "mention": "Séance présentée par Francis Gavelle",
           "idCategorie": 2183,
           "idEvenement": 21510,
           "typeEvenement": 13,
@@ -1126,15 +1144,43 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 33007,
+          "idSeance": 33032,
           "ordre": 1,
           "dateHeure": "2020-02-24T21:15:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
           "idCategorie": 2196,
-          "idEvenement": 21511,
+          "idEvenement": 21598,
+          "typeEvenement": 13,
+          "idFilm": 143275,
+          "titre": "Mon juke-box",
+          "titreVo": "",
+          "realisateurs": "Florentine Grelier",
+          "annee": 2019,
+          "pays": "France",
+          "duree": 15,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "« J'ai entendu une musique par hasard, l'autre jour. Un vieux titre de rock'n'roll. Ça me dit quelque chose. C'est sûrement un morceau qui passait sur une des machines infernales de mon père, l'aventurier, l'homme aux mille vies, le roi du juke-box. »"
+            }
+          ]
+        },
+        {
+          "idSeance": 33032,
+          "ordre": 2,
+          "dateHeure": "2020-02-24T21:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2196,
+          "idEvenement": 21598,
           "typeEvenement": 13,
           "idFilm": 139440,
           "art": "Le",
